@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mesprit\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"support\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"psychic\", \"ice beam\", \"uturn\", \"calm mind\", \"stealth rock\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"life orb\", \"colbur berry\"],\n    \"summary\": \"versatile psychic-type legendary with balanced stats, capable of supporting teams or sweeping after setup.\"\n}\n```"
+}

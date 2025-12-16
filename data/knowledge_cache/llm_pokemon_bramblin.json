@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bramblin\",\n    \"types\": [\"grass\", \"ghost\"],\n    \"roles\": [\"setup sweeper\", \"hazard setter\"],\n    \"notable_moves\": [\"strength sap\", \"spikes\", \"shadow sneak\", \"bullet seed\"],\n    \"abilities\": [\"wind rider\", \"infiltrator\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"a rolling tumbleweed pok\u00e9mon that sets hazards and heals with strength sap, using wind rider to gain attack boosts from wind moves.\"\n}\n```"
+}

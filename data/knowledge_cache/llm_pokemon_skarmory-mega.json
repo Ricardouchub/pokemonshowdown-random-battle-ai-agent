@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"skarmory-mega\",\n    \"types\": [\"steel\", \"flying\"],\n    \"roles\": [\"physical-wall\", \"hazard-setter\", \"defensive-pivot\"],\n    \"notable_moves\": [\"roost\", \"spikes\", \"brave-bird\", \"whirlwind\"],\n    \"abilities\": [\"keen-eye\"],\n    \"common_items\": [\"skarmorite\"],\n    \"summary\": \"enhanced defensive steel-flying wall with improved bulk, excels at setting hazards and phazing opponents.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"magby\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"flamethrower\", \"psychic\", \"thunderbolt\", \"fire-blast\"],\n    \"abilities\": [\"flame-body\", \"vital-spirit\"],\n    \"common_items\": [\"life-orb\", \"choice-specs\"],\n    \"summary\": \"a pre-evolution fire-type with high special attack, used as an early-game special sweeper with coverage moves.\"\n}\n```"
+}

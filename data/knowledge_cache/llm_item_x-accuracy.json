@@ -1,0 +1,8 @@
+{
+  "item": "X Accuracy",
+  "category": "Battle Item",
+  "summary": "Sharply raises the user's accuracy stat by one stage for the duration of the battle.",
+  "typical_users": [
+    "Pok\u00e9mon relying on low-accuracy moves like Dynamic Punch, Zap Cannon, or Hypnosis"
+  ]
+}

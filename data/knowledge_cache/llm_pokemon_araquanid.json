@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"araquanid\",\n    \"types\": [\"water\", \"bug\"],\n    \"roles\": [\"wall\", \"support\", \"sticky web setter\"],\n    \"notable_moves\": [\"liquidation\", \"leech life\", \"sticky web\", \"mirror coat\", \"toxic\"],\n    \"abilities\": [\"water bubble\", \"water absorb\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"rocky helmet\"],\n    \"summary\": \"bulky water/bug spider with water bubble boosting water moves and halving fire damage. excels at setting sticky web and walling physical attackers.\"\n}\n```"
+}

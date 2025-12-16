@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"koraidon-swimming-build\",\n    \"types\": [\"fighting\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"collision-course\", \"dragon-claw\", \"drain-punch\", \"swords-dance\"],\n    \"abilities\": [\"orichalcum-pulse\"],\n    \"common_items\": [\"booster-energy\", \"life-orb\"],\n    \"summary\": \"a powerful physical attacker that uses its signature ability to boost attack and set sun, often running swords dance to break through defensive cores.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"drednaw\",\n    \"types\": [\"water\", \"rock\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\", \"stealth rock setter\"],\n    \"notable_moves\": [\"liquidation\", \"stone edge\", \"earthquake\", \"shell smash\", \"stealth rock\"],\n    \"abilities\": [\"strong jaw\", \"shell armor\", \"swift swim\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"focus sash\"],\n    \"summary\": \"a bulky water-rock turtle with strong physical attacks and setup potential via shell smash, often used to break walls or sweep.\"\n}\n```"
+}

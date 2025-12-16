@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"plusle\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"support\", \"special attacker\"],\n    \"notable_moves\": [\"nuzzle\", \"encore\", \"thunderbolt\", \"helping hand\"],\n    \"abilities\": [\"plus\", \"lightning rod\"],\n    \"common_items\": [\"light clay\", \"focus sash\"],\n    \"summary\": \"cheerleading electric-type that supports allies with paralysis and stat boosts.\"\n}\n```"
+}

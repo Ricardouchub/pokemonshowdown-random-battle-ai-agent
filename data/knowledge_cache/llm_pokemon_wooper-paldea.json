@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wooper-paldea\",\n    \"types\": [\"poison\", \"ground\"],\n    \"roles\": [\"bulky attacker\", \"hazard setter\", \"status spreader\"],\n    \"notable_moves\": [\"toxic\", \"earthquake\", \"recover\", \"stealth rock\", \"poison jab\"],\n    \"abilities\": [\"poison point\", \"water absorb\", \"unaware\"],\n    \"common_items\": [\"leftovers\", \"black sludge\", \"rocky helmet\"],\n    \"summary\": \"paldean wooper trades water for poison typing, gaining key resistances and toxic immunity. functions as a durable physical wall with reliable recovery, hazard setting, and status utility.\"\n}\n```"
+}

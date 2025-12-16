@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"electrode\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast attacker\", \"lead\", \"hazard setter\"],\n    \"notable_moves\": [\"volt switch\", \"thunderbolt\", \"taunt\", \"explosion\"],\n    \"abilities\": [\"soundproof\", \"static\", \"aftermath\"],\n    \"common_items\": [\"focus sash\", \"choice scarf\", \"air balloon\"],\n    \"summary\": \"extremely fast electric-type known for explosive plays, often used as a lead to set hazards or disrupt opponents.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"trevenant\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"hazard setter\"],\n    \"notable_moves\": [\"poltergeist\", \"horn leech\", \"trick room\", \"wood hammer\"],\n    \"abilities\": [\"natural cure\", \"harvest\"],\n    \"common_items\": [\"sitrus berry\", \"choice band\", \"leftovers\"],\n    \"summary\": \"bulky ghost-grass type that excels in trick room teams, using harvest for longevity or natural cure for status removal.\"\n}\n```"
+}

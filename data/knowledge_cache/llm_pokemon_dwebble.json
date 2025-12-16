@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dwebble\",\n    \"types\": [\"bug\", \"rock\"],\n    \"roles\": [\"hazard setter\", \"shell smasher\", \"lead\"],\n    \"notable_moves\": [\"stealth rock\", \"shell smash\", \"rock blast\", \"x-scissor\"],\n    \"abilities\": [\"sturdy\", \"shell armor\", \"weak armor\"],\n    \"common_items\": [\"focus sash\", \"eviolite\", \"mental herb\"],\n    \"summary\": \"a small rock-bug pok\u00e9mon that uses its sturdy shell for defense and can become an offensive threat after shell smash.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"exeggcute\",\n    \"types\": [\"grass\", \"psychic\"],\n    \"roles\": [\"trick room setter\", \"sleep inducer\", \"utility\"],\n    \"notable_moves\": [\"sleep powder\", \"trick room\", \"giga drain\", \"psychic\", \"explosion\"],\n    \"abilities\": [\"chlorophyll\", \"harvest\"],\n    \"common_items\": [\"mental herb\", \"sitrus berry\", \"grassy seed\"],\n    \"summary\": \"a cluster of psychic eggs that spreads sleep and sets trick room, often using harvest for berry recovery.\"\n}\n```"
+}

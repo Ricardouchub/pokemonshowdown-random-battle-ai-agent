@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"beheeyem\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"trick room setter\", \"special attacker\", \"support\"],\n    \"notable_moves\": [\"psychic\", \"trick room\", \"nasty plot\", \"recover\", \"thunderbolt\"],\n    \"abilities\": [\"telepathy\", \"synchronize\", \"analytic\"],\n    \"common_items\": [\"life orb\", \"leftovers\", \"focus sash\"],\n    \"summary\": \"slow psychic-type known for setting trick room and hitting hard with analytic-boosted special attacks.\"\n}\n```"
+}

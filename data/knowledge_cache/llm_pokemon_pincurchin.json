@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pincurchin\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"hazard setter\", \"electric terrain setter\", \"wallbreaker\"],\n    \"notable_moves\": [\"zing zap\", \"rising voltage\", \"spikes\", \"recover\", \"sucker punch\"],\n    \"abilities\": [\"lightning rod\", \"electric surge\"],\n    \"common_items\": [\"terrain extender\", \"leftovers\", \"air balloon\"],\n    \"summary\": \"slow electric-type that sets electric terrain and hazards, with strong electric attacks under terrain.\"\n}\n```"
+}

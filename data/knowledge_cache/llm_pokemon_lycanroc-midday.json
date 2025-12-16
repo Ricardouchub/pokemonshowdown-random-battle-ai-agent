@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lycanroc-midday\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"accelerock\", \"stone edge\", \"close combat\", \"swords dance\"],\n    \"abilities\": [\"keen eye\", \"sand rush\", \"steadfast\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice band\"],\n    \"summary\": \"fast rock-type attacker with priority accelerock, excels at revenge killing and late-game sweeping.\"\n}\n```"
+}

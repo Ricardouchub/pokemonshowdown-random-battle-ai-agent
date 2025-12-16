@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"corphish\",\n    \"types\": [\"water\"],\n    \"roles\": [\"physical attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"crabhammer\", \"aqua jet\", \"swords dance\", \"knock off\"],\n    \"abilities\": [\"hyper cutter\", \"shell armor\", \"adaptability\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"eviolite\"],\n    \"summary\": \"a physical water-type attacker with adaptability-boosted moves, often using swords dance or choice band to hit hard.\"\n}\n```"
+}

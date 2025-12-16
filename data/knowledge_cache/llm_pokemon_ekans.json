@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ekans\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"early-game attacker\", \"status spreader\"],\n    \"notable_moves\": [\"poison sting\", \"wrap\", \"glare\", \"acid\"],\n    \"abilities\": [\"intimidate\", \"shed skin\", \"unnerve\"],\n    \"common_items\": [\"black sludge\", \"berry juice\"],\n    \"summary\": \"a basic poison-type snake pok\u00e9mon known for constriction and poisoning foes, often used early in games.\"\n}\n```"
+}

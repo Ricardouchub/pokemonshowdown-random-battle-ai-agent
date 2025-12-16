@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikipek\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"early-game attacker\", \"scout\"],\n    \"notable_moves\": [\"bullet seed\", \"rock blast\", \"brick break\", \"drill peck\"],\n    \"abilities\": [\"keen eye\", \"skill link\", \"pickup\"],\n    \"common_items\": [\"berry juice\", \"sharp beak\"],\n    \"summary\": \"early-game normal/flying type with skill link multi-hit moves and decent coverage.\"\n}\n```"
+}

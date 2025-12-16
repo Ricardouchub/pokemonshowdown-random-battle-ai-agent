@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gible\",\n    \"types\": [\"dragon\", \"ground\"],\n    \"roles\": [\"physical sweeper\", \"setup sweeper\"],\n    \"notable_moves\": [\"earthquake\", \"outrage\", \"dragon claw\", \"swords dance\"],\n    \"abilities\": [\"sand veil\", \"rough skin\"],\n    \"common_items\": [\"eviolite\", \"berry juice\"],\n    \"summary\": \"early-game dragon with strong offensive potential but poor defenses; evolves into powerful pseudo-legendary line.\"\n}\n```"
+}

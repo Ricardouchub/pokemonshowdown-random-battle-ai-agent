@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grookey\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"physical sweeper\", \"setup sweeper\"],\n    \"notable_moves\": [\"grassy glide\", \"wood hammer\", \"knock off\", \"uturn\", \"swords dance\"],\n    \"abilities\": [\"overgrow\", \"grassy surge\"],\n    \"common_items\": [\"choice band\", \"grassy seed\", \"life orb\"],\n    \"summary\": \"a physical grass-type attacker that sets grassy terrain, enabling priority grassy glide sweeps.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grimmsnarl\",\n    \"types\": [\"dark\", \"fairy\"],\n    \"roles\": [\"bulky attacker\", \"pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"spirit break\", \"sucker punch\", \"parting shot\", \"taunt\"],\n    \"abilities\": [\"prankster\", \"frisk\", \"pickpocket\"],\n    \"common_items\": [\"leftovers\", \"assault vest\", \"light clay\"],\n    \"summary\": \"a physical attacker with prankster utility, using its unique typing for defensive pivoting and disruption.\"\n}\n```"
+}

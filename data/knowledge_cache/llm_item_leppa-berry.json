@@ -1,0 +1,10 @@
+{
+  "item": "Leppa Berry",
+  "category": "Consumable / Recovery",
+  "summary": "Restores 10 PP to a move when its PP reaches 0, consumed upon use.",
+  "typical_users": [
+    "Stall or defensive Pok\u00e9mon (e.g., Blissey, Toxapex)",
+    "Pok\u00e9mon with low-PP but crucial moves (e.g., Roar, Whirlwind users)",
+    "Some niche strategies to counter PP-stall or in endless battles"
+  ]
+}

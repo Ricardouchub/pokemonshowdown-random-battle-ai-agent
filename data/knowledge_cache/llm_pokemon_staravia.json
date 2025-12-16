@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"staravia\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"offensive pivot\", \"revenge killer\", \"scout\"],\n    \"notable_moves\": [\"brave bird\", \"u-turn\", \"close combat\", \"roost\"],\n    \"abilities\": [\"intimidate\", \"reckless\"],\n    \"common_items\": [\"choice scarf\", \"choice band\", \"eviolite\"],\n    \"summary\": \"mid-evolution bird with strong offensive pressure and pivoting utility via intimidate and u-turn.\"\n}\n```"
+}

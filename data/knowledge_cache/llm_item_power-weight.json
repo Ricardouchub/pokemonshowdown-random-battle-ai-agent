@@ -1,0 +1,8 @@
+{
+  "item": "Power Weight",
+  "category": "EV Training",
+  "summary": "Held item that boosts HP EVs gained in battle by 8, but lowers the holder's Speed in battle.",
+  "typical_users": [
+    "Pok\u00e9mon needing max HP EVs for bulk, e.g., Blissey, Toxapex, Snorlax"
+  ]
+}

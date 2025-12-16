@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"weezing-galar\",\n    \"types\": [\"poison\", \"fairy\"],\n    \"roles\": [\"defensive-wall\", \"hazard-setter\", \"status-spreader\"],\n    \"notable_moves\": [\"strange-steam\", \"defog\", \"will-o-wisp\", \"pain-split\", \"toxic-spikes\"],\n    \"abilities\": [\"levitate\", \"neutralizing-gas\", \"misty-surge\"],\n    \"common_items\": [\"black-sludge\", \"heavy-duty-boots\"],\n    \"summary\": \"a regional variant with unique poison/fairy typing, excels as a defensive pivot and hazard controller, often utilizing misty surge for terrain control.\"\n}\n```"
+}

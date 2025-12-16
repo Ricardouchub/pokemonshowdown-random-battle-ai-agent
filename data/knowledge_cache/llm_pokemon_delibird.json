@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"delibird\",\n    \"types\": [\"ice\", \"flying\"],\n    \"roles\": [\"hazard setter\", \"fast support\"],\n    \"notable_moves\": [\"spikes\", \"rapid spin\", \"destiny bond\", \"icy wind\"],\n    \"abilities\": [\"vital spirit\", \"hustle\", \"insomnia\"],\n    \"common_items\": [\"focus sash\", \"heavy-duty boots\"],\n    \"summary\": \"fast but frail utility pok\u00e9mon known for setting hazards and spinning them away, with poor offensive presence.\"\n}\n```"
+}

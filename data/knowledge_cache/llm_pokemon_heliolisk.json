@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"heliolisk\",\n    \"types\": [\"electric\", \"normal\"],\n    \"roles\": [\"special sweeper\", \"weather abuser\", \"pivot\"],\n    \"notable_moves\": [\"thunderbolt\", \"hyper voice\", \"voltswitch\", \"surf\", \"weather ball\"],\n    \"abilities\": [\"dry skin\", \"sand veil\", \"solar power\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"focus sash\"],\n    \"summary\": \"fast electric-type special attacker that excels in sun teams with solar power, or as a pivot with dry skin and volt switch.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"emboar-mega\",\n    \"types\": [\"fire\", \"fighting\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"flare blitz\", \"close combat\", \"sucker punch\", \"wild charge\"],\n    \"abilities\": [\"reckless\"],\n    \"common_items\": [\"emboarite\"],\n    \"summary\": \"mega evolution with reckless boosts recoil moves, making it a powerful but self-damaging physical attacker.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"genesect\",\n    \"types\": [\"bug\", \"steel\"],\n    \"roles\": [\"choice attacker\", \"revenge killer\", \"late-game cleaner\"],\n    \"notable_moves\": [\"u-turn\", \"techno blast\", \"iron head\", \"blaze kick\", \"ice beam\"],\n    \"abilities\": [\"download\"],\n    \"common_items\": [\"choice scarf\", \"choice band\", \"life orb\"],\n    \"summary\": \"versatile bug/steel attacker with strong coverage and download ability to boost offenses.\"\n}\n```"
+}

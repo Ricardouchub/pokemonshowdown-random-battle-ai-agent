@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"metagross\",\n    \"types\": [\"steel\", \"psychic\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"meteor mash\", \"zen headbutt\", \"earthquake\", \"ice punch\", \"agility\"],\n    \"abilities\": [\"clear body\", \"light metal\"],\n    \"common_items\": [\"assault vest\", \"choice band\", \"weakness policy\"],\n    \"summary\": \"pseudo-legendary with immense bulk and power, excels as a bulky attacker or agility sweeper.\"\n}\n```"
+}

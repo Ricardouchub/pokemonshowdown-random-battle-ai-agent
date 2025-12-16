@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"huntail\",\n    \"types\": [\"water\"],\n    \"roles\": [\"physical attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"waterfall\", \"ice beam\", \"sucker punch\", \"crunch\"],\n    \"abilities\": [\"swift swim\", \"water veil\"],\n    \"common_items\": [\"life orb\", \"choice band\"],\n    \"summary\": \"deep-sea predator with strong physical attacks, often used as a rain sweeper or wallbreaker.\"\n}\n```"
+}

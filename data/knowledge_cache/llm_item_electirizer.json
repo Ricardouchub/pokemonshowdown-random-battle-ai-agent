@@ -1,0 +1,9 @@
+{
+  "item": "Electirizer",
+  "category": "Evolutionary Item",
+  "summary": "Held item that causes Electabuzz to evolve into Electivire when traded.",
+  "typical_users": [
+    "Electabuzz (for evolution)",
+    "Electivire (post-evolution, sometimes held for niche strategies like Fling or Trick)"
+  ]
+}

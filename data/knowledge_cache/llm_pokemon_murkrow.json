@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"murkrow\",\n    \"types\": [\"dark\", \"flying\"],\n    \"roles\": [\"pivot\", \"status-spreader\", \"hazard-setter\"],\n    \"notable_moves\": [\"foul play\", \"thunder wave\", \"taunt\", \"brave bird\", \"roost\"],\n    \"abilities\": [\"insomnia\", \"super luck\", \"prankster\"],\n    \"common_items\": [\"eviolite\", \"heavy-duty boots\"],\n    \"summary\": \"a disruptive support pok\u00e9mon that uses prankster to cripple opponents with priority status moves and taunt, often holding eviolite for bulk.\"\n}\n```"
+}

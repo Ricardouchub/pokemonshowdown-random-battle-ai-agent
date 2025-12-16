@@ -1,0 +1,10 @@
+{
+  "item": "TM20",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Safeguard, which protects the user's side from status conditions for 5 turns.",
+  "typical_users": [
+    "Support Pok\u00e9mon",
+    "Bulky team anchors",
+    "Dedicated leads in formats where status is prevalent"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"golem-alola\",\n    \"types\": [\"rock\", \"electric\"],\n    \"roles\": [\"stealth rock setter\", \"wallbreaker\", \"pivot\"],\n    \"notable_moves\": [\"stone edge\", \"wild charge\", \"earthquake\", \"stealth rock\", \"explosion\"],\n    \"abilities\": [\"magnet pull\", \"sturdy\", \"galvanize\"],\n    \"common_items\": [\"choice band\", \"air balloon\", \"focus sash\"],\n    \"summary\": \"alolan variant with unique rock/electric typing and galvanize ability, functioning as a trapper and offensive pivot with explosion.\"\n}\n```"
+}

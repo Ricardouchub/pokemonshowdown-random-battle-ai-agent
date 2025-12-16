@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"remoraid\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special-attacker\", \"support\"],\n    \"notable_moves\": [\"water-gun\", \"flamethrower\", \"ice-beam\", \"rock-blast\"],\n    \"abilities\": [\"hustle\", \"sniper\", \"moody\"],\n    \"common_items\": [\"choice-specs\", \"life-orb\"],\n    \"summary\": \"a small water-type pok\u00e9mon known for its cannon-like design and diverse special movepool, often used as a surprise attacker with coverage moves.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"raticate-alola\",\n    \"types\": [\"dark\", \"normal\"],\n    \"roles\": [\"wallbreaker\", \"revenge killer\", \"priority user\"],\n    \"notable_moves\": [\"sucker punch\", \"double-edge\", \"swords dance\", \"uturn\"],\n    \"abilities\": [\"gluttony\", \"hustle\", \"thick fat\"],\n    \"common_items\": [\"figy berry\", \"life orb\", \"choice band\"],\n    \"summary\": \"alolan raticate trades speed for bulk and power, using sucker punch for priority and gluttony with figy berry for recovery. functions as a dark-type wallbreaker with strong priority.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"yanma\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"speed control\", \"scout\", \"early-game pivot\"],\n    \"notable_moves\": [\"hypnosis\", \"detect\", \"air slash\", \"uturn\"],\n    \"abilities\": [\"speed boost\", \"compoundeyes\", \"frisk\"],\n    \"common_items\": [\"focus sash\", \"choice scarf\", \"life orb\"],\n    \"summary\": \"fast bug/flying type with speed boost ability, known for hypnosis support and scouting with u-turn.\"\n}\n```"
+}

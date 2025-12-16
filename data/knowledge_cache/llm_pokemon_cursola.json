@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cursola\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"special wallbreaker\", \"trick room sweeper\"],\n    \"notable_moves\": [\"shadow ball\", \"earth power\", \"giga drain\", \"ice beam\", \"strength sap\"],\n    \"abilities\": [\"weak armor\", \"perish body\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"life orb\"],\n    \"summary\": \"high special attack ghost-type with strong coverage and recovery, but extremely low physical defense and speed.\"\n}\n```"
+}

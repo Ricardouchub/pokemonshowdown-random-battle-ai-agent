@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-kalos-cap\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special-attacker\", \"fast-sweeper\"],\n    \"notable_moves\": [\"thunderbolt\", \"volttackle\", \"grass-knot\", \"hidden-power-ice\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\"],\n    \"summary\": \"a special pikachu variant with a kalos cap, known for its high special attack with light ball and unique cosmetic appearance.\"\n}\n```"
+}

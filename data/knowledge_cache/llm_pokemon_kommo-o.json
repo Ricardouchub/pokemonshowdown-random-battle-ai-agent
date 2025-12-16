@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kommo-o\",\n    \"types\": [\"dragon\", \"fighting\"],\n    \"roles\": [\"special wallbreaker\", \"dragon dancer\", \"clangorous soul sweeper\"],\n    \"notable_moves\": [\"clanging scales\", \"close combat\", \"clangorous soul\", \"drain punch\", \"boomburst\"],\n    \"abilities\": [\"bulletproof\", \"soundproof\", \"overcoat\"],\n    \"common_items\": [\"throat spray\", \"leftovers\", \"life orb\"],\n    \"summary\": \"a bulky dragon-fighting type that uses sound-based moves and setup to become a formidable sweeper or wallbreaker.\"\n}\n```"
+}

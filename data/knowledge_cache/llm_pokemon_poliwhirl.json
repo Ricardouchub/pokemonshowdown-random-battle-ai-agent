@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"poliwhirl\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky-water\", \"setup-sweeper\", \"defensive-pivot\"],\n    \"notable_moves\": [\"scald\", \"encore\", \"belly-drum\", \"ice-punch\", \"hypnosis\"],\n    \"abilities\": [\"water-absorb\", \"damp\", \"swift-swim\"],\n    \"common_items\": [\"leftovers\", \"eviolite\", \"life-orb\"],\n    \"summary\": \"a versatile water-type that can function as a defensive pivot with water-absorb or an offensive threat with belly-drum setup, often utilizing eviolite for bulk in lower tiers.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zigzagoon-galar\",\n    \"types\": [\"dark\", \"normal\"],\n    \"roles\": [\"hazard-setter\", \"revenge-killer\", \"early-game-disruptor\"],\n    \"notable_moves\": [\"knock-off\", \"parting-shot\", \"seed-bomb\", \"quick-attack\"],\n    \"abilities\": [\"pickup\", \"gluttony\", \"quick-feet\"],\n    \"common_items\": [\"berry-juice\", \"eviolite\", \"chople-berry\"],\n    \"summary\": \"aggressive early-game dark/normal type with strong utility moves like knock-off and parting shot, often used to disrupt opponents and set up hazards.\"\n}\n```"
+}

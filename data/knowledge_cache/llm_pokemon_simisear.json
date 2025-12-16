@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"simisear\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special sweeper\", \"sun abuser\"],\n    \"notable_moves\": [\"fire blast\", \"grass knot\", \"focus blast\", \"nasty plot\"],\n    \"abilities\": [\"gluttony\", \"blaze\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"focus sash\"],\n    \"summary\": \"a fast fire-type special attacker with access to nasty plot, but suffers from poor defensive typing and movepool limitations.\"\n}\n```"
+}

@@ -1,0 +1,8 @@
+{
+  "item": "Qualot Berry",
+  "category": "Berry",
+  "summary": "When held, cures the holder's confusion. When consumed, lowers the holder's Defense by one stage if its Defense has been raised.",
+  "typical_users": [
+    "Pok\u00e9mon vulnerable to confusion or using moves like Swagger, typically in formats with status-heavy strategies or as a niche counter-pick."
+  ]
+}

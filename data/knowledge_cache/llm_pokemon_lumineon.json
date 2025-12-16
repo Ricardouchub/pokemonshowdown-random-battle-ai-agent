@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lumineon\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special attacker\", \"support\", \"pivot\"],\n    \"notable_moves\": [\"scald\", \"ice beam\", \"uturn\", \"defog\"],\n    \"abilities\": [\"swift swim\", \"storm drain\", \"water veil\"],\n    \"common_items\": [\"leftovers\", \"life orb\", \"damp rock\"],\n    \"summary\": \"a graceful but underwhelming water-type known for its speed in rain and support moves like defog, often outclassed by bulkier or stronger water-types.\"\n}\n```"
+}

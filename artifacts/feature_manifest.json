@@ -1,0 +1,846 @@
+[
+  {
+    "name": "auroraveil_active_opp",
+    "description": ""
+  },
+  {
+    "name": "auroraveil_active_self",
+    "description": ""
+  },
+  {
+    "name": "auroraveil_turns_norm_opp",
+    "description": ""
+  },
+  {
+    "name": "auroraveil_turns_norm_self",
+    "description": ""
+  },
+  {
+    "name": "hazard_pressure_score",
+    "description": ""
+  },
+  {
+    "name": "hazard_spikes_layers_opp",
+    "description": ""
+  },
+  {
+    "name": "hazard_spikes_layers_self",
+    "description": ""
+  },
+  {
+    "name": "hazard_sr_opp",
+    "description": ""
+  },
+  {
+    "name": "hazard_sr_self",
+    "description": ""
+  },
+  {
+    "name": "hazard_tspikes_layers_opp",
+    "description": ""
+  },
+  {
+    "name": "hazard_tspikes_layers_self",
+    "description": ""
+  },
+  {
+    "name": "hazard_web_opp",
+    "description": ""
+  },
+  {
+    "name": "hazard_web_self",
+    "description": ""
+  },
+  {
+    "name": "ko_prob_opp_to_self",
+    "description": ""
+  },
+  {
+    "name": "ko_prob_self_to_opp",
+    "description": ""
+  },
+  {
+    "name": "lightscreen_active_opp",
+    "description": ""
+  },
+  {
+    "name": "lightscreen_active_self",
+    "description": ""
+  },
+  {
+    "name": "lightscreen_turns_norm_opp",
+    "description": ""
+  },
+  {
+    "name": "lightscreen_turns_norm_self",
+    "description": ""
+  },
+  {
+    "name": "num_pokemon_alive_opp",
+    "description": ""
+  },
+  {
+    "name": "num_pokemon_alive_self",
+    "description": ""
+  },
+  {
+    "name": "opp_active_ability_key_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_ability_known",
+    "description": ""
+  },
+  {
+    "name": "opp_active_boost_acc_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_boost_atk_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_boost_def_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_boost_eva_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_boost_spa_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_boost_spd_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_boost_spe_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_confusion",
+    "description": ""
+  },
+  {
+    "name": "opp_active_disable",
+    "description": ""
+  },
+  {
+    "name": "opp_active_dual_type",
+    "description": ""
+  },
+  {
+    "name": "opp_active_encore",
+    "description": ""
+  },
+  {
+    "name": "opp_active_has_hazard_move_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_has_recovery_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_has_removal_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_has_setup_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_has_status_move_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_hp_frac",
+    "description": ""
+  },
+  {
+    "name": "opp_active_is_fainted",
+    "description": ""
+  },
+  {
+    "name": "opp_active_item_boots_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_item_choice_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_item_known",
+    "description": ""
+  },
+  {
+    "name": "opp_active_item_sash_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_active_last_move_known",
+    "description": ""
+  },
+  {
+    "name": "opp_active_leech_seeded",
+    "description": ""
+  },
+  {
+    "name": "opp_active_level_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_moves_known_count",
+    "description": ""
+  },
+  {
+    "name": "opp_active_perish_song_active",
+    "description": ""
+  },
+  {
+    "name": "opp_active_perish_song_count_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_set_entropy_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_active_status_onehot_brn",
+    "description": ""
+  },
+  {
+    "name": "opp_active_status_onehot_frz",
+    "description": ""
+  },
+  {
+    "name": "opp_active_status_onehot_none",
+    "description": ""
+  },
+  {
+    "name": "opp_active_status_onehot_par",
+    "description": ""
+  },
+  {
+    "name": "opp_active_status_onehot_psn",
+    "description": ""
+  },
+  {
+    "name": "opp_active_status_onehot_slp",
+    "description": ""
+  },
+  {
+    "name": "opp_active_status_onehot_tox",
+    "description": ""
+  },
+  {
+    "name": "opp_active_substitute",
+    "description": ""
+  },
+  {
+    "name": "opp_active_taunt",
+    "description": ""
+  },
+  {
+    "name": "opp_active_torment",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_bug",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_dark",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_dragon",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_electric",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_fairy",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_fighting",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_fire",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_flying",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_ghost",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_grass",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_ground",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_ice",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_normal",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_poison",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_psychic",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_rock",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_steel",
+    "description": ""
+  },
+  {
+    "name": "opp_active_type_onehot_water",
+    "description": ""
+  },
+  {
+    "name": "opp_team_avg_hp_frac",
+    "description": ""
+  },
+  {
+    "name": "opp_team_has_defogger",
+    "description": ""
+  },
+  {
+    "name": "opp_team_has_priority_user",
+    "description": ""
+  },
+  {
+    "name": "opp_team_has_scarfer_prob",
+    "description": ""
+  },
+  {
+    "name": "opp_team_has_spinner",
+    "description": ""
+  },
+  {
+    "name": "opp_team_num_boosted",
+    "description": ""
+  },
+  {
+    "name": "opp_team_num_statused",
+    "description": ""
+  },
+  {
+    "name": "opp_team_total_entropy_norm",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_bug",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_dark",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_dragon",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_electric",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_fairy",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_fighting",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_fire",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_flying",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_ghost",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_grass",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_ground",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_ice",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_normal",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_poison",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_psychic",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_rock",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_steel",
+    "description": ""
+  },
+  {
+    "name": "opp_team_type_coverage_water",
+    "description": ""
+  },
+  {
+    "name": "reflect_active_opp",
+    "description": ""
+  },
+  {
+    "name": "reflect_active_self",
+    "description": ""
+  },
+  {
+    "name": "reflect_turns_norm_opp",
+    "description": ""
+  },
+  {
+    "name": "reflect_turns_norm_self",
+    "description": ""
+  },
+  {
+    "name": "self_active_ability_known",
+    "description": ""
+  },
+  {
+    "name": "self_active_boost_acc_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_boost_atk_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_boost_def_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_boost_eva_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_boost_spa_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_boost_spd_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_boost_spe_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_confusion",
+    "description": ""
+  },
+  {
+    "name": "self_active_disable",
+    "description": ""
+  },
+  {
+    "name": "self_active_dual_type",
+    "description": ""
+  },
+  {
+    "name": "self_active_encore",
+    "description": ""
+  },
+  {
+    "name": "self_active_hp_frac",
+    "description": ""
+  },
+  {
+    "name": "self_active_is_fainted",
+    "description": ""
+  },
+  {
+    "name": "self_active_item_known",
+    "description": ""
+  },
+  {
+    "name": "self_active_last_move_known",
+    "description": ""
+  },
+  {
+    "name": "self_active_leech_seeded",
+    "description": ""
+  },
+  {
+    "name": "self_active_level_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_moves_known_count",
+    "description": ""
+  },
+  {
+    "name": "self_active_perish_song_active",
+    "description": ""
+  },
+  {
+    "name": "self_active_perish_song_count_norm",
+    "description": ""
+  },
+  {
+    "name": "self_active_status_onehot_brn",
+    "description": ""
+  },
+  {
+    "name": "self_active_status_onehot_frz",
+    "description": ""
+  },
+  {
+    "name": "self_active_status_onehot_none",
+    "description": ""
+  },
+  {
+    "name": "self_active_status_onehot_par",
+    "description": ""
+  },
+  {
+    "name": "self_active_status_onehot_psn",
+    "description": ""
+  },
+  {
+    "name": "self_active_status_onehot_slp",
+    "description": ""
+  },
+  {
+    "name": "self_active_status_onehot_tox",
+    "description": ""
+  },
+  {
+    "name": "self_active_substitute",
+    "description": ""
+  },
+  {
+    "name": "self_active_taunt",
+    "description": ""
+  },
+  {
+    "name": "self_active_torment",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_bug",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_dark",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_dragon",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_electric",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_fairy",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_fighting",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_fire",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_flying",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_ghost",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_grass",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_ground",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_ice",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_normal",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_poison",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_psychic",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_rock",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_steel",
+    "description": ""
+  },
+  {
+    "name": "self_active_type_onehot_water",
+    "description": ""
+  },
+  {
+    "name": "self_team_avg_hp_frac",
+    "description": ""
+  },
+  {
+    "name": "self_team_has_defogger",
+    "description": ""
+  },
+  {
+    "name": "self_team_has_priority_user",
+    "description": ""
+  },
+  {
+    "name": "self_team_has_scarfer_prob",
+    "description": ""
+  },
+  {
+    "name": "self_team_has_spinner",
+    "description": ""
+  },
+  {
+    "name": "self_team_num_boosted",
+    "description": ""
+  },
+  {
+    "name": "self_team_num_statused",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_bug",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_dark",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_dragon",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_electric",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_fairy",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_fighting",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_fire",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_flying",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_ghost",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_grass",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_ground",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_ice",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_normal",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_poison",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_psychic",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_rock",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_steel",
+    "description": ""
+  },
+  {
+    "name": "self_team_type_coverage_water",
+    "description": ""
+  },
+  {
+    "name": "setup_risk_score",
+    "description": ""
+  },
+  {
+    "name": "speed_advantage_prob",
+    "description": ""
+  },
+  {
+    "name": "switch_disadvantage_score",
+    "description": ""
+  },
+  {
+    "name": "tailwind_active_opp",
+    "description": ""
+  },
+  {
+    "name": "tailwind_active_self",
+    "description": ""
+  },
+  {
+    "name": "tailwind_turns_norm_opp",
+    "description": ""
+  },
+  {
+    "name": "tailwind_turns_norm_self",
+    "description": ""
+  },
+  {
+    "name": "terrain_onehot_electric",
+    "description": ""
+  },
+  {
+    "name": "terrain_onehot_grassy",
+    "description": ""
+  },
+  {
+    "name": "terrain_onehot_misty",
+    "description": ""
+  },
+  {
+    "name": "terrain_onehot_none",
+    "description": ""
+  },
+  {
+    "name": "terrain_onehot_psychic",
+    "description": ""
+  },
+  {
+    "name": "total_hp_fraction_opp",
+    "description": ""
+  },
+  {
+    "name": "total_hp_fraction_self",
+    "description": ""
+  },
+  {
+    "name": "trick_room_active",
+    "description": ""
+  },
+  {
+    "name": "trick_room_turns_norm",
+    "description": ""
+  },
+  {
+    "name": "turn_norm",
+    "description": ""
+  },
+  {
+    "name": "twohko_prob_opp_to_self",
+    "description": ""
+  },
+  {
+    "name": "twohko_prob_self_to_opp",
+    "description": ""
+  },
+  {
+    "name": "type_effectiveness_opp_to_self_best",
+    "description": ""
+  },
+  {
+    "name": "type_effectiveness_self_to_opp_best",
+    "description": ""
+  },
+  {
+    "name": "type_resistance_self_vs_opp_stab",
+    "description": ""
+  },
+  {
+    "name": "weather_onehot_none",
+    "description": ""
+  },
+  {
+    "name": "weather_onehot_rain",
+    "description": ""
+  },
+  {
+    "name": "weather_onehot_sand",
+    "description": ""
+  },
+  {
+    "name": "weather_onehot_snow",
+    "description": ""
+  },
+  {
+    "name": "weather_onehot_sun",
+    "description": ""
+  }
+]

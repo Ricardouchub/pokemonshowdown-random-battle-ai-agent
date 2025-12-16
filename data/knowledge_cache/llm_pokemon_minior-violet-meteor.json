@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-violet-meteor\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"shell-smash\", \"acrobatics\", \"stone-edge\", \"earthquake\"],\n    \"abilities\": [\"shields-down\"],\n    \"common_items\": [\"white-herb\", \"power-herb\"],\n    \"summary\": \"meteor-form rock/flying type with shields-down ability; transforms to core-form at half hp, enabling powerful setup sweeps with shell-smash.\"\n}\n```"
+}

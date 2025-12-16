@@ -1,0 +1,10 @@
+{
+  "item": "Rindo Berry",
+  "category": "Damage Reduction Berry",
+  "summary": "Halves damage taken from a super-effective Grass-type move once, then is consumed.",
+  "typical_users": [
+    "Bulky Water-types (e.g., Gastrodon, Swampert)",
+    "Rock- or Ground-types weak to Grass (e.g., Tyranitar, Rhyperior)",
+    "Setup sweepers seeking to survive a key Grass hit"
+  ]
+}

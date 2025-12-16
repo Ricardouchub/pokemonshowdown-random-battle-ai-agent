@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"slowking\",\n    \"types\": [\"water\", \"psychic\"],\n    \"roles\": [\"bulky special attacker\", \"trick room setter\", \"support\"],\n    \"notable_moves\": [\"scald\", \"future sight\", \"slack off\", \"teleport\", \"trick room\"],\n    \"abilities\": [\"oblivious\", \"own tempo\", \"regenerator\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"assault vest\"],\n    \"summary\": \"a bulky water/psychic type known for regenerator pivoting, strong special attacks, and support options like trick room and teleport.\"\n}\n```"
+}

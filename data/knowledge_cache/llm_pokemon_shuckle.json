@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shuckle\",\n    \"types\": [\"bug\", \"rock\"],\n    \"roles\": [\"staller\", \"hazard setter\", \"toxic user\"],\n    \"notable_moves\": [\"stealth rock\", \"toxic\", \"sticky web\", \"encore\", \"infestation\"],\n    \"abilities\": [\"sturdy\", \"gluttony\", \"contrary\"],\n    \"common_items\": [\"leftovers\", \"mental herb\", \"rocky helmet\"],\n    \"summary\": \"extremely high defenses but minimal offense; excels at stalling and setting hazards with toxic and infestation.\"\n}\n```"
+}

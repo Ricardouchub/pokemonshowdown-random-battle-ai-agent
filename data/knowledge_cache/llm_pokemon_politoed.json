@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"politoed\",\n    \"types\": [\"water\"],\n    \"roles\": [\"rain setter\", \"support\", \"special attacker\"],\n    \"notable_moves\": [\"scald\", \"encore\", \"hypnosis\", \"perish song\", \"ice beam\"],\n    \"abilities\": [\"drizzle\", \"water absorb\", \"damp\"],\n    \"common_items\": [\"damp rock\", \"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"defines rain teams with drizzle, provides disruptive support with encore and perish song.\"\n}\n```"
+}

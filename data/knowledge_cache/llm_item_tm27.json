@@ -1,0 +1,9 @@
+{
+  "item": "TM27",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Low Sweep, a Fighting-type physical attack (65 power, 100% accuracy) that lowers the target's Speed stat.",
+  "typical_users": [
+    "Physical attackers needing Fighting-type coverage or speed control",
+    "Pok\u00e9mon like Breloom, Infernape, or Lucario to hit Dark, Normal, Rock, and Steel types"
+  ]
+}

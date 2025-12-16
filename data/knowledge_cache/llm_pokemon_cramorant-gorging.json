@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cramorant-gorging\",\n    \"types\": [\"water\", \"flying\"],\n    \"roles\": [\"special-attacker\", \"surprise-attacker\"],\n    \"notable_moves\": [\"surf\", \"hurricane\", \"ice-beam\", \"defog\"],\n    \"abilities\": [\"gulp-missile\"],\n    \"common_items\": [\"heavy-duty-boots\", \"choice-specs\"],\n    \"summary\": \"cramorant's gorging form triggers after using surf or dive, changing its appearance and causing its gulp missile ability to fire arrokuda at foes when hit, dealing extra damage and lowering defense.\"\n}\n```"
+}

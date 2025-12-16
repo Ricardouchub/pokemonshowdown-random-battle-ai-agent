@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zorua\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"special attacker\", \"revenge killer\", \"setup sweeper\"],\n    \"notable_moves\": [\"dark pulse\", \"nasty plot\", \"focus blast\", \"uturn\"],\n    \"abilities\": [\"illusion\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice specs\"],\n    \"summary\": \"a tricky dark-type that uses illusion to surprise opponents, often setting up with nasty plot or firing off strong special attacks.\"\n}\n```"
+}

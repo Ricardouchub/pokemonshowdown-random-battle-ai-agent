@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lokix\",\n    \"types\": [\"bug\", \"dark\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\", \"wallbreaker\"],\n    \"notable_moves\": [\"first impression\", \"sucker punch\", \"axe kick\", \"throat chop\"],\n    \"abilities\": [\"swarm\", \"tinted lens\"],\n    \"common_items\": [\"choice band\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"a fast bug/dark attacker with strong priority moves and tinted lens to break through resists.\"\n}\n```"
+}

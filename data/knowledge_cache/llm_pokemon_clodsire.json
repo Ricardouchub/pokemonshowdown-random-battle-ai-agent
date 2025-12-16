@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"clodsire\",\n    \"types\": [\"poison\", \"ground\"],\n    \"roles\": [\"wall\", \"hazard setter\", \"status spreader\"],\n    \"notable_moves\": [\"toxic\", \"spikes\", \"recover\", \"earthquake\", \"yawn\"],\n    \"abilities\": [\"water absorb\", \"poison point\", \"unaware\"],\n    \"common_items\": [\"leftovers\", \"black sludge\", \"rocky helmet\"],\n    \"summary\": \"bulky poison/ground type with reliable recovery, excels at stalling and hazard control with unaware ignoring stat boosts.\"\n}\n```"
+}

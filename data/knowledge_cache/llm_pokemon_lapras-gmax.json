@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lapras-gmax\",\n    \"types\": [\"water\", \"ice\"],\n    \"roles\": [\"tank\", \"support\", \"gmax-sweeper\"],\n    \"notable_moves\": [\"g-max-resonance\", \"freeze-dry\", \"thunderbolt\", \"perish song\", \"ice shard\"],\n    \"abilities\": [\"water-absorb\", \"shell-armor\", \"hydration\"],\n    \"common_items\": [\"leftovers\", \"weakness-policy\", \"assault-vest\"],\n    \"summary\": \"gigantamax lapras excels as a bulky support with unique g-max-resonance setting aurora veil. its dual water/ice typing and solid bulk allow it to set up, disrupt, or sweep in gmax form.\"\n}\n```"
+}

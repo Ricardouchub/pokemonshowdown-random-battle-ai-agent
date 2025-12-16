@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-orange-meteor\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"offensive-sweeper\", \"setup-sweeper\"],\n    \"notable_moves\": [\"shell-smash\", \"acrobatics\", \"stone-edge\", \"earthquake\"],\n    \"abilities\": [\"shields-down\"],\n    \"common_items\": [\"white-herb\", \"focus-sash\"],\n    \"summary\": \"a meteor-form rock/flying sweeper that relies on shields-down to transform into its fast, fragile core form after taking damage. uses shell-smash to boost offense and speed dramatically.\"\n}\n```"
+}

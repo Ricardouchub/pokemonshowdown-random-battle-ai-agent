@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"baxcalibur\",\n    \"types\": [\"dragon\", \"ice\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\", \"setup\"],\n    \"notable_moves\": [\"glaive rush\", \"icicle crash\", \"earthquake\", \"ice shard\", \"dragon dance\"],\n    \"abilities\": [\"thermal exchange\", \"ice body\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"choice band\"],\n    \"summary\": \"pseudo-legendary with strong offensive stats and signature move glaive rush. excels as a physical attacker with dragon dance setup or immediate wallbreaking power.\"\n}\n```"
+}

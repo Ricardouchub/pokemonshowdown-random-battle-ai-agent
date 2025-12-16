@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"eevee-gmax\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"gigantamax-sweeper\", \"setup-disruptor\"],\n    \"notable_moves\": [\"g-max-cuddle\", \"last-resort\", \"quick-attack\", \"protect\"],\n    \"abilities\": [\"run-away\", \"adaptability\", \"anticipation\"],\n    \"common_items\": [\"life-orb\", \"choice-band\", \"focus-sash\"],\n    \"summary\": \"gigantamax form of eevee that uses g-max-cuddle to inflict infatuation on all opponents, disrupting teams while boosting its own power.\"\n}\n```"
+}

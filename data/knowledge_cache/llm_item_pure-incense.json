@@ -1,0 +1,9 @@
+{
+  "item": "Pure Incense",
+  "category": "Held Item",
+  "summary": "Prevents wild Pok\u00e9mon encounters in tall grass and similar areas, but has no effect in caves, water, or during trainer battles.",
+  "typical_users": [
+    "Pok\u00e9mon used for breeding or EV training in grassy routes",
+    "Players avoiding wild encounters while traveling"
+  ]
+}

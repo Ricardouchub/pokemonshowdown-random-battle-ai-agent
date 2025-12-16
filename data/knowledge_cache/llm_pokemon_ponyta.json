@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ponyta\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"fast attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"flame charge\", \"flare blitz\", \"wild charge\", \"sunny day\"],\n    \"abilities\": [\"run away\", \"flash fire\", \"flame body\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"focus sash\"],\n    \"summary\": \"a fast fire-type horse known for its blazing mane and high speed stat, often used as an early-game sweeper with flame charge boosts.\"\n}\n```"
+}

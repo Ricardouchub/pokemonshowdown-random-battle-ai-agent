@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mudbray\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"physical attacker\", \"wallbreaker\", \"sticky web setter\"],\n    \"notable_moves\": [\"earthquake\", \"close combat\", \"heavy slam\", \"stealth rock\"],\n    \"abilities\": [\"own tempo\", \"stamina\", \"inner focus\"],\n    \"common_items\": [\"choice band\", \"leftovers\", \"air balloon\"],\n    \"summary\": \"a slow but powerful ground-type with excellent physical bulk and stamina ability, often used to break through defensive cores or set hazards.\"\n}\n```"
+}

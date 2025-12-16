@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gabite\",\n    \"types\": [\"dragon\", \"ground\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"earthquake\", \"dragon claw\", \"swords dance\", \"stealth rock\"],\n    \"abilities\": [\"sand veil\", \"rough skin\"],\n    \"common_items\": [\"eviolite\", \"life orb\"],\n    \"summary\": \"mid-stage dragon with strong offensive stats and ground coverage, often used as an eviolite wallbreaker or setup sweeper in lower tiers.\"\n}\n```"
+}

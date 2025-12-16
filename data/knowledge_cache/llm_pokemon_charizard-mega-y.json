@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"charizard-mega-y\",\n    \"types\": [\"fire\", \"flying\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\", \"sweeper\"],\n    \"notable_moves\": [\"fire-blast\", \"solar-beam\", \"focus-blast\", \"roost\", \"dragon-pulse\"],\n    \"abilities\": [\"drought\"],\n    \"common_items\": [\"charizardite-y\"],\n    \"summary\": \"mega charizard y is a powerful special attacker with drought-boosted fire moves and strong coverage. it excels at breaking through defensive cores but has mediocre speed and defensive typing.\"\n}\n```"
+}

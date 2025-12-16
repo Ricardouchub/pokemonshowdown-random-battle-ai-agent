@@ -1,0 +1,11 @@
+{
+  "item": "Full Restore",
+  "category": "Recovery",
+  "summary": "Fully restores HP and cures any status condition of a single Pok\u00e9mon.",
+  "typical_users": [
+    "Bulky attackers",
+    "Stall or defensive Pok\u00e9mon",
+    "Pok\u00e9mon vulnerable to status",
+    "Teams lacking cleric support"
+  ]
+}

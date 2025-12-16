@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"servine\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"setup-sweeper\", \"defensive-pivot\"],\n    \"notable_moves\": [\"leaf-storm\", \"substitute\", \"leech-seed\", \"glare\"],\n    \"abilities\": [\"overgrow\", \"contrary\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a defensive grass-type that uses eviolite to boost bulk, often setting up with substitute and leech seed or utilizing contrary leaf storm.\"\n}\n```"
+}

@@ -1,0 +1,8 @@
+{
+  "item": "Cleanse Tag",
+  "category": "Held Item",
+  "summary": "Reduces the chance of encountering wild Pok\u00e9mon when held by the lead party member.",
+  "typical_users": [
+    "Pok\u00e9mon used for efficient overworld travel or EV training to avoid unwanted encounters"
+  ]
+}

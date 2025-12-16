@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"orbeetle-gmax\",\n    \"types\": [\"bug\", \"psychic\"],\n    \"roles\": [\"support\", \"setup\", \"utility\"],\n    \"notable_moves\": [\"sticky web\", \"reflect\", \"light screen\", \"body press\", \"psychic\"],\n    \"abilities\": [\"swarm\", \"frisk\", \"telepathy\"],\n    \"common_items\": [\"light clay\", \"leftovers\", \"focus sash\"],\n    \"summary\": \"gigantamax form with massive psychic terrain effect, excels at team support with screens and hazard setting.\"\n}\n```"
+}

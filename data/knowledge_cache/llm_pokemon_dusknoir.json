@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dusknoir\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"trick room setter\", \"wall\", \"pivot\"],\n    \"notable_moves\": [\"trick room\", \"will-o-wisp\", \"shadow sneak\", \"earthquake\"],\n    \"abilities\": [\"pressure\", \"frisk\"],\n    \"common_items\": [\"leftovers\", \"colbur berry\"],\n    \"summary\": \"bulky ghost-type wall that sets trick room and spreads burns with will-o-wisp.\"\n}\n```"
+}

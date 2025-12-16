@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"greninja\",\n    \"types\": [\"water\", \"dark\"],\n    \"roles\": [\"special sweeper\", \"revenge killer\", \"wallbreaker\"],\n    \"notable_moves\": [\"hydro pump\", \"dark pulse\", \"ice beam\", \"uturn\", \"spikes\"],\n    \"abilities\": [\"torrent\", \"protean\", \"battle bond\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"focus sash\"],\n    \"summary\": \"versatile special attacker with protean or battle bond, known for high speed and coverage.\"\n}\n```"
+}

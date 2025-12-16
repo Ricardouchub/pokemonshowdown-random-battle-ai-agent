@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"urshifu-rapid-strike\",\n    \"types\": [\"water\", \"fighting\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"surging strikes\", \"close combat\", \"aqua jet\", \"u-turn\", \"ice punch\"],\n    \"abilities\": [\"unseen fist\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"a powerful physical attacker with signature multi-hit water move that always crits, excelling at breaking through defensive cores and revenge killing.\"\n}\n```"
+}

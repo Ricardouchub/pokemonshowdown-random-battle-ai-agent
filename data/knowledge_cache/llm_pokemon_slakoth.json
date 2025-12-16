@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"slakoth\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"setup-sweeper\", \"trick-room-abuser\"],\n    \"notable_moves\": [\"return\", \"shadow-claw\", \"body-slam\", \"yawn\"],\n    \"abilities\": [\"truant\"],\n    \"common_items\": [\"chesto-berry\", \"leftovers\"],\n    \"summary\": \"a sluggish normal-type with crippling truant ability, requiring careful setup to bypass its forced idle turns.\"\n}\n```"
+}

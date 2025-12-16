@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"weepinbell\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"special attacker\", \"status spreader\"],\n    \"notable_moves\": [\"leaf storm\", \"sludge bomb\", \"synthesis\", \"sleep powder\"],\n    \"abilities\": [\"chlorophyll\", \"gluttony\"],\n    \"common_items\": [\"life orb\", \"black sludge\"],\n    \"summary\": \"mid-stage grass/poison type with strong special attacks and sleep-inducing utility, often used as a chlorophyll sweeper or status disruptor.\"\n}\n```"
+}

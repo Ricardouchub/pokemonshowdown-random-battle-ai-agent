@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"froslass\",\n    \"types\": [\"ice\", \"ghost\"],\n    \"roles\": [\"hazard-setter\", \"revenge-killer\", \"wallbreaker\"],\n    \"notable_moves\": [\"spikes\", \"icy wind\", \"shadow ball\", \"destiny bond\"],\n    \"abilities\": [\"snow cloak\", \"cursed body\"],\n    \"common_items\": [\"focus sash\", \"heavy-duty boots\", \"choice scarf\"],\n    \"summary\": \"fast ice/ghost type known for setting spikes, revenge killing with destiny bond, and disrupting with its typing and abilities.\"\n}\n```"
+}

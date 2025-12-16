@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"heatran-mega\",\n    \"types\": [\"fire\", \"steel\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"stealth-rock-setter\"],\n    \"notable_moves\": [\"magma-storm\", \"earth-power\", \"flash-cannon\", \"taunt\", \"stealth-rock\"],\n    \"abilities\": [\"magma-armor\"],\n    \"common_items\": [\"heatranite\"],\n    \"summary\": \"hypothetical mega evolution with enhanced bulk and power, maintaining fire-steel typing and trapping utility.\"\n}\n```"
+}

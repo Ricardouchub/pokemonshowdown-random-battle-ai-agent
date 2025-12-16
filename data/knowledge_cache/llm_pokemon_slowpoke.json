@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"slowpoke\",\n    \"types\": [\"water\", \"psychic\"],\n    \"roles\": [\"trick room sweeper\", \"tank\", \"status spreader\"],\n    \"notable_moves\": [\"scald\", \"psychic\", \"trick room\", \"slack off\"],\n    \"abilities\": [\"oblivious\", \"own tempo\", \"regenerator\"],\n    \"common_items\": [\"leftovers\", \"assault vest\", \"mental herb\"],\n    \"summary\": \"bulky water-psychic type known for regenerator recovery, trick room support, and stalling with slack off.\"\n}\n```"
+}

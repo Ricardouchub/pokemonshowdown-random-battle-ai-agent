@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"torchic\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"flamethrower\", \"overheat\", \"baton pass\", \"protect\"],\n    \"abilities\": [\"blaze\", \"speed boost\"],\n    \"common_items\": [\"eviolite\", \"focus sash\"],\n    \"summary\": \"fire-type starter with hidden ability speed boost, enabling potent baton pass strategies or late-game sweeping.\"\n}\n```"
+}

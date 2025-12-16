@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"marshtomp\",\n    \"types\": [\"water\", \"ground\"],\n    \"roles\": [\"bulky attacker\", \"stealth rock setter\", \"rain sweeper\"],\n    \"notable_moves\": [\"earthquake\", \"scald\", \"stealth rock\", \"ice beam\"],\n    \"abilities\": [\"torrent\", \"damp\"],\n    \"common_items\": [\"leftovers\", \"life orb\", \"choice band\"],\n    \"summary\": \"a bulky water/ground type that excels in rain teams, sets hazards, and checks electric and fire types.\"\n}\n```"
+}

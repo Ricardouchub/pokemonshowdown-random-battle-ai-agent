@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-blue\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"shell smash\", \"acrobatics\", \"stone edge\", \"earthquake\"],\n    \"abilities\": [\"shields down\"],\n    \"common_items\": [\"white herb\", \"life orb\"],\n    \"summary\": \"blue-core minior uses shell smash to become a fast, powerful sweeper. its shields down ability provides defensive and offensive form changes.\"\n}\n```"
+}

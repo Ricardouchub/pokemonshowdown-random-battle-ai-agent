@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tentacruel\",\n    \"types\": [\"water\", \"poison\"],\n    \"roles\": [\"bulky support\", \"hazard setter\", \"rapid spinner\"],\n    \"notable_moves\": [\"scald\", \"rapid spin\", \"toxic spikes\", \"knock off\"],\n    \"abilities\": [\"clear body\", \"liquid ooze\", \"rain dish\"],\n    \"common_items\": [\"black sludge\", \"heavy-duty boots\"],\n    \"summary\": \"bulky water-poison type known for hazard control, support, and longevity.\"\n}\n```"
+}

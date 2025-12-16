@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dragapult\",\n    \"types\": [\"dragon\", \"ghost\"],\n    \"roles\": [\"sweeper\", \"revenge killer\", \"wallbreaker\"],\n    \"notable_moves\": [\"dragon darts\", \"phantom force\", \"u-turn\", \"draco meteor\"],\n    \"abilities\": [\"clear body\", \"infiltrator\", \"cursed body\"],\n    \"common_items\": [\"choice specs\", \"choice band\", \"heavy-duty boots\"],\n    \"summary\": \"fast mixed attacker with unique dragon darts, excels at hit-and-run tactics and breaking through substitutes.\"\n}\n```"
+}

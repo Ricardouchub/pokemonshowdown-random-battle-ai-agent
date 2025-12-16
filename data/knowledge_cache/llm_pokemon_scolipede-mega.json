@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"scolipede-mega\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"swords-dance\", \"poison-jab\", \"megahorn\", \"earthquake\"],\n    \"abilities\": [\"speed-boost\"],\n    \"common_items\": [\"scolipedite\"],\n    \"summary\": \"mega evolution grants massive attack and speed, enabling powerful setup sweeps with swords dance and speed boost.\"\n}\n```"
+}

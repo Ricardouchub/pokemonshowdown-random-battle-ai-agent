@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"glameow\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"fast-attacker\", \"setup-sweeper\", \"nuisance\"],\n    \"notable_moves\": [\"fake-out\", \"hypnosis\", \"uturn\", \"sucker-punch\"],\n    \"abilities\": [\"limber\", \"own-tempo\", \"keen-eye\"],\n    \"common_items\": [\"life-orb\", \"focus-sash\", \"choice-scarf\"],\n    \"summary\": \"a fast, frail normal-type known for priority moves and sleep-inducing tactics, but limited by poor bulk and movepool.\"\n}\n```"
+}

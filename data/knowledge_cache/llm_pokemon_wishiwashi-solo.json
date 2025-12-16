@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wishiwashi-solo\",\n    \"types\": [\"water\"],\n    \"roles\": [\"defensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"scald\", \"protect\", \"toxic\", \"ice beam\"],\n    \"abilities\": [\"schooling\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"weak solo form that avoids schooling activation; relies on defensive utility and chip damage.\"\n}\n```"
+}

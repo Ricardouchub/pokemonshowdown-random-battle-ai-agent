@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-world-cap\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special-attacker\", \"fast-sweeper\"],\n    \"notable_moves\": [\"thunderbolt\", \"surf\", \"volttackle\", \"grass-knot\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\"],\n    \"summary\": \"a special pikachu variant with exclusive moves, relying on light ball to boost its offensive stats for sweeping.\"\n}\n```"
+}

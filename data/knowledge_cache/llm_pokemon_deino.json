@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"deino\",\n    \"types\": [\"dark\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"outrage\", \"crunch\", \"dragon dance\", \"zen headbutt\"],\n    \"abilities\": [\"hustle\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"eviolite\"],\n    \"summary\": \"a slow but powerful mixed attacker that relies on hustle for high damage output, often using dragon dance to sweep or strong moves to break walls.\"\n}\n```"
+}

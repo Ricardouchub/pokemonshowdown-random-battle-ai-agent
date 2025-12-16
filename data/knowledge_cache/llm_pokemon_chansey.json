@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"chansey\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"cleric\", \"special wall\", \"wish passer\"],\n    \"notable_moves\": [\"soft-boiled\", \"seismic toss\", \"toxic\", \"heal bell\", \"wish\"],\n    \"abilities\": [\"natural cure\", \"serene grace\", \"healer\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"exceptional special wall and team support with massive hp, often holding eviolite for enhanced bulk.\"\n}\n```"
+}

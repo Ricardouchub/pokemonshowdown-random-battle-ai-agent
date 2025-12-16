@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ninjask\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"speed-booster\", \"baton-passer\", \"revenge-killer\"],\n    \"notable_moves\": [\"protect\", \"substitute\", \"baton pass\", \"swords dance\", \"x-scissor\"],\n    \"abilities\": [\"speed-boost\", \"infiltrator\"],\n    \"common_items\": [\"focus sash\", \"leftovers\", \"life orb\"],\n    \"summary\": \"extremely fast bug/flying type known for passing speed boosts and other stat boosts via baton pass.\"\n}\n```"
+}

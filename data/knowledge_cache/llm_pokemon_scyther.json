@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"scyther\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"fast physical attacker\", \"swords dance sweeper\", \"choice band user\"],\n    \"notable_moves\": [\"u-turn\", \"aerial ace\", \"brick break\", \"swords dance\"],\n    \"abilities\": [\"swarm\", \"technician\", \"steadfast\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"eviolite\"],\n    \"summary\": \"fast bug/flying attacker with high speed and attack, often using swords dance or choice items to sweep; eviolite makes it surprisingly bulky.\"\n}\n```"
+}

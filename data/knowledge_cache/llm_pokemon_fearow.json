@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"fearow\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"physical attacker\", \"revenge killer\", \"scout\"],\n    \"notable_moves\": [\"drill peck\", \"return\", \"u-turn\", \"quick attack\", \"pursuit\"],\n    \"abilities\": [\"keen eye\", \"sniper\"],\n    \"common_items\": [\"choice band\", \"sharp beak\", \"life orb\"],\n    \"summary\": \"fast physical attacker with strong stab moves and u-turn for momentum, but frail and outclassed in later generations.\"\n}\n```"
+}

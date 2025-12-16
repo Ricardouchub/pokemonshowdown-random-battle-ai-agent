@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"onix\",\n    \"types\": [\"rock\", \"ground\"],\n    \"roles\": [\"physical wall\", \"stealth rock setter\"],\n    \"notable_moves\": [\"stealth rock\", \"earthquake\", \"rock slide\", \"toxic\"],\n    \"abilities\": [\"rock head\", \"sturdy\", \"weak armor\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"bulky rock-ground type with high defense, commonly used to set up stealth rock and check physical attackers.\"\n}\n```"
+}

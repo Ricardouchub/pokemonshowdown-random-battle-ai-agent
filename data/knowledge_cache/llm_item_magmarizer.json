@@ -1,0 +1,9 @@
+{
+  "item": "Magmarizer",
+  "category": "Evolutionary",
+  "summary": "Held item that allows Magmar to evolve into Magmortar when traded.",
+  "typical_users": [
+    "Magmar (for evolution)",
+    "Magmortar (occasionally for niche strategies like Trick)"
+  ]
+}

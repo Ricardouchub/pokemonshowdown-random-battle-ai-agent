@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"galvantula\",\n    \"types\": [\"bug\", \"electric\"],\n    \"roles\": [\"sticky web setter\", \"special attacker\", \"pivot\"],\n    \"notable_moves\": [\"sticky web\", \"thunder\", \"bug buzz\", \"energy ball\", \"voltswitch\"],\n    \"abilities\": [\"compound eyes\", \"unnerve\", \"swarm\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice specs\"],\n    \"summary\": \"fast bug/electric spider known for setting sticky web to control speed tiers, with high accuracy thunder and pivoting ability.\"\n}\n```"
+}

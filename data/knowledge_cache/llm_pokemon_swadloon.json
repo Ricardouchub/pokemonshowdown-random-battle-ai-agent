@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"swadloon\",\n    \"types\": [\"bug\", \"grass\"],\n    \"roles\": [\"defensive pivot\", \"staller\"],\n    \"notable_moves\": [\"protect\", \"toxic\", \"energy ball\", \"bug bite\"],\n    \"abilities\": [\"leaf guard\", \"chlorophyll\", \"overcoat\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive cocoon pok\u00e9mon that excels in stalling with protect and toxic, often used as a pivot in lower tiers.\"\n}\n```"
+}

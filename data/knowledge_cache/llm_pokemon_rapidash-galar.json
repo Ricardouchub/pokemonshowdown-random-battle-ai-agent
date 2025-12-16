@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rapidash-galar\",\n    \"types\": [\"psychic\", \"fairy\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"psychic\", \"play rough\", \"swords dance\", \"high horsepower\"],\n    \"abilities\": [\"run-away\", \"pastel veil\", \"anticipation\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"leftovers\"],\n    \"summary\": \"a unique psychic/fairy variant with strong offensive presence and setup potential, but limited defensive utility.\"\n}\n```"
+}

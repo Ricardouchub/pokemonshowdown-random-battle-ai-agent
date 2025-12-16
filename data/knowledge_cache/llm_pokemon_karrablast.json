@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"karrablast\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"offensive-pivot\", \"setup-sweeper\"],\n    \"notable_moves\": [\"megahorn\", \"drill-run\", \"knock-off\", \"swords-dance\"],\n    \"abilities\": [\"swarm\", \"shed-skin\", \"no-guard\"],\n    \"common_items\": [\"eviolite\", \"choice-scarf\"],\n    \"summary\": \"a physical bug-type attacker that evolves when traded for shelmet, often used with eviolite for bulk or choice items for immediate power.\"\n}\n```"
+}

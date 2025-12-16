@@ -1,0 +1,12 @@
+{
+  "item": "Black Sludge",
+  "category": "Held Item",
+  "summary": "Restores HP each turn for Poison-type holders, damages non-Poison types.",
+  "typical_users": [
+    "Toxapex",
+    "Muk",
+    "Gengar",
+    "Amoonguss",
+    "Slowbro-Galar"
+  ]
+}

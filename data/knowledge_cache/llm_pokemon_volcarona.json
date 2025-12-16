@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"volcarona\",\n    \"types\": [\"bug\", \"fire\"],\n    \"roles\": [\"special sweeper\", \"quiver dance user\", \"sun abuser\"],\n    \"notable_moves\": [\"quiver dance\", \"fiery dance\", \"bug buzz\", \"giga drain\"],\n    \"abilities\": [\"flame body\", \"swarm\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"life orb\"],\n    \"summary\": \"a powerful special attacker that can snowball with quiver dance, but is heavily reliant on boots to avoid stealth rock damage.\"\n}\n```"
+}

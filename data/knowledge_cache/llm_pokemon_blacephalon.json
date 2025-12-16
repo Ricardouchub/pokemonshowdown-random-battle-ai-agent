@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"blacephalon\",\n    \"types\": [\"fire\", \"ghost\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"mind blown\", \"shadow ball\", \"fire blast\", \"trick\", \"calm mind\"],\n    \"abilities\": [\"beast boost\"],\n    \"common_items\": [\"choice scarf\", \"choice specs\", \"life orb\", \"focus sash\"],\n    \"summary\": \"ultra beast with explosive special attack; uses mind blown for massive damage but sacrifices hp. excels at late-game sweeps with beast boost.\"\n}\n```"
+}

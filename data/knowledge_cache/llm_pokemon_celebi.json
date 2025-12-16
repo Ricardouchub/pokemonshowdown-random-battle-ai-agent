@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"celebi\",\n    \"types\": [\"psychic\", \"grass\"],\n    \"roles\": [\"offensive-support\", \"setup-sweeper\", \"cleric\"],\n    \"notable_moves\": [\"nasty-plot\", \"giga-drain\", \"psychic\", \"recover\", \"heal-bell\"],\n    \"abilities\": [\"natural-cure\"],\n    \"common_items\": [\"leftovers\", \"life-orb\", \"heavy-duty-boots\"],\n    \"summary\": \"mythical time-traveler with versatile support and offensive capabilities, leveraging its dual-typing and recovery to sustain teams.\"\n}\n```"
+}

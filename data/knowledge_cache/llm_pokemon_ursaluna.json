@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ursaluna\",\n    \"types\": [\"ground\", \"normal\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"status absorber\"],\n    \"notable_moves\": [\"headlong rush\", \"facade\", \"earthquake\", \"fire punch\", \"swords dance\"],\n    \"abilities\": [\"guts\", \"bulletproof\"],\n    \"common_items\": [\"flame orb\", \"toxic orb\", \"leftovers\"],\n    \"summary\": \"a powerful physical attacker that uses guts with status orbs to deal massive damage, while tanking hits with its bulk.\"\n}\n```"
+}

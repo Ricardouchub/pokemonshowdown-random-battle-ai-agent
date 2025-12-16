@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lunatone\",\n    \"types\": [\"rock\", \"psychic\"],\n    \"roles\": [\"special attacker\", \"stealth rock setter\", \"trick room supporter\"],\n    \"notable_moves\": [\"stealth rock\", \"psychic\", \"moonblast\", \"earth power\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"focus sash\", \"life orb\"],\n    \"summary\": \"a rock/psychic type with levitate, used for setting hazards and special attacking, often in trick room teams.\"\n}\n```"
+}

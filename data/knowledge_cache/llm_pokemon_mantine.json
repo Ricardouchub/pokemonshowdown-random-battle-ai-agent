@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mantine\",\n    \"types\": [\"water\", \"flying\"],\n    \"roles\": [\"special wall\", \"support\", \"hazard control\"],\n    \"notable_moves\": [\"scald\", \"roost\", \"defog\", \"toxic\", \"air slash\"],\n    \"abilities\": [\"swift swim\", \"water absorb\", \"water veil\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"bulky water-flying type with strong special defense, used for absorbing hits, removing hazards, and providing team support.\"\n}\n```"
+}

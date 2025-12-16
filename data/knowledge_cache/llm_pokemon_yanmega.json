@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"yanmega\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"pivot\"],\n    \"notable_moves\": [\"bug buzz\", \"air slash\", \"giga drain\", \"protect\"],\n    \"abilities\": [\"speed boost\", \"tinted lens\", \"frisk\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"heavy-duty boots\"],\n    \"summary\": \"fast bug/flying special attacker with speed boost or tinted lens for wallbreaking. struggles with stealth rock.\"\n}\n```"
+}

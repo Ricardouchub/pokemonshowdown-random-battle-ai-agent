@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"linoone\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"fast-sweeper\", \"revenge-killer\", \"lead\"],\n    \"notable_moves\": [\"belly-drum\", \"extremespeed\", \"seed-bomb\", \"shadow-claw\"],\n    \"abilities\": [\"pickup\", \"gluttony\"],\n    \"common_items\": [\"sitrus-berry\", \"choice-band\", \"focus-sash\"],\n    \"summary\": \"extremely fast normal-type with access to priority extremespeed and belly-drum sweeping potential.\"\n}\n```"
+}

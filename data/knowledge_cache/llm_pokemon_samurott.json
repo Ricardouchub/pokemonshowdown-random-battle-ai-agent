@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"samurott\",\n    \"types\": [\"water\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"razor shell\", \"aqua jet\", \"sacred sword\", \"swords dance\", \"megahorn\"],\n    \"abilities\": [\"torrent\", \"shell armor\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"lum berry\"],\n    \"summary\": \"a versatile water-type attacker with strong coverage and setup potential, often using swords dance or choice items to break through teams.\"\n}\n```"
+}

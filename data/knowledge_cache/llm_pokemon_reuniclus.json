@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"reuniclus\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"bulky attacker\"],\n    \"notable_moves\": [\"psychic\", \"focus blast\", \"shadow ball\", \"calm mind\", \"recover\"],\n    \"abilities\": [\"overcoat\", \"magic guard\", \"regenerator\"],\n    \"common_items\": [\"life orb\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"bulky psychic-type with magic guard, excels in trick room or as a calm mind sweeper.\"\n}\n```"
+}

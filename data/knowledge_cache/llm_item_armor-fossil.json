@@ -1,0 +1,9 @@
+{
+  "item": "Armor Fossil",
+  "category": "Evolutionary Item",
+  "summary": "A fossil that revives into Shieldon, a Rock/Steel-type Pok\u00e9mon with high Defense and low Speed, often used for setting up Stealth Rock or providing defensive utility.",
+  "typical_users": [
+    "Bastiodon",
+    "Shieldon"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"alcremie\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"dazzling gleam\", \"calm mind\", \"recover\", \"mystical fire\", \"stored power\"],\n    \"abilities\": [\"sweet veil\", \"aroma veil\"],\n    \"common_items\": [\"leftovers\", \"life orb\", \"weakness policy\"],\n    \"summary\": \"a fairy-type special attacker known for its diverse forms and setup potential with calm mind, though it has mediocre speed and bulk.\"\n}\n```"
+}

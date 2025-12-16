@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-green-meteor\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"shell smash\", \"acrobatics\", \"stone edge\", \"earthquake\"],\n    \"abilities\": [\"shields down\"],\n    \"common_items\": [\"white herb\", \"life orb\"],\n    \"summary\": \"a meteor pok\u00e9mon that uses shell smash to sweep, relying on its shields down ability to change forms and boost stats when hp drops below half.\"\n}\n```"
+}

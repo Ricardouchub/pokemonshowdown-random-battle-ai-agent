@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"quaxly\",\n    \"types\": [\"water\"],\n    \"roles\": [\"setup sweeper\", \"physical attacker\"],\n    \"notable_moves\": [\"aqua step\", \"brave bird\", \"close combat\", \"swords dance\"],\n    \"abilities\": [\"torrent\", \"moxie\"],\n    \"common_items\": [\"focus sash\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"water starter with strong setup potential via aqua step and swords dance, using moxie to snowball offense.\"\n}\n```"
+}

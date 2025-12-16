@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lanturn\",\n    \"types\": [\"water\", \"electric\"],\n    \"roles\": [\"bulky attacker\", \"volturn pivot\", \"rain support\"],\n    \"notable_moves\": [\"scald\", \"voltage switch\", \"thunderbolt\", \"ice beam\", \"toxic\"],\n    \"abilities\": [\"volt absorb\", \"illuminate\", \"water absorb\"],\n    \"common_items\": [\"leftovers\", \"assault vest\", \"damp rock\"],\n    \"summary\": \"a bulky water-electric type known for its unique typing, volt absorb ability, and role as a pivot with volt switch and scald burns.\"\n}\n```"
+}

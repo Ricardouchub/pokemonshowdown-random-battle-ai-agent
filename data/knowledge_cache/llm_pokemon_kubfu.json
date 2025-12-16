@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kubfu\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"setup sweeper\", \"bulky attacker\"],\n    \"notable_moves\": [\"drain punch\", \"ice punch\", \"thunder punch\", \"bulk up\", \"substitute\"],\n    \"abilities\": [\"inner focus\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a pure fighting-type that evolves into urshifu after tower training. uses eviolite for bulk or sets up with bulk up to sweep.\"\n}\n```"
+}

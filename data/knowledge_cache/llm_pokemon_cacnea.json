@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cacnea\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"physical attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"needle arm\", \"sucker punch\", \"swords dance\", \"drain punch\"],\n    \"abilities\": [\"sand veil\", \"water absorb\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"eviolite\"],\n    \"summary\": \"a slow but hard-hitting physical attacker that excels in sand teams, using swords dance to boost its powerful stabs and coverage moves.\"\n}\n```"
+}

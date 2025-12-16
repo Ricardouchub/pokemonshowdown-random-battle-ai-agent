@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gourgeist-super\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"trick-room-setter\", \"physical-wall\", \"utility\"],\n    \"notable_moves\": [\"trick-room\", \"seed-bomb\", \"shadow-sneak\", \"will-o-wisp\", \"leech-seed\"],\n    \"abilities\": [\"pickup\", \"frisk\", \"insomnia\"],\n    \"common_items\": [\"leftovers\", \"colbur-berry\", \"rocky-helmet\"],\n    \"summary\": \"bulky ghost-grass type that sets trick room and spreads status, with high physical defense but low speed.\"\n}\n```"
+}

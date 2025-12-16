@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"binacle\",\n    \"types\": [\"rock\", \"water\"],\n    \"roles\": [\"hazard setter\", \"shell smasher\", \"physical attacker\"],\n    \"notable_moves\": [\"shell smash\", \"razor shell\", \"stone edge\", \"cross chop\", \"stealth rock\"],\n    \"abilities\": [\"tough claws\", \"sniper\", \"pickpocket\"],\n    \"common_items\": [\"eviolite\", \"focus sash\", \"white herb\"],\n    \"summary\": \"a two-stage rock/water pok\u00e9mon that evolves into barbaracle. functions as a potent setup sweeper with shell smash or a hazard setter, often utilizing eviolite for bulk.\"\n}\n```"
+}

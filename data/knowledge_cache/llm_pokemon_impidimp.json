@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"impidimp\",\n    \"types\": [\"dark\", \"fairy\"],\n    \"roles\": [\"pivot\", \"status-spreader\", \"setup-sweeper\"],\n    \"notable_moves\": [\"parting-shot\", \"swagger\", \"nasty plot\", \"dark pulse\", \"dazzling gleam\"],\n    \"abilities\": [\"prankster\", \"frisk\", \"pickpocket\"],\n    \"common_items\": [\"leftovers\", \"light clay\", \"focus sash\"],\n    \"summary\": \"a mischievous prankster that disrupts opponents with priority status moves and pivoting.\"\n}\n```"
+}

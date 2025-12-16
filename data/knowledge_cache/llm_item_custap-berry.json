@@ -1,0 +1,11 @@
+{
+  "item": "Custap Berry",
+  "category": "Berries",
+  "summary": "When holder's HP drops to 1/4 or below, it moves first in its priority bracket that turn, once per battle.",
+  "typical_users": [
+    "Suicide leads (e.g., Skarmory, Forretress)",
+    "Chip damage attackers (e.g., Cloyster, Froslass)",
+    "Sturdy users (e.g., Donphan, Golem)",
+    "Trick Room setters seeking priority"
+  ]
+}

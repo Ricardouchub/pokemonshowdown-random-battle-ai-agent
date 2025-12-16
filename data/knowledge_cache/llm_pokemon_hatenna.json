@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hatenna\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"trick-room-setter\", \"special-wall\", \"support\"],\n    \"notable_moves\": [\"psychic\", \"trick-room\", \"nuzzle\", \"healing-wish\"],\n    \"abilities\": [\"healer\", \"anticipation\", \"magic-bounce\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a slow, bulky psychic-type that excels in trick room teams, providing support with status moves and healing.\"\n}\n```"
+}

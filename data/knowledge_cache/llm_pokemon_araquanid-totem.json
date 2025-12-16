@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"araquanid-totem\",\n    \"types\": [\"water\", \"bug\"],\n    \"roles\": [\"bulky attacker\", \"tank\", \"sticky web setter\"],\n    \"notable_moves\": [\"liquidation\", \"leech life\", \"sticky web\", \"mirror coat\", \"toxic\"],\n    \"abilities\": [\"water bubble\"],\n    \"common_items\": [\"leftovers\", \"splash plate\", \"rocky helmet\"],\n    \"summary\": \"a larger, bulkier araquanid variant with boosted stats, excelling as a defensive pivot and hazard setter while hitting hard with water bubble-boosted water moves.\"\n}\n```"
+}

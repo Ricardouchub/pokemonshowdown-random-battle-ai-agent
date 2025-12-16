@@ -1,0 +1,9 @@
+{
+  "item": "Protector",
+  "category": "Evolutionary Item",
+  "summary": "Held item that triggers evolution for Rhydon into Rhyperior when traded.",
+  "typical_users": [
+    "Rhydon (for evolution)",
+    "Rhyperior (occasionally held for niche defensive sets)"
+  ]
+}

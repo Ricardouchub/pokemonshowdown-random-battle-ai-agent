@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"fomantis\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun-setter\", \"physical-attacker\"],\n    \"notable_moves\": [\"leaf-blade\", \"solar-blade\", \"sunny-day\", \"synthesis\"],\n    \"abilities\": [\"leaf-guard\", \"contrary\"],\n    \"common_items\": [\"grassy-seed\", \"life-orb\"],\n    \"summary\": \"a sun-dependent grass attacker that evolves into lurantis in daytime. contrary can boost stats when debuffed.\"\n}\n```"
+}

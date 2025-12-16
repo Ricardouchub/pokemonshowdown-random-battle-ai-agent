@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"typhlosion\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"choice user\"],\n    \"notable_moves\": [\"eruption\", \"fire blast\", \"focus blast\", \"hidden power grass\"],\n    \"abilities\": [\"blaze\", \"flash fire\"],\n    \"common_items\": [\"choice scarf\", \"choice specs\", \"heavy-duty boots\"],\n    \"summary\": \"high-powered fire-type attacker known for devastating eruption at full health, struggles with coverage and bulk.\"\n}\n```"
+}

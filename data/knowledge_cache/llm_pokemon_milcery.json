@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"milcery\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"setup\", \"sweeper\"],\n    \"notable_moves\": [\"acid armor\", \"draining kiss\", \"calm mind\", \"stored power\"],\n    \"abilities\": [\"sweet veil\", \"aroma veil\"],\n    \"common_items\": [\"berry\", \"sweet\"],\n    \"summary\": \"a pure fairy-type that evolves into alcremie using sweets. known for setting up with acid armor or calm mind to boost stored power.\"\n}\n```"
+}

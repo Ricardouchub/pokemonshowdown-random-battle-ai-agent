@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"relicanth\",\n    \"types\": [\"water\", \"rock\"],\n    \"roles\": [\"defensive wall\", \"stealth rock setter\", \"trick room sweeper\"],\n    \"notable_moves\": [\"head smash\", \"stealth rock\", \"rock polish\", \"aqua tail\", \"earthquake\"],\n    \"abilities\": [\"swift swim\", \"rock head\", \"sturdy\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"focus sash\"],\n    \"summary\": \"ancient defensive water-rock type with high bulk, rock head prevents recoil from head smash, often used as a stealth rock setter or trick room attacker.\"\n}\n```"
+}

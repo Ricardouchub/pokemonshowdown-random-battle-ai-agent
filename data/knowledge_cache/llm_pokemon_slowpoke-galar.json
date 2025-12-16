@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"slowpoke-galar\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"trick-room-setter\", \"wallbreaker\", \"status-spreader\"],\n    \"notable_moves\": [\"psychic\", \"future-sight\", \"trick-room\", \"yawn\", \"slack-off\"],\n    \"abilities\": [\"gluttony\", \"own-tempo\", \"regenerator\"],\n    \"common_items\": [\"leftovers\", \"assault-vest\", \"room-service\"],\n    \"summary\": \"a regional variant with pure psychic typing, excelling in trick room teams as a bulky setter and attacker with reliable recovery.\"\n}\n```"
+}

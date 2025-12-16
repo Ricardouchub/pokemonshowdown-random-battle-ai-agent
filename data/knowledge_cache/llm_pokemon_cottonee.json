@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cottonee\",\n    \"types\": [\"grass\", \"fairy\"],\n    \"roles\": [\"pivot\", \"support\", \"disruptor\"],\n    \"notable_moves\": [\"stun spore\", \"memento\", \"encore\", \"tailwind\"],\n    \"abilities\": [\"prankster\", \"infiltrator\", \"chlorophyll\"],\n    \"common_items\": [\"focus sash\", \"eject button\", \"mental herb\"],\n    \"summary\": \"a prankster support pok\u00e9mon that disrupts opponents with priority status moves and momentum control.\"\n}\n```"
+}

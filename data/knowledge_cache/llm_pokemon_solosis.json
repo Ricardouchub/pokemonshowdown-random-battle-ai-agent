@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"solosis\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"trick room setter\", \"special wall\", \"setup sweeper\"],\n    \"notable_moves\": [\"psychic\", \"recover\", \"calm mind\", \"trick room\"],\n    \"abilities\": [\"overcoat\", \"magic guard\", \"regenerator\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"bulky psychic-type with regenerator, often used as a trick room setter or calm mind sweeper in lower tiers.\"\n}\n```"
+}

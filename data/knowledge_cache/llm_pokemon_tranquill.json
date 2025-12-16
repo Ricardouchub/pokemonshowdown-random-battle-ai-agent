@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tranquill\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"early-game attacker\", \"scout\"],\n    \"notable_moves\": [\"return\", \"quick attack\", \"air slash\", \"u-turn\"],\n    \"abilities\": [\"big pecks\", \"super luck\", \"rivalry\"],\n    \"common_items\": [\"sharp beak\", \"flying gem\"],\n    \"summary\": \"mid-evolution normal/flying bird with decent speed and attack for early-game routes, often outclassed later.\"\n}\n```"
+}

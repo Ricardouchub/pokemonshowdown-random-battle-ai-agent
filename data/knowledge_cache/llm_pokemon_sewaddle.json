@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sewaddle\",\n    \"types\": [\"bug\", \"grass\"],\n    \"roles\": [\"setup sweeper\", \"sticky web setter\"],\n    \"notable_moves\": [\"sticky web\", \"swords dance\", \"seed bomb\", \"x-scissor\"],\n    \"abilities\": [\"swarm\", \"chlorophyll\", \"overcoat\"],\n    \"common_items\": [\"eviolite\", \"focus sash\"],\n    \"summary\": \"a bug-grass larva pok\u00e9mon that sets sticky web for team support or boosts with swords dance to sweep.\"\n}\n```"
+}

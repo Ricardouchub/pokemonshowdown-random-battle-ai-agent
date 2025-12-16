@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"greninja-ash\",\n    \"types\": [\"water\", \"dark\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"water shuriken\", \"dark pulse\", \"hydro pump\", \"ice beam\", \"uturn\"],\n    \"abilities\": [\"battle bond\"],\n    \"common_items\": [\"choice specs\", \"life orb\"],\n    \"summary\": \"unique form triggered by battle bond; transforms after ko'ing a foe, boosting all stats and turning water shuriken into a multi-hit priority move.\"\n}\n```"
+}

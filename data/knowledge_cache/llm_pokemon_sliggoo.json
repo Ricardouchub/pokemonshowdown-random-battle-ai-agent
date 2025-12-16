@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sliggoo\",\n    \"types\": [\"dragon\"],\n    \"roles\": [\"special wall\", \"setup sweeper\"],\n    \"notable_moves\": [\"draco meteor\", \"ice beam\", \"fire blast\", \"sludge wave\", \"thunderbolt\"],\n    \"abilities\": [\"sap sipper\", \"hydration\", \"gooey\"],\n    \"common_items\": [\"assault vest\", \"leftovers\", \"weakness policy\"],\n    \"summary\": \"a slow, bulky dragon-type that excels in rain teams with hydration, using its special bulk to set up or fire off powerful special attacks.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"slugma\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special attacker\", \"hazard setter\"],\n    \"notable_moves\": [\"lava plume\", \"recover\", \"stealth rock\", \"toxic\"],\n    \"abilities\": [\"magma armor\", \"flame body\", \"weak armor\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"slow fire-type with recovery and hazard-setting utility, but crippled by its rock weakness and low speed.\"\n}\n```"
+}

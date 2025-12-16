@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"garchomp-mega-z\",\n    \"types\": [\"dragon\", \"ground\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\", \"revenge-killer\"],\n    \"notable_moves\": [\"earthquake\", \"outrage\", \"stone-edge\", \"fire-fang\", \"swords-dance\"],\n    \"abilities\": [\"sand-force\"],\n    \"common_items\": [\"garchompite\"],\n    \"summary\": \"mega evolution with boosted attack and sand-force synergy, trading speed for raw power and bulk.\"\n}\n```"
+}

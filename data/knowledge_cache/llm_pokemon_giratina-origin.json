@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"giratina-origin\",\n    \"types\": [\"ghost\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"shadow ball\", \"draco meteor\", \"shadow force\", \"defog\", \"calm mind\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"griseous orb\", \"leftovers\", \"life orb\"],\n    \"summary\": \"a powerful legendary with high offensive stats and unique defensive typing, often used as a bulky attacker or setup sweeper in ubers.\"\n}\n```"
+}

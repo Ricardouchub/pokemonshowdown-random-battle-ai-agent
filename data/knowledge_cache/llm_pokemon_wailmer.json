@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wailmer\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky-water\", \"setup-sweeper\"],\n    \"notable_moves\": [\"water-spout\", \"self-destruct\", \"curse\", \"rest\"],\n    \"abilities\": [\"water-veil\", \"oblivious\", \"pressure\"],\n    \"common_items\": [\"leftovers\", \"chesto-berry\"],\n    \"summary\": \"bulky water-type known for massive hp and powerful water spout at full health, often uses curse or rest for setup.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tapu-koko\",\n    \"types\": [\"electric\", \"fairy\"],\n    \"roles\": [\"offensive pivot\", \"speed control\", \"terrain setter\"],\n    \"notable_moves\": [\"wild charge\", \"dazzling gleam\", \"brave bird\", \"uturn\", \"roost\"],\n    \"abilities\": [\"electric surge\"],\n    \"common_items\": [\"heavy-duty boots\", \"choice specs\", \"terrain extender\"],\n    \"summary\": \"fast electric/fairy terrain setter with strong offensive pressure and pivoting utility.\"\n}\n```"
+}

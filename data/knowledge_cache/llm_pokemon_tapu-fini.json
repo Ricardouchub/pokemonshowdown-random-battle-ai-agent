@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tapu-fini\",\n    \"types\": [\"water\", \"fairy\"],\n    \"roles\": [\"defensive pivot\", \"hazard control\", \"wall\"],\n    \"notable_moves\": [\"moonblast\", \"scald\", \"defog\", \"nature's madness\", \"taunt\"],\n    \"abilities\": [\"misty surge\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"bulky water/fairy pivot with terrain control and hazard removal, known for its strong defensive typing and utility.\"\n}\n```"
+}

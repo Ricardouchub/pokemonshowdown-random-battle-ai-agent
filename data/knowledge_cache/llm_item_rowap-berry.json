@@ -1,0 +1,9 @@
+{
+  "item": "Rowap Berry",
+  "category": "Berries",
+  "summary": "When holder is hit by a special move, damages the attacker for 1/8 of its max HP.",
+  "typical_users": [
+    "Special-attacking tanks (e.g., Empoleon, Goodra)",
+    "Custap Berry alternatives on Trick Room setters"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"applin\",\n    \"types\": [\"grass\", \"dragon\"],\n    \"roles\": [\"setup sweeper\", \"defensive pivot\"],\n    \"notable_moves\": [\"dragon dance\", \"sucker punch\", \"bullet seed\", \"outrage\"],\n    \"abilities\": [\"ripen\", \"gluttony\", \"bulletproof\"],\n    \"common_items\": [\"eviolite\", \"berry juice\", \"choice band\"],\n    \"summary\": \"a tiny apple wyrm that evolves into different forms based on held items. often used defensively with eviolite or offensively after setup.\"\n}\n```"
+}

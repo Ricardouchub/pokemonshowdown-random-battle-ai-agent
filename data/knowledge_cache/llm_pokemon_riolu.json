@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"riolu\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"setup sweeper\", \"priority attacker\"],\n    \"notable_moves\": [\"swords dance\", \"close combat\", \"bullet punch\", \"crunch\"],\n    \"abilities\": [\"steadfast\", \"inner focus\", \"prankster\"],\n    \"common_items\": [\"eviolite\", \"focus sash\"],\n    \"summary\": \"a pre-evolution fighting-type that relies on setup moves and priority attacks, often using eviolite for bulk.\"\n}\n```"
+}

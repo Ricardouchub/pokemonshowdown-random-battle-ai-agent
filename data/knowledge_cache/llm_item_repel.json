@@ -1,0 +1,10 @@
+{
+  "item": "Repel",
+  "category": "Field/Utility",
+  "summary": "Prevents encounters with wild Pok\u00e9mon of a lower level than the lead party member for 100 steps; no direct battle effect.",
+  "typical_users": [
+    "Speedrunners",
+    "Nuzlocke players",
+    "General playthrough efficiency"
+  ]
+}

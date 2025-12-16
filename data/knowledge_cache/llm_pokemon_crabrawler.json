@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"crabrawler\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"crabhammer\", \"close combat\", \"ice punch\", \"drain punch\"],\n    \"abilities\": [\"hyper cutter\", \"iron fist\", \"anger point\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"assault vest\"],\n    \"summary\": \"a pure fighting-type with strong physical moves and iron fist-boosted punches, but limited by poor speed and defensive typing.\"\n}\n```"
+}

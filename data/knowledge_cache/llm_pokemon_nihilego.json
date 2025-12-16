@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"nihilego\",\n    \"types\": [\"rock\", \"poison\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"power gem\", \"sludge wave\", \"grass knot\", \"thunderbolt\", \"stealth rock\"],\n    \"abilities\": [\"beast boost\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"focus sash\"],\n    \"summary\": \"ultra beast with high special attack and speed; uses beast boost to snowball after knocking out foes.\"\n}\n```"
+}

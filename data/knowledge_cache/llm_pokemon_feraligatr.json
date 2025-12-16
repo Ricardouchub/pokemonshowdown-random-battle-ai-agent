@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"feraligatr\",\n    \"types\": [\"water\"],\n    \"roles\": [\"physical sweeper\", \"dragon dancer\", \"wallbreaker\"],\n    \"notable_moves\": [\"liquidation\", \"ice punch\", \"crunch\", \"dragon dance\"],\n    \"abilities\": [\"torrent\", \"sheer force\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"lum berry\"],\n    \"summary\": \"a powerful physical attacker with dragon dance setup and sheer force-boosted coverage moves.\"\n}\n```"
+}

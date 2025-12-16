@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"toxel\",\n    \"types\": [\"electric\", \"poison\"],\n    \"roles\": [\"special-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"overdrive\", \"sludge-wave\", \"nuzzle\", \"encore\"],\n    \"abilities\": [\"rattled\", \"static\", \"klutz\"],\n    \"common_items\": [\"eviolite\", \"berry-juice\"],\n    \"summary\": \"baby pok\u00e9mon that evolves into toxtricity. requires careful stat management before evolution.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"urshifu-single-strike-gmax\",\n    \"types\": [\"fighting\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\"],\n    \"notable_moves\": [\"wicked-blow\", \"sucker-punch\", \"close-combat\", \"uturn\"],\n    \"abilities\": [\"unseen-fist\"],\n    \"common_items\": [\"choice-band\", \"life-orb\"],\n    \"summary\": \"gigantamax form with single strike style; high attack and signature move wicked blow always crits, making it a powerful wallbreaker.\"\n}\n```"
+}

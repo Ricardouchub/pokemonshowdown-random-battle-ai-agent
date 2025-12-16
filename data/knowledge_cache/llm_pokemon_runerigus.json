@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"runerigus\",\n    \"types\": [\"ground\", \"ghost\"],\n    \"roles\": [\"wall\", \"hazard setter\", \"spin blocker\"],\n    \"notable_moves\": [\"stealth rock\", \"will-o-wisp\", \"earthquake\", \"poltergeist\", \"body press\"],\n    \"abilities\": [\"wandering spirit\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"colbur berry\"],\n    \"summary\": \"a defensive ghost/ground wall that sets hazards, blocks rapid spin, and disrupts with ability and status.\"\n}\n```"
+}

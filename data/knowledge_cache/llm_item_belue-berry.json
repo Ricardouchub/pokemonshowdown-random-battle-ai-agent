@@ -1,0 +1,8 @@
+{
+  "item": "Belue Berry",
+  "category": "Berry",
+  "summary": "When held, restores 1/8 max HP if hit by a super-effective Water-type move, then is consumed.",
+  "typical_users": [
+    "Pok\u00e9mon weak to Water, especially in formats with type-locking moves like 'Soak' or 'Trick-or-Treat'"
+  ]
+}

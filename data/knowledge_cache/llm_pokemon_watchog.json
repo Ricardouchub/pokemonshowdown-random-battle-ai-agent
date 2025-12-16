@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"watchog\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"hazard-setter\", \"status-spreader\", \"early-game-disruptor\"],\n    \"notable_moves\": [\"super-fang\", \"hypnosis\", \"confuse-ray\", \"knock-off\"],\n    \"abilities\": [\"illuminate\", \"keen-eye\", \"analytic\"],\n    \"common_items\": [\"leftovers\", \"focus-sash\"],\n    \"summary\": \"a disruptive normal-type known for hazard setting, status spreading, and early-game disruption with moves like super-fang and hypnosis.\"\n}\n```"
+}

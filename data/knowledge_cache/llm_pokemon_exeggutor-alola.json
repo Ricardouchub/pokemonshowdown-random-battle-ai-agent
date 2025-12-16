@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"exeggutor-alola\",\n    \"types\": [\"grass\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"trick room sweeper\"],\n    \"notable_moves\": [\"draco meteor\", \"leaf storm\", \"flamethrower\", \"trick room\"],\n    \"abilities\": [\"frisk\", \"harvest\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"sitrus berry\"],\n    \"summary\": \"alolan variant with high special attack and unique typing, excels at breaking through defensive cores under trick room or with powerful stab moves.\"\n}\n```"
+}

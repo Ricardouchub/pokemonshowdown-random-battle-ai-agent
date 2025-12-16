@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"qwilfish\",\n    \"types\": [\"water\", \"poison\"],\n    \"roles\": [\"spiker\", \"physical wall\", \"poison spreader\"],\n    \"notable_moves\": [\"spikes\", \"toxic spikes\", \"poison jab\", \"waterfall\", \"destiny bond\"],\n    \"abilities\": [\"poison point\", \"swift swim\", \"intimidate\"],\n    \"common_items\": [\"black sludge\", \"leftovers\", \"focus sash\"],\n    \"summary\": \"bulky water-type known for setting hazards and spreading poison status.\"\n}\n```"
+}

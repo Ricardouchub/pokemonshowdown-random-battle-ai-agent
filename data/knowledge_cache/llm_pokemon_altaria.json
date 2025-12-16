@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"altaria\",\n    \"types\": [\"dragon\", \"flying\"],\n    \"roles\": [\"special wall\", \"cleric\", \"dragon dancer\"],\n    \"notable_moves\": [\"draco meteor\", \"roost\", \"hyper voice\", \"defog\"],\n    \"abilities\": [\"natural cure\", \"cloud nine\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"bulky dragon-flying type known for its defensive utility, healing support, and ability to control weather effects.\"\n}\n```"
+}

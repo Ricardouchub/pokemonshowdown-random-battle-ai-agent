@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"darkrai\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"special sweeper\", \"status spreader\", \"wallbreaker\"],\n    \"notable_moves\": [\"dark pulse\", \"nasty plot\", \"hypnosis\", \"sludge bomb\"],\n    \"abilities\": [\"bad dreams\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"choice specs\"],\n    \"summary\": \"mythical dark-type known for putting foes to sleep and dealing massive special damage with nasty plot boosts.\"\n}\n```"
+}

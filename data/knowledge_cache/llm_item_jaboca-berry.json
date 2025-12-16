@@ -1,0 +1,8 @@
+{
+  "item": "Jaboca Berry",
+  "category": "Berries",
+  "summary": "When hit by a physical move, the berry is consumed and deals damage equal to 1/8 of the attacker's max HP.",
+  "typical_users": [
+    "Pok\u00e9mon with low Defense but high HP, like Snorlax or Wobbuffet, to punish physical attackers"
+  ]
+}

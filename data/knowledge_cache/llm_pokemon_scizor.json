@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"scizor\",\n    \"types\": [\"bug\", \"steel\"],\n    \"roles\": [\"physical sweeper\", \"pivot\", \"bulky attacker\"],\n    \"notable_moves\": [\"bullet punch\", \"u-turn\", \"close combat\", \"swords dance\"],\n    \"abilities\": [\"technician\", \"light metal\", \"swarm\"],\n    \"common_items\": [\"choice band\", \"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"a powerful bug/steel type with priority bullet punch, strong technician-boosted moves, and excellent defensive typing.\"\n}\n```"
+}

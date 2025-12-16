@@ -1,0 +1,12 @@
+{
+  "item": "Sharp Beak",
+  "category": "Type-Boosting Item",
+  "summary": "Increases the power of Flying-type moves by 20%.",
+  "typical_users": [
+    "Talonflame",
+    "Staraptor",
+    "Cramorant",
+    "Braviary",
+    "Hawlucha"
+  ]
+}

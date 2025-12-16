@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"geodude-alola\",\n    \"types\": [\"rock\", \"electric\"],\n    \"roles\": [\"stealth rock setter\", \"physical wall\", \"offensive pivot\"],\n    \"notable_moves\": [\"stealth rock\", \"voltage switch\", \"stone edge\", \"earthquake\"],\n    \"abilities\": [\"magnet pull\", \"sturdy\", \"galvanize\"],\n    \"common_items\": [\"air balloon\", \"leftovers\", \"rocky helmet\"],\n    \"summary\": \"alolan geodude trades ground typing for electric, gaining magnet pull to trap steel types and galvanize for boosted normal moves. functions as a sturdy rocker with volt switch momentum.\"\n}\n```"
+}

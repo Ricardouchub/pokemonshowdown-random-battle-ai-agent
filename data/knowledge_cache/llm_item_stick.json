@@ -1,0 +1,9 @@
+{
+  "item": "Stick",
+  "category": "Held Item",
+  "summary": "Doubles the critical hit ratio of Farfetch'd and Sirfetch'd only.",
+  "typical_users": [
+    "Farfetch'd",
+    "Sirfetch'd"
+  ]
+}

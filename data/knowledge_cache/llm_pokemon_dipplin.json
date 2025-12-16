@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dipplin\",\n    \"types\": [\"grass\", \"dragon\"],\n    \"roles\": [\"defensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"syrup bomb\", \"dragon cheer\", \"recover\", \"protect\"],\n    \"abilities\": [\"supersweet syrup\", \"gluttony\", \"sticky hold\"],\n    \"common_items\": [\"eviolite\", \"sitrus berry\"],\n    \"summary\": \"eviolite-boosted defensive pok\u00e9mon with unique syrup bomb setup and healing utility.\"\n}\n```"
+}

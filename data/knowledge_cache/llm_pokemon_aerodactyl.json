@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"aerodactyl\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"lead\", \"revenge killer\", \"wallbreaker\"],\n    \"notable_moves\": [\"stone edge\", \"dual wingbeat\", \"earthquake\", \"ice fang\"],\n    \"abilities\": [\"rock head\", \"pressure\", \"unnerve\"],\n    \"common_items\": [\"choice band\", \"focus sash\", \"life orb\"],\n    \"summary\": \"fast rock/flying attacker with strong offensive pressure, often used as a lead or late-game cleaner.\"\n}\n```"
+}

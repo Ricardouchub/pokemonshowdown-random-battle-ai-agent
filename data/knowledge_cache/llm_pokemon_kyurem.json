@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kyurem\",\n    \"types\": [\"dragon\", \"ice\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\", \"mixed attacker\"],\n    \"notable_moves\": [\"draco meteor\", \"ice beam\", \"freeze-dry\", \"earth power\", \"fusion bolt\"],\n    \"abilities\": [\"pressure\", \"turboblaze\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"heavy-duty boots\"],\n    \"summary\": \"a powerful dragon-ice legendary with high offensive stats, capable of breaking through many defensive cores with its strong stabs and coverage.\"\n}\n```"
+}

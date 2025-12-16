@@ -1,0 +1,10 @@
+{
+  "item": "Max Repel",
+  "category": "Field",
+  "summary": "Prevents wild Pok\u00e9mon encounters for 250 steps, except those higher level than the lead Pok\u00e9mon.",
+  "typical_users": [
+    "Speedrunners",
+    "Competitive breeders",
+    "Explorers avoiding low-level wild Pok\u00e9mon"
+  ]
+}

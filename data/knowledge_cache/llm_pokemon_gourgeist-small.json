@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gourgeist-small\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"wallbreaker\", \"trick-room-sweeper\"],\n    \"notable_moves\": [\"shadow-sneak\", \"seed-bomb\", \"trick-room\", \"will-o-wisp\"],\n    \"abilities\": [\"pickup\", \"frisk\", \"insomnia\"],\n    \"common_items\": [\"life-orb\", \"leftovers\", \"choice-band\"],\n    \"summary\": \"smallest gourgeist form with high speed for its line, using trick room to outspeed foes or priority shadow-sneak. a physical ghost/grass attacker.\"\n}\n```"
+}

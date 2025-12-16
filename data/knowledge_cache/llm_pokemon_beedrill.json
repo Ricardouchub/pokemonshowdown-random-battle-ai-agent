@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"beedrill\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"offensive pivot\", \"revenge killer\", \"setup sweeper\"],\n    \"notable_moves\": [\"uturn\", \"poison jab\", \"drill run\", \"knock off\", \"fell stinger\"],\n    \"abilities\": [\"swarm\", \"sniper\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"focus sash\"],\n    \"summary\": \"fast bug/poison attacker with strong stabs and pivot utility; excels at revenge killing and late-game cleaning.\"\n}\n```"
+}

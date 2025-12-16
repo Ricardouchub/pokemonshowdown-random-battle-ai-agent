@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tynamo\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"setup sweeper\", \"early-game attacker\"],\n    \"notable_moves\": [\"spark\", \"charge beam\", \"tackle\", \"thunder wave\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"eviolite\", \"berry juice\"],\n    \"summary\": \"basic electric-type with levitate, evolves into eelektrik. often uses eviolite in little cup.\"\n}\n```"
+}

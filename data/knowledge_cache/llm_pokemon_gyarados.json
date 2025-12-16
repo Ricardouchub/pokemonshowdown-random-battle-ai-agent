@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gyarados\",\n    \"types\": [\"water\", \"flying\"],\n    \"roles\": [\"physical sweeper\", \"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"waterfall\", \"dragon dance\", \"earthquake\", \"ice fang\", \"crunch\"],\n    \"abilities\": [\"intimidate\", \"moxie\"],\n    \"common_items\": [\"life orb\", \"leftovers\", \"lum berry\"],\n    \"summary\": \"feared physical attacker with dragon dance setup, intimidate support, and strong coverage moves.\"\n}\n```"
+}

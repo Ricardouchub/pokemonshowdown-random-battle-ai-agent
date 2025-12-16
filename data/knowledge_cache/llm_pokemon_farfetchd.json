@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"farfetch'd\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"physical attacker\", \"utility\"],\n    \"notable_moves\": [\"slash\", \"swords dance\", \"fly\", \"knock off\"],\n    \"abilities\": [\"keen eye\", \"inner focus\", \"defiant\"],\n    \"common_items\": [\"stick\", \"choice band\"],\n    \"summary\": \"a quirky bird pok\u00e9mon known for wielding a leek as a weapon. its unique held item, stick, boosts its critical hit ratio, making it a niche but memorable physical attacker.\"\n}\n```"
+}

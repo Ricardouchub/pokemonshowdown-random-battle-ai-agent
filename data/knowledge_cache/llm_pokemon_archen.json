@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"archen\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"offensive pivot\", \"wallbreaker\"],\n    \"notable_moves\": [\"head smash\", \"acrobatics\", \"earthquake\", \"uturn\", \"stone edge\"],\n    \"abilities\": [\"defeatist\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"focus sash\"],\n    \"summary\": \"fossil pok\u00e9mon with high offensive stats but crippled by defeatist ability below half health.\"\n}\n```"
+}

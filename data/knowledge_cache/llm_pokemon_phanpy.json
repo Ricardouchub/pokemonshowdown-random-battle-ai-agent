@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"phanpy\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"physical wall\", \"hazard setter\", \"support\"],\n    \"notable_moves\": [\"earthquake\", \"stealth rock\", \"knock off\", \"ice shard\", \"rapid spin\"],\n    \"abilities\": [\"pickup\", \"sand veil\"],\n    \"common_items\": [\"leftovers\", \"eviolite\", \"rocky helmet\"],\n    \"summary\": \"a small, defensive ground-type known for setting hazards and providing utility with knock off and rapid spin, often using eviolite for bulk.\"\n}\n```"
+}

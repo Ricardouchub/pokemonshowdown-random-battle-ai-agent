@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rolycoly\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"hazard_setter\", \"stealth_rock_user\", \"early_game_pivot\"],\n    \"notable_moves\": [\"stealth_rock\", \"rapid_spin\", \"heat_crash\", \"will-o-wisp\"],\n    \"abilities\": [\"steam_engine\", \"heatproof\", \"flash_fire\"],\n    \"common_items\": [\"eviolite\", \"heavy-duty_boots\"],\n    \"summary\": \"a slow rock-type pok\u00e9mon that sets stealth rocks and spins away hazards, often using eviolite for bulk.\"\n}\n```"
+}

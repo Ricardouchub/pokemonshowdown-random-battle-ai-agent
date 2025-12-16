@@ -1,0 +1,11 @@
+{
+  "item": "Shiny Stone",
+  "category": "Evolutionary Item",
+  "summary": "Evolves specific Pok\u00e9mon like Togetic, Roselia, and Minccino when used.",
+  "typical_users": [
+    "Togekiss",
+    "Roserade",
+    "Cinccino",
+    "Florges"
+  ]
+}

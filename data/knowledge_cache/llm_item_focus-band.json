@@ -1,0 +1,8 @@
+{
+  "item": "Focus Band",
+  "category": "Held Item",
+  "summary": "Has a 10% chance to leave the holder with 1 HP when an attack would otherwise KO it.",
+  "typical_users": [
+    "Pok\u00e9mon with Sturdy ability, gimmick sets, or in low-stakes formats where luck-based survival can swing games"
+  ]
+}

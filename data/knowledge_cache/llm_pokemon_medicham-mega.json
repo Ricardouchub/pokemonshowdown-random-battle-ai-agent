@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"medicham-mega\",\n    \"types\": [\"fighting\", \"psychic\"],\n    \"roles\": [\"wallbreaker\", \"cleaner\"],\n    \"notable_moves\": [\"high-jump-kick\", \"zen-headbutt\", \"ice-punch\", \"fake-out\"],\n    \"abilities\": [\"pure-power\"],\n    \"common_items\": [\"medichamite\"],\n    \"summary\": \"massive attack stat with pure power, frail but hits extremely hard with dual stabs and coverage.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"giratina-altered\",\n    \"types\": [\"ghost\", \"dragon\"],\n    \"roles\": [\"wall\", \"defensive pivot\", \"hazard setter\"],\n    \"notable_moves\": [\"shadow ball\", \"dragon pulse\", \"will-o-wisp\", \"defog\", \"toxic\"],\n    \"abilities\": [\"pressure\"],\n    \"common_items\": [\"leftovers\", \"griseous orb\"],\n    \"summary\": \"bulky ghost-dragon with great defensive stats, often used as a defensive wall and utility mon with status moves and hazard control.\"\n}\n```"
+}

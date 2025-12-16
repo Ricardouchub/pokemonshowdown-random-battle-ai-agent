@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dodrio\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\", \"scout\"],\n    \"notable_moves\": [\"return\", \"brave bird\", \"jump kick\", \"quick attack\", \"pursuit\"],\n    \"abilities\": [\"run away\", \"early bird\", \"tangled feet\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"sharp beak\"],\n    \"summary\": \"fast normal/flying attacker with strong stab moves and coverage, often used as a physical sweeper or revenge killer due to its high speed and attack.\"\n}\n```"
+}

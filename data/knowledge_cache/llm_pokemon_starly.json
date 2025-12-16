@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"starly\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"early-game sweeper\", \"revenge killer\", \"setup sweeper\"],\n    \"notable_moves\": [\"brave bird\", \"return\", \"quick attack\", \"u-turn\", \"endeavor\"],\n    \"abilities\": [\"keen eye\", \"reckless\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"focus sash\"],\n    \"summary\": \"basic early-game bird with strong normal/flying stab and reckless-boosted brave bird. fragile but hits hard for its tier.\"\n}\n```"
+}

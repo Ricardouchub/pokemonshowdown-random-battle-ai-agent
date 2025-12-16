@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"darumaka-galar\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"icicle crash\", \"flare blitz\", \"superpower\", \"uturn\"],\n    \"abilities\": [\"hustle\", \"inner-focus\"],\n    \"common_items\": [\"choice-band\", \"heavy-duty-boots\"],\n    \"summary\": \"galarian darumaka is an aggressive ice-type physical attacker with high attack and hustle, but poor defenses and accuracy issues.\"\n}\n```"
+}

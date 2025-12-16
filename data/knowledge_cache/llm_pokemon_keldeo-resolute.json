@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"keldeo-resolute\",\n    \"types\": [\"water\", \"fighting\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"secret sword\", \"hydro pump\", \"icy wind\", \"calm mind\"],\n    \"abilities\": [\"justified\"],\n    \"common_items\": [\"choice specs\", \"life orb\"],\n    \"summary\": \"mythical water/fighting special attacker with secret sword, using physical defense for damage calculation.\"\n}\n```"
+}

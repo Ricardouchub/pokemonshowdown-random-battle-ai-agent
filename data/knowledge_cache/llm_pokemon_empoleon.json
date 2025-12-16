@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"empoleon\",\n    \"types\": [\"water\", \"steel\"],\n    \"roles\": [\"defensive pivot\", \"special attacker\", \"stealth rock setter\"],\n    \"notable_moves\": [\"scald\", \"flash cannon\", \"ice beam\", \"stealth rock\", \"roar\"],\n    \"abilities\": [\"torrent\", \"defiant\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"choice specs\"],\n    \"summary\": \"a bulky water/steel type with good defensive typing and utility, often used as a defensive pivot and stealth rock setter.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"joltik\",\n    \"types\": [\"bug\", \"electric\"],\n    \"roles\": [\"sticky web setter\", \"pivot\", \"special attacker\"],\n    \"notable_moves\": [\"sticky web\", \"voltswitch\", \"thunderbolt\", \"energy ball\"],\n    \"abilities\": [\"compound eyes\", \"unnerve\", \"swarm\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice specs\"],\n    \"summary\": \"tiny bug/electric spider known for setting sticky web to control speed, pivoting with voltswitch, and hitting surprisingly hard with compound eyes-boosted thunderbolt.\"\n}\n```"
+}

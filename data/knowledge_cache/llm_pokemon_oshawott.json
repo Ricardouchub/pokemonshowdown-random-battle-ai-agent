@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"oshawott\",\n    \"types\": [\"water\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"razor shell\", \"aqua jet\", \"swords dance\", \"sacred sword\"],\n    \"abilities\": [\"torrent\", \"shell armor\"],\n    \"common_items\": [\"eviolite\", \"life orb\", \"choice scarf\"],\n    \"summary\": \"a versatile water-type starter with solid offensive tools, capable of setting up with swords dance or revenge killing with priority aqua jet. evolves into dewott.\"\n}\n```"
+}

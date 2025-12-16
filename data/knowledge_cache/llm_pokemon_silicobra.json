@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"silicobra\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"hazard setter\", \"defensive pivot\"],\n    \"notable_moves\": [\"stealth rock\", \"earthquake\", \"glare\", \"rest\"],\n    \"abilities\": [\"sand spit\", \"shed skin\", \"sand veil\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive ground-type focused on setting stealth rock and spreading paralysis with glare, utilizing its decent bulk and recovery options.\"\n}\n```"
+}

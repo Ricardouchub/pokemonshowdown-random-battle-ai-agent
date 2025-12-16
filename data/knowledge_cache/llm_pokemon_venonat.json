@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"venonat\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"status-spreader\", \"early-game-wall\"],\n    \"notable_moves\": [\"sleep-powder\", \"stun-spore\", \"psychic\", \"leech-life\"],\n    \"abilities\": [\"compound-eyes\", \"tinted-lens\", \"run-away\"],\n    \"common_items\": [\"black-sludge\", \"leftovers\"],\n    \"summary\": \"a bulky early-game bug/poison type known for spreading sleep and paralysis with its powder moves, often using compound-eyes for accuracy.\"\n}\n```"
+}

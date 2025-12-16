@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"passimian\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical attacker\", \"team support\"],\n    \"notable_moves\": [\"close combat\", \"knock off\", \"uturn\", \"seed bomb\", \"rock slide\"],\n    \"abilities\": [\"receiver\", \"defiant\"],\n    \"common_items\": [\"choice band\", \"assault vest\", \"focus sash\"],\n    \"summary\": \"a team-oriented fighting-type that excels at passing boosts with receiver or punishing stat drops with defiant. functions as a strong physical attacker and utility pivot.\"\n}\n```"
+}

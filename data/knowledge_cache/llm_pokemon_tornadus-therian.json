@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tornadus-therian\",\n    \"types\": [\"flying\"],\n    \"roles\": [\"pivot\", \"defogger\", \"special_attacker\"],\n    \"notable_moves\": [\"hurricane\", \"bleakwind_storm\", \"uturn\", \"nasty_plot\"],\n    \"abilities\": [\"regenerator\"],\n    \"common_items\": [\"heavy-duty_boots\", \"leftovers\"],\n    \"summary\": \"bulky special attacker with regenerator, excels as a pivot and hazard remover.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"teddiursa\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"facade\", \"swords dance\", \"close combat\", \"crunch\"],\n    \"abilities\": [\"pickup\", \"quick feet\", \"honey gather\"],\n    \"common_items\": [\"eviolite\", \"flame orb\", \"toxic orb\"],\n    \"summary\": \"a cute but deceptively powerful normal-type that can set up with swords dance and hit hard with facade, often using eviolite for bulk or status orbs to activate quick feet.\"\n}\n```"
+}

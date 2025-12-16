@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pawmot\",\n    \"types\": [\"electric\", \"fighting\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"double shock\", \"close combat\", \"ice punch\", \"revival blessing\"],\n    \"abilities\": [\"natural cure\", \"volt absorb\"],\n    \"common_items\": [\"choice band\", \"focus sash\", \"heavy-duty boots\"],\n    \"summary\": \"evolves from pawmo via walking, unique electric/fighting type with revival blessing utility and strong physical attacks.\"\n}\n```"
+}

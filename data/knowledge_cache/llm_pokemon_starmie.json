@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"starmie\",\n    \"types\": [\"water\", \"psychic\"],\n    \"roles\": [\"rapid_spinner\", \"special_sweeper\", \"revenge_killer\"],\n    \"notable_moves\": [\"hydro_pump\", \"psychic\", \"thunderbolt\", \"ice_beam\", \"rapid_spin\"],\n    \"abilities\": [\"natural_cure\", \"analytic\"],\n    \"common_items\": [\"life_orb\", \"choice_specs\", \"leftovers\"],\n    \"summary\": \"fast water/psychic type with excellent coverage, rapid spin utility, and natural cure ability.\"\n}\n```"
+}

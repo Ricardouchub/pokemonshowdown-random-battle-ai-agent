@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vulpix-alola\",\n    \"types\": [\"ice\", \"fairy\"],\n    \"roles\": [\"hazard setter\", \"weather setter\", \"support\"],\n    \"notable_moves\": [\"aurora veil\", \"blizzard\", \"freeze-dry\", \"moonblast\"],\n    \"abilities\": [\"snow cloak\", \"snow warning\"],\n    \"common_items\": [\"light clay\", \"icy rock\", \"focus sash\"],\n    \"summary\": \"alolan vulpix sets snow and aurora veil for team support, with strong ice/fairy coverage.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zigzagoon\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"hazard-setter\", \"early-game-disruptor\", \"pickup-user\"],\n    \"notable_moves\": [\"belly-drum\", \"extremespeed\", \"seed-bomb\", \"thief\"],\n    \"abilities\": [\"pickup\", \"gluttony\", \"quick-feet\"],\n    \"common_items\": [\"berry-juice\", \"sitrus-berry\", \"choice-band\"],\n    \"summary\": \"a disruptive early-game normal-type known for pickup utility, belly-drum sweeping potential, and hazard setting.\"\n}\n```"
+}

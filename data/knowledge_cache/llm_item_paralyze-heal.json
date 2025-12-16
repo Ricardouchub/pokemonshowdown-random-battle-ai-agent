@@ -1,0 +1,8 @@
+{
+  "item": "Paralyze Heal",
+  "category": "Status Recovery",
+  "summary": "Cures paralysis from a single Pok\u00e9mon.",
+  "typical_users": [
+    "Fast sweepers vulnerable to paralysis (e.g., Weavile, Dragapult), support Pok\u00e9mon needing consistent moves (e.g., Blissey), and teams lacking other paralysis removal (e.g., Heal Bell, Natural Cure)."
+  ]
+}

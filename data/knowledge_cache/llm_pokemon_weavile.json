@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"weavile\",\n    \"types\": [\"dark\", \"ice\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\", \"pursuit trapper\"],\n    \"notable_moves\": [\"knock off\", \"triple axel\", \"ice shard\", \"swords dance\"],\n    \"abilities\": [\"pressure\", \"pickpocket\"],\n    \"common_items\": [\"heavy-duty boots\", \"choice band\", \"life orb\"],\n    \"summary\": \"fast dark/ice attacker with strong priority and utility, weak to fighting and stealth rocks.\"\n}\n```"
+}

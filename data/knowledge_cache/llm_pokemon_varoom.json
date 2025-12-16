@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"varoom\",\n    \"types\": [\"steel\", \"poison\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"shift gear\", \"gunk shot\", \"iron head\", \"spin out\"],\n    \"abilities\": [\"overcoat\", \"slow-start\"],\n    \"common_items\": [\"air balloon\", \"life orb\"],\n    \"summary\": \"a steel/poison engine pok\u00e9mon that uses shift gear to sweep, but is hindered by slow-start.\"\n}\n```"
+}

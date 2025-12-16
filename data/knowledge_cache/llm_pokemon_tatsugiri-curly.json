@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tatsugiri-curly\",\n    \"types\": [\"dragon\", \"water\"],\n    \"roles\": [\"setup-sweeper\", \"defensive-support\"],\n    \"notable_moves\": [\"dragon-pulse\", \"surf\", \"nasty-plot\", \"protect\"],\n    \"abilities\": [\"storm-drain\", \"commander\"],\n    \"common_items\": [\"leftovers\", \"sitrus-berry\"],\n    \"summary\": \"a defensive dragon-water type known for its commander ability, often used in doubles with dondozo to boost its partner's stats while providing setup and support.\"\n}\n```"
+}

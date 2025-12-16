@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tsareena\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"physical sweeper\", \"support\", \"pivot\"],\n    \"notable_moves\": [\"trop kick\", \"power whip\", \"u-turn\", \"rapid spin\", \"synthesis\"],\n    \"abilities\": [\"leaf guard\", \"queenly majesty\", \"sweet veil\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"a physical grass-type attacker known for its signature move trop kick, which lowers the opponent's attack. functions as a pivot and utility mon with u-turn and rapid spin, while its ability queenly majesty provides priority protection.\"\n}\n```"
+}

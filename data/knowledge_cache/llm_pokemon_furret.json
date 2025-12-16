@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"furret\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"pivot\", \"revenge killer\", \"setup sweeper\"],\n    \"notable_moves\": [\"uturn\", \"quick attack\", \"sucker punch\", \"coil\"],\n    \"abilities\": [\"keen eye\", \"frisk\", \"run away\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"silk scarf\"],\n    \"summary\": \"fast normal-type pivot with priority moves and setup potential, but frail defensively.\"\n}\n```"
+}

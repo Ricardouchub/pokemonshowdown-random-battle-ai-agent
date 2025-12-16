@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"excadrill\",\n    \"types\": [\"ground\", \"steel\"],\n    \"roles\": [\"offensive sweeper\", \"hazard setter\", \"wallbreaker\"],\n    \"notable_moves\": [\"earthquake\", \"iron head\", \"rapid spin\", \"swords dance\"],\n    \"abilities\": [\"sand rush\", \"sand force\", \"mold breaker\"],\n    \"common_items\": [\"life orb\", \"air balloon\", \"focus sash\"],\n    \"summary\": \"a powerful ground/steel attacker that excels in sand teams, functioning as a fast sweeper with sand rush or a wallbreaker with mold breaker.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cubone\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"wallbreaker\", \"trick-room-sweeper\"],\n    \"notable_moves\": [\"bonemerang\", \"knock-off\", \"swords-dance\", \"rock-slide\"],\n    \"abilities\": [\"rock-head\", \"lightning-rod\", \"battle-armor\"],\n    \"common_items\": [\"thick-club\", \"eviolite\"],\n    \"summary\": \"ground-type with exclusive thick-club item, known for high attack and bonemerang. often used as a trick room attacker or wallbreaker.\"\n}\n```"
+}

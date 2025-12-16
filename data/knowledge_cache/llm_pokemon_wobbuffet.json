@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wobbuffet\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"trap\", \"stall\", \"revenge killer\"],\n    \"notable_moves\": [\"counter\", \"mirror coat\", \"encore\", \"destiny bond\", \"safeguard\"],\n    \"abilities\": [\"shadow tag\", \"telepathy\"],\n    \"common_items\": [\"leftovers\", \"custap berry\", \"mental herb\"],\n    \"summary\": \"a pure psychic-type with massive hp and special defense, designed to trap opponents and retaliate with counter or mirror coat. its ability shadow tag prevents switches, making it a potent revenge killer and staller.\"\n}\n```"
+}

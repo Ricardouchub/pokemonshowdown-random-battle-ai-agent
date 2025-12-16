@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"alakazam\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"psychic\", \"focus blast\", \"shadow ball\", \"recover\", \"calm mind\"],\n    \"abilities\": [\"synchronize\", \"inner focus\", \"magic guard\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"choice specs\"],\n    \"summary\": \"a frail but devastating special attacker with immense speed and special attack, often utilizing magic guard to ignore passive damage.\"\n}\n```"
+}

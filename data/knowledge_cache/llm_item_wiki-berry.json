@@ -1,0 +1,9 @@
+{
+  "item": "Wiki Berry",
+  "category": "Berries",
+  "summary": "Restores 1/3 of the user's max HP when HP drops to 1/2 or below, but confuses Pok\u00e9mon that dislike the flavor.",
+  "typical_users": [
+    "Bulky Pok\u00e9mon with neutral or disliked flavors (e.g., Gliscor, Toxapex)",
+    "Some pivot or utility Pok\u00e9mon in draft formats"
+  ]
+}

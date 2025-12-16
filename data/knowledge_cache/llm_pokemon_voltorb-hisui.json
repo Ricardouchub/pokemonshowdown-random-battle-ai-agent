@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"voltorb-hisui\",\n    \"types\": [\"electric\", \"grass\"],\n    \"roles\": [\"hazard setter\", \"pivot\", \"offensive support\"],\n    \"notable_moves\": [\"spikes\", \"energy ball\", \"thunderbolt\", \"voltage switch\", \"foul play\"],\n    \"abilities\": [\"soundproof\", \"static\", \"aftermath\"],\n    \"common_items\": [\"heavy-duty boots\", \"rocky helmet\", \"air balloon\"],\n    \"summary\": \"hisuian voltorb is an electric/grass type with unique hazard-setting utility via spikes, pivoting with voltage switch, and decent offensive pressure. its typing provides key resistances but adds weaknesses to fire and ice.\"\n}\n```"
+}

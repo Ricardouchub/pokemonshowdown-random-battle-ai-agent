@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"electivire\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"wallbreaker\", \"pivot\", \"cleaner\"],\n    \"notable_moves\": [\"wild charge\", \"ice punch\", \"earthquake\", \"volt switch\"],\n    \"abilities\": [\"motor drive\", \"vital spirit\"],\n    \"common_items\": [\"choice band\", \"expert belt\", \"life orb\"],\n    \"summary\": \"physical electric attacker with coverage and pivoting, excels against slower teams.\"\n}\n```"
+}

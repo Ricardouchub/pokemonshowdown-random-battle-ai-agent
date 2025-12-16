@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"quaxwell\",\n    \"types\": [\"water\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"aqua step\", \"brave bird\", \"swords dance\", \"liquidation\"],\n    \"abilities\": [\"torrent\", \"moxie\"],\n    \"common_items\": [\"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"a mid-stage water starter with strong setup potential using aqua step's speed boost and swords dance, often used as an offensive pivot with moxie snowball potential.\"\n}\n```"
+}

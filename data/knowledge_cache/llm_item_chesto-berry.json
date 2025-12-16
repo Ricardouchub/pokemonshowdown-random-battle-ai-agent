@@ -1,0 +1,10 @@
+{
+  "item": "Chesto Berry",
+  "category": "Held Item",
+  "summary": "Restores sleep status condition when activated.",
+  "typical_users": [
+    "RestTalk users (e.g., Snorlax, Suicune)",
+    "Setup sweepers vulnerable to sleep (e.g., Dragonite, Gyarados)",
+    "Pok\u00e9mon using Rest for recovery without losing a turn"
+  ]
+}

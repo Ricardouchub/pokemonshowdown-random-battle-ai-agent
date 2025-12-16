@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"claydol\",\n    \"types\": [\"ground\", \"psychic\"],\n    \"roles\": [\"hazard setter\", \"special wall\", \"rapid spin user\"],\n    \"notable_moves\": [\"stealth rock\", \"rapid spin\", \"earth power\", \"psychic\", \"teleport\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"bulky utility pok\u00e9mon with unique typing, sets hazards, removes them, and pivots.\"\n}\n```"
+}

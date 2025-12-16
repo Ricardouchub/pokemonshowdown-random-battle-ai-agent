@@ -1,0 +1,10 @@
+{
+  "item": "Tamato Berry",
+  "category": "Consumable",
+  "summary": "When held, this Berry is consumed when the holder's Attack is lowered, raising its Speed by one stage instead.",
+  "typical_users": [
+    "Pok\u00e9mon weak to Intimidate (e.g., physical attackers like Garchomp, Dragonite)",
+    "Speed-control strategies on Trick Room teams (to lower Speed)",
+    "Pok\u00e9mon utilizing moves like Foul Play or Body Press that benefit from lower Attack"
+  ]
+}

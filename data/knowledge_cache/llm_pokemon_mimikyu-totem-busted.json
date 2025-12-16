@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mimikyu-totem-busted\",\n    \"types\": [\"ghost\", \"fairy\"],\n    \"roles\": [\"setup sweeper\", \"disguise user\"],\n    \"notable_moves\": [\"swords dance\", \"play rough\", \"shadow sneak\", \"shadow claw\"],\n    \"abilities\": [\"disguise\"],\n    \"common_items\": [\"life orb\", \"ghostium z\"],\n    \"summary\": \"a totem-sized mimikyu with its disguise broken, retaining its powerful disguise ability to set up with swords dance and sweep with priority shadow sneak.\"\n}\n```"
+}

@@ -1,0 +1,12 @@
+{
+  "item": "Dusk Stone",
+  "category": "Evolutionary Item",
+  "summary": "Evolves specific Pok\u00e9mon like Murkrow into Honchkrow or Lampent into Chandelure.",
+  "typical_users": [
+    "Honchkrow",
+    "Chandelure",
+    "Aegislash",
+    "Mismagius",
+    "Doublade"
+  ]
+}

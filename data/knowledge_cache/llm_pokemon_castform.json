@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"castform\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"weather-dependent attacker\", \"gimmick\"],\n    \"notable_moves\": [\"weather ball\", \"hurricane\", \"thunder\", \"fire blast\", \"blizzard\"],\n    \"abilities\": [\"forecast\"],\n    \"common_items\": [\"damp rock\", \"heat rock\", \"icy rock\", \"smooth rock\"],\n    \"summary\": \"a gimmick pok\u00e9mon that changes form and type with weather, but has poor stats and is rarely viable competitively.\"\n}\n```"
+}

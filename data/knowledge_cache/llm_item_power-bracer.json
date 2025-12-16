@@ -1,0 +1,9 @@
+{
+  "item": "Power Bracer",
+  "category": "EV Training",
+  "summary": "Held item that boosts Attack EVs gained from battle by 8, but lowers Speed in battle.",
+  "typical_users": [
+    "Physical attackers during EV training",
+    "Pok\u00e9mon needing Attack EV investment"
+  ]
+}

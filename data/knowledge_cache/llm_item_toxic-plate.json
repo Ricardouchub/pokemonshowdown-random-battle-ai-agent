@@ -1,0 +1,9 @@
+{
+  "item": "Toxic Plate",
+  "category": "Type-Enhancing Item",
+  "summary": "Boosts the power of Poison-type moves by 20% and changes Arceus or Judgment's type to Poison.",
+  "typical_users": [
+    "Arceus (Poison forme)",
+    "Poison-type attackers like Gengar or Toxicroak using Judgment via Transform or Mimicry"
+  ]
+}

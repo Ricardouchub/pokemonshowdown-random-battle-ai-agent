@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"charizard-mega-x\",\n    \"types\": [\"fire\", \"dragon\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"flare blitz\", \"dragon claw\", \"earthquake\", \"roost\"],\n    \"abilities\": [\"tough claws\"],\n    \"common_items\": [\"charizardite x\"],\n    \"summary\": \"mega evolution transforms charizard into a dragon-type physical attacker with tough claws, boosting contact moves. excels at breaking through defensive cores with high attack and strong stabs.\"\n}\n```"
+}

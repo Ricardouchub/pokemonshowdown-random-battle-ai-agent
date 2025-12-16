@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mr-mime\",\n    \"types\": [\"psychic\", \"fairy\"],\n    \"roles\": [\"screen-setter\", \"utility\", \"special-attacker\"],\n    \"notable_moves\": [\"psychic\", \"dazzling-gleam\", \"reflect\", \"light-screen\", \"encore\"],\n    \"abilities\": [\"soundproof\", \"filter\", \"technician\"],\n    \"common_items\": [\"light-clay\", \"leftovers\", \"focus-sash\"],\n    \"summary\": \"a utility pok\u00e9mon known for setting dual screens and disrupting opponents with encore and status moves.\"\n}\n```"
+}

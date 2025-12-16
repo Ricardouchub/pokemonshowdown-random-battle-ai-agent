@@ -1,0 +1,10 @@
+{
+  "item": "Passho Berry",
+  "category": "Damage Reduction Berry",
+  "summary": "Halves damage taken from a super effective Water-type move once when HP is below 25%.",
+  "typical_users": [
+    "Bulky Water-weak Pok\u00e9mon (e.g., Tyranitar, Heatran)",
+    "Setup sweepers vulnerable to Water (e.g., Volcarona)",
+    "Trick Room setters or supporters"
+  ]
+}

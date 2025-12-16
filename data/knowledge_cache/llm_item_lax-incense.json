@@ -1,0 +1,8 @@
+{
+  "item": "Lax Incense",
+  "category": "Held Item",
+  "summary": "Reduces the accuracy of moves targeting the holder by 5% (effectively 0.95x accuracy multiplier).",
+  "typical_users": [
+    "Bulky or support Pok\u00e9mon aiming to disrupt opponents, occasionally used on evasion-focused or stall teams to introduce minor RNG variance."
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"drifloon\",\n    \"types\": [\"ghost\", \"flying\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\", \"disruptor\"],\n    \"notable_moves\": [\"shadow ball\", \"calm mind\", \"substitute\", \"strength sap\", \"thunderbolt\"],\n    \"abilities\": [\"aftermath\", \"unburden\", \"flare boost\"],\n    \"common_items\": [\"leftovers\", \"weakness policy\", \"sitrus berry\"],\n    \"summary\": \"a ghostly balloon pok\u00e9mon that excels at setting up with calm mind and disrupting with strength sap. its unburden ability can enable surprise sweeps.\"\n}\n```"
+}

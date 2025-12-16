@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mareanie\",\n    \"types\": [\"poison\", \"water\"],\n    \"roles\": [\"defensive wall\", \"hazard setter\", \"status spreader\"],\n    \"notable_moves\": [\"toxic spikes\", \"recover\", \"scald\", \"haze\"],\n    \"abilities\": [\"merciless\", \"limber\", \"regenerator\"],\n    \"common_items\": [\"black sludge\", \"rocky helmet\"],\n    \"summary\": \"bulky poison-water type known for regenerator ability, toxic spikes support, and reliable recovery.\"\n}\n```"
+}

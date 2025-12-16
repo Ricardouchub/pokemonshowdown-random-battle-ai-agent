@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shellos\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special wall\", \"hazard setter\"],\n    \"notable_moves\": [\"scald\", \"recover\", \"toxic\", \"ice beam\"],\n    \"abilities\": [\"sticky hold\", \"storm drain\", \"sand force\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive water-type known for its regional forms, using scald and recover to stall opponents.\"\n}\n```"
+}

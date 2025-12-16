@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"spinarak\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"early-game attacker\", \"status spreader\"],\n    \"notable_moves\": [\"poison sting\", \"string shot\", \"night shade\", \"constrict\"],\n    \"abilities\": [\"swarm\", \"insomnia\", \"sniper\"],\n    \"common_items\": [\"oran berry\", \"pecha berry\"],\n    \"summary\": \"a basic bug/poison type known for its web-spinning and early-game utility, often using status moves to hinder opponents.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"greninja-mega\",\n    \"types\": [\"water\", \"dark\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\", \"revenge-killer\"],\n    \"notable_moves\": [\"water-shuriken\", \"dark-pulse\", \"ice-beam\", \"uturn\", \"hydro-pump\"],\n    \"abilities\": [\"protean\"],\n    \"common_items\": [\"greninjaite\"],\n    \"summary\": \"mega evolution with protean, boosting stab moves and enabling unpredictable coverage.\"\n}\n```"
+}

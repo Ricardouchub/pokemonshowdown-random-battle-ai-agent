@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"snubbull\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"wallbreaker\", \"pivot\"],\n    \"notable_moves\": [\"play rough\", \"earthquake\", \"thunder wave\", \"fire punch\"],\n    \"abilities\": [\"intimidate\", \"run away\", \"rattled\"],\n    \"common_items\": [\"choice band\", \"leftovers\"],\n    \"summary\": \"a bulky fairy-type attacker that uses intimidate to weaken physical threats while hitting hard with play rough.\"\n}\n```"
+}

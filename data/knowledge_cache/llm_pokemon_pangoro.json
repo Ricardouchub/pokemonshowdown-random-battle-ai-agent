@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pangoro\",\n    \"types\": [\"fighting\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"assault vest user\", \"priority attacker\"],\n    \"notable_moves\": [\"close combat\", \"knock off\", \"bullet punch\", \"gunkshot\"],\n    \"abilities\": [\"iron fist\", \"mold breaker\", \"scrappy\"],\n    \"common_items\": [\"assault vest\", \"choice band\", \"life orb\"],\n    \"summary\": \"a bulky fighting/dark type with strong coverage and priority, often using assault vest for special bulk or choice band for immediate power.\"\n}\n```"
+}

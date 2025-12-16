@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dugtrio-alola\",\n    \"types\": [\"ground\", \"steel\"],\n    \"roles\": [\"hazard setter\", \"revenge killer\", \"stealth rock user\"],\n    \"notable_moves\": [\"earthquake\", \"iron head\", \"stealth rock\", \"stone edge\"],\n    \"abilities\": [\"sand veil\", \"tangling hair\", \"sand force\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice band\"],\n    \"summary\": \"alolan dugtrio trades speed for bulk and steel typing, functioning as a stealth rock setter with surprising offensive pressure thanks to its unique typing and abilities.\"\n}\n```"
+}

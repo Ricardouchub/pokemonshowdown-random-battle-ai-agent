@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"seel\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky water\", \"hazard setter\", \"support\"],\n    \"notable_moves\": [\"surf\", \"ice beam\", \"toxic\", \"protect\", \"aqua jet\"],\n    \"abilities\": [\"thick fat\", \"hydration\", \"ice body\"],\n    \"common_items\": [\"leftovers\", \"damp rock\"],\n    \"summary\": \"a slow but bulky water-type known for its defensive capabilities and support moves, often used to set up rain or stall with toxic.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"seedot\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"setup\", \"support\"],\n    \"notable_moves\": [\"explosion\", \"leech seed\", \"sunny day\", \"bullet seed\"],\n    \"abilities\": [\"chlorophyll\", \"early bird\", \"pickpocket\"],\n    \"common_items\": [\"focus sash\", \"choice band\"],\n    \"summary\": \"a small acorn pok\u00e9mon used for early-game setup, sun support, or surprise explosion plays.\"\n}\n```"
+}

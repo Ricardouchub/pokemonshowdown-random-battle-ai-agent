@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"klang\",\n    \"types\": [\"steel\"],\n    \"roles\": [\"setup sweeper\", \"defensive pivot\"],\n    \"notable_moves\": [\"shift gear\", \"gear grind\", \"volt switch\", \"return\"],\n    \"abilities\": [\"plus\", \"minus\", \"clear body\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"mid-stage steel-type that uses eviolite for bulk or setup with shift gear. limited by pure steel typing and movepool.\"\n}\n```"
+}

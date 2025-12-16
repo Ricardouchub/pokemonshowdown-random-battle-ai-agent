@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gumshoos-totem\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"wallbreaker\", \"trick-room-sweeper\"],\n    \"notable_moves\": [\"return\", \"facade\", \"crunch\", \"fire-punch\"],\n    \"abilities\": [\"stakeout\"],\n    \"common_items\": [\"choice-band\", \"life-orb\"],\n    \"summary\": \"a larger, slower totem variant with massive attack and stakeout ability to punish switches, excelling in trick room teams as a powerful wallbreaker.\"\n}\n```"
+}

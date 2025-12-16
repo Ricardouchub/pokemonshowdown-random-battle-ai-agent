@@ -1,0 +1,10 @@
+{
+  "item": "King's Rock",
+  "category": "Held Item",
+  "summary": "Adds a 10% flinch chance to moves that do not already have one.",
+  "typical_users": [
+    "Pok\u00e9mon with multi-hit moves (e.g., Cloyster, Cinccino)",
+    "Pok\u00e9mon using moves like Rock Slide or Air Slash for added disruption",
+    "Strategies aiming for flinch hax to disrupt opponents"
+  ]
+}

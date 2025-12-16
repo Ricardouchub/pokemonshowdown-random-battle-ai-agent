@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kricketot\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"early-game\", \"setup\", \"annoyer\"],\n    \"notable_moves\": [\"bide\", \"struggle bug\", \"growl\"],\n    \"abilities\": [\"shed skin\", \"run away\"],\n    \"common_items\": [\"oran berry\", \"focus sash\"],\n    \"summary\": \"a basic early-game bug-type known for bide stalling and minimal utility.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"popplio\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"hydro pump\", \"moonblast\", \"ice beam\", \"encore\"],\n    \"abilities\": [\"torrent\", \"liquid voice\"],\n    \"common_items\": [\"waterium z\", \"choice specs\"],\n    \"summary\": \"a water-type starter known for its strong special attacks and setup potential with moves like encore.\"\n}\n```"
+}

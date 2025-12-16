@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"milotic\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky water\", \"wall\", \"status absorber\", \"setup sweeper\"],\n    \"notable_moves\": [\"scald\", \"recover\", \"ice beam\", \"toxic\", \"dragon tail\"],\n    \"abilities\": [\"marvel scale\", \"competitive\", \"cute charm\"],\n    \"common_items\": [\"leftovers\", \"flame orb\", \"heavy-duty boots\"],\n    \"summary\": \"a graceful defensive water-type known for its high special defense and ability to absorb status conditions, often serving as a durable wall or late-game cleaner.\"\n}\n```"
+}

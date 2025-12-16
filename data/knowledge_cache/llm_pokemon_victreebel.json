@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"victreebel\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"sun sweeper\", \"chlorophyll abuser\", \"wallbreaker\"],\n    \"notable_moves\": [\"solar beam\", \"weather ball\", \"growth\", \"sludge bomb\"],\n    \"abilities\": [\"chlorophyll\", \"gluttony\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"heavy-duty boots\"],\n    \"summary\": \"a potent sun team sweeper that uses chlorophyll to outspeed opponents and growth to boost its special attack, then fires off powerful grass and poison moves.\"\n}\n```"
+}

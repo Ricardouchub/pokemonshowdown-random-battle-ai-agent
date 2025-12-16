@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rayquaza-mega\",\n    \"types\": [\"dragon\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\", \"setup\"],\n    \"notable_moves\": [\"dragon ascent\", \"v-create\", \"extreme speed\", \"earthquake\", \"swords dance\"],\n    \"abilities\": [\"delta stream\"],\n    \"common_items\": [\"life orb\"],\n    \"summary\": \"overwhelming offensive threat with sky-high attack and speed, capable of sweeping teams after setup. delta stream neutralizes its flying-type weaknesses.\"\n}\n```"
+}

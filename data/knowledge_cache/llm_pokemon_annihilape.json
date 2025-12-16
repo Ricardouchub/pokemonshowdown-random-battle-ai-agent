@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"annihilape\",\n    \"types\": [\"fighting\", \"ghost\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"rage fist\", \"close combat\", \"shadow claw\", \"bulk up\", \"drain punch\"],\n    \"abilities\": [\"vital spirit\", \"inner focus\", \"defiant\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"choice band\"],\n    \"summary\": \"a relentless physical attacker that powers up its signature move rage fist by taking hits, making it dangerous after sustained damage.\"\n}\n```"
+}

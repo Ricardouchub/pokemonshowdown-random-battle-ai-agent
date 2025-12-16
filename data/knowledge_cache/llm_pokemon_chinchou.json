@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"chinchou\",\n    \"types\": [\"water\", \"electric\"],\n    \"roles\": [\"pivot\", \"special wall\", \"voltage switch user\"],\n    \"notable_moves\": [\"voltage switch\", \"scald\", \"thunderbolt\", \"ice beam\", \"toxic\"],\n    \"abilities\": [\"volt absorb\", \"illuminate\", \"water absorb\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"air balloon\"],\n    \"summary\": \"bulky water-electric pivot with unique volt absorb immunity, known for its defensive utility and slow voltage switch momentum.\"\n}\n```"
+}

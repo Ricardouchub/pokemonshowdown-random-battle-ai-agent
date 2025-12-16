@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mantyke\",\n    \"types\": [\"water\", \"flying\"],\n    \"roles\": [\"special sweeper\", \"support\", \"rain abuser\"],\n    \"notable_moves\": [\"surf\", \"air slash\", \"ice beam\", \"tailwind\", \"roost\"],\n    \"abilities\": [\"swift swim\", \"water absorb\", \"water veil\"],\n    \"common_items\": [\"damp rock\", \"life orb\", \"focus sash\"],\n    \"summary\": \"a small, swift water-flying type that evolves into mantine when leveled up with a remoraid in the party. excels in rain teams with swift swim, using special attacks or support moves like tailwind.\"\n}\n```"
+}

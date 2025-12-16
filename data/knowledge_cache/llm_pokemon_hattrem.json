@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hattrem\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"support\", \"trick room setter\", \"special wall\"],\n    \"notable_moves\": [\"psychic\", \"dazzling gleam\", \"nuzzle\", \"healing wish\"],\n    \"abilities\": [\"healer\", \"anticipation\", \"magic bounce\"],\n    \"common_items\": [\"leftovers\", \"safety goggles\", \"mental herb\"],\n    \"summary\": \"a supportive psychic-type that disrupts opponents with status and provides team utility with healing wish and trick room.\"\n}\n```"
+}

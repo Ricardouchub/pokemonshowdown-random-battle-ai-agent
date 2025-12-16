@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rockruff-own-tempo\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"eviolite-wall\", \"setup-sweeper\"],\n    \"notable_moves\": [\"rock-blast\", \"body-press\", \"substitute\", \"protect\"],\n    \"abilities\": [\"own-tempo\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"unique rockruff form that cannot evolve but gains bulk with eviolite, often used as a defensive rock-type with setup potential.\"\n}\n```"
+}

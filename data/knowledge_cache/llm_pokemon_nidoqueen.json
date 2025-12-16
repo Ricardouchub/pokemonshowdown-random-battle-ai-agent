@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"nidoqueen\",\n    \"types\": [\"poison\", \"ground\"],\n    \"roles\": [\"tank\", \"hazard setter\", \"wallbreaker\"],\n    \"notable_moves\": [\"earth power\", \"sludge wave\", \"stealth rock\", \"toxic spikes\"],\n    \"abilities\": [\"poison point\", \"rivalry\", \"sheer force\"],\n    \"common_items\": [\"life orb\", \"leftovers\", \"black sludge\"],\n    \"summary\": \"bulky poison/ground type with versatile support and offensive capabilities, often used for hazard control and tanking hits.\"\n}\n```"
+}

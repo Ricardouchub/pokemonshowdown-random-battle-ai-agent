@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rotom\",\n    \"types\": [\"electric\", \"ghost\"],\n    \"roles\": [\"special sweeper\", \"pivot\", \"status spreader\"],\n    \"notable_moves\": [\"overheat\", \"thunderbolt\", \"will-o-wisp\", \"volt switch\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"choice scarf\", \"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"versatile electric-ghost with form changes and levitate immunity.\"\n}\n```"
+}

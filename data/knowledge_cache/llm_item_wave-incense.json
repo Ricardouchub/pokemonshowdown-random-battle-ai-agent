@@ -1,0 +1,8 @@
+{
+  "item": "Wave Incense",
+  "category": "Held Item",
+  "summary": "Boosts the power of Water-type moves by 20% when held, similar to Mystic Water but with a different name.",
+  "typical_users": [
+    "Water-type attackers like Greninja, Gyarados, or Tapu Fini to increase damage output without using a Choice item or Life Orb."
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"jolteon\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast sweeper\", \"revenge killer\", \"pivot\"],\n    \"notable_moves\": [\"thunderbolt\", \"voltswitch\", \"shadow ball\", \"hidden power ice\"],\n    \"abilities\": [\"volt absorb\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"extremely fast electric sweeper with strong special attacks and pivoting utility via voltswitch.\"\n}\n```"
+}

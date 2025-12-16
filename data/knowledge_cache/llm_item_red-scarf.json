@@ -1,0 +1,8 @@
+{
+  "item": "Red Scarf",
+  "category": "Held Item",
+  "summary": "Boosts the power of the holder's Normal-type moves by 20%.",
+  "typical_users": [
+    "Pok\u00e9mon with strong Normal-type STAB moves like Porygon-Z, Ursaluna, or Maushold"
+  ]
+}

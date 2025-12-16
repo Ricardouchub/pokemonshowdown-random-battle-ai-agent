@@ -1,0 +1,12 @@
+{
+  "item": "Spell Tag",
+  "category": "Held Item",
+  "summary": "Boosts the power of Ghost-type moves by 20%.",
+  "typical_users": [
+    "Gengar",
+    "Dragapult",
+    "Annihilape",
+    "Chandelure",
+    "Mimikyu"
+  ]
+}

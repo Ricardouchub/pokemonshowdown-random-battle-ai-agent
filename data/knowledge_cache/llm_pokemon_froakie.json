@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"froakie\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special attacker\", \"fast sweeper\"],\n    \"notable_moves\": [\"hydro pump\", \"ice beam\", \"dark pulse\", \"uturn\"],\n    \"abilities\": [\"torrent\", \"protean\"],\n    \"common_items\": [\"life orb\", \"focus sash\"],\n    \"summary\": \"a fast water-type starter with protean ability to change types, excelling as a special attacker with diverse coverage.\"\n}\n```"
+}

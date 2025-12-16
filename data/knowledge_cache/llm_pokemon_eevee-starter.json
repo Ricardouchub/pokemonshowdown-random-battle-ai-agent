@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"eevee-starter\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"setup-sweeper\", \"versatile-attacker\", \"early-game-threat\"],\n    \"notable_moves\": [\"last-resort\", \"quick-attack\", \"bite\", \"double-edge\"],\n    \"abilities\": [\"adaptability\", \"run-away\"],\n    \"common_items\": [\"eviolite\", \"choice-band\", \"life-orb\"],\n    \"summary\": \"a versatile starter pok\u00e9mon with high adaptability, capable of evolving into many forms but often kept unevolved for its unique movepool and early-game sweeping potential.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"loudred\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"wallbreaker\", \"hazard setter\"],\n    \"notable_moves\": [\"boomburst\", \"hyper voice\", \"stealth rock\", \"fire blast\"],\n    \"abilities\": [\"soundproof\", \"scrappy\"],\n    \"common_items\": [\"life orb\", \"choice specs\"],\n    \"summary\": \"a loud sound-based attacker that can bypass ghosts with scrappy and set hazards.\"\n}\n```"
+}

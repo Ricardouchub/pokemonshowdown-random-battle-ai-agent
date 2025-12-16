@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"panpour\",\n    \"types\": [\"water\"],\n    \"roles\": [\"support\", \"fast attacker\"],\n    \"notable_moves\": [\"scald\", \"grass knot\", \"taunt\", \"nasty plot\"],\n    \"abilities\": [\"gluttony\"],\n    \"common_items\": [\"occa berry\", \"focus sash\"],\n    \"summary\": \"a fast water-type monkey that provides team support with taunt and can sweep with nasty plot boosts.\"\n}\n```"
+}

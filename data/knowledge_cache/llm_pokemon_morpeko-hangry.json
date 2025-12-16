@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"morpeko-hangry\",\n    \"types\": [\"electric\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"revenge-killer\"],\n    \"notable_moves\": [\"aura-wheel\", \"parting-shot\", \"seed-bomb\", \"psychic-fangs\"],\n    \"abilities\": [\"hunger-switch\"],\n    \"common_items\": [\"choice-band\", \"life-orb\"],\n    \"summary\": \"electric/dark form with aura-wheel boosting speed; excels at breaking through defensive cores with strong stab moves and pivoting.\"\n}\n```"
+}

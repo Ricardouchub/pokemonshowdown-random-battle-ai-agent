@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"heracross-mega\",\n    \"types\": [\"bug\", \"fighting\"],\n    \"roles\": [\"wallbreaker\", \"cleaner\", \"sweeper\"],\n    \"notable_moves\": [\"pin missile\", \"close combat\", \"rock blast\", \"bullet seed\", \"swords dance\"],\n    \"abilities\": [\"skill link\"],\n    \"common_items\": [\"heracronite\"],\n    \"summary\": \"mega evolution with skill link boosts multi-hit moves to devastating power, making it a premier physical wallbreaker.\"\n}\n```"
+}

@@ -1,0 +1,10 @@
+{
+  "item": "TM31",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Brick Break, a reliable Fighting-type physical attack (75 power, 100% accuracy) that also removes the opponent's Reflect, Light Screen, and Aurora Veil.",
+  "typical_users": [
+    "Physical attackers needing coverage against Normal, Rock, Steel, Ice, and Dark types",
+    "Pok\u00e9mon to counter screens-based stall teams",
+    "Common users include Lucario, Infernape, Blaziken, and various sweepers lacking Fighting-type moves"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gastrodon\",\n    \"types\": [\"water\", \"ground\"],\n    \"roles\": [\"tank\", \"wallbreaker\", \"hazard setter\"],\n    \"notable_moves\": [\"scald\", \"earth power\", \"recover\", \"toxic\", \"stealth rock\"],\n    \"abilities\": [\"sticky hold\", \"storm drain\", \"sand force\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"rocky helmet\"],\n    \"summary\": \"a bulky water/ground type with reliable recovery, strong defensive typing, and ability to absorb water moves.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vanillish\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"special attacker\", \"hazard setter\"],\n    \"notable_moves\": [\"blizzard\", \"freeze-dry\", \"autotomize\", \"flash cannon\"],\n    \"abilities\": [\"ice body\", \"snow cloak\", \"weak armor\"],\n    \"common_items\": [\"never-melt-ice\", \"focus sash\"],\n    \"summary\": \"mid-stage ice-type with decent special attack, often used to set up hail or sweep after autotomize.\"\n}\n```"
+}

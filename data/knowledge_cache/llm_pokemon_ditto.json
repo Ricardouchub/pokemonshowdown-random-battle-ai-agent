@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ditto\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"transformer\", \"scout\", \"imposter\"],\n    \"notable_moves\": [\"transform\"],\n    \"abilities\": [\"limber\", \"imposter\"],\n    \"common_items\": [\"choice scarf\", \"metal powder\"],\n    \"summary\": \"copies opponent's species, stats, moves, and types with transform. imposter ability transforms immediately upon entering battle.\"\n}\n```"
+}

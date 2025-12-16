@@ -1,0 +1,10 @@
+{
+  "item": "TM44",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Rest, which fully heals the user and puts it to sleep for two turns, curing status conditions.",
+  "typical_users": [
+    "Bulky setup sweepers (e.g., Snorlax, Suicune)",
+    "Pok\u00e9mon with Sleep Talk",
+    "Stall or defensive Pok\u00e9mon for recovery"
+  ]
+}

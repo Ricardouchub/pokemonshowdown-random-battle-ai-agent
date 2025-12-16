@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"oricorio-sensu\",\n    \"types\": [\"ghost\", \"flying\"],\n    \"roles\": [\"special sweeper\", \"dancer\"],\n    \"notable_moves\": [\"revelation dance\", \"hurricane\", \"calm mind\", \"roost\"],\n    \"abilities\": [\"dancer\"],\n    \"common_items\": [\"ghostium z\", \"flyinium z\", \"life orb\"],\n    \"summary\": \"ghost/flying dancer with unique stab in revelation dance, boosted by z-moves for sweeping.\"\n}\n```"
+}

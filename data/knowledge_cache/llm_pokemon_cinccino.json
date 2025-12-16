@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cinccino\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"hazard removal\", \"revenge killer\", \"support\"],\n    \"notable_moves\": [\"tail slap\", \"bullet seed\", \"knock off\", \"uturn\", \"rock blast\"],\n    \"abilities\": [\"skill link\", \"technician\", \"cute charm\"],\n    \"common_items\": [\"king's rock\", \"life orb\", \"choice band\"],\n    \"summary\": \"fast normal-type with skill link for multi-hit moves, often used to clear hazards with rapid spin or deal consistent damage.\"\n}\n```"
+}

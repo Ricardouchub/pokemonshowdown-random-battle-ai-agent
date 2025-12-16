@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kleavor\",\n    \"types\": [\"bug\", \"rock\"],\n    \"roles\": [\"wallbreaker\", \"stealth rock setter\", \"physical sweeper\"],\n    \"notable_moves\": [\"stone axe\", \"x-scissor\", \"close combat\", \"swords dance\", \"stealth rock\"],\n    \"abilities\": [\"swarm\", \"sheer force\", \"sharpness\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"ancient bug-rock evolution of scyther with high attack and signature stone axe move that sets stealth rock.\"\n}\n```"
+}

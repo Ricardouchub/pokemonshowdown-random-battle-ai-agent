@@ -1,0 +1,10 @@
+{
+  "item": "TM17",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Protect, a priority move that shields the user from most attacks for that turn, with decreasing success if used consecutively.",
+  "typical_users": [
+    "Stall and defensive Pok\u00e9mon",
+    "Setup sweepers needing safe turns",
+    "Support Pok\u00e9mon in Doubles/VGC"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"nidoran-f\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"toxic-staller\", \"early-game-wall\"],\n    \"notable_moves\": [\"toxic\", \"double-kick\", \"poison-sting\", \"bite\"],\n    \"abilities\": [\"poison-point\", \"rivalry\", \"hustle\"],\n    \"common_items\": [\"poison-barb\", \"black-sludge\"],\n    \"summary\": \"basic poison-type with early-game utility and status-inducing potential.\"\n}\n```"
+}

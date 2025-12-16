@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"primarina\",\n    \"types\": [\"water\", \"fairy\"],\n    \"roles\": [\"special attacker\", \"bulky attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"sparkling aria\", \"moonblast\", \"psychic\", \"calm mind\", \"energy ball\"],\n    \"abilities\": [\"torrent\", \"liquid voice\"],\n    \"common_items\": [\"choice specs\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"a water/fairy special attacker with strong stabs, good bulk, and versatile coverage.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"graveler-alola\",\n    \"types\": [\"rock\", \"electric\"],\n    \"roles\": [\"trick room attacker\", \"stealth rock setter\", \"wallbreaker\"],\n    \"notable_moves\": [\"stone edge\", \"discharge\", \"earthquake\", \"explosion\"],\n    \"abilities\": [\"magnet pull\", \"sturdy\", \"galvanize\"],\n    \"common_items\": [\"air balloon\", \"weakness policy\", \"focus sash\"],\n    \"summary\": \"alolan variant with unique rock/electric typing, magnet pull traps steel types, galavanize boosts normal moves to electric.\"\n}\n```"
+}

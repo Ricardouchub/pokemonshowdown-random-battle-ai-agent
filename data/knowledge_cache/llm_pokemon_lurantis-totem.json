@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lurantis-totem\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"leaf-storm\", \"superpower\", \"hidden-power-fire\", \"synthesis\"],\n    \"abilities\": [\"leaf-guard\"],\n    \"common_items\": [\"life-orb\", \"grassium-z\"],\n    \"summary\": \"a larger, stronger totem variant of lurantis with boosted stats, excelling as a special attacker under sun support.\"\n}\n```"
+}

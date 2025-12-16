@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-rock-star\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special-attacker\", \"fast-sweeper\"],\n    \"notable_moves\": [\"thunderbolt\", \"volttackle\", \"encore\", \"fake-out\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\"],\n    \"summary\": \"a special pikachu form with rock-star attire, known for high special attack with light ball but extremely frail.\"\n}\n```"
+}

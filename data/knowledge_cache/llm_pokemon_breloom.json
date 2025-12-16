@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"breloom\",\n    \"types\": [\"grass\", \"fighting\"],\n    \"roles\": [\"physical sweeper\", \"spore user\", \"revenge killer\"],\n    \"notable_moves\": [\"spore\", \"bullet seed\", \"mach punch\", \"rock tomb\", \"swords dance\"],\n    \"abilities\": [\"effect spore\", \"poison heal\", \"technician\"],\n    \"common_items\": [\"toxic orb\", \"life orb\", \"choice scarf\"],\n    \"summary\": \"a fast physical attacker known for spore support and priority mach punch, often utilizing poison heal or technician.\"\n}\n```"
+}

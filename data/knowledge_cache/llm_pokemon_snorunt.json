@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"snorunt\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"hail-setter\", \"spiker\", \"disruptor\"],\n    \"notable_moves\": [\"spikes\", \"ice-shard\", \"protect\", \"icy-wind\"],\n    \"abilities\": [\"inner-focus\", \"ice-body\", \"moody\"],\n    \"common_items\": [\"focus-sash\", \"icy-rock\"],\n    \"summary\": \"a small ice-type pok\u00e9mon often used to set up hail or entry hazards, with disruptive potential via moody.\"\n}\n```"
+}

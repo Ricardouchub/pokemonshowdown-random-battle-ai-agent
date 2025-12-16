@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grubbin\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"early-game attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"vice grip\", \"bug bite\", \"electroweb\", \"dig\"],\n    \"abilities\": [\"swarm\"],\n    \"common_items\": [\"berry juice\", \"eviolite\"],\n    \"summary\": \"basic bug-type larva that evolves into charjabug, often used early in games for its decent bug-type moves before evolving.\"\n}\n```"
+}

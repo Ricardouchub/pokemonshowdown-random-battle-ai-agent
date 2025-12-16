@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"piloswine\",\n    \"types\": [\"ice\", \"ground\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"stealth rock setter\"],\n    \"notable_moves\": [\"earthquake\", \"icicle crash\", \"ice shard\", \"stealth rock\"],\n    \"abilities\": [\"oblivious\", \"snow cloak\", \"thick fat\"],\n    \"common_items\": [\"eviolite\", \"choice band\", \"life orb\"],\n    \"summary\": \"bulky ice-ground attacker with priority and setup utility, often used with eviolite for enhanced defenses.\"\n}\n```"
+}

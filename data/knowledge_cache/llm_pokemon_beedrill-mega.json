@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"beedrill-mega\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"wallbreaker\", \"revenge-killer\", \"cleaner\"],\n    \"notable_moves\": [\"u-turn\", \"drill-run\", \"poison-jab\", \"knock-off\", \"fell-stinger\"],\n    \"abilities\": [\"adaptability\"],\n    \"common_items\": [\"beedrillite\"],\n    \"summary\": \"mega evolution grants massive attack and speed with adaptability, making it a potent but frail physical sweeper that requires careful positioning.\"\n}\n```"
+}

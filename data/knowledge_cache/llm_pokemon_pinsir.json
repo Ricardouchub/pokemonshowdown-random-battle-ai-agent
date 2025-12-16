@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pinsir\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\", \"mega attacker\"],\n    \"notable_moves\": [\"x-scissor\", \"close combat\", \"earthquake\", \"stone edge\", \"swords dance\"],\n    \"abilities\": [\"hyper cutter\", \"mold breaker\", \"moxie\"],\n    \"common_items\": [\"pinsirite\", \"choice band\", \"life orb\"],\n    \"summary\": \"a pure bug-type physical powerhouse known for its high attack and mega evolution, which gains an aerilate-boosted flying-type quick attack.\"\n}\n```"
+}

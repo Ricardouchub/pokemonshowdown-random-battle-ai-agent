@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"persian-alola\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"fast attacker\", \"support\", \"pivot\"],\n    \"notable_moves\": [\"foul play\", \"parting shot\", \"taunt\", \"fake out\"],\n    \"abilities\": [\"fur coat\", \"technician\", \"rattled\"],\n    \"common_items\": [\"darkinium z\", \"leftovers\", \"focus sash\"],\n    \"summary\": \"a fast dark-type with fur coat for defense, using parting shot for momentum and foul play for damage.\"\n}\n```"
+}

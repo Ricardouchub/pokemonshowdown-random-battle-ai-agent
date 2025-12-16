@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hoopa\",\n    \"types\": [\"psychic\", \"ghost\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\", \"trick room setter\"],\n    \"notable_moves\": [\"hyperspace fury\", \"shadow ball\", \"psyshock\", \"nasty plot\", \"trick\"],\n    \"abilities\": [\"magician\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"focus sash\"],\n    \"summary\": \"a powerful mixed attacker with unique ghost/psychic typing and signature move hyperspace fury that bypasses protect. excels at breaking defensive cores with its high offensive stats and coverage.\"\n}\n```"
+}

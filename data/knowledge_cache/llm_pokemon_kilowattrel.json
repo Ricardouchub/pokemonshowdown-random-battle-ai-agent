@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kilowattrel\",\n    \"types\": [\"electric\", \"flying\"],\n    \"roles\": [\"fast attacker\", \"special sweeper\", \"pivot\"],\n    \"notable_moves\": [\"thunderbolt\", \"hurricane\", \"voltswitch\", \"heat wave\"],\n    \"abilities\": [\"wind power\", \"volt absorb\", \"competitive\"],\n    \"common_items\": [\"choice specs\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"fast electric/flying special attacker with strong coverage and pivot potential.\"\n}\n```"
+}

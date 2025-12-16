@@ -1,0 +1,11 @@
+{
+  "item": "TM37",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Sandstorm, a Rock-type status move that creates a sandstorm for 5 turns, damaging all non-Rock, Ground, or Steel types each turn and boosting the Special Defense of Rock-types.",
+  "typical_users": [
+    "Rock-type teams for weather synergy and chip damage",
+    "Stall or hazard-stacking teams for residual damage",
+    "Pok\u00e9mon with the Sand Rush or Sand Force abilities",
+    "Occasional use on support Pok\u00e9mon for weather control"
+  ]
+}

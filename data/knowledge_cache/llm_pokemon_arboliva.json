@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"arboliva\",\n    \"types\": [\"grass\", \"normal\"],\n    \"roles\": [\"bulky support\", \"terrain setter\", \"harvest abuser\"],\n    \"notable_moves\": [\"terrain pulse\", \"seed bomb\", \"hyper voice\", \"protect\", \"leech seed\"],\n    \"abilities\": [\"seed sower\", \"harvest\"],\n    \"common_items\": [\"sitrus berry\", \"leftovers\", \"terrain extender\"],\n    \"summary\": \"defensive terrain setter that uses seed sower to create grassy terrain, enabling terrain pulse and recovery. harvest ability with sitrus berry provides longevity.\"\n}\n```"
+}

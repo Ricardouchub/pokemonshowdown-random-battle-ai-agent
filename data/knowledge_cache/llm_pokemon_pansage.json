@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pansage\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun sweeper\", \"support\", \"early-game attacker\"],\n    \"notable_moves\": [\"seed bomb\", \"bullet seed\", \"nasty plot\", \"sunny day\"],\n    \"abilities\": [\"gluttony\", \"overgrow\"],\n    \"common_items\": [\"occa berry\", \"eviolite\", \"focus sash\"],\n    \"summary\": \"a fast grass-type monkey that excels in sun teams, using its speed and special attack to pressure opponents early.\"\n}\n```"
+}

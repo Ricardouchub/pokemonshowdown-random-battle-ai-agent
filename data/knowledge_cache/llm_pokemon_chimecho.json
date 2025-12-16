@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"chimecho\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"support\", \"cleric\", \"special_attacker\"],\n    \"notable_moves\": [\"psychic\", \"healing_wish\", \"wish\", \"calm_mind\", \"recover\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"light_clay\", \"colbur_berry\"],\n    \"summary\": \"a supportive psychic-type known for healing moves and utility, but limited by poor stats and defensive typing.\"\n}\n```"
+}

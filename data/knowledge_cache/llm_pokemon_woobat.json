@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"woobat\",\n    \"types\": [\"psychic\", \"flying\"],\n    \"roles\": [\"setup sweeper\", \"support\"],\n    \"notable_moves\": [\"calm mind\", \"air slash\", \"psychic\", \"roost\"],\n    \"abilities\": [\"unaware\", \"klutz\", \"simple\"],\n    \"common_items\": [\"leftovers\", \"life orb\"],\n    \"summary\": \"a bat pok\u00e9mon that uses echolocation and heart-shaped nose to navigate. known for simple ability boosting calm mind setups.\"\n}\n```"
+}

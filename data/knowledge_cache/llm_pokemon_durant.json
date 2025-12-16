@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"durant\",\n    \"types\": [\"bug\", \"steel\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\", \"hazard setter\"],\n    \"notable_moves\": [\"iron head\", \"first impression\", \"rock slide\", \"hone claws\", \"stomping tantrum\"],\n    \"abilities\": [\"swarm\", \"hustle\", \"truant\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"focus sash\"],\n    \"summary\": \"fast bug-steel attacker with strong priority and coverage, but limited by low special defense and common weaknesses.\"\n}\n```"
+}

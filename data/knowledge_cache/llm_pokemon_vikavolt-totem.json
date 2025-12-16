@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vikavolt-totem\",\n    \"types\": [\"bug\", \"electric\"],\n    \"roles\": [\"wallbreaker\", \"special sweeper\"],\n    \"notable_moves\": [\"thunderbolt\", \"bug buzz\", \"energy ball\", \"voltswitch\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"life orb\", \"choice specs\"],\n    \"summary\": \"a larger, slower totem variant with high special attack, functioning as a powerful special wallbreaker.\"\n}\n```"
+}

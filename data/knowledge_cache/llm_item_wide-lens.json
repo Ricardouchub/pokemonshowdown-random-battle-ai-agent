@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Wide Lens\",\n    \"category\": \"Held Item\",\n    \"summary\": \"Boosts the accuracy of moves by 10% (multiplies accuracy by 1.1). Does not affect OHKO moves.\",\n    \"typical_users\": [\"Pok\u00e9mon relying on low-accuracy moves like Focus Blast, Hurricane, or Stone Edge\", \"Strategies prioritizing move reliability over raw power\"]\n}\n```"
+}

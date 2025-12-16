@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ledian\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"support\", \"screen_setter\"],\n    \"notable_moves\": [\"reflect\", \"light_screen\", \"encore\", \"u-turn\"],\n    \"abilities\": [\"swarm\", \"early_bird\", \"iron_fist\"],\n    \"common_items\": [\"light_clay\", \"leftovers\"],\n    \"summary\": \"fragile bug-type with supportive movepool but poor stats; primarily used for dual screens and momentum in lower tiers.\"\n}\n```"
+}

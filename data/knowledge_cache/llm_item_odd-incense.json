@@ -1,0 +1,12 @@
+{
+  "item": "Odd Incense",
+  "category": "Held Item",
+  "summary": "Boosts the power of Psychic-type moves by 20%.",
+  "typical_users": [
+    "Mr. Mime",
+    "Alakazam",
+    "Slowbro",
+    "Espeon",
+    "other Psychic-type attackers"
+  ]
+}

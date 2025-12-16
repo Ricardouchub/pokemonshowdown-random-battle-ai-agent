@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cherrim\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun-setter\", \"support\", \"sun-abuser\"],\n    \"notable_moves\": [\"sunny day\", \"solar beam\", \"weather ball\", \"healing wish\"],\n    \"abilities\": [\"flower gift\"],\n    \"common_items\": [\"heat rock\", \"leftovers\"],\n    \"summary\": \"sun-form boosts team's attack and special defense in sun; niche sun-setter and abuser in lower tiers.\"\n}\n```"
+}

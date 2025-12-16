@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gumshoos\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"return\", \"facade\", \"uturn\", \"fire punch\", \"earthquake\"],\n    \"abilities\": [\"stakeout\", \"strong jaw\", \"adaptability\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"normalium z\"],\n    \"summary\": \"a slow but powerful normal-type attacker that punishes switches with stakeout and hits hard with adaptability or strong jaw-boosted moves.\"\n}\n```"
+}

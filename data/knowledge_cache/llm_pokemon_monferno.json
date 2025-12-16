@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"monferno\",\n    \"types\": [\"fire\", \"fighting\"],\n    \"roles\": [\"mixed attacker\", \"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"close combat\", \"flare blitz\", \"mach punch\", \"uturn\", \"swords dance\"],\n    \"abilities\": [\"blaze\", \"iron fist\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"expert belt\"],\n    \"summary\": \"a versatile fire/fighting type with good mixed attacking stats and priority in mach punch. excels as a mid-game wallbreaker or late-game cleaner with setup.\"\n}\n```"
+}

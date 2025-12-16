@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"trubbish\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"hazard setter\", \"physical wall\"],\n    \"notable_moves\": [\"toxic spikes\", \"spikes\", \"gunkshot\", \"recycle\"],\n    \"abilities\": [\"stench\", \"sticky hold\", \"aftermath\"],\n    \"common_items\": [\"black sludge\", \"rocky helmet\"],\n    \"summary\": \"trash bag pok\u00e9mon that excels at setting entry hazards and absorbing physical hits with its decent bulk and poison typing.\"\n}\n```"
+}

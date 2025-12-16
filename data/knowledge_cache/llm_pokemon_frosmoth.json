@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"frosmoth\",\n    \"types\": [\"ice\", \"bug\"],\n    \"roles\": [\"special sweeper\", \"quiver dance user\"],\n    \"notable_moves\": [\"quiver dance\", \"ice beam\", \"bug buzz\", \"giga drain\"],\n    \"abilities\": [\"shield dust\", \"ice scales\"],\n    \"common_items\": [\"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"fragile but powerful special attacker that can snowball with quiver dance, but heavily reliant on removing hazards due to 4x rock weakness.\"\n}\n```"
+}

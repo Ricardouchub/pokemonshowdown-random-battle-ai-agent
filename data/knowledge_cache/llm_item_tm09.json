@@ -1,0 +1,10 @@
+{
+  "item": "TM09",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move 'Bullet Seed', a multi-hit Grass-type physical attack (25 power per hit, 2-5 hits).",
+  "typical_users": [
+    "Physical Grass-type attackers (e.g., Breloom, Shiftry)",
+    "Pok\u00e9mon needing coverage against Water, Ground, or Rock types",
+    "Pok\u00e9mon with Skill Link or Loaded Dice to guarantee maximum hits"
+  ]
+}

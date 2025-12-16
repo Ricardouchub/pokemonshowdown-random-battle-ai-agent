@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sneasel-hisui\",\n    \"types\": [\"poison\", \"fighting\"],\n    \"roles\": [\"wallbreaker\", \"revenge killer\", \"poison spreader\"],\n    \"notable_moves\": [\"dire claw\", \"close combat\", \"poison jab\", \"swords dance\", \"shadow claw\"],\n    \"abilities\": [\"inner focus\", \"keen eye\", \"poison touch\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"black sludge\"],\n    \"summary\": \"hisuian sneasel is a fast physical attacker that uses its unique poison/fighting typing and dire claw's high critical-hit rate and status chance to break through defensive cores.\"\n}\n```"
+}

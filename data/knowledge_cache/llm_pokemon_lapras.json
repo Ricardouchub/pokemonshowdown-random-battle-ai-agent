@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lapras\",\n    \"types\": [\"water\", \"ice\"],\n    \"roles\": [\"bulky attacker\", \"tank\", \"support\"],\n    \"notable_moves\": [\"freeze-dry\", \"hydro pump\", \"ice beam\", \"thunderbolt\", \"perish song\"],\n    \"abilities\": [\"water absorb\", \"shell armor\", \"hydration\"],\n    \"common_items\": [\"leftovers\", \"assault vest\", \"choice specs\"],\n    \"summary\": \"bulky water-ice type known for its high hp and versatile movepool, often used as a tank or perish trapper.\"\n}\n```"
+}

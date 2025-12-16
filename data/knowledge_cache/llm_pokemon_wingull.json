@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wingull\",\n    \"types\": [\"water\", \"flying\"],\n    \"roles\": [\"rain-setter\", \"pivot\", \"hazard-setter\"],\n    \"notable_moves\": [\"scald\", \"hurricane\", \"uturn\", \"roost\", \"knock-off\"],\n    \"abilities\": [\"keen-eye\", \"hydration\", \"rain-dish\"],\n    \"common_items\": [\"damp-rock\", \"heavy-duty-boots\"],\n    \"summary\": \"a utility pok\u00e9mon that excels in rain teams, providing weather support and chip damage with scald burns.\"\n}\n```"
+}

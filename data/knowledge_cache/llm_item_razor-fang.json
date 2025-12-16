@@ -1,0 +1,10 @@
+{
+  "item": "Razor Fang",
+  "category": "Held Item",
+  "summary": "Causes certain moves to have a 10% flinch chance; evolves Gligar into Gliscor when held and leveled up at night.",
+  "typical_users": [
+    "Gligar (for evolution)",
+    "Pok\u00e9mon using moves like Poison Jab or Ice Fang for flinch chance",
+    "Physical attackers seeking additional utility"
+  ]
+}

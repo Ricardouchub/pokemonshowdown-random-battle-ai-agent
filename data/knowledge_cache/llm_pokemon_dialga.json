@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dialga\",\n    \"types\": [\"steel\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"draco meteor\", \"roar of time\", \"steel beam\", \"flash cannon\", \"dragon pulse\"],\n    \"abilities\": [\"pressure\", \"telepathy\"],\n    \"common_items\": [\"adamant orb\", \"choice scarf\", \"leftovers\"],\n    \"summary\": \"legendary steel/dragon type known for high bulk and powerful dragon/steel attacks, often functions as a tank or wallbreaker with its signature move roar of time.\"\n}\n```"
+}

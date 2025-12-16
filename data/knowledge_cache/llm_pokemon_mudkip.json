@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mudkip\",\n    \"types\": [\"water\"],\n    \"roles\": [\"physical attacker\", \"bulky water\"],\n    \"notable_moves\": [\"waterfall\", \"earthquake\", \"ice punch\", \"curse\"],\n    \"abilities\": [\"torrent\", \"damp\"],\n    \"common_items\": [\"leftovers\", \"mystic water\"],\n    \"summary\": \"a sturdy water-type starter with good bulk and access to strong physical moves, often using curse to boost its attack and defense.\"\n}\n```"
+}

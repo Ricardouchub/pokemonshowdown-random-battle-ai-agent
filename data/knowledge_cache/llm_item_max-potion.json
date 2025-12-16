@@ -1,0 +1,8 @@
+{
+  "item": "Max Potion",
+  "category": "Recovery",
+  "summary": "Fully restores a single Pok\u00e9mon's HP in battle, but is a one-time use item per match.",
+  "typical_users": [
+    "Bulky sweepers or tanks needing emergency recovery, especially in formats with restricted healing like VGC."
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"smeargle\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"hazard-setter\", \"lead\", \"utility\", \"baton-passer\"],\n    \"notable_moves\": [\"spore\", \"sticky-web\", \"stealth-rock\", \"baton-pass\", \"shell-smash\"],\n    \"abilities\": [\"own-tempo\", \"technician\", \"moody\"],\n    \"common_items\": [\"focus-sash\", \"leftovers\", \"mental-herb\"],\n    \"summary\": \"unique sketch-based movepool enables extreme utility and setup roles, but has poor stats.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kyogre\",\n    \"types\": [\"water\"],\n    \"roles\": [\"wallbreaker\", \"weather-setter\", \"sweeper\"],\n    \"notable_moves\": [\"origin-pulse\", \"ice-beam\", \"thunder\", \"calm-mind\"],\n    \"abilities\": [\"drizzle\"],\n    \"common_items\": [\"blue-orb\", \"choice-scarf\", \"leftovers\"],\n    \"summary\": \"legendary water-type that summons rain, enabling powerful water moves and team support.\"\n}\n```"
+}

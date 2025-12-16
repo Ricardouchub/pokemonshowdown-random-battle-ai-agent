@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"meowth-galar\",\n    \"types\": [\"steel\"],\n    \"roles\": [\"physical-attacker\", \"setup-sweeper\", \"pivot\"],\n    \"notable_moves\": [\"iron-head\", \"uturn\", \"swords-dance\", \"close-combat\"],\n    \"abilities\": [\"pickup\", \"tough-claws\", \"unnerve\"],\n    \"common_items\": [\"life-orb\", \"choice-band\", \"heavy-duty-boots\"],\n    \"summary\": \"galarian meowth is a steel-type physical attacker with tough claws, known for swords dance sweeping and u-turn pivoting.\"\n}\n```"
+}

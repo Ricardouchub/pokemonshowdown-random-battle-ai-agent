@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"larvitar\",\n    \"types\": [\"rock\", \"ground\"],\n    \"roles\": [\"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"dragon-dance\", \"earthquake\", \"stone-edge\", \"crunch\"],\n    \"abilities\": [\"guts\", \"sand-veil\"],\n    \"common_items\": [\"eviolite\", \"berry-juice\"],\n    \"summary\": \"slow-growing rock-ground type that evolves into powerful tyranitar; uses dragon dance to sweep or wallbreak with strong attacks.\"\n}\n```"
+}

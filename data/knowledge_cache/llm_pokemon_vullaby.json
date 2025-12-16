@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vullaby\",\n    \"types\": [\"dark\", \"flying\"],\n    \"roles\": [\"defensive wall\", \"hazard setter\", \"pivot\"],\n    \"notable_moves\": [\"knock off\", \"roost\", \"brave bird\", \"uturn\", \"defog\"],\n    \"abilities\": [\"big pecks\", \"overcoat\", \"weak armor\"],\n    \"common_items\": [\"eviolite\", \"rocky helmet\", \"heavy-duty boots\"],\n    \"summary\": \"bulky eviolite user with reliable recovery, key utility moves, and good defensive typing.\"\n}\n```"
+}

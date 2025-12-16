@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"buizel\",\n    \"types\": [\"water\"],\n    \"roles\": [\"fast-attacker\", \"revenge-killer\", \"early-game-sweeper\"],\n    \"notable_moves\": [\"aqua-jet\", \"waterfall\", \"ice-punch\", \"brick-break\"],\n    \"abilities\": [\"swift-swim\", \"water-veil\"],\n    \"common_items\": [\"choice-band\", \"life-orb\", \"focus-sash\"],\n    \"summary\": \"fast water-type attacker using priority aqua-jet and swift-swim to outspeed opponents, often as an early-game offensive threat.\"\n}\n```"
+}

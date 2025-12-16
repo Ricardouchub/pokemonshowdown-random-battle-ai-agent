@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grovyle\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"leaf blade\", \"substitute\", \"swords dance\", \"synthesis\", \"acrobatics\"],\n    \"abilities\": [\"overgrow\", \"unburden\"],\n    \"common_items\": [\"flying gem\", \"grass gem\", \"life orb\", \"focus sash\"],\n    \"summary\": \"fast grass-type attacker with unburden sweeping potential and setup options.\"\n}\n```"
+}

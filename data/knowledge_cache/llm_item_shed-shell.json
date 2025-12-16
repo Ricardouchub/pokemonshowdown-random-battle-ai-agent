@@ -1,0 +1,8 @@
+{
+  "item": "Shed Shell",
+  "category": "Held Item",
+  "summary": "Allows the holder to switch out regardless of trapping moves or abilities like Shadow Tag, Arena Trap, or Magnet Pull.",
+  "typical_users": [
+    "Pok\u00e9mon vulnerable to trapping (e.g., Steel-types vs. Magnet Pull), setup sweepers needing escape options, or support Pok\u00e9mon in hazard-stacking teams"
+  ]
+}

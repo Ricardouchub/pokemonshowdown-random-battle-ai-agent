@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"marowak\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"physical wallbreaker\", \"trick room sweeper\", \"defensive pivot\"],\n    \"notable_moves\": [\"bonemerang\", \"flare blitz\", \"swords dance\", \"stealth rock\", \"knock off\"],\n    \"abilities\": [\"rock head\", \"lightning rod\", \"battle armor\"],\n    \"common_items\": [\"thick club\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"a ground-type physical attacker known for its massive attack stat when holding thick club, often used as a wallbreaker or trick room sweeper with bonemerang as its signature move.\"\n}\n```"
+}

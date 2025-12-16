@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"flamigo\",\n    \"types\": [\"fighting\", \"flying\"],\n    \"roles\": [\"physical attacker\", \"revenge killer\"],\n    \"notable_moves\": [\"close combat\", \"brave bird\", \"swords dance\", \"uturn\"],\n    \"abilities\": [\"scrappy\", \"costar\", \"tangled feet\"],\n    \"common_items\": [\"choice band\", \"focus sash\"],\n    \"summary\": \"high-attack fighting/flying type with costar ability to copy stat boosts, excels as a physical sweeper or revenge killer with strong stabs and uturn.\"\n}\n```"
+}

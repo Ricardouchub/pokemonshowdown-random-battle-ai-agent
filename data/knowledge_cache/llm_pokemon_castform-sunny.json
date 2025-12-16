@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"castform-sunny\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"weather-setter\", \"special-attacker\"],\n    \"notable_moves\": [\"weather-ball\", \"sunny-day\", \"solar-beam\", \"fire-blast\"],\n    \"abilities\": [\"forecast\"],\n    \"common_items\": [\"heat-rock\"],\n    \"summary\": \"sunny form castform excels in sun teams, using weather ball for powerful fire stab and solar beam without charge.\"\n}\n```"
+}

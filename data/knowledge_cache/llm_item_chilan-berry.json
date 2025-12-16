@@ -1,0 +1,8 @@
+{
+  "item": "Chilan Berry",
+  "category": "Berries",
+  "summary": "Halves damage taken from a Normal-type move once, then is consumed.",
+  "typical_users": [
+    "Pok\u00e9mon weak to Normal moves (e.g., Ghost-types like Gengar), or frail Pok\u00e9mon looking to survive a predicted Normal-type attack (e.g., from Extreme Speed)."
+  ]
+}

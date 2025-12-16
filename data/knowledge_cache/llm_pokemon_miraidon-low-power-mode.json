@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"miraidon-low-power-mode\",\n    \"types\": [\"electric\", \"dragon\"],\n    \"roles\": [\"fast-attacker\", \"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"electro-drift\", \"dragon-pulse\", \"calm-mind\", \"substitute\"],\n    \"abilities\": [\"hadron-engine\"],\n    \"common_items\": [\"booster-energy\", \"life-orb\"],\n    \"summary\": \"electric terrain setter with high speed and special attack, excels as an offensive threat in low-power mode.\"\n}\n```"
+}

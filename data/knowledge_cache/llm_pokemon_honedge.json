@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"honedge\",\n    \"types\": [\"steel\", \"ghost\"],\n    \"roles\": [\"physical wall\", \"setup sweeper\"],\n    \"notable_moves\": [\"swords dance\", \"shadow claw\", \"iron head\", \"sacred sword\"],\n    \"abilities\": [\"no guard\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a unique steel/ghost type that evolves into aegislash. uses eviolite to boost defenses while setting up with swords dance.\"\n}\n```"
+}

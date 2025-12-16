@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pansear\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"sun-setter\", \"fast-support\", \"early-game-sweeper\"],\n    \"notable_moves\": [\"fire-blast\", \"sunny-day\", \"grass-knot\", \"nasty-plot\"],\n    \"abilities\": [\"gluttony\", \"blaze\"],\n    \"common_items\": [\"occa-berry\", \"focus-sash\", \"heat-rock\"],\n    \"summary\": \"a fast fire-type monkey that sets sun support and can sweep early with setup, but is frail and outclassed later.\"\n}\n```"
+}

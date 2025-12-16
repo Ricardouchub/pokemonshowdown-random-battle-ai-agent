@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vanilluxe\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"special sweeper\", \"weather setter\", \"wallbreaker\"],\n    \"notable_moves\": [\"blizzard\", \"freeze-dry\", \"aurora veil\", \"flash cannon\"],\n    \"abilities\": [\"snow warning\", \"weak armor\", \"snow cloak\"],\n    \"common_items\": [\"heavy-duty boots\", \"focus sash\", \"choice specs\"],\n    \"summary\": \"ice-type special attacker that sets hail with snow warning, enabling blizzard and aurora veil. struggles with common weaknesses but hits hard with freeze-dry coverage.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bronzor\",\n    \"types\": [\"steel\", \"psychic\"],\n    \"roles\": [\"trick room setter\", \"wall\", \"hazard setter\"],\n    \"notable_moves\": [\"stealth rock\", \"trick room\", \"gyro ball\", \"psychic\"],\n    \"abilities\": [\"levitate\", \"heatproof\", \"heavy metal\"],\n    \"common_items\": [\"leftovers\", \"mental herb\", \"light clay\"],\n    \"summary\": \"a slow, defensive steel/psychic type known for setting trick room and hazards while walling many attacks.\"\n}\n```"
+}

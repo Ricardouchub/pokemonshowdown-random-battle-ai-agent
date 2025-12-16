@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cradily\",\n    \"types\": [\"rock\", \"grass\"],\n    \"roles\": [\"defensive wall\", \"stall\", \"hazard setter\"],\n    \"notable_moves\": [\"stealth rock\", \"giga drain\", \"recover\", \"toxic\", \"stockpile\"],\n    \"abilities\": [\"suction cups\", \"storm drain\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a sturdy fossil pok\u00e9mon with unique defensive typing, known for its ability to stall opponents with recovery and status moves.\"\n}\n```"
+}

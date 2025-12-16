@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"iron-moth\",\n    \"types\": [\"fire\", \"poison\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"fiery dance\", \"sludge wave\", \"energy ball\", \"uturn\"],\n    \"abilities\": [\"quark drive\"],\n    \"common_items\": [\"booster energy\", \"life orb\"],\n    \"summary\": \"a paradox pok\u00e9mon with high special attack and speed. uses quark drive to boost stats, functioning as a potent special attacker that pressures with fire/poison coverage.\"\n}\n```"
+}

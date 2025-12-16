@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"graveler\",\n    \"types\": [\"rock\", \"ground\"],\n    \"roles\": [\"tank\", \"stealth rock setter\", \"offensive pivot\"],\n    \"notable_moves\": [\"stealth rock\", \"earthquake\", \"rock blast\", \"explosion\"],\n    \"abilities\": [\"rock head\", \"sturdy\", \"sand veil\"],\n    \"common_items\": [\"leftovers\", \"weakness policy\", \"custap berry\"],\n    \"summary\": \"a bulky rock/ground type known for setting hazards and hitting hard with stab moves, but suffers from common weaknesses.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sylveon\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"special attacker\", \"cleric\", \"wall\"],\n    \"notable_moves\": [\"hyper voice\", \"moonblast\", \"wish\", \"protect\", \"calm mind\"],\n    \"abilities\": [\"cute charm\", \"pixilate\"],\n    \"common_items\": [\"leftovers\", \"throat spray\", \"heavy-duty boots\"],\n    \"summary\": \"bulky fairy-type special attacker known for pixilate-boosted hyper voice and wish support.\"\n}\n```"
+}

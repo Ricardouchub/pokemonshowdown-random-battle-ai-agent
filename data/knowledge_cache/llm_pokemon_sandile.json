@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sandile\",\n    \"types\": [\"ground\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"earthquake\", \"knock off\", \"stealth rock\", \"taunt\"],\n    \"abilities\": [\"intimidate\", \"moxie\", \"anger point\"],\n    \"common_items\": [\"choice scarf\", \"focus sash\", \"life orb\"],\n    \"summary\": \"a ground/dark type with strong offensive moves and setup potential, often used to break walls or sweep with moxie boosts.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"garbodor-gmax\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"physical-wallbreaker\", \"hazard-setter\", \"gmax-sweeper\"],\n    \"notable_moves\": [\"g-max-malodor\", \"gunkshot\", \"spikes\", \"toxic\"],\n    \"abilities\": [\"stench\", \"weak-armor\", \"aftermath\"],\n    \"common_items\": [\"black-sludge\", \"air-balloon\", \"focus-sash\"],\n    \"summary\": \"gigantamax garbodor uses g-max-malodor to poison all opponents, bypassing immunities, while setting toxic spikes. it functions as a bulky poison-type wallbreaker with hazard utility.\"\n}\n```"
+}

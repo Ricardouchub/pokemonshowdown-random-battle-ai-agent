@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"butterfree\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"sleep inducer\", \"quiver dance sweeper\", \"support\"],\n    \"notable_moves\": [\"sleep powder\", \"quiver dance\", \"bug buzz\", \"hurricane\"],\n    \"abilities\": [\"compound eyes\", \"tinted lens\"],\n    \"common_items\": [\"focus sash\", \"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"a fragile bug/flying type known for reliable sleep powder and late-game sweeping potential with quiver dance.\"\n}\n```"
+}

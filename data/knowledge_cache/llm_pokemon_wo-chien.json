@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wo-chien\",\n    \"types\": [\"dark\", \"grass\"],\n    \"roles\": [\"bulky setup\", \"hazard setter\", \"wall\"],\n    \"notable_moves\": [\"ruination\", \"knock off\", \"leaf storm\", \"protect\", \"spikes\"],\n    \"abilities\": [\"tablets of ruin\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"heavy-duty boots\"],\n    \"summary\": \"a slow, bulky legendary that lowers opponents' attack with its ability, sets hazards, and wears down foes with ruination.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"glalie\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"wallbreaker\", \"hazard_setter\"],\n    \"notable_moves\": [\"freeze-dry\", \"earthquake\", \"spikes\", \"explosion\"],\n    \"abilities\": [\"inner_focus\", \"ice_body\", \"moody\"],\n    \"common_items\": [\"heavy-duty_boots\", \"focus_sash\"],\n    \"summary\": \"bulky ice-type with setup potential via moody, known for spikes support and explosive wallbreaking.\"\n}\n```"
+}

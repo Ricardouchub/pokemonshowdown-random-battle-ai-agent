@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"surskit\",\n    \"types\": [\"bug\", \"water\"],\n    \"roles\": [\"sticky web setter\", \"pivot\"],\n    \"notable_moves\": [\"sticky web\", \"hydro pump\", \"ice beam\", \"giga drain\"],\n    \"abilities\": [\"swift swim\", \"rain dish\"],\n    \"common_items\": [\"focus sash\", \"damp rock\"],\n    \"summary\": \"a niche bug/water type primarily used to set sticky web in lower tiers, with swift swim offering rare speed control in rain.\"\n}\n```"
+}

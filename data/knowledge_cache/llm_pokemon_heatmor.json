@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"heatmor\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"fire-blast\", \"giga-drain\", \"focus-blast\", \"sucker-punch\"],\n    \"abilities\": [\"gluttony\", \"flash-fire\", \"white-smoke\"],\n    \"common_items\": [\"life-orb\", \"choice-specs\", \"salac-berry\"],\n    \"summary\": \"a fire-type ant-eater pok\u00e9mon with unique coverage options like giga-drain, but limited by poor speed and defensive typing.\"\n}\n```"
+}

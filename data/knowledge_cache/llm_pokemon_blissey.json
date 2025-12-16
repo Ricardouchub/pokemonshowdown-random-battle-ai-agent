@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"blissey\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"special wall\", \"cleric\", \"wish passer\"],\n    \"notable_moves\": [\"soft-boiled\", \"seismic toss\", \"toxic\", \"heal bell\", \"wish\"],\n    \"abilities\": [\"natural cure\", \"serene grace\", \"healer\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"ultimate special wall with massive hp, provides team support through healing and status removal.\"\n}\n```"
+}

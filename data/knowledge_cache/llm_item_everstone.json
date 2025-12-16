@@ -1,0 +1,8 @@
+{
+  "item": "Everstone",
+  "category": "Held Item",
+  "summary": "Prevents a Pok\u00e9mon from evolving when held, even if it meets evolution conditions. In competitive play, it is primarily used to maintain a Pok\u00e9mon's pre-evolved form with favorable stats, moves, or abilities that may be lost upon evolution, or to enable specific strategies like Eviolite use.",
+  "typical_users": [
+    "Pok\u00e9mon that benefit from not evolving to retain movepools (e.g., Pikachu with Light Ball), abilities, or to utilize Eviolite (e.g., Dusclops, Porygon2), or for specific niche strategies in lower tiers."
+  ]
+}

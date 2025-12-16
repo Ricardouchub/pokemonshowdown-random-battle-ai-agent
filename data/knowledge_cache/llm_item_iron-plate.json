@@ -1,0 +1,8 @@
+{
+  "item": "Iron Plate",
+  "category": "Type-Enhancing Item",
+  "summary": "Boosts the power of Steel-type moves by 20% when held.",
+  "typical_users": [
+    "Steel-type attackers like Lucario, Metagross, or Scizor"
+  ]
+}

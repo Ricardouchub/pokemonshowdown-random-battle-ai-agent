@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"koffing\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"defensive pivot\", \"hazard setter\"],\n    \"notable_moves\": [\"sludge bomb\", \"will-o-wisp\", \"painsplit\", \"toxic spikes\"],\n    \"abilities\": [\"levitate\", \"stench\", \"neutralizing gas\"],\n    \"common_items\": [\"black sludge\", \"rocky helmet\"],\n    \"summary\": \"bulky poison-type known for setting hazards and crippling physical attackers with burns.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grimer-alola\",\n    \"types\": [\"poison\", \"dark\"],\n    \"roles\": [\"wall\", \"poison-spreader\", \"trick-room-sweeper\"],\n    \"notable_moves\": [\"poison-jab\", \"knock-off\", \"curse\", \"pursuit\"],\n    \"abilities\": [\"poison-touch\", \"gluttony\", \"power-of-alchemy\"],\n    \"common_items\": [\"black-sludge\", \"figy-berry\"],\n    \"summary\": \"bulky alolan variant with dark typing, excels at wearing down foes with poison and item removal.\"\n}\n```"
+}

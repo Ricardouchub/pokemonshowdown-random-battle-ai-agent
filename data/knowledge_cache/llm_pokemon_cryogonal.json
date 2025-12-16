@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cryogonal\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"hazard_remover\", \"special_wall\", \"rapid_spin_user\"],\n    \"notable_moves\": [\"rapid_spin\", \"freeze-dry\", \"recover\", \"toxic\", \"haze\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"heavy-duty-boots\", \"leftovers\"],\n    \"summary\": \"a pure ice-type with levitate, functioning as a rapid spin user and special wall with reliable recovery.\"\n}\n```"
+}

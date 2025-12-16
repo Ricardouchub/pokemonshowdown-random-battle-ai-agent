@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mr-mime-galar\",\n    \"types\": [\"ice\", \"psychic\"],\n    \"roles\": [\"screen_setter\", \"hazard_remover\", \"offensive_support\"],\n    \"notable_moves\": [\"rapid_spin\", \"freeze-dry\", \"psychic\", \"aurora_veil\", \"focus_blast\"],\n    \"abilities\": [\"vital_spirit\", \"screen_cleaner\", \"ice_body\"],\n    \"common_items\": [\"heavy-duty_boots\", \"light_clay\", \"focus_sash\"],\n    \"summary\": \"galarian mr-mime is a unique ice/psychic type that excels at setting aurora veil and removing hazards with rapid spin. its screen cleaner ability nullifies opposing screens, making it a disruptive support pok\u00e9mon.\"\n}\n```"
+}

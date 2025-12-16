@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sandaconda-gmax\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"physical-wallbreaker\", \"setup-sweeper\", \"hazard-setter\"],\n    \"notable_moves\": [\"earthquake\", \"coil\", \"glare\", \"stealth-rock\", \"stone-edge\"],\n    \"abilities\": [\"sand-spit\", \"shed-skin\", \"sand-veil\"],\n    \"common_items\": [\"leftovers\", \"rocky-helmet\", \"weakness-policy\"],\n    \"summary\": \"gigantamax form with sandstorm-summoning g-max move, bulky ground-type setup sweeper with coil and hazard support.\"\n}\n```"
+}

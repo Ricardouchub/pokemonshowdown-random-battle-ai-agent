@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"iron-jugulis\",\n    \"types\": [\"dark\", \"flying\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\", \"pivot\"],\n    \"notable_moves\": [\"dark-pulse\", \"hurricane\", \"heat-wave\", \"uturn\", \"nasty-plot\"],\n    \"abilities\": [\"quark-drive\"],\n    \"common_items\": [\"booster-energy\", \"choice-specs\", \"life-orb\"],\n    \"summary\": \"a paradox pok\u00e9mon with high special attack and speed, excelling as a special wallbreaker with quark-drive-boosted hurricane and dark pulse.\"\n}\n```"
+}

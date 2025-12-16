@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"starmie-mega\",\n    \"types\": [\"water\", \"psychic\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\", \"revenge-killer\"],\n    \"notable_moves\": [\"hydro-pump\", \"psychic\", \"ice-beam\", \"thunderbolt\", \"rapid-spin\"],\n    \"abilities\": [\"analytic\"],\n    \"common_items\": [\"starmieite\"],\n    \"summary\": \"a powerful special attacker with high speed and coverage, but lacks reliable recovery and faces competition from other megas.\"\n}\n```"
+}

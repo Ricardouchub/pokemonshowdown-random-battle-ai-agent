@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"skitty\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"support\", \"setup\", \"annoyer\"],\n    \"notable_moves\": [\"fake out\", \"thunder wave\", \"wish\", \"sucker punch\"],\n    \"abilities\": [\"cute charm\", \"normalize\", \"wonder skin\"],\n    \"common_items\": [\"leftovers\", \"focus sash\"],\n    \"summary\": \"a cute but surprisingly disruptive normal-type, often used for support and status spreading in lower tiers.\"\n}\n```"
+}

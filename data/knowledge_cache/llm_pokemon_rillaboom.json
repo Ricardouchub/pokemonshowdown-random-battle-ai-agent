@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rillaboom\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive pivot\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"grassy glide\", \"drum beating\", \"knock off\", \"uturn\", \"boomburst\"],\n    \"abilities\": [\"overgrow\", \"grassy surge\"],\n    \"common_items\": [\"choice band\", \"assault vest\", \"life orb\"],\n    \"summary\": \"a powerful physical attacker that sets grassy terrain, enabling priority grassy glide and team support.\"\n}\n```"
+}

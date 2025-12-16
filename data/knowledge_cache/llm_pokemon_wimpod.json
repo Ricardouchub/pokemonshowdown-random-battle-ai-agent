@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wimpod\",\n    \"types\": [\"bug\", \"water\"],\n    \"roles\": [\"hazard setter\", \"pivot\"],\n    \"notable_moves\": [\"spikes\", \"aqua jet\", \"first impression\", \"taunt\"],\n    \"abilities\": [\"wimp out\"],\n    \"common_items\": [\"focus sash\", \"heavy-duty boots\"],\n    \"summary\": \"fragile bug-water type that sets hazards and pivots with its ability wimp out.\"\n}\n```"
+}

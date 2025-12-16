@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zubat\",\n    \"types\": [\"poison\", \"flying\"],\n    \"roles\": [\"fast-support\", \"annoyer\", \"early-game\"],\n    \"notable_moves\": [\"toxic\", \"confuse ray\", \"brave bird\", \"roost\"],\n    \"abilities\": [\"inner-focus\", \"infiltrator\"],\n    \"common_items\": [\"black-sludge\", \"eviolite\"],\n    \"summary\": \"fast early-game poison/flying type known for annoyance tactics with status moves and eviolite bulk.\"\n}\n```"
+}

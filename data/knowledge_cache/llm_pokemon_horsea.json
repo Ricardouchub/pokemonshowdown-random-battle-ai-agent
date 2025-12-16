@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"horsea\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"hydropump\", \"ice beam\", \"dragon pulse\", \"agility\"],\n    \"abilities\": [\"swift swim\", \"sniper\", \"damp\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"focus sash\"],\n    \"summary\": \"a small water-type pok\u00e9mon known for its special attack and swift swim ability, often used as a setup sweeper in lower tiers.\"\n}\n```"
+}

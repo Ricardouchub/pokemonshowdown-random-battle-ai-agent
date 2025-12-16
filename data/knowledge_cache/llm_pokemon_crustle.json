@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"crustle\",\n    \"types\": [\"bug\", \"rock\"],\n    \"roles\": [\"hazard setter\", \"tank\", \"stealth rock user\"],\n    \"notable_moves\": [\"stealth rock\", \"shell smash\", \"rock blast\", \"x-scissor\", \"spikes\"],\n    \"abilities\": [\"sturdy\", \"shell armor\", \"weak armor\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"rocky helmet\"],\n    \"summary\": \"a slow, defensive bug-rock type known for setting entry hazards and using shell smash to become a sweeper.\"\n}\n```"
+}

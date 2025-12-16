@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gigalith\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"stealth rock setter\"],\n    \"notable_moves\": [\"stone edge\", \"earthquake\", \"explosion\", \"stealth rock\"],\n    \"abilities\": [\"sturdy\", \"sand stream\", \"sand force\"],\n    \"common_items\": [\"assault vest\", \"choice band\", \"weakness policy\"],\n    \"summary\": \"slow but powerful rock-type with sand-setting ability and explosive wallbreaking potential.\"\n}\n```"
+}

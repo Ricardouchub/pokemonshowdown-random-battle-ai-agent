@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"goomy\",\n    \"types\": [\"dragon\"],\n    \"roles\": [\"setup sweeper\", \"bulky attacker\"],\n    \"notable_moves\": [\"draco meteor\", \"sludge bomb\", \"thunderbolt\", \"ice beam\", \"acid armor\"],\n    \"abilities\": [\"sap sipper\", \"hydration\", \"gooey\"],\n    \"common_items\": [\"eviolite\", \"assault vest\", \"leftovers\"],\n    \"summary\": \"a small, slow dragon-type that evolves into goodra. excels in rain teams with hydration or as an eviolite wall. uses acid armor to boost defense and gooey to slow physical attackers.\"\n}\n```"
+}

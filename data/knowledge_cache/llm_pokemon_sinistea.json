@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sinistea\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"special sweeper\", \"setup sweeper\", \"hazard setter\"],\n    \"notable_moves\": [\"shell smash\", \"shadow ball\", \"stored power\", \"strength sap\"],\n    \"abilities\": [\"weak armor\", \"cursed body\"],\n    \"common_items\": [\"white herb\", \"focus sash\", \"leftovers\"],\n    \"summary\": \"a fragile ghost-type that can become a potent sweeper after setting up with shell smash, often using stored power for massive damage.\"\n}\n```"
+}

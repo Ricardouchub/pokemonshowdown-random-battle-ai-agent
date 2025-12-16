@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-belle\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special-attacker\", \"fast-support\"],\n    \"notable_moves\": [\"thunderbolt\", \"grass-knot\", \"hidden-power\", \"encore\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\"],\n    \"summary\": \"a special costume pikachu variant with high special attack when holding light ball, often used as a fast special sweeper or support with encore.\"\n}\n```"
+}

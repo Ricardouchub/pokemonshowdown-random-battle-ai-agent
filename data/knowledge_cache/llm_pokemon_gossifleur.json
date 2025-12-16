@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gossifleur\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun-setter\", \"support\", \"early-game\"],\n    \"notable_moves\": [\"sunny day\", \"rapid spin\", \"leech seed\", \"synthesis\"],\n    \"abilities\": [\"cotton down\", \"regenerator\", \"effect spore\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"a supportive grass-type that sets sun, removes hazards, and provides utility with regenerator.\"\n}\n```"
+}

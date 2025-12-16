@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"quaquaval\",\n    \"types\": [\"water\", \"fighting\"],\n    \"roles\": [\"sweeper\", \"revenge killer\", \"dancer\"],\n    \"notable_moves\": [\"aqua step\", \"close combat\", \"ice spinner\", \"swords dance\"],\n    \"abilities\": [\"torrent\", \"moxie\"],\n    \"common_items\": [\"choice band\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"a fast water/fighting sweeper that boosts speed with aqua step and can snowball with moxie.\"\n}\n```"
+}

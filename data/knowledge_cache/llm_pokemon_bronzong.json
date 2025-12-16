@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bronzong\",\n    \"types\": [\"steel\", \"psychic\"],\n    \"roles\": [\"tank\", \"trick room setter\", \"utility\"],\n    \"notable_moves\": [\"gyro ball\", \"trick room\", \"stealth rock\", \"hypnosis\"],\n    \"abilities\": [\"levitate\", \"heatproof\", \"heavy metal\"],\n    \"common_items\": [\"leftovers\", \"mental herb\", \"light clay\"],\n    \"summary\": \"a slow, bulky steel/psychic tank known for setting trick room, providing utility, and resisting many types due to its unique typing and abilities.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"heatran\",\n    \"types\": [\"fire\", \"steel\"],\n    \"roles\": [\"special attacker\", \"tank\", \"stealth rock setter\"],\n    \"notable_moves\": [\"magma storm\", \"earth power\", \"flash cannon\", \"taunt\", \"stealth rock\"],\n    \"abilities\": [\"flash fire\", \"flame body\"],\n    \"common_items\": [\"leftovers\", \"air balloon\", \"choice specs\"],\n    \"summary\": \"bulky fire/steel special attacker with trapping potential and strong utility.\"\n}\n```"
+}

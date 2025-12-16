@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vigoroth\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"slack off\", \"bulk up\", \"body slam\", \"taunt\"],\n    \"abilities\": [\"vital spirit\"],\n    \"common_items\": [\"leftovers\", \"eviolite\"],\n    \"summary\": \"energetic normal-type with reliable recovery and setup potential, often used as an eviolite wallbreaker.\"\n}\n```"
+}

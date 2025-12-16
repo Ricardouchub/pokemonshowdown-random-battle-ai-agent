@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"skeledirge\",\n    \"types\": [\"fire\", \"ghost\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"torch song\", \"shadow ball\", \"will-o-wisp\", \"slack off\"],\n    \"abilities\": [\"blaze\", \"unaware\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"throat spray\"],\n    \"summary\": \"a bulky fire/ghost special attacker that boosts with torch song and ignores opponent's stat boosts with unaware.\"\n}\n```"
+}

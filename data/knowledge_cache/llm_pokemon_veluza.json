@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"veluza\",\n    \"types\": [\"water\", \"psychic\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"fillet away\", \"psycho cut\", \"aqua cutter\", \"liquidation\"],\n    \"abilities\": [\"mold breaker\"],\n    \"common_items\": [\"focus sash\", \"life orb\"],\n    \"summary\": \"a water/psychic fish that uses fillet away to sharply boost its stats at the cost of half its hp, becoming a potent but fragile attacker.\"\n}\n```"
+}

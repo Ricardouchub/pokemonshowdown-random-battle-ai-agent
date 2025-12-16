@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"palafin-zero\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"wave crash\", \"jet punch\", \"flip turn\", \"bulk up\"],\n    \"abilities\": [\"zero to hero\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"zero form is a bulky water-type that pivots with flip turn. switches to hero form after switching out to become a powerful physical attacker.\"\n}\n```"
+}

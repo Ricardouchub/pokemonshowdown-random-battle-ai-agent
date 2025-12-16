@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"muk-alola\",\n    \"types\": [\"poison\", \"dark\"],\n    \"roles\": [\"special wall\", \"pivot\", \"toxic spikes setter\"],\n    \"notable_moves\": [\"knock off\", \"poison jab\", \"pursuit\", \"shadow sneak\"],\n    \"abilities\": [\"poison touch\", \"gluttony\", \"power of alchemy\"],\n    \"common_items\": [\"black sludge\", \"assault vest\"],\n    \"summary\": \"bulky poison/dark type with strong utility moves and good special bulk, often used to absorb toxic spikes and remove items.\"\n}\n```"
+}

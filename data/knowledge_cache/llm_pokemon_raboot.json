@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"raboot\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"pyro ball\", \"sucker punch\", \"u-turn\", \"high jump kick\"],\n    \"abilities\": [\"blaze\", \"libero\"],\n    \"common_items\": [\"heavy-duty boots\", \"choice band\"],\n    \"summary\": \"a mid-stage fire-type with high speed and attack, often using libero to gain stab on coverage moves while pivoting with u-turn.\"\n}\n```"
+}

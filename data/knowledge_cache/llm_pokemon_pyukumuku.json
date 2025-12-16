@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pyukumuku\",\n    \"types\": [\"water\"],\n    \"roles\": [\"wall\", \"hazard setter\", \"cleric\"],\n    \"notable_moves\": [\"toxic\", \"recover\", \"soak\", \"block\"],\n    \"abilities\": [\"innards out\", \"unaware\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a pure water-type defensive wall known for its high hp and special defense, often used to stall opponents with toxic and recover while setting hazards or trapping with block.\"\n}\n```"
+}

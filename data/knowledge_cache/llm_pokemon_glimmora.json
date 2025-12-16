@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"glimmora\",\n    \"types\": [\"rock\", \"poison\"],\n    \"roles\": [\"hazard-setter\", \"special-wall\", \"utility\"],\n    \"notable_moves\": [\"mortal-spin\", \"stealth-rock\", \"earth-power\", \"spiky-shield\"],\n    \"abilities\": [\"toxic-debris\", \"corrosion\"],\n    \"common_items\": [\"leftovers\", \"rocky-helmet\", \"air-balloon\"],\n    \"summary\": \"excellent hazard-setter with toxic debris, spreading poison and chip damage while providing defensive utility.\"\n}\n```"
+}

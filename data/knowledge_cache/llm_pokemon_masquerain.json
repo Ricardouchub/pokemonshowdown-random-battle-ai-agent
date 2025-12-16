@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"masquerain\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"special attacker\", \"support\", \"pivot\"],\n    \"notable_moves\": [\"quiver dance\", \"bug buzz\", \"air slash\", \"sticky web\", \"roost\"],\n    \"abilities\": [\"intimidate\", \"unnerve\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"focus sash\"],\n    \"summary\": \"a bug/flying type known for intimidate utility and quiver dance sweeping potential, but heavily hindered by stealth rock weakness.\"\n}\n```"
+}

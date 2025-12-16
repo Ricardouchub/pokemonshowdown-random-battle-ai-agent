@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"walrein\",\n    \"types\": [\"ice\", \"water\"],\n    \"roles\": [\"bulky attacker\", \"tank\", \"hazard setter\"],\n    \"notable_moves\": [\"ice beam\", \"surf\", \"protect\", \"toxic\", \"roar\"],\n    \"abilities\": [\"thick fat\", \"ice body\", \"oblivious\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"icy rock\"],\n    \"summary\": \"bulky ice-water type known for its high hp and defensive capabilities, often used as a tank or to set up hail and phaze opponents.\"\n}\n```"
+}

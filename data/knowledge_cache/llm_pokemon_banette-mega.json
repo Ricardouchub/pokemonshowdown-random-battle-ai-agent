@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"banette-mega\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"wallbreaker\", \"priority_user\"],\n    \"notable_moves\": [\"shadow-claw\", \"shadow-sneak\", \"destiny-bond\", \"taunt\"],\n    \"abilities\": [\"prankster\"],\n    \"common_items\": [\"banettite\"],\n    \"summary\": \"mega evolution grants prankster, turning it into a disruptive physical ghost attacker with priority destiny bond and taunt.\"\n}\n```"
+}

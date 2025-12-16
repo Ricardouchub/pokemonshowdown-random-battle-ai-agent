@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"thundurus-incarnate\",\n    \"types\": [\"electric\", \"flying\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"pivot\"],\n    \"notable_moves\": [\"thunderbolt\", \"focus blast\", \"nasty plot\", \"voltswitch\"],\n    \"abilities\": [\"prankster\", \"defiant\"],\n    \"common_items\": [\"life orb\", \"heavy-duty boots\", \"expert belt\"],\n    \"summary\": \"fast electric-flying special attacker with prankster utility and volt switch momentum.\"\n}\n```"
+}

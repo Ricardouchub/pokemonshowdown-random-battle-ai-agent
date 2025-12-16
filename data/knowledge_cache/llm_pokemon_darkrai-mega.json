@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"darkrai-mega\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"special-attacker\", \"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"dark-pulse\", \"nasty-plot\", \"sludge-bomb\", \"focus-blast\", \"ice-beam\"],\n    \"abilities\": [\"bad-dreams\"],\n    \"common_items\": [\"darkinium-z\", \"life-orb\", \"focus-sash\"],\n    \"summary\": \"hypothetical mega evolution with enhanced special attack and speed, using nasty plot to sweep with strong dark-type moves and coverage.\"\n}\n```"
+}

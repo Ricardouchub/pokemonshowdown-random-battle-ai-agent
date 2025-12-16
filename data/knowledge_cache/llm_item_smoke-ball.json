@@ -1,0 +1,8 @@
+{
+  "item": "Smoke Ball",
+  "category": "Held Item",
+  "summary": "Allows the holder to flee from wild Pok\u00e9mon battles without fail, and prevents trapping effects from moves like Mean Look or Shadow Tag.",
+  "typical_users": [
+    "Pok\u00e9mon needing escape from trapping strategies, such as support or utility Pok\u00e9mon in single-player or niche competitive scenarios"
+  ]
+}

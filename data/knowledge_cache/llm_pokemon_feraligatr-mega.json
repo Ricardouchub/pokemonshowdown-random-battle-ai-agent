@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"feraligatr-mega\",\n    \"types\": [\"water\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"dragon dance\", \"liquidation\", \"ice punch\", \"earthquake\", \"crunch\"],\n    \"abilities\": [\"sheer force\"],\n    \"common_items\": [\"feraligatrite\"],\n    \"summary\": \"mega evolution boosts attack and speed, making it a fearsome dragon dance sweeper with sheer force-boosted moves.\"\n}\n```"
+}

@@ -1,0 +1,8 @@
+{
+  "item": "Rock Incense",
+  "category": "Held Item",
+  "summary": "Boosts the power of Rock-type moves by 20%.",
+  "typical_users": [
+    "Rock-type attackers like Tyranitar, Rhyperior, and Terrakion"
+  ]
+}

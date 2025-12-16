@@ -1,0 +1,8 @@
+{
+  "item": "Star Piece",
+  "category": "Battle Item",
+  "summary": "Boosts the user's Speed stat by 50% for 3 turns, but consumes the user's turn to activate.",
+  "typical_users": [
+    "Fast sweepers needing extra Speed control (e.g., Dragapult, Cinderace), setup sweepers to outspeed threats after a boost, or support Pok\u00e9mon enabling faster utility moves."
+  ]
+}

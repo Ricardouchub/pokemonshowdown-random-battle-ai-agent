@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"camerupt\",\n    \"types\": [\"fire\", \"ground\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"stealth rock setter\"],\n    \"notable_moves\": [\"eruption\", \"earth power\", \"fire blast\", \"stealth rock\"],\n    \"abilities\": [\"magma armor\", \"solid rock\", \"anger point\"],\n    \"common_items\": [\"life orb\", \"leftovers\", \"choice specs\"],\n    \"summary\": \"slow but powerful fire/ground type with high attack stats, excels in trick room teams or as a surprise wallbreaker with eruption.\"\n}\n```"
+}

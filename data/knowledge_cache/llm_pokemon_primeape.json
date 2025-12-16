@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"primeape\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"wallbreaker\", \"revenge killer\", \"scout\"],\n    \"notable_moves\": [\"close combat\", \"uturn\", \"earthquake\", \"ice punch\", \"stone edge\"],\n    \"abilities\": [\"vital spirit\", \"anger point\", \"defiant\"],\n    \"common_items\": [\"choice scarf\", \"choice band\", \"life orb\", \"focus sash\"],\n    \"summary\": \"a fast, hard-hitting fighting-type with strong coverage and momentum-gaining moves, but frail defensively.\"\n}\n```"
+}

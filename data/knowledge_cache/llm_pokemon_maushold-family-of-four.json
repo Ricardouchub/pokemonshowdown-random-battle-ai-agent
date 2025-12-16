@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"maushold-family-of-four\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"support\", \"hazard control\", \"offensive pivot\"],\n    \"notable_moves\": [\"population bomb\", \"follow me\", \"super fang\", \"encore\", \"u-turn\"],\n    \"abilities\": [\"friend guard\", \"cheek pouch\", \"technician\"],\n    \"common_items\": [\"loaded dice\", \"focus sash\"],\n    \"summary\": \"a support-oriented normal-type known for its signature multi-hit move population bomb, often utilizing loaded dice to guarantee maximum hits. provides team utility with friend guard damage reduction and redirection via follow me.\"\n}\n```"
+}

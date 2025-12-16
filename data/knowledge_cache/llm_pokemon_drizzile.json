@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"drizzile\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special attacker\", \"utility\"],\n    \"notable_moves\": [\"hydro pump\", \"ice beam\", \"uturn\", \"soak\"],\n    \"abilities\": [\"torrent\", \"sniper\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"focus sash\"],\n    \"summary\": \"a middle-stage water-type with solid special attack and speed, often used to set up with soak or pivot with uturn before evolving.\"\n}\n```"
+}

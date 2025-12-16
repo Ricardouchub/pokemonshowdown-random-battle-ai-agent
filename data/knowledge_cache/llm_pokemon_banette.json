@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"banette\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"wallbreaker\", \"revenge killer\", \"status spreader\"],\n    \"notable_moves\": [\"shadow claw\", \"shadow sneak\", \"will-o-wisp\", \"taunt\", \"destiny bond\"],\n    \"abilities\": [\"insomnia\", \"frisk\", \"cursed body\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"spell tag\"],\n    \"summary\": \"a physical ghost-type attacker with priority, disruptive options, and strong wallbreaking potential.\"\n}\n```"
+}

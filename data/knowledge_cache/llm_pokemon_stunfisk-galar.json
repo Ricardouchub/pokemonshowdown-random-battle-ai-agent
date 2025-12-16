@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"stunfisk-galar\",\n    \"types\": [\"ground\", \"steel\"],\n    \"roles\": [\"tank\", \"hazard setter\", \"status spreader\"],\n    \"notable_moves\": [\"stealth rock\", \"earthquake\", \"snap trap\", \"yawn\", \"toxic\"],\n    \"abilities\": [\"mimicry\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive ground/steel type known for setting hazards, spreading status, and trapping foes with snap trap.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minccino\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"support\", \"hazard removal\", \"cleric\"],\n    \"notable_moves\": [\"tail slap\", \"knock off\", \"uturn\", \"bullet seed\", \"aqua tail\"],\n    \"abilities\": [\"cute charm\", \"technician\", \"skill link\"],\n    \"common_items\": [\"eviolite\", \"king's rock\", \"life orb\"],\n    \"summary\": \"a fast normal-type support pok\u00e9mon known for multi-hit moves and utility, often using eviolite for bulk.\"\n}\n```"
+}

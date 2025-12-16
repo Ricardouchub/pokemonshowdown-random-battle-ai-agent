@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"weedle\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"early-game\", \"setup\"],\n    \"notable_moves\": [\"poison sting\", \"string shot\", \"bug bite\"],\n    \"abilities\": [\"shield dust\"],\n    \"common_items\": [\"oran berry\", \"pecha berry\"],\n    \"summary\": \"basic early-game bug/poison type, evolves quickly into kakuna then beedrill.\"\n}\n```"
+}

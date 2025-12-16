@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"azurill\",\n    \"types\": [\"normal\", \"fairy\"],\n    \"roles\": [\"support\", \"pivot\"],\n    \"notable_moves\": [\"splash\", \"water gun\", \"charm\", \"encore\"],\n    \"abilities\": [\"thick fat\", \"huge power\", \"sap sipper\"],\n    \"common_items\": [\"eviolite\", \"berry juice\"],\n    \"summary\": \"pre-evolution with limited movepool; notable for huge power potential and fairy typing.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bellossom\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun sweeper\", \"support\", \"setup sweeper\"],\n    \"notable_moves\": [\"quiver dance\", \"giga drain\", \"moonblast\", \"sleep powder\"],\n    \"abilities\": [\"chlorophyll\", \"healer\"],\n    \"common_items\": [\"life orb\", \"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"a sun-dependent grass-type that can sweep with quiver dance or provide team support with sleep powder and healing.\"\n}\n```"
+}

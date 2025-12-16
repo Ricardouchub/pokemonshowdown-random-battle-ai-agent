@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"golbat\",\n    \"types\": [\"poison\", \"flying\"],\n    \"roles\": [\"offensive pivot\", \"status spreader\", \"eviolite user\"],\n    \"notable_moves\": [\"brave bird\", \"super fang\", \"toxic\", \"roost\", \"uturn\"],\n    \"abilities\": [\"inner focus\", \"infiltrator\"],\n    \"common_items\": [\"eviolite\", \"black sludge\"],\n    \"summary\": \"bulky poison/flying pivot with strong utility moves and eviolite-boosted defenses.\"\n}\n```"
+}

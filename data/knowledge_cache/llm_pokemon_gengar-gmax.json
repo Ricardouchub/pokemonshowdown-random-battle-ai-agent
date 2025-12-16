@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gengar-gmax\",\n    \"types\": [\"ghost\", \"poison\"],\n    \"roles\": [\"special-attacker\", \"setup-sweeper\", \"trapper\"],\n    \"notable_moves\": [\"shadow-ball\", \"sludge-bomb\", \"nasty-plot\", \"focus-blast\", \"g-max-terror\"],\n    \"abilities\": [\"cursed-body\"],\n    \"common_items\": [\"life-orb\", \"focus-sash\", \"choice-specs\"],\n    \"summary\": \"gigantamax gengar uses g-max terror to trap foes while boosting with nasty-plot for massive special damage.\"\n}\n```"
+}

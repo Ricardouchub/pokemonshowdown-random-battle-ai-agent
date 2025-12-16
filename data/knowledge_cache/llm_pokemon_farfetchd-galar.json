@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"farfetchd-galar\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical sweeper\", \"swords dance user\"],\n    \"notable_moves\": [\"close combat\", \"brave bird\", \"swords dance\", \"knock off\"],\n    \"abilities\": [\"steadfast\", \"scrappy\"],\n    \"common_items\": [\"leek\", \"choice band\", \"life orb\"],\n    \"summary\": \"galarian farfetch'd is a pure fighting-type with high attack, using swords dance to boost its powerful stabs like close combat. its signature leek item boosts critical hit rate, and scrappy allows it to hit ghost-types.\"\n}\n```"
+}

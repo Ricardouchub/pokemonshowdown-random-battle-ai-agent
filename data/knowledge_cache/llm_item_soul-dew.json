@@ -1,0 +1,9 @@
+{
+  "item": "Soul Dew",
+  "category": "Held Item",
+  "summary": "Boosts the Sp. Atk and Sp. Def of Latios or Latias by 50% each in battle.",
+  "typical_users": [
+    "Latios",
+    "Latias"
+  ]
+}

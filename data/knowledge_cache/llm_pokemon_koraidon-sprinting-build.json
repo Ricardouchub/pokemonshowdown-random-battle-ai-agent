@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"koraidon-sprinting-build\",\n    \"types\": [\"fighting\", \"dragon\"],\n    \"roles\": [\"fast-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"collision-course\", \"dragon-claw\", \"flame-charge\", \"low-kick\"],\n    \"abilities\": [\"orichalcum-pulse\"],\n    \"common_items\": [\"booster-energy\", \"life-orb\"],\n    \"summary\": \"aggressive physical sweeper that boosts speed with flame charge and sun with its ability.\"\n}\n```"
+}

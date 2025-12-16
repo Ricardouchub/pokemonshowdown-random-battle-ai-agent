@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"stunfisk\",\n    \"types\": [\"ground\", \"electric\"],\n    \"roles\": [\"defensive wall\", \"status spreader\", \"stealth rock setter\"],\n    \"notable_moves\": [\"discharge\", \"earthquake\", \"stealth rock\", \"toxic\", \"scald\"],\n    \"abilities\": [\"static\", \"limber\", \"sand veil\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive ground/electric type known for its high bulk and ability to spread paralysis or poison while setting hazards.\"\n}\n```"
+}

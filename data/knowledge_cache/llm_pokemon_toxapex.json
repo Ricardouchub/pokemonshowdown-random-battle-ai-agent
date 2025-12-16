@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"toxapex\",\n    \"types\": [\"poison\", \"water\"],\n    \"roles\": [\"defensive wall\", \"hazard setter\", \"status spreader\"],\n    \"notable_moves\": [\"baneful bunker\", \"toxic\", \"recover\", \"scald\", \"haze\"],\n    \"abilities\": [\"merciless\", \"limber\", \"regenerator\"],\n    \"common_items\": [\"black sludge\", \"rocky helmet\"],\n    \"summary\": \"extremely bulky defensive pok\u00e9mon that stalls with poison, recovery, and hazard support.\"\n}\n```"
+}

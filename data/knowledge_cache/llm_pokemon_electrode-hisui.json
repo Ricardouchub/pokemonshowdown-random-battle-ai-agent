@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"electrode-hisui\",\n    \"types\": [\"electric\", \"grass\"],\n    \"roles\": [\"offensive-pivot\", \"setup-sweeper\", \"hazard-setter\"],\n    \"notable_moves\": [\"chloroblast\", \"thunderbolt\", \"energy-ball\", \"foul-play\", \"spikes\"],\n    \"abilities\": [\"soundproof\", \"static\", \"aftermath\"],\n    \"common_items\": [\"heavy-duty-boots\", \"life-orb\", \"choice-specs\"],\n    \"summary\": \"hisuian electrode trades speed for power, using its unique grass typing and strong stab moves like chloroblast to threaten opponents. it can set spikes or attempt to sweep with setup.\"\n}\n```"
+}

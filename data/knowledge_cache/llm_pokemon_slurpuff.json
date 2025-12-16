@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"slurpuff\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"belly-drum sweeper\", \"unburden sweeper\", \"support\"],\n    \"notable_moves\": [\"belly-drum\", \"play-rough\", \"drain-punch\", \"return\", \"thunderbolt\"],\n    \"abilities\": [\"sweet-veil\", \"unburden\"],\n    \"common_items\": [\"sitrus-berry\", \"petaya-berry\"],\n    \"summary\": \"a fairy-type known for belly-drum + unburden sweeping with berry activation, or providing support with sweet-veil.\"\n}\n```"
+}

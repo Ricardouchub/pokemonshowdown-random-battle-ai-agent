@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pyroar-mega\",\n    \"types\": [\"fire\", \"normal\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"hyper-voice\", \"fire-blast\", \"dark-pulse\", \"solar-beam\"],\n    \"abilities\": [\"adaptability\"],\n    \"common_items\": [\"pyroarite\"],\n    \"summary\": \"mega evolution boosts special attack and speed, making it a potent special wallbreaker with adaptability-bosted stab moves.\"\n}\n```"
+}

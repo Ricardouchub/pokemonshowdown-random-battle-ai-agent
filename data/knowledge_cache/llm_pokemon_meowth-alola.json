@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"meowth-alola\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"support\", \"utility\", \"annoyer\"],\n    \"notable_moves\": [\"foul play\", \"parting shot\", \"taunt\", \"fake out\"],\n    \"abilities\": [\"pickup\", \"technician\", \"rattled\"],\n    \"common_items\": [\"darkinium z\", \"leftovers\", \"focus sash\"],\n    \"summary\": \"a dark-type utility pok\u00e9mon known for disruptive moves like parting shot and taunt, often using its technician ability to boost weak moves.\"\n}\n```"
+}

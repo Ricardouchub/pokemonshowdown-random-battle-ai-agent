@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rotom-heat\",\n    \"types\": [\"electric\", \"fire\"],\n    \"roles\": [\"special attacker\", \"pivot\", \"defensive utility\"],\n    \"notable_moves\": [\"overheat\", \"voltswitch\", \"will-o-wisp\", \"defog\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"versatile special attacker with unique typing, levitate immunity, and utility moves like defog and will-o-wisp.\"\n}\n```"
+}

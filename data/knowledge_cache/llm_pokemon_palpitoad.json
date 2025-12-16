@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"palpitoad\",\n    \"types\": [\"water\", \"ground\"],\n    \"roles\": [\"bulky attacker\", \"rain sweeper\"],\n    \"notable_moves\": [\"scald\", \"earth power\", \"stealth rock\", \"toxic\"],\n    \"abilities\": [\"swift swim\", \"hydration\", \"water absorb\"],\n    \"common_items\": [\"life orb\", \"leftovers\", \"damp rock\"],\n    \"summary\": \"a mid-stage water/ground type that excels in rain teams with swift swim, offering good defensive utility and offensive pressure.\"\n}\n```"
+}

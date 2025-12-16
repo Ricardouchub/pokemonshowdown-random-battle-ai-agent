@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"typhlosion-hisui\",\n    \"types\": [\"fire\", \"ghost\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"infernal parade\", \"shadow ball\", \"focus blast\", \"flamethrower\"],\n    \"abilities\": [\"blaze\", \"frisk\"],\n    \"common_items\": [\"choice specs\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"hisuian typhlosion is a potent special attacker with unique fire/ghost typing, using infernal parade to punish statused foes while threatening with strong stabs and coverage.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"doduo\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"fast physical attacker\", \"early-game sweeper\"],\n    \"notable_moves\": [\"drill peck\", \"return\", \"quick attack\", \"jump kick\"],\n    \"abilities\": [\"run away\", \"early bird\", \"tangled feet\"],\n    \"common_items\": [\"choice band\", \"sharp beak\", \"focus sash\"],\n    \"summary\": \"fast normal/flying bird with high attack and speed but poor defenses; excels at early-game offense with strong stab moves.\"\n}\n```"
+}

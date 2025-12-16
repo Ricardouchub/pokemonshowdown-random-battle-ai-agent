@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kabuto\",\n    \"types\": [\"rock\", \"water\"],\n    \"roles\": [\"hazard setter\", \"rapid spinner\"],\n    \"notable_moves\": [\"stealth rock\", \"rapid spin\", \"scald\", \"rock slide\"],\n    \"abilities\": [\"swift swim\", \"battle armor\", \"weak armor\"],\n    \"common_items\": [\"eviolite\", \"focus sash\"],\n    \"summary\": \"fossil pok\u00e9mon with solid defenses, used for hazard control and utility in lower tiers.\"\n}\n```"
+}

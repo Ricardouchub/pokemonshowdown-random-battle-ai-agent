@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"manectric\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"offensive pivot\", \"revenge killer\", \"wallbreaker\"],\n    \"notable_moves\": [\"voltswitch\", \"thunderbolt\", \"overheat\", \"hidden power ice\"],\n    \"abilities\": [\"static\", \"lightning rod\", \"minus\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"air balloon\"],\n    \"summary\": \"fast electric attacker with pivoting utility and coverage for ground types.\"\n}\n```"
+}

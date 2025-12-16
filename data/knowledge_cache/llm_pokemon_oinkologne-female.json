@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"oinkologne-female\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"bulky attacker\", \"status spreader\", \"wallbreaker\"],\n    \"notable_moves\": [\"headlong rush\", \"zen headbutt\", \"yawn\", \"body press\", \"earthquake\"],\n    \"abilities\": [\"aroma veil\", \"gluttony\", \"thick fat\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"choice band\"],\n    \"summary\": \"female form has higher hp and special defense, functioning as a bulky normal-type attacker and disruptor with yawn and aroma veil.\"\n}\n```"
+}

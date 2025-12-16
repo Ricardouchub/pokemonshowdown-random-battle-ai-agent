@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cherubi\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun-setter\", \"early-game-sweeper\", \"support\"],\n    \"notable_moves\": [\"sunny-day\", \"solar-beam\", \"weather-ball\", \"growth\"],\n    \"abilities\": [\"chlorophyll\"],\n    \"common_items\": [\"heat-rock\", \"life-orb\"],\n    \"summary\": \"cherubi is a pure grass-type that excels in sun teams, using chlorophyll to outspeed opponents and sunny day to enable powerful solar beams. it's primarily seen in early-game formats or as a dedicated sun setter.\"\n}\n```"
+}

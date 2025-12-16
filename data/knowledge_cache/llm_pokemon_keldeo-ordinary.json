@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"keldeo-ordinary\",\n    \"types\": [\"water\", \"fighting\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"scald\", \"secret sword\", \"icy wind\", \"hydro pump\"],\n    \"abilities\": [\"justified\"],\n    \"common_items\": [\"choice specs\", \"life orb\"],\n    \"summary\": \"mythical water/fighting type with high special attack and signature move secret sword, which targets defense. excels at breaking through physical walls.\"\n}\n```"
+}

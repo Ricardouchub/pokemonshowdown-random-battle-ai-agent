@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"turtwig\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"setup sweeper\", \"bulky attacker\"],\n    \"notable_moves\": [\"curse\", \"seed bomb\", \"earthquake\", \"synthesis\"],\n    \"abilities\": [\"overgrow\", \"shell armor\"],\n    \"common_items\": [\"leftovers\", \"life orb\"],\n    \"summary\": \"a slow but bulky grass-type starter that uses curse to boost its attack and defense, becoming a powerful physical tank.\"\n}\n```"
+}

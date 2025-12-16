@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"registeel\",\n    \"types\": [\"steel\"],\n    \"roles\": [\"wall\", \"pivot\", \"hazard_setter\"],\n    \"notable_moves\": [\"iron_defense\", \"body_press\", \"stealth_rock\", \"protect\", \"toxic\"],\n    \"abilities\": [\"clear_body\", \"light_metal\"],\n    \"common_items\": [\"leftovers\", \"rocky_helmet\"],\n    \"summary\": \"a defensive steel-type wall with high bulk, used to set hazards and pivot with slow volt switch.\"\n}\n```"
+}

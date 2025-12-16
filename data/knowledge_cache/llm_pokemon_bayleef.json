@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bayleef\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"defensive pivot\", \"support\", \"sun team support\"],\n    \"notable_moves\": [\"synthesis\", \"leech seed\", \"toxic\", \"reflect\", \"light screen\"],\n    \"abilities\": [\"overgrow\", \"leaf guard\"],\n    \"common_items\": [\"leftovers\", \"light clay\", \"rocky helmet\"],\n    \"summary\": \"a defensive grass-type known for support moves, healing, and setting screens; evolves from chikorita.\"\n}\n```"
+}

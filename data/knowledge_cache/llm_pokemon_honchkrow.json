@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"honchkrow\",\n    \"types\": [\"dark\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"priority attacker\", \"late-game cleaner\"],\n    \"notable_moves\": [\"sucker punch\", \"brave bird\", \"superpower\", \"heat wave\", \"roost\"],\n    \"abilities\": [\"insomnia\", \"super luck\", \"moxie\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"heavy-duty boots\"],\n    \"summary\": \"a powerful dark/flying attacker with strong priority and setup potential via moxie, but suffers from poor bulk and stealth rock weakness.\"\n}\n```"
+}

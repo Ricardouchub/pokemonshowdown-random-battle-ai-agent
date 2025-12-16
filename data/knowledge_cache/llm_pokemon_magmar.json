@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"magmar\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special_attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"fire_blast\", \"thunderbolt\", \"psychic\", \"focus_blast\"],\n    \"abilities\": [\"flame_body\"],\n    \"common_items\": [\"life_orb\", \"choice_specs\"],\n    \"summary\": \"a pure fire-type with high special attack, used to break through defensive cores with powerful coverage moves.\"\n}\n```"
+}

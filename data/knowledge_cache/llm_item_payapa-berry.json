@@ -1,0 +1,9 @@
+{
+  "item": "Payapa Berry",
+  "category": "Berries",
+  "summary": "Halves damage taken from a super effective Psychic-type move, then is consumed.",
+  "typical_users": [
+    "Dark-type Pok\u00e9mon vulnerable to Psychic moves (e.g., Bisharp, Hydreigon)",
+    "Bulky attackers seeking to counter Psychic-type threats"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-unova-cap\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast-attacker\", \"voltage-switch\", \"nuzzle-support\"],\n    \"notable_moves\": [\"volttackle\", \"fake-out\", \"nuzzle\", \"knock-off\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\"],\n    \"summary\": \"special pikachu variant with unova cap cosmetic, relies on light ball for extreme offensive power but remains extremely frail.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"thundurus-therian\",\n    \"types\": [\"electric\", \"flying\"],\n    \"roles\": [\"special sweeper\", \"pivot\", \"wallbreaker\"],\n    \"notable_moves\": [\"thunderbolt\", \"hurricane\", \"focus blast\", \"nasty plot\", \"voltswitch\"],\n    \"abilities\": [\"volt-absorb\"],\n    \"common_items\": [\"heavy-duty boots\", \"life orb\", \"choice specs\"],\n    \"summary\": \"fast special attacker with volt-absorb immunity, strong coverage, and pivoting utility.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"raichu-mega-y\",\n    \"types\": [\"electric\", \"psychic\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"thunderbolt\", \"psychic\", \"focus blast\", \"grass knot\"],\n    \"abilities\": [\"surge surfer\"],\n    \"common_items\": [\"raichunite-y\"],\n    \"summary\": \"mega evolution exclusive to let's go pikachu/eevee, gains psychic typing and surge surfer for doubled speed on electric terrain, functioning as a fast special attacker.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"regieleki\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast sweeper\", \"hazard setter\", \"pivot\"],\n    \"notable_moves\": [\"thunderbolt\", \"volt switch\", \"rapid spin\", \"electroweb\"],\n    \"abilities\": [\"transistor\"],\n    \"common_items\": [\"heavy-duty boots\", \"choice scarf\", \"magnet\"],\n    \"summary\": \"extremely fast electric-type legendary with powerful electric moves and hazard control utility.\"\n}\n```"
+}

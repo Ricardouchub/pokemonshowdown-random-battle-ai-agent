@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"golisopod\",\n    \"types\": [\"bug\", \"water\"],\n    \"roles\": [\"bulky pivot\", \"priority attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"first impression\", \"aqua jet\", \"liquidation\", \"leech life\", \"spikes\"],\n    \"abilities\": [\"emergency exit\"],\n    \"common_items\": [\"heavy-duty boots\", \"assault vest\", \"leftovers\"],\n    \"summary\": \"bulky bug-water pivot with strong priority moves, but often forced out by its ability.\"\n}\n```"
+}

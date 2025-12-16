@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"suicune\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky support\", \"defensive pivot\", \"hazard control\"],\n    \"notable_moves\": [\"scald\", \"ice beam\", \"rest\", \"calm mind\", \"toxic\"],\n    \"abilities\": [\"pressure\", \"inner focus\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"legendary water-type known for exceptional bulk and purification abilities, often used as a defensive wall and status absorber.\"\n}\n```"
+}

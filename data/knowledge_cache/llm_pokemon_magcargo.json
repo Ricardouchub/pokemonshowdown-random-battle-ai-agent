@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"magcargo\",\n    \"types\": [\"fire\", \"rock\"],\n    \"roles\": [\"trick room setter\", \"utility\", \"special wall\"],\n    \"notable_moves\": [\"lava plume\", \"stealth rock\", \"recover\", \"toxic\"],\n    \"abilities\": [\"magma armor\", \"flame body\", \"weak armor\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"slow defensive pok\u00e9mon with unique typing, used for hazard setting and status spreading in trick room teams.\"\n}\n```"
+}

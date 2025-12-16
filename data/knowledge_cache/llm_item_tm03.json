@@ -1,0 +1,10 @@
+{
+  "item": "TM03",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Water Pulse, a special Water-type attack with 60 power, 100% accuracy, and a 20% chance to confuse the target.",
+  "typical_users": [
+    "Special-attacking Water-types like Starmie or Milotic",
+    "Pok\u00e9mon needing coverage against Fire, Ground, or Rock types",
+    "Teams utilizing confusion for disruption"
+  ]
+}

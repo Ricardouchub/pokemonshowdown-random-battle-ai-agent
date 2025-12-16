@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"jellicent\",\n    \"types\": [\"water\", \"ghost\"],\n    \"roles\": [\"wall\", \"spinblocker\", \"status spreader\"],\n    \"notable_moves\": [\"scald\", \"will-o-wisp\", \"recover\", \"shadow ball\", \"taunt\"],\n    \"abilities\": [\"water absorb\", \"cursed body\", \"damp\"],\n    \"common_items\": [\"leftovers\", \"colbur berry\", \"rocky helmet\"],\n    \"summary\": \"bulky water/ghost wall that spreads burns, blocks rapid spin, and disrupts with status and ability.\"\n}\n```"
+}

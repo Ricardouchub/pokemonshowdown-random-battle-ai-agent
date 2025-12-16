@@ -1,0 +1,9 @@
+{
+  "item": "Zap Plate",
+  "category": "Type-Enhancing Item",
+  "summary": "Boosts the power of Electric-type moves by 20% and changes Judgment or Techno Blast to Electric-type.",
+  "typical_users": [
+    "Arceus (Electric)",
+    "Genesect (with Techno Blast), Electric-type attackers like Zapdos or Thundurus"
+  ]
+}

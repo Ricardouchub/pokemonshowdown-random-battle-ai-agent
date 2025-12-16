@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ceruledge\",\n    \"types\": [\"fire\", \"ghost\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"bitter blade\", \"shadow claw\", \"close combat\", \"swords dance\", \"psychic fangs\"],\n    \"abilities\": [\"flash fire\", \"weak armor\"],\n    \"common_items\": [\"choice band\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"a physical attacker with strong fire/ghost stabs, recovery via bitter blade, and setup potential with swords dance.\"\n}\n```"
+}

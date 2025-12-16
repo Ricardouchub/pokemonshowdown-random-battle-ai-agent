@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lombre\",\n    \"types\": [\"water\", \"grass\"],\n    \"roles\": [\"disruptor\", \"bulky attacker\"],\n    \"notable_moves\": [\"scald\", \"giga drain\", \"knock off\", \"ice beam\"],\n    \"abilities\": [\"swift swim\", \"rain dish\", \"own tempo\"],\n    \"common_items\": [\"leftovers\", \"assault vest\"],\n    \"summary\": \"a tricky water/grass type that disrupts opponents with utility moves while maintaining decent bulk and coverage.\"\n}\n```"
+}

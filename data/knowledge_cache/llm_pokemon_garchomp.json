@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"garchomp\",\n    \"types\": [\"dragon\", \"ground\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\", \"stealth rock setter\"],\n    \"notable_moves\": [\"earthquake\", \"outrage\", \"scale shot\", \"swords dance\", \"stealth rock\"],\n    \"abilities\": [\"rough skin\", \"sand veil\"],\n    \"common_items\": [\"choice scarf\", \"choice band\", \"rocky helmet\", \"life orb\"],\n    \"summary\": \"a fast and powerful pseudo-legendary dragon with strong offensive stats and versatile roles.\"\n}\n```"
+}

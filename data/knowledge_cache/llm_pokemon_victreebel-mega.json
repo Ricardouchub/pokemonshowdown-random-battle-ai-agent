@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"victreebel-mega\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"wallbreaker\", \"sun-sweeper\"],\n    \"notable_moves\": [\"leaf-storm\", \"sludge-bomb\", \"weather-ball\", \"synthesis\"],\n    \"abilities\": [\"chlorophyll\"],\n    \"common_items\": [\"victreebelite\"],\n    \"summary\": \"a powerful sun sweeper with high special attack and speed under sun, but requires mega evolution and sun support.\"\n}\n```"
+}

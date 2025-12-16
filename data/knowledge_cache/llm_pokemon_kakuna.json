@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kakuna\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"defensive pivot\", \"staller\"],\n    \"notable_moves\": [\"iron defense\", \"toxic\", \"bug bite\", \"poison sting\"],\n    \"abilities\": [\"shed skin\"],\n    \"common_items\": [\"eviolite\", \"berry juice\"],\n    \"summary\": \"a defensive cocoon pok\u00e9mon with limited offensive presence, relying on stalling and status to wear down opponents while evolving into beedrill.\"\n}\n```"
+}

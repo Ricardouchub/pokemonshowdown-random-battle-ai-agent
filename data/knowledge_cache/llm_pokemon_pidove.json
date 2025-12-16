@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pidove\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"early-game attacker\", \"scout\"],\n    \"notable_moves\": [\"quick attack\", \"air slash\", \"roost\", \"u-turn\"],\n    \"abilities\": [\"big pecks\", \"super luck\", \"rivalry\"],\n    \"common_items\": [\"berry juice\", \"sharp beak\"],\n    \"summary\": \"basic early-game bird pok\u00e9mon with simple normal/flying coverage, often replaced by stronger flyers.\"\n}\n```"
+}

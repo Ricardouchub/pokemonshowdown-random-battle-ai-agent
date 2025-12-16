@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"blipbug\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"hazard setter\", \"support\"],\n    \"notable_moves\": [\"sticky web\", \"recover\", \"toxic\", \"infestation\"],\n    \"abilities\": [\"swarm\", \"compound eyes\", \"telepathy\"],\n    \"common_items\": [\"focus sash\", \"leftovers\"],\n    \"summary\": \"early-game bug-type focused on setting sticky web for speed control and providing utility with status moves.\"\n}\n```"
+}

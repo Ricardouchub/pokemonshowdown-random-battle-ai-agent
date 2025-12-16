@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gogoat\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"bulky attacker\", \"support\", \"wallbreaker\"],\n    \"notable_moves\": [\"horn leech\", \"earthquake\", \"bulk up\", \"milk drink\"],\n    \"abilities\": [\"sap sipper\", \"grass pelt\"],\n    \"common_items\": [\"leftovers\", \"assault vest\", \"rocky helmet\"],\n    \"summary\": \"a bulky grass-type with reliable recovery and strong physical attacks, often used as a tank or setup sweeper.\"\n}\n```"
+}

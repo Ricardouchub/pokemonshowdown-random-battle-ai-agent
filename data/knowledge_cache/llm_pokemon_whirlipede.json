@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"whirlipede\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"defensive pivot\", \"hazard setter\", \"setup sweeper\"],\n    \"notable_moves\": [\"toxic spikes\", \"iron defense\", \"steamroller\", \"protect\"],\n    \"abilities\": [\"poison point\", \"swarm\", \"speed boost\"],\n    \"common_items\": [\"black sludge\", \"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive bug-poison type that sets hazards, boosts defense, and can sweep with speed boost.\"\n}\n```"
+}

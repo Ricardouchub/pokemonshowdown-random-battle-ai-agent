@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lillipup\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"early-game attacker\", \"intimidate pivot\"],\n    \"notable_moves\": [\"return\", \"wild charge\", \"work up\", \"last resort\"],\n    \"abilities\": [\"vital spirit\", \"pickup\", \"run away\"],\n    \"common_items\": [\"oran berry\", \"silk scarf\"],\n    \"summary\": \"a basic normal-type pok\u00e9mon valued for its intimidate ability and decent early-game stats, often used as a pivot or simple attacker.\"\n}\n```"
+}

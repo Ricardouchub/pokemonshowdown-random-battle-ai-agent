@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"coalossal\",\n    \"types\": [\"rock\", \"fire\"],\n    \"roles\": [\"trick room sweeper\", \"stealth rock setter\", \"bulky attacker\"],\n    \"notable_moves\": [\"rock slide\", \"heat crash\", \"body press\", \"stealth rock\"],\n    \"abilities\": [\"steam engine\", \"flame body\", \"flash fire\"],\n    \"common_items\": [\"leftovers\", \"weakness policy\", \"air balloon\"],\n    \"summary\": \"slow, bulky rock-fire type that excels in trick room teams. steam engine boosts speed when hit by water or fire moves. vulnerable to common ground and water attacks.\"\n}\n```"
+}

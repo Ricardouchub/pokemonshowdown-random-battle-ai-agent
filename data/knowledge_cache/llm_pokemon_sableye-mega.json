@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sableye-mega\",\n    \"types\": [\"dark\", \"ghost\"],\n    \"roles\": [\"wall\", \"pivot\", \"status-spreader\"],\n    \"notable_moves\": [\"will-o-wisp\", \"recover\", \"knock off\", \"foul play\"],\n    \"abilities\": [\"magic-bounce\"],\n    \"common_items\": [\"sablenite\"],\n    \"summary\": \"bulky magic-bounce user that spreads burns and disrupts with knock off.\"\n}\n```"
+}

@@ -1,0 +1,10 @@
+{
+  "item": "Shell Bell",
+  "category": "Recovery",
+  "summary": "Heals the holder by 1/8 of the damage dealt by its own damaging moves.",
+  "typical_users": [
+    "Sweepers with high damage output but no recovery",
+    "Pok\u00e9mon in longer battles to sustain themselves",
+    "Occasional use on Choice item users to offset chip damage"
+  ]
+}

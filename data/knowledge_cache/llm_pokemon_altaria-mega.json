@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"altaria-mega\",\n    \"types\": [\"dragon\", \"fairy\"],\n    \"roles\": [\"special wall\", \"cleric\", \"dragon dancer\"],\n    \"notable_moves\": [\"hyper voice\", \"roost\", \"draco meteor\", \"fire blast\"],\n    \"abilities\": [\"pixilate\"],\n    \"common_items\": [\"altarianite\"],\n    \"summary\": \"mega evolution grants fairy typing and pixilate, turning it into a bulky special attacker with strong hyper voice and cleric support options.\"\n}\n```"
+}

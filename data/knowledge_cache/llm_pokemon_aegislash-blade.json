@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"aegislash-blade\",\n    \"types\": [\"steel\", \"ghost\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\"],\n    \"notable_moves\": [\"kings-shield\", \"shadow-sneak\", \"close-combat\", \"iron-head\"],\n    \"abilities\": [\"stance-change\"],\n    \"common_items\": [\"life-orb\", \"spell-tag\", \"air-balloon\"],\n    \"summary\": \"offensive form of aegislash with high attack stats, used to break through defensive cores with powerful stabs and coverage.\"\n}\n```"
+}

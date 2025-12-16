@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"centiskorch\",\n    \"types\": [\"fire\", \"bug\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\"],\n    \"notable_moves\": [\"fire lash\", \"power whip\", \"leech life\", \"coil\"],\n    \"abilities\": [\"flash fire\", \"white smoke\", \"flame body\"],\n    \"common_items\": [\"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"a bulky fire-bug type that uses fire lash to lower defense and set up sweeps with coil.\"\n}\n```"
+}

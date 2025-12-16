@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"munkidori\",\n    \"types\": [\"poison\", \"psychic\"],\n    \"roles\": [\"special attacker\", \"pivot\", \"status spreader\"],\n    \"notable_moves\": [\"sludge wave\", \"psychic\", \"parting shot\", \"toxic spikes\"],\n    \"abilities\": [\"toxic chain\", \"frisk\"],\n    \"common_items\": [\"choice specs\", \"black sludge\", \"focus sash\"],\n    \"summary\": \"fast special attacker that spreads poison and pivots with parting shot.\"\n}\n```"
+}

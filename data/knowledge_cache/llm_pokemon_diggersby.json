@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"diggersby\",\n    \"types\": [\"normal\", \"ground\"],\n    \"roles\": [\"wallbreaker\", \"pivot\", \"hazard setter\"],\n    \"notable_moves\": [\"earthquake\", \"quick attack\", \"swords dance\", \"uturn\"],\n    \"abilities\": [\"huge power\", \"cheek pouch\", \"pickup\"],\n    \"common_items\": [\"choice band\", \"leftovers\", \"sitrus berry\"],\n    \"summary\": \"a bulky normal/ground attacker with huge power, known for strong priority and wallbreaking potential.\"\n}\n```"
+}

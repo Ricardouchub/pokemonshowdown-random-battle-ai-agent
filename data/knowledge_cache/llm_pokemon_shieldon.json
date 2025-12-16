@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shieldon\",\n    \"types\": [\"rock\", \"steel\"],\n    \"roles\": [\"tank\", \"stealth rock setter\"],\n    \"notable_moves\": [\"stealth rock\", \"metal burst\", \"rock blast\", \"toxic\"],\n    \"abilities\": [\"sturdy\", \"soundproof\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive fossil pok\u00e9mon with high physical defense, weak to common fighting and ground moves.\"\n}\n```"
+}

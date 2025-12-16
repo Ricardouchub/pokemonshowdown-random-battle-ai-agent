@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hitmonchan\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical attacker\", \"priority user\", \"coverage attacker\"],\n    \"notable_moves\": [\"ice punch\", \"thunder punch\", \"fire punch\", \"mach punch\", \"close combat\"],\n    \"abilities\": [\"keen eye\", \"iron fist\", \"inner focus\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"expert belt\", \"assault vest\"],\n    \"summary\": \"a pure fighting-type with elemental punches for coverage, priority in mach punch, and iron fist ability to boost punch moves.\"\n}\n```"
+}

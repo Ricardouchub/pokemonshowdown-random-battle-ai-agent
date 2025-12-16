@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bisharp\",\n    \"types\": [\"dark\", \"steel\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"kowtow cleave\", \"sucker punch\", \"iron head\", \"swords dance\"],\n    \"abilities\": [\"defiant\", \"inner focus\", \"pressure\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"black glasses\"],\n    \"summary\": \"a powerful physical attacker with strong stabs and priority, using defiant to punish stat drops and swords dance to sweep.\"\n}\n```"
+}

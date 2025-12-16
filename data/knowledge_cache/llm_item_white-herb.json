@@ -1,0 +1,10 @@
+{
+  "item": "White Herb",
+  "category": "Held Item",
+  "summary": "Restores a lowered stat (e.g., from Overheat, Draco Meteor, or Close Combat) to its original stage once per battle.",
+  "typical_users": [
+    "Special attackers using moves with self-stat drops (e.g., Blacephalon, Hydreigon)",
+    "Shell Smash users (e.g., Cloyster)",
+    "Pok\u00e9mon with stat-lowering abilities (e.g., Intimidate counter)"
+  ]
+}

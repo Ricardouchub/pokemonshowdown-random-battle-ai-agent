@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hypno\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"special wall\", \"status spreader\", \"trick room setter\"],\n    \"notable_moves\": [\"psychic\", \"thunder wave\", \"wish\", \"protect\", \"trick room\"],\n    \"abilities\": [\"insomnia\", \"forewarn\", \"inner focus\"],\n    \"common_items\": [\"leftovers\", \"light clay\", \"mental herb\"],\n    \"summary\": \"bulky psychic-type known for spreading status and providing team support with wish and trick room.\"\n}\n```"
+}

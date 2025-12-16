@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rotom-fan\",\n    \"types\": [\"electric\", \"flying\"],\n    \"roles\": [\"pivot\", \"defensive utility\", \"hazard control\"],\n    \"notable_moves\": [\"air slash\", \"volt switch\", \"defog\", \"will-o-wisp\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"a defensive rotom form with unique electric/flying typing and levitate, used for pivoting and hazard removal despite redundant abilities.\"\n}\n```"
+}

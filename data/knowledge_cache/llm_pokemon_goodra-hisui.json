@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"goodra-hisui\",\n    \"types\": [\"steel\", \"dragon\"],\n    \"roles\": [\"special wall\", \"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"shelter\", \"flash cannon\", \"draco meteor\", \"thunderbolt\", \"fire blast\"],\n    \"abilities\": [\"sap sipper\", \"shell armor\", \"gooey\"],\n    \"common_items\": [\"assault vest\", \"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"hisuian goodra is a bulky steel/dragon tank with high special defense, using shelter to boost defense while threatening with strong special attacks.\"\n}\n```"
+}

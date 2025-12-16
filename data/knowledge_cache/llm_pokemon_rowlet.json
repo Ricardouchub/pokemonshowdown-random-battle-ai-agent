@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rowlet\",\n    \"types\": [\"grass\", \"flying\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"leaf blade\", \"brave bird\", \"sucker punch\", \"swords dance\"],\n    \"abilities\": [\"overgrow\", \"long reach\"],\n    \"common_items\": [\"grassy seed\", \"heavy-duty boots\"],\n    \"summary\": \"a versatile starter with mixed attacking potential and unique long reach ability.\"\n}\n```"
+}

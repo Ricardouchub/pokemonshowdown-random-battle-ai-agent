@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vanillite\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"special attacker\", \"hazard setter\"],\n    \"notable_moves\": [\"blizzard\", \"freeze-dry\", \"autotomize\", \"hidden power\"],\n    \"abilities\": [\"ice body\", \"snow cloak\", \"weak armor\"],\n    \"common_items\": [\"focus sash\", \"icy rock\", \"life orb\"],\n    \"summary\": \"a basic ice-type with strong special moves and snow support options, but limited by poor defensive typing and speed.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hakamo-o\",\n    \"types\": [\"dragon\", \"fighting\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"dragon dance\", \"close combat\", \"dragon claw\", \"iron head\"],\n    \"abilities\": [\"bulletproof\", \"soundproof\", \"overcoat\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"mid-stage dragon-fighting type that uses eviolite for bulk or sets up with dragon dance to sweep.\"\n}\n```"
+}

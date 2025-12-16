@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"prinplup\",\n    \"types\": [\"water\"],\n    \"roles\": [\"defensive pivot\", \"special attacker\"],\n    \"notable_moves\": [\"scald\", \"ice beam\", \"stealth rock\", \"defog\"],\n    \"abilities\": [\"torrent\", \"defiant\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a defensive water-type that provides utility with hazard control and can punish stat drops with defiant.\"\n}\n```"
+}

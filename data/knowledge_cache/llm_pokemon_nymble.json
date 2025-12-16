@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"nymble\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"first impression\", \"trailblaze\", \"uturn\", \"leech life\"],\n    \"abilities\": [\"swarm\", \"tinted lens\"],\n    \"common_items\": [\"focus sash\", \"choice band\"],\n    \"summary\": \"fast bug-type attacker that uses first impression for priority and trailblaze to boost speed.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kecleon\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"pivot\", \"wallbreaker\", \"utility\"],\n    \"notable_moves\": [\"sucker punch\", \"shadow sneak\", \"drain punch\", \"recover\", \"stealth rock\"],\n    \"abilities\": [\"color change\", \"protean\"],\n    \"common_items\": [\"leftovers\", \"life orb\", \"assault vest\"],\n    \"summary\": \"a versatile normal-type known for its ability to change types, enabling unpredictable offensive and defensive plays.\"\n}\n```"
+}

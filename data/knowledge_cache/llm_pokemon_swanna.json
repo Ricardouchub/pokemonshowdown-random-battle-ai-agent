@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"swanna\",\n    \"types\": [\"water\", \"flying\"],\n    \"roles\": [\"special attacker\", \"defogger\", \"rain supporter\"],\n    \"notable_moves\": [\"hurricane\", \"scald\", \"defog\", \"roost\"],\n    \"abilities\": [\"keen eye\", \"big pecks\", \"hydration\"],\n    \"common_items\": [\"damp rock\", \"leftovers\"],\n    \"summary\": \"a graceful waterfowl pok\u00e9mon that excels in rain teams, utilizing hurricane and hydration for reliable offense and support.\"\n}\n```"
+}

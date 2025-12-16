@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"roselia\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"special attacker\", \"status spreader\", \"spike setter\"],\n    \"notable_moves\": [\"giga drain\", \"sludge bomb\", \"toxic spikes\", \"synthesis\"],\n    \"abilities\": [\"natural cure\", \"poison point\", \"leaf guard\"],\n    \"common_items\": [\"black sludge\", \"life orb\", \"eviolite\"],\n    \"summary\": \"a defensive grass/poison type known for setting hazards, spreading status, and sustaining with synthesis. often used with eviolite in lower tiers.\"\n}\n```"
+}

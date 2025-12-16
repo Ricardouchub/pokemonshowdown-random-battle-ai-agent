@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"noctowl\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"special wall\", \"support\", \"hazard control\"],\n    \"notable_moves\": [\"roost\", \"defog\", \"whirlwind\", \"night shade\", \"toxic\"],\n    \"abilities\": [\"insomnia\", \"keen eye\", \"tinted lens\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"bulky flying-type with reliable recovery and utility moves, often used for hazard removal and status spreading.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tyrantrum\",\n    \"types\": [\"rock\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"head smash\", \"dragon dance\", \"earthquake\", \"outrage\"],\n    \"abilities\": [\"strong jaw\", \"rock head\"],\n    \"common_items\": [\"choice band\", \"life orb\"],\n    \"summary\": \"a powerful physical attacker with high attack and strong jaw-boosted bites, but limited by its typing and speed.\"\n}\n```"
+}

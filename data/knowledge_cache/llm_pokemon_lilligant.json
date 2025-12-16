@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lilligant\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"special sweeper\", \"quiver dance user\", \"sun sweeper\"],\n    \"notable_moves\": [\"quiver dance\", \"giga drain\", \"sleep powder\", \"petal dance\"],\n    \"abilities\": [\"chlorophyll\", \"own tempo\", \"leaf guard\"],\n    \"common_items\": [\"life orb\", \"heavy-duty boots\", \"choice scarf\"],\n    \"summary\": \"fragile but potent special attacker that sweeps after setting up quiver dance, often supported by sun teams.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"manaphy\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky support\", \"setup sweeper\", \"cleric\"],\n    \"notable_moves\": [\"tail glow\", \"scald\", \"ice beam\", \"energy ball\", \"rest\"],\n    \"abilities\": [\"hydration\"],\n    \"common_items\": [\"leftovers\", \"damp rock\"],\n    \"summary\": \"mythical water-type with unique tail glow setup, hydration ability for weather synergy, and versatile support options.\"\n}\n```"
+}

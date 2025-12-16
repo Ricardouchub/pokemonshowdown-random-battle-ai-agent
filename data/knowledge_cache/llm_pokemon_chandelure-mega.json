@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"chandelure-mega\",\n    \"types\": [\"ghost\", \"fire\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"shadow-ball\", \"overheat\", \"energy-ball\", \"trick\"],\n    \"abilities\": [\"shadow-tag\"],\n    \"common_items\": [\"chandelurite\"],\n    \"summary\": \"mega chandelure traps foes with shadow tag and unleashes devastating special attacks, but remains frail and slow.\"\n}\n```"
+}

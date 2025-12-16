@@ -1,0 +1,10 @@
+{
+  "item": "Zoom Lens",
+  "category": "Held Item",
+  "summary": "Boosts the accuracy of moves by 20% if the holder moves after its target this turn.",
+  "typical_users": [
+    "Slow, bulky attackers (e.g., Torkoal, Ferrothorn)",
+    "Trick Room setters/abusers",
+    "Pok\u00e9mon with low-accuracy high-power moves (e.g., Dynamic Punch, Zap Cannon)"
+  ]
+}

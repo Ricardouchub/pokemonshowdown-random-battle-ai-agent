@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hydreigon\",\n    \"types\": [\"dark\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"draco meteor\", \"dark pulse\", \"fire blast\", \"nasty plot\", \"uturn\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"leftovers\"],\n    \"summary\": \"a powerful special attacker with great coverage and setup potential, but slow with common weaknesses.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-pop-star\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special-attacker\", \"support\"],\n    \"notable_moves\": [\"thunderbolt\", \"encore\", \"fake tears\", \"nuzzle\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\"],\n    \"summary\": \"costumed pikachu variant with exclusive move access, often used for disruption and special electric damage.\"\n}\n```"
+}

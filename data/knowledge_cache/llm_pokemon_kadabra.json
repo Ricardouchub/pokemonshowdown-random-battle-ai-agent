@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kadabra\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"special sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"psychic\", \"shadow ball\", \"energy ball\", \"calm mind\"],\n    \"abilities\": [\"synchronize\", \"inner focus\", \"magic guard\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice specs\"],\n    \"summary\": \"fast psychic-type with high special attack, often used as a fragile but powerful special attacker.\"\n}\n```"
+}

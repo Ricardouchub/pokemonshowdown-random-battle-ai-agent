@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"clamperl\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"shell-smash\", \"surf\", \"ice-beam\", \"hidden-power\"],\n    \"abilities\": [\"shell-armor\", \"rattled\"],\n    \"common_items\": [\"deep-sea-tooth\", \"deep-sea-scale\", \"life-orb\"],\n    \"summary\": \"a deep-sea bivalve that evolves with held items; its role depends entirely on its held item, becoming either a powerful special attacker or a defensive wall.\"\n}\n```"
+}

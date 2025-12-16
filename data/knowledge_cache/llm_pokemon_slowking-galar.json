@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"slowking-galar\",\n    \"types\": [\"poison\", \"psychic\"],\n    \"roles\": [\"special wall\", \"trick room setter\", \"special attacker\"],\n    \"notable_moves\": [\"sludge wave\", \"psychic\", \"trick room\", \"flamethrower\"],\n    \"abilities\": [\"curious medicine\", \"own tempo\", \"regenerator\"],\n    \"common_items\": [\"black sludge\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"a poison/psychic tank with strong special bulk and utility, often used to set trick room or absorb status.\"\n}\n```"
+}

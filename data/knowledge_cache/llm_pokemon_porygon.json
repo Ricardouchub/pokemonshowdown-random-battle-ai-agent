@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"porygon\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"special attacker\", \"utility\", \"trick room setter\"],\n    \"notable_moves\": [\"tri attack\", \"ice beam\", \"thunderbolt\", \"recover\", \"trick room\"],\n    \"abilities\": [\"trace\", \"download\", \"analytic\"],\n    \"common_items\": [\"eviolite\", \"life orb\", \"choice specs\"],\n    \"summary\": \"a versatile artificial pok\u00e9mon with strong special attacks and utility options, often used with eviolite for bulk.\"\n}\n```"
+}

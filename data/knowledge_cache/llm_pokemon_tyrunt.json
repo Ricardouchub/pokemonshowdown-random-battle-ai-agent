@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tyrunt\",\n    \"types\": [\"rock\", \"dragon\"],\n    \"roles\": [\"physical-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"dragon-dance\", \"head-smash\", \"outrage\", \"earthquake\"],\n    \"abilities\": [\"strong-jaw\", \"sturdy\"],\n    \"common_items\": [\"choice-band\", \"life-orb\"],\n    \"summary\": \"a fossil pok\u00e9mon with strong physical attacks and setup potential, but slow and vulnerable to common types.\"\n}\n```"
+}

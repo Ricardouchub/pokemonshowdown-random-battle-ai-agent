@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"terapagos\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"tank\", \"setup sweeper\", \"staller\"],\n    \"notable_moves\": [\"terastarstorm\", \"calm mind\", \"rest\", \"sleep talk\", \"ice beam\"],\n    \"abilities\": [\"tera shell\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"a defensive normal-type with unique tera shell ability, capable of setting up with calm mind or stalling with rest-talk.\"\n}\n```"
+}

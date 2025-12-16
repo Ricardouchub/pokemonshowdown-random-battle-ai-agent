@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pidgeotto\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"early-game attacker\", \"scout\"],\n    \"notable_moves\": [\"quick attack\", \"wing attack\", \"roost\", \"u-turn\"],\n    \"abilities\": [\"keen eye\", \"tangled feet\", \"big pecks\"],\n    \"common_items\": [\"flying gem\", \"sharp beak\"],\n    \"summary\": \"mid-evolution bird pok\u00e9mon with balanced stats, often used as a reliable early-game flyer and scout before final evolution.\"\n}\n```"
+}

@@ -1,0 +1,11 @@
+{
+  "item": "Thunder Stone",
+  "category": "Evolutionary Item",
+  "summary": "Evolves specific Electric-type Pok\u00e9mon like Pikachu into Raichu, or Eevee into Jolteon.",
+  "typical_users": [
+    "Pikachu",
+    "Eevee",
+    "Magneton (in some games)",
+    "Charjabug (in some games)"
+  ]
+}

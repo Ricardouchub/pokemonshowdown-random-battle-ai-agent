@@ -1,0 +1,9 @@
+{
+  "item": "Full Incense",
+  "category": "Held Item",
+  "summary": "Holder moves last in its priority bracket, but boosts the power of moves like Trick Room.",
+  "typical_users": [
+    "Slow Pok\u00e9mon like Slowbro or Bronzong setting Trick Room",
+    "Trick Room teams to guarantee slower speed for activation"
+  ]
+}

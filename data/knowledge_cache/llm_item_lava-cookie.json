@@ -1,0 +1,10 @@
+{
+  "item": "Lava Cookie",
+  "category": "Status Recovery",
+  "summary": "Heals any non-volatile status condition (burn, poison, paralysis, freeze, sleep) from the holder.",
+  "typical_users": [
+    "Bulky support Pok\u00e9mon",
+    "Clerics in singles formats",
+    "Teams lacking other status removal"
+  ]
+}

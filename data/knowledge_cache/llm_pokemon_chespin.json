@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"chespin\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"defensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"seed bomb\", \"spiky shield\", \"synthesis\", \"curse\"],\n    \"abilities\": [\"overgrow\", \"bulletproof\"],\n    \"common_items\": [\"eviolite\", \"rocky helmet\"],\n    \"summary\": \"a defensive grass-type starter that uses eviolite to boost its bulk, with bulletproof providing key immunities.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pinsir-mega\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\"],\n    \"notable_moves\": [\"return\", \"quick attack\", \"earthquake\", \"close combat\", \"swords dance\"],\n    \"abilities\": [\"aerilate\"],\n    \"common_items\": [\"pinsirite\"],\n    \"summary\": \"mega pinsir is a fearsome physical attacker with aerilate-boosted flying moves, high attack, and decent speed.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shinx\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"physical attacker\", \"intimidate pivot\"],\n    \"notable_moves\": [\"spark\", \"wild charge\", \"ice fang\", \"crunch\"],\n    \"abilities\": [\"rivalry\", \"intimidate\", \"guts\"],\n    \"common_items\": [\"choice band\", \"life orb\"],\n    \"summary\": \"early-game electric physical attacker with intimidate utility and coverage options.\"\n}\n```"
+}

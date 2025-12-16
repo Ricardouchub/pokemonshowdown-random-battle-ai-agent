@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"phantump\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"harvester\"],\n    \"notable_moves\": [\"shadow claw\", \"horn leech\", \"trick room\", \"will-o-wisp\"],\n    \"abilities\": [\"natural cure\", \"frisk\", \"harvest\"],\n    \"common_items\": [\"sitrus berry\", \"leftovers\", \"choice band\"],\n    \"summary\": \"a ghost/grass type that excels in trick room teams, using its harvest ability for longevity and strong grass/ghost stabs.\"\n}\n```"
+}

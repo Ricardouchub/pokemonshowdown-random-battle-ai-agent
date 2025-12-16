@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"klefki\",\n    \"types\": [\"steel\", \"fairy\"],\n    \"roles\": [\"pivot\", \"hazard setter\", \"cleric\"],\n    \"notable_moves\": [\"spikes\", \"thunder wave\", \"play rough\", \"foul play\"],\n    \"abilities\": [\"prankster\", \"magician\"],\n    \"common_items\": [\"light clay\", \"leftovers\", \"air balloon\"],\n    \"summary\": \"a utility-focused pok\u00e9mon that uses prankster to set hazards and disrupt opponents with priority status moves.\"\n}\n```"
+}

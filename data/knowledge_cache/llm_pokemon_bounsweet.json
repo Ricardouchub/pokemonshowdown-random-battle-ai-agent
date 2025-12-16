@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bounsweet\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"setup\", \"support\"],\n    \"notable_moves\": [\"play rough\", \"synthesis\", \"rapid spin\", \"seed bomb\"],\n    \"abilities\": [\"leaf guard\", \"oblivious\", \"sweet veil\"],\n    \"common_items\": [\"eviolite\", \"berry juice\"],\n    \"summary\": \"pure grass-type pre-evolution with setup and support utility, often used with eviolite for bulk.\"\n}\n```"
+}

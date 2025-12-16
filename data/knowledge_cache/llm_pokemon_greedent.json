@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"greedent\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"bulky attacker\", \"staller\", \"belly drum sweeper\"],\n    \"notable_moves\": [\"body slam\", \"stuff cheeks\", \"belly drum\", \"seed bomb\", \"protect\"],\n    \"abilities\": [\"cheek pouch\", \"gluttony\"],\n    \"common_items\": [\"sitrus berry\", \"leftovers\"],\n    \"summary\": \"a bulky normal-type that excels at healing and stalling with cheek pouch and stuff cheeks, or setting up with belly drum.\"\n}\n```"
+}

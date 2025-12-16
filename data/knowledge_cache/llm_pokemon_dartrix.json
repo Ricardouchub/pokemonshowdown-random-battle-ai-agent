@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dartrix\",\n    \"types\": [\"grass\", \"flying\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"leaf blade\", \"brave bird\", \"sucker punch\", \"swords dance\"],\n    \"abilities\": [\"overgrow\", \"long reach\"],\n    \"common_items\": [\"grassy seed\", \"heavy-duty boots\"],\n    \"summary\": \"mid-stage grass/flying archer owl with strong stabs and priority; evolves into decidueye.\"\n}\n```"
+}

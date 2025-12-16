@@ -1,0 +1,8 @@
+{
+  "item": "Charcoal",
+  "category": "Held Item",
+  "summary": "Boosts the power of Fire-type moves by 20%.",
+  "typical_users": [
+    "Fire-type attackers like Charizard, Arcanine, and Cinderace"
+  ]
+}

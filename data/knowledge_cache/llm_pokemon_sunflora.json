@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sunflora\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun sweeper\", \"chlorophyll abuser\", \"sunny day setter\"],\n    \"notable_moves\": [\"solar beam\", \"sunny day\", \"earth power\", \"hidden power fire\"],\n    \"abilities\": [\"chlorophyll\", \"solar power\", \"early bird\"],\n    \"common_items\": [\"life orb\", \"heat rock\", \"choice specs\"],\n    \"summary\": \"sun-dependent grass type that excels under sun with chlorophyll, but is otherwise slow and frail.\"\n}\n```"
+}

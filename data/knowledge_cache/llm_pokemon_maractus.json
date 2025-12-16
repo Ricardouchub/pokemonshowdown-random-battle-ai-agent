@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"maractus\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive support\", \"sun sweeper\"],\n    \"notable_moves\": [\"spikes\", \"solar beam\", \"sucker punch\", \"giga drain\"],\n    \"abilities\": [\"water absorb\", \"chlorophyll\", \"storm drain\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"leftovers\"],\n    \"summary\": \"a niche grass-type with unique abilities for sun teams and hazard support, but limited by poor stats and movepool.\"\n}\n```"
+}

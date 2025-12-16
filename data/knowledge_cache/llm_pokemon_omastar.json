@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"omastar\",\n    \"types\": [\"rock\", \"water\"],\n    \"roles\": [\"shell smasher\", \"special attacker\", \"stealth rock setter\"],\n    \"notable_moves\": [\"shell smash\", \"hydro pump\", \"ice beam\", \"earth power\", \"stealth rock\"],\n    \"abilities\": [\"swift swim\", \"shell armor\", \"weak armor\"],\n    \"common_items\": [\"white herb\", \"life orb\", \"focus sash\"],\n    \"summary\": \"a fossil pok\u00e9mon that uses shell smash to become a potent sweeper, but remains vulnerable to priority moves and common weaknesses.\"\n}\n```"
+}

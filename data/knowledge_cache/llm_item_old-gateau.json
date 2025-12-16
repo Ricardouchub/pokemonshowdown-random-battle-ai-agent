@@ -1,0 +1,10 @@
+{
+  "item": "Old Gateau",
+  "category": "Consumable",
+  "summary": "Heals all status conditions (poison, paralysis, burn, freeze, sleep) from a single Pok\u00e9mon.",
+  "typical_users": [
+    "Bulky support Pok\u00e9mon (e.g., Blissey, Toxapex)",
+    "Cleric Pok\u00e9mon in stall or balance teams",
+    "Any Pok\u00e9mon vulnerable to status that lacks Lum Berry or Heal Bell/Aromatherapy support"
+  ]
+}

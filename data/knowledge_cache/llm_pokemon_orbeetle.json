@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"orbeetle\",\n    \"types\": [\"bug\", \"psychic\"],\n    \"roles\": [\"hazard setter\", \"screens setter\", \"pivot\"],\n    \"notable_moves\": [\"sticky web\", \"reflect\", \"light screen\", \"uturn\", \"body press\"],\n    \"abilities\": [\"swarm\", \"frisk\", \"telepathy\"],\n    \"common_items\": [\"heavy-duty boots\", \"light clay\", \"leftovers\"],\n    \"summary\": \"a defensive bug/psychic type known for setting hazards and dual screens, using uturn to pivot while avoiding entry hazards with boots.\"\n}\n```"
+}

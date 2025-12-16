@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"patrat\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"scout\", \"early-game attacker\"],\n    \"notable_moves\": [\"tackle\", \"bite\", \"hypnosis\", \"super fang\"],\n    \"abilities\": [\"run away\", \"keen eye\", \"analytic\"],\n    \"common_items\": [\"oran berry\", \"cheri berry\"],\n    \"summary\": \"a basic early-game normal-type known for scouting and simple attacks, often replaced quickly in teams.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cobalion\",\n    \"types\": [\"steel\", \"fighting\"],\n    \"roles\": [\"defensive pivot\", \"stealth rock setter\", \"wallbreaker\"],\n    \"notable_moves\": [\"close combat\", \"iron head\", \"stealth rock\", \"volt switch\"],\n    \"abilities\": [\"justified\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"air balloon\"],\n    \"summary\": \"a bulky steel/fighting type known for its solid defenses, utility, and ability to punish dark-type attacks.\"\n}\n```"
+}

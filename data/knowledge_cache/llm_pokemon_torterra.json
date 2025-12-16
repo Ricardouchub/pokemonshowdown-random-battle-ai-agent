@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"torterra\",\n    \"types\": [\"grass\", \"ground\"],\n    \"roles\": [\"bulky attacker\", \"tank\", \"stealth rock setter\"],\n    \"notable_moves\": [\"wood hammer\", \"earthquake\", \"stealth rock\", \"synthesis\"],\n    \"abilities\": [\"overgrow\", \"shell armor\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"assault vest\"],\n    \"summary\": \"a slow, bulky grass/ground tank with powerful stabs and utility options.\"\n}\n```"
+}

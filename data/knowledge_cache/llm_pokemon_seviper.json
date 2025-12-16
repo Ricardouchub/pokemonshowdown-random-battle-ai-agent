@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"seviper\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"wallbreaker\", \"status-spreader\"],\n    \"notable_moves\": [\"poison-jab\", \"gunk-shot\", \"earthquake\", \"sucker-punch\", \"swords-dance\"],\n    \"abilities\": [\"shed-skin\", \"infiltrator\"],\n    \"common_items\": [\"life-orb\", \"black-sludge\", \"choice-band\"],\n    \"summary\": \"a dedicated physical poison attacker with strong stabs and coverage, often used to break through defensive cores and spread status.\"\n}\n```"
+}

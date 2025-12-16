@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"salamence\",\n    \"types\": [\"dragon\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\", \"dragon dancer\"],\n    \"notable_moves\": [\"dragon dance\", \"outrage\", \"dual wingbeat\", \"earthquake\", \"fire blast\"],\n    \"abilities\": [\"intimidate\", \"moxie\"],\n    \"common_items\": [\"heavy-duty boots\", \"lum berry\", \"choice band\"],\n    \"summary\": \"powerful dragon sweeper that uses dragon dance to boost its already high attack and speed, threatening to sweep teams. its flying typing gives it useful resistances but a stealth rock weakness.\"\n}\n```"
+}

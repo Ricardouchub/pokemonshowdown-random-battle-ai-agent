@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tauros-paldea-aqua-breed\",\n    \"types\": [\"water\", \"fighting\"],\n    \"roles\": [\"wallbreaker\", \"bulky attacker\"],\n    \"notable_moves\": [\"wave crash\", \"close combat\", \"aqua jet\", \"raging bull\"],\n    \"abilities\": [\"intimidate\", \"anger point\", \"cud chew\"],\n    \"common_items\": [\"choice band\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"a powerful water/fighting physical attacker with strong stabs and priority, known for its signature move raging bull.\"\n}\n```"
+}

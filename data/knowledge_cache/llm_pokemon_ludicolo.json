@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ludicolo\",\n    \"types\": [\"water\", \"grass\"],\n    \"roles\": [\"rain sweeper\", \"special wall\", \"support\"],\n    \"notable_moves\": [\"hydro pump\", \"giga drain\", \"ice beam\", \"focus blast\", \"rain dance\"],\n    \"abilities\": [\"swift swim\", \"rain dish\", \"own tempo\"],\n    \"common_items\": [\"leftovers\", \"assault vest\", \"life orb\"],\n    \"summary\": \"a cheerful rain dance specialist that excels in rain teams with swift swim, blending bulk and special offense.\"\n}\n```"
+}

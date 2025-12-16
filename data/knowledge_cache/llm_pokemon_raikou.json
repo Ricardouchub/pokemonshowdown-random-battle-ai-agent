@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"raikou\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special sweeper\", \"fast pivot\", \"voltturn user\"],\n    \"notable_moves\": [\"thunderbolt\", \"voltswitch\", \"shadow ball\", \"calm mind\", \"hidden power ice\"],\n    \"abilities\": [\"pressure\", \"inner focus\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"assault vest\"],\n    \"summary\": \"legendary electric-type known for high special attack and speed, often used as a hit-and-run attacker or setup sweeper.\"\n}\n```"
+}

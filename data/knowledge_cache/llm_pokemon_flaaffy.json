@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"flaaffy\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"support\", \"pivot\"],\n    \"notable_moves\": [\"thunderbolt\", \"cotton guard\", \"toxic\", \"heal bell\"],\n    \"abilities\": [\"static\", \"plus\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a defensive electric-type that uses eviolite for bulk, providing team support with status moves and healing.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vaporeon\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky water\", \"wish passer\", \"special attacker\"],\n    \"notable_moves\": [\"scald\", \"wish\", \"protect\", \"ice beam\", \"toxic\"],\n    \"abilities\": [\"water absorb\", \"hydration\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"bulky water-type with reliable recovery and utility support\"\n}\n```"
+}

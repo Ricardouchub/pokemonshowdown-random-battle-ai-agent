@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shaymin-land\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive-support\", \"setup-sweeper\", \"cleric\"],\n    \"notable_moves\": [\"seed-flare\", \"earth-power\", \"air-slash\", \"substitute\", \"leech-seed\"],\n    \"abilities\": [\"natural-cure\"],\n    \"common_items\": [\"leftovers\", \"life-orb\", \"choice-scarf\"],\n    \"summary\": \"versatile grass-type mythical with strong special attacks, healing utility, and ability to remove status upon switching.\"\n}\n```"
+}

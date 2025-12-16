@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gengar-mega\",\n    \"types\": [\"ghost\", \"poison\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\", \"revenge-killer\"],\n    \"notable_moves\": [\"shadow-ball\", \"sludge-wave\", \"focus-blast\", \"destiny-bond\"],\n    \"abilities\": [\"shadow-tag\"],\n    \"common_items\": [\"gengarite\"],\n    \"summary\": \"mega gengar traps opponents with shadow tag, hits hard with high special attack and coverage, and can remove key threats with destiny bond.\"\n}\n```"
+}

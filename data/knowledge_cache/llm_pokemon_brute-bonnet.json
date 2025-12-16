@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"brute-bonnet\",\n    \"types\": [\"grass\", \"dark\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"spore\", \"sucker punch\", \"seed bomb\", \"bulk up\"],\n    \"abilities\": [\"protosynthesis\", \"seed-sower\"],\n    \"common_items\": [\"booster energy\", \"leftovers\"],\n    \"summary\": \"a paradox pok\u00e9mon with high hp and attack, using spore for setup opportunities and dark/grass coverage.\"\n}\n```"
+}

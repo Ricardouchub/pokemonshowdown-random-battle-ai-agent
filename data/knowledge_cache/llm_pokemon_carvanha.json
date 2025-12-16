@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"carvanha\",\n    \"types\": [\"water\", \"dark\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"waterfall\", \"crunch\", \"aqua jet\", \"protect\"],\n    \"abilities\": [\"rough skin\", \"speed boost\"],\n    \"common_items\": [\"life orb\", \"focus sash\"],\n    \"summary\": \"fragile but potent attacker that relies on speed boost to sweep; known for its sharp teeth and aggressive nature.\"\n}\n```"
+}

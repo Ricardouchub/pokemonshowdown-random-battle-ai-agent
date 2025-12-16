@@ -1,0 +1,8 @@
+{
+  "item": "Shoal Salt",
+  "category": "Recovery",
+  "summary": "Held item that restores 30% of the holder's max HP when hit by a Water-type move, but is consumed.",
+  "typical_users": [
+    "Bulky Water-type Pok\u00e9mon like Slowbro, Toxapex, or Gastrodon to counter opposing Water attacks"
+  ]
+}

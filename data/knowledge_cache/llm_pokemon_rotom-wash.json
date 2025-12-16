@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rotom-wash\",\n    \"types\": [\"electric\", \"water\"],\n    \"roles\": [\"defensive pivot\", \"utility\", \"hazard control\"],\n    \"notable_moves\": [\"hydro pump\", \"volt switch\", \"will-o-wisp\", \"defog\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"versatile defensive pivot with unique typing, reliable recovery, and utility options.\"\n}\n```"
+}

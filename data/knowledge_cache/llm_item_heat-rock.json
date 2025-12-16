@@ -1,0 +1,11 @@
+{
+  "item": "Heat Rock",
+  "category": "Held Item",
+  "summary": "Extends the duration of Sunny Day from 5 to 8 turns.",
+  "typical_users": [
+    "Sun-based teams",
+    "Pok\u00e9mon with Drought (e.g., Torkoal, Ninetales)",
+    "Chlorophyll sweepers (e.g., Venusaur)",
+    "Solar Power users (e.g., Charizard)"
+  ]
+}

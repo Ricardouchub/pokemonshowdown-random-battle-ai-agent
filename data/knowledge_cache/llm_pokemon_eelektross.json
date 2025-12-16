@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"eelektross\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"wallbreaker\", \"bulky attacker\"],\n    \"notable_moves\": [\"volt switch\", \"thunderbolt\", \"flamethrower\", \"giga drain\", \"knock off\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"assault vest\", \"life orb\", \"leftovers\"],\n    \"summary\": \"bulky electric attacker with no weaknesses due to levitate, versatile coverage moves\"\n}\n```"
+}

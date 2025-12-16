@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"falinks\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical sweeper\", \"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"no retreat\", \"close combat\", \"first impression\", \"iron head\", \"poison jab\"],\n    \"abilities\": [\"battle armor\", \"defiant\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"focus sash\"],\n    \"summary\": \"unique fighting-type with signature move no retreat, trading flexibility for sweeping potential. struggles with common weaknesses and low speed.\"\n}\n```"
+}

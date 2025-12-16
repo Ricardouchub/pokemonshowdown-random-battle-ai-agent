@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ponyta-galar\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"calm-mind\", \"psychic\", \"mystical-fire\", \"agility\"],\n    \"abilities\": [\"run-away\", \"pastel-veil\"],\n    \"common_items\": [\"life-orb\", \"leftovers\"],\n    \"summary\": \"galarian ponyta is a pure psychic-type with high special attack and speed. it excels as a setup sweeper using calm mind or agility, with mystical fire for coverage against steel-types. pastel-veil protects it and allies from poison.\"\n}\n```"
+}

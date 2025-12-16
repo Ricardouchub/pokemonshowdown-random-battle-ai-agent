@@ -1,0 +1,8 @@
+{
+  "item": "Big Root",
+  "category": "Held Item",
+  "summary": "Boosts the HP recovered by the holder's HP-draining moves and certain healing moves (e.g., Leech Seed, Ingrain, Aqua Ring, Drain Punch) by approximately 30%.",
+  "typical_users": [
+    "Pok\u00e9mon using moves like Giga Drain, Leech Seed, or Drain Punch for sustain, such as Gastrodon, Amoonguss, and some bulky attackers."
+  ]
+}

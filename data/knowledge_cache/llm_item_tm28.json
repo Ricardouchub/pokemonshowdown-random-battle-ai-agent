@@ -1,0 +1,10 @@
+{
+  "item": "TM28",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Dig, a two-turn Ground-type physical attack (80 power, 100 accuracy) that allows the user to avoid most moves on the first turn.",
+  "typical_users": [
+    "Physical attackers needing Ground coverage (e.g., Garchomp, Tyranitar, Excadrill)",
+    "Pok\u00e9mon to counter Electric, Poison, Rock, Steel, and Fire types",
+    "Teams requiring a semi-invulnerable turn for scouting or stalling"
+  ]
+}

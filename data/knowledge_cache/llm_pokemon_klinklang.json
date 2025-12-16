@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"klinklang\",\n    \"types\": [\"steel\"],\n    \"roles\": [\"setup sweeper\", \"hazard control\", \"offensive pivot\"],\n    \"notable_moves\": [\"gear grind\", \"shift gear\", \"volt switch\", \"wild charge\"],\n    \"abilities\": [\"plus\", \"minus\", \"clear body\"],\n    \"common_items\": [\"leftovers\", \"air balloon\", \"life orb\"],\n    \"summary\": \"a steel-type setup sweeper that boosts speed and attack with shift gear, using gear grind as its main stab move. functions as a late-game cleaner and offensive pivot with volt switch.\"\n}\n```"
+}

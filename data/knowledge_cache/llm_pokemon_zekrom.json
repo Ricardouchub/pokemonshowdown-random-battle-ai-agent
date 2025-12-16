@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zekrom\",\n    \"types\": [\"dragon\", \"electric\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\", \"choice attacker\"],\n    \"notable_moves\": [\"bolt strike\", \"dragon claw\", \"outrage\", \"fusion bolt\", \"draco meteor\"],\n    \"abilities\": [\"teravolt\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"expert belt\", \"leftovers\"],\n    \"summary\": \"legendary dragon-electric physical attacker with teravolt ignoring abilities, excelling at breaking through defensive cores with powerful stab moves.\"\n}\n```"
+}

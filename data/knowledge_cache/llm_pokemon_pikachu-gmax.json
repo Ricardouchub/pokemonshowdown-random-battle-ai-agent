@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-gmax\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"gigantamax sweeper\", \"voltage surge setter\"],\n    \"notable_moves\": [\"g-max volt crash\", \"volttackle\", \"surf\", \"fake out\"],\n    \"abilities\": [\"static\", \"lightning rod\"],\n    \"common_items\": [\"light ball\", \"focus sash\"],\n    \"summary\": \"gigantamax form with exclusive g-max volt crash, trapping opponents and dealing damage each turn. excels in dynamax formats.\"\n}\n```"
+}

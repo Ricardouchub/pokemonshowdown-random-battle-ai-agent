@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"throh\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"bulky attacker\", \"trick room sweeper\"],\n    \"notable_moves\": [\"circle throw\", \"bulk up\", \"knock off\", \"ice punch\"],\n    \"abilities\": [\"guts\", \"inner focus\", \"mold breaker\"],\n    \"common_items\": [\"flame orb\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"slow, bulky fighting-type with strong utility moves and guts synergy.\"\n}\n```"
+}

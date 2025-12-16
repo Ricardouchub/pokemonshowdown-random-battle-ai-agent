@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"croagunk\",\n    \"types\": [\"poison\", \"fighting\"],\n    \"roles\": [\"wallbreaker\", \"status-spreader\", \"revenge-killer\"],\n    \"notable_moves\": [\"drain punch\", \"sucker punch\", \"poison jab\", \"nasty plot\", \"toxic\"],\n    \"abilities\": [\"dry skin\", \"anticipation\", \"poison touch\"],\n    \"common_items\": [\"life orb\", \"black sludge\", \"choice scarf\"],\n    \"summary\": \"a poison/fighting type with strong priority and draining moves, often used to absorb water attacks and spread status.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zorua-hisui\",\n    \"types\": [\"normal\", \"ghost\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"bitter malice\", \"shadow ball\", \"hyper voice\", \"nasty plot\", \"uturn\"],\n    \"abilities\": [\"illusion\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"focus sash\"],\n    \"summary\": \"hisuian zorua uses its unique normal/ghost typing to avoid fighting, normal, and ghost attacks, functioning as a potent special attacker with nasty plot and strong stabs like bitter malice.\"\n}\n```"
+}

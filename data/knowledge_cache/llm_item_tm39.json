@@ -1,0 +1,9 @@
+{
+  "item": "TM39",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Low Sweep, a Fighting-type physical attack that lowers the target's Speed stat.",
+  "typical_users": [
+    "Physical attackers needing coverage against Rock, Steel, Dark, Normal, or Ice types",
+    "Pok\u00e9mon aiming to control opponent's Speed for team support"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tatsugiri-stretchy\",\n    \"types\": [\"dragon\", \"water\"],\n    \"roles\": [\"setup\", \"support\", \"defensive\"],\n    \"notable_moves\": [\"dragon pulse\", \"surf\", \"protect\", \"icy wind\"],\n    \"abilities\": [\"storm drain\", \"commander\"],\n    \"common_items\": [\"leftovers\", \"sitrus berry\"],\n    \"summary\": \"defensive variant that boosts ally dondozo's stats when eaten, often used in doubles with dondozo.\"\n}\n```"
+}

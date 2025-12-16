@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"natu\",\n    \"types\": [\"psychic\", \"flying\"],\n    \"roles\": [\"support\", \"hazard setter\", \"early-game scout\"],\n    \"notable_moves\": [\"psychic\", \"uturn\", \"thunder wave\", \"roost\", \"reflect\"],\n    \"abilities\": [\"synchronize\", \"early bird\", \"magic bounce\"],\n    \"common_items\": [\"leftovers\", \"light clay\", \"focus sash\"],\n    \"summary\": \"a small psychic/flying pok\u00e9mon that excels as a support and utility mon, often using magic bounce to reflect hazards and status moves.\"\n}\n```"
+}

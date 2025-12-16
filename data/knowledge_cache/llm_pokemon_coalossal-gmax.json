@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"coalossal-gmax\",\n    \"types\": [\"rock\", \"fire\"],\n    \"roles\": [\"trick-room-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"g-max-volcalith\", \"heat-crash\", \"rock-blast\", \"body-press\", \"protect\"],\n    \"abilities\": [\"steam-engine\", \"flame-body\"],\n    \"common_items\": [\"weakness-policy\", \"life-orb\"],\n    \"summary\": \"gigantamax form with exclusive g-max-volcalith, creating residual damage each turn. excels in trick room with massive firepower but slow speed.\"\n}\n```"
+}

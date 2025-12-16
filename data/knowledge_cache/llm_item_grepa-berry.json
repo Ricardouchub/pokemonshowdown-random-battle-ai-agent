@@ -1,0 +1,10 @@
+{
+  "item": "Grepa Berry",
+  "category": "Berry",
+  "summary": "When held, reduces Special Defense EVs by 10 if the Pok\u00e9mon's Special Defense is below a certain threshold, then is consumed. Primarily used for precise EV training to remove unwanted EVs.",
+  "typical_users": [
+    "EV training setups",
+    "Competitive breeders",
+    "Players adjusting EVs on trained Pok\u00e9mon"
+  ]
+}

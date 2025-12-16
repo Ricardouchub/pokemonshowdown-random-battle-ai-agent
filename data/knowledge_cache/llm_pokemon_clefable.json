@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"clefable\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"special wall\", \"cleric\", \"calm mind sweeper\"],\n    \"notable_moves\": [\"moonblast\", \"soft-boiled\", \"calm mind\", \"stealth rock\", \"thunder wave\"],\n    \"abilities\": [\"magic guard\", \"unaware\", \"friend guard\"],\n    \"common_items\": [\"leftovers\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"versatile fairy-type with excellent special bulk and utility, often using magic guard to ignore passive damage.\"\n}\n```"
+}

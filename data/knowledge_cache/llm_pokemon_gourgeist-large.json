@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gourgeist-large\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"trick-room-sweeper\", \"wallbreaker\", \"physical-tank\"],\n    \"notable_moves\": [\"shadow-sneak\", \"seed-bomb\", \"trick-room\", \"synthesis\"],\n    \"abilities\": [\"pickup\", \"frisk\", \"insomnia\"],\n    \"common_items\": [\"leftovers\", \"life-orb\", \"colbur-berry\"],\n    \"summary\": \"a bulky physical attacker that excels in trick room, using its high hp and attack to break through slower teams.\"\n}\n```"
+}

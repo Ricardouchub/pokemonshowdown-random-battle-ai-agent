@@ -1,0 +1,11 @@
+{
+  "item": "Chople Berry",
+  "category": "Damage Reduction Berry",
+  "summary": "Halves damage taken from a super effective Fighting-type move, consumed upon activation.",
+  "typical_users": [
+    "Tyranitar",
+    "Hydreigon",
+    "Bisharp",
+    "Dark- or Normal-types weak to Fighting"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"latios\",\n    \"types\": [\"dragon\", \"psychic\"],\n    \"roles\": [\"special sweeper\", \"choice user\", \"setup sweeper\"],\n    \"notable_moves\": [\"draco meteor\", \"psychic\", \"surf\", \"ice beam\", \"calm mind\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"soul dew\", \"choice specs\", \"life orb\"],\n    \"summary\": \"fast dragon-psychic special attacker with strong coverage and soul dew boost in certain formats.\"\n}\n```"
+}

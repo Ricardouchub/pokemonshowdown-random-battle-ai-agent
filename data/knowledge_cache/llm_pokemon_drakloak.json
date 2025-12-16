@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"drakloak\",\n    \"types\": [\"dragon\", \"ghost\"],\n    \"roles\": [\"special sweeper\", \"setup sweeper\", \"support\"],\n    \"notable_moves\": [\"draco meteor\", \"shadow ball\", \"dragon dance\", \"will-o-wisp\"],\n    \"abilities\": [\"clear body\", \"infiltrator\", \"cursed body\"],\n    \"common_items\": [\"life orb\", \"heavy-duty boots\", \"choice specs\"],\n    \"summary\": \"mid-stage dragon-ghost with strong special attacks and setup potential, often used as a special attacker or dragon dance sweeper.\"\n}\n```"
+}

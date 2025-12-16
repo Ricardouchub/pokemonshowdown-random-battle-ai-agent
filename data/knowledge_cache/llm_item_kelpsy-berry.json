@@ -1,0 +1,10 @@
+{
+  "item": "Kelpsy Berry",
+  "category": "EV-reducing Berry",
+  "summary": "Reduces a Pok\u00e9mon's Attack EVs by 10 when its HP drops below 50%, also restoring some HP.",
+  "typical_users": [
+    "Pok\u00e9mon with unwanted Attack EVs for specialized builds",
+    "Support or defensive Pok\u00e9mon minimizing Attack for Foul Play damage",
+    "Pok\u00e9mon in training to correct EV spreads"
+  ]
+}

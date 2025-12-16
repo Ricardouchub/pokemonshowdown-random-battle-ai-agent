@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"klawf\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"wallbreaker\", \"hazard setter\"],\n    \"notable_moves\": [\"rock blast\", \"crabhammer\", \"stealth rock\", \"swords dance\"],\n    \"abilities\": [\"anger shell\", \"shell armor\", \"regenerator\"],\n    \"common_items\": [\"assault vest\", \"rocky helmet\", \"leftovers\"],\n    \"summary\": \"a slow rock-type crab with high attack and defense. its anger shell ability boosts stats when hp drops low, making it a threatening wallbreaker. often sets stealth rock.\"\n}\n```"
+}

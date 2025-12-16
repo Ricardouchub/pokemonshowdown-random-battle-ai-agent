@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tepig\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"flame charge\", \"wild charge\", \"head smash\", \"superpower\"],\n    \"abilities\": [\"blaze\", \"thick fat\"],\n    \"common_items\": [\"eviolite\", \"choice scarf\"],\n    \"summary\": \"a fire-type starter with decent offensive stats and coverage, often used as an early-game attacker or setup sweeper in lower tiers.\"\n}\n```"
+}

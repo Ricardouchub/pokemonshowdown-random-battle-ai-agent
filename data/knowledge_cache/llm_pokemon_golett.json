@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"golett\",\n    \"types\": [\"ground\", \"ghost\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"defensive pivot\"],\n    \"notable_moves\": [\"earthquake\", \"shadow punch\", \"ice punch\", \"drain punch\", \"stealth rock\"],\n    \"abilities\": [\"iron fist\", \"klutz\", \"no guard\"],\n    \"common_items\": [\"choice band\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"a slow but powerful physical attacker with unique typing, often used in trick room teams or as a surprise wallbreaker.\"\n}\n```"
+}

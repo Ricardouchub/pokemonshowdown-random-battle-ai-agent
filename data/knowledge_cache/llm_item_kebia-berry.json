@@ -1,0 +1,10 @@
+{
+  "item": "Kebia Berry",
+  "category": "Damage Reduction Berry",
+  "summary": "Halves damage taken from a super effective Poison-type move, then is consumed.",
+  "typical_users": [
+    "Bulky Water-types (e.g., Toxapex, Slowbro)",
+    "Grass-types weak to Poison (e.g., Rillaboom, Amoonguss)",
+    "Defensive pivots expecting Poison-type coverage"
+  ]
+}

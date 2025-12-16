@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"slowbro\",\n    \"types\": [\"water\", \"psychic\"],\n    \"roles\": [\"bulky attacker\", \"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"scald\", \"slack off\", \"future sight\", \"calm mind\", \"ice beam\"],\n    \"abilities\": [\"oblivious\", \"own tempo\", \"regenerator\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"assault vest\"],\n    \"summary\": \"a bulky water/psychic tank known for its high defenses, reliable recovery, and regenerator ability, often used as a defensive pivot or calm mind sweeper.\"\n}\n```"
+}

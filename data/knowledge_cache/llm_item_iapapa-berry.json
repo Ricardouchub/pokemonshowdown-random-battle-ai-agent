@@ -1,0 +1,11 @@
+{
+  "item": "Iapapa Berry",
+  "category": "Berries",
+  "summary": "Restores 50% of the holder's max HP when HP drops to 1/2 or below, then is consumed.",
+  "typical_users": [
+    "Bulky Pok\u00e9mon",
+    "Pok\u00e9mon with recovery moves like Recover or Slack Off",
+    "Trick Room setters",
+    "Pok\u00e9mon weak to priority moves"
+  ]
+}

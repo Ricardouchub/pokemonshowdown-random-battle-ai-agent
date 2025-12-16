@@ -1,0 +1,9 @@
+{
+  "item": "Draco Plate",
+  "category": "Type-Enhancing Item",
+  "summary": "Boosts the power of Dragon-type moves by 20% and changes Arceus or Judgment to Dragon-type.",
+  "typical_users": [
+    "Arceus (Dragon forme)",
+    "Pok\u00e9mon using multi-type coverage moves like Judgment or Techno Blast (when relevant)"
+  ]
+}

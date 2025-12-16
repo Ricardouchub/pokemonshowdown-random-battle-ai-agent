@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"smoliv\",\n    \"types\": [\"grass\", \"normal\"],\n    \"roles\": [\"support\", \"utility\"],\n    \"notable_moves\": [\"strength sap\", \"leech seed\", \"protect\", \"terrain pulse\"],\n    \"abilities\": [\"early bird\", \"harvest\"],\n    \"common_items\": [\"sitrus berry\", \"leftovers\"],\n    \"summary\": \"a defensive support pok\u00e9mon that uses healing moves and berry recovery to stall opponents.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"klink\",\n    \"types\": [\"steel\"],\n    \"roles\": [\"setup sweeper\", \"trick room attacker\"],\n    \"notable_moves\": [\"shift gear\", \"gear grind\", \"wild charge\", \"return\"],\n    \"abilities\": [\"plus\", \"minus\", \"clear body\"],\n    \"common_items\": [\"eviolite\", \"life orb\"],\n    \"summary\": \"pure steel-type with unique shift gear setup, relies on eviolite for bulk in lower tiers.\"\n}\n```"
+}

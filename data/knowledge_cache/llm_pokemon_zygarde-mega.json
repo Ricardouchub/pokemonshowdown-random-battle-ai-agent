@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zygarde-mega\",\n    \"types\": [\"dragon\", \"ground\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"thousand arrows\", \"dragon dance\", \"outrage\", \"extreme speed\"],\n    \"abilities\": [\"power construct\"],\n    \"common_items\": [\"zygarde cube\"],\n    \"summary\": \"a hypothetical mega evolution with enhanced stats, maintaining its signature ground-type coverage and setup potential.\"\n}\n```"
+}

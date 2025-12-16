@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"froslass-mega\",\n    \"types\": [\"ice\", \"ghost\"],\n    \"roles\": [\"special-attacker\", \"revenge-killer\", \"hazard-setter\"],\n    \"notable_moves\": [\"blizzard\", \"shadow-ball\", \"destiny-bond\", \"spikes\"],\n    \"abilities\": [\"snow-cloak\"],\n    \"common_items\": [\"froslassite\"],\n    \"summary\": \"fast ice/ghost special attacker with hazard-setting and destiny bond utility; requires mega stone.\"\n}\n```"
+}

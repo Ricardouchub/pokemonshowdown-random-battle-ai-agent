@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mimikyu-busted\",\n    \"types\": [\"ghost\", \"fairy\"],\n    \"roles\": [\"setup sweeper\", \"disruptor\"],\n    \"notable_moves\": [\"swords dance\", \"play rough\", \"shadow sneak\", \"shadow claw\"],\n    \"abilities\": [\"disguise\"],\n    \"common_items\": [\"life orb\", \"spell tag\"],\n    \"summary\": \"a rare form only seen after its disguise breaks; loses its protective ability but retains strong offensive potential.\"\n}\n```"
+}

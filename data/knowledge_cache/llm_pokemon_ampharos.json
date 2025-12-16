@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ampharos\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"wallbreaker\", \"pivot\", \"support\"],\n    \"notable_moves\": [\"volt switch\", \"thunderbolt\", \"focus blast\", \"dragon pulse\"],\n    \"abilities\": [\"static\", \"plus\"],\n    \"common_items\": [\"assault vest\", \"leftovers\", \"choice specs\"],\n    \"summary\": \"an electric-type with solid bulk and coverage, often used to pivot or break walls with its strong special attacks.\"\n}\n```"
+}

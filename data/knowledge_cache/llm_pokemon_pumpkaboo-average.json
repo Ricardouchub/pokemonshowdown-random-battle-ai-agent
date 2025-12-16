@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pumpkaboo-average\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"trick-room-setter\", \"support\", \"harvest-abuser\"],\n    \"notable_moves\": [\"trick-room\", \"will-o-wisp\", \"leech-seed\", \"shadow-sneak\"],\n    \"abilities\": [\"pickup\", \"frisk\", \"insomnia\"],\n    \"common_items\": [\"sitrus-berry\", \"leftovers\"],\n    \"summary\": \"a mid-sized ghost-grass type known for setting trick room and using harvest with berries for longevity.\"\n}\n```"
+}

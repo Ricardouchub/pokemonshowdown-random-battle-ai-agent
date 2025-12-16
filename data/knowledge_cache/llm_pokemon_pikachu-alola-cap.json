@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-alola-cap\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special-attacker\", \"support\"],\n    \"notable_moves\": [\"thunderbolt\", \"volttackle\", \"surf\", \"encore\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\"],\n    \"summary\": \"specialized pikachu variant with exclusive alola cap cosmetic, retains standard electric typing and light-ball boosted special attack potential.\"\n}\n```"
+}

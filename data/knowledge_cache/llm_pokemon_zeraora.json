@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zeraora\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"plasma fists\", \"close combat\", \"voltswitch\", \"knock off\", \"grass knot\"],\n    \"abilities\": [\"volt absorb\"],\n    \"common_items\": [\"life orb\", \"heavy-duty boots\", \"choice band\"],\n    \"summary\": \"fast electric physical attacker with signature move plasma fists, volt absorb provides immunity to electric moves.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tornadus-incarnate\",\n    \"types\": [\"flying\"],\n    \"roles\": [\"special-attacker\", \"pivot\", \"weather-setter\"],\n    \"notable_moves\": [\"hurricane\", \"heat-wave\", \"nasty-plot\", \"uturn\"],\n    \"abilities\": [\"prankster\", \"defiant\"],\n    \"common_items\": [\"heavy-duty-boots\", \"life-orb\"],\n    \"summary\": \"fast special attacker with prankster utility and weather control.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"terapagos-stellar\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"tank\", \"setup-sweeper\"],\n    \"notable_moves\": [\"terastarstorm\", \"calm-mind\", \"rest\", \"ice-beam\"],\n    \"abilities\": [\"tera-shift\"],\n    \"common_items\": [\"leftovers\", \"terrain-extender\"],\n    \"summary\": \"stellar form with unique tera shift ability, excels as a bulky setup sweeper using terastarstorm.\"\n}\n```"
+}

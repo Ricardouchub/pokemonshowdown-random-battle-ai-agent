@@ -1,0 +1,11 @@
+{
+  "item": "Yellow Scarf",
+  "category": "Held Item",
+  "summary": "Boosts the holder's Special Attack stat by 50% when at full HP, but only if the holder is a Pok\u00e9mon with the Ability 'Plus' or 'Minus'.",
+  "typical_users": [
+    "Plusle",
+    "Minun",
+    "Klinklang",
+    "Heliolisk"
+  ]
+}

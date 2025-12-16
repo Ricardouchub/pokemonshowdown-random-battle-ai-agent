@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gholdengo\",\n    \"types\": [\"steel\", \"ghost\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"make it rain\", \"shadow ball\", \"nasty plot\", \"recover\"],\n    \"abilities\": [\"good as gold\"],\n    \"common_items\": [\"leftovers\", \"air balloon\", \"heavy-duty boots\"],\n    \"summary\": \"unique steel/ghost type with immunity to status moves via ability good as gold. functions as a powerful special attacker with make it rain, often setting up with nasty plot. decent bulk and recovery make it difficult to remove.\"\n}\n```"
+}

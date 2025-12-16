@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"numel\",\n    \"types\": [\"fire\", \"ground\"],\n    \"roles\": [\"trick room sweeper\", \"special attacker\", \"sun team abuser\"],\n    \"notable_moves\": [\"earth power\", \"fire blast\", \"heat wave\", \"ancient power\"],\n    \"abilities\": [\"oblivious\", \"simple\", \"own tempo\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"eviolite\"],\n    \"summary\": \"slow fire/ground type with high special attack; excels in trick room or sun teams, but held back by poor speed and defenses.\"\n}\n```"
+}

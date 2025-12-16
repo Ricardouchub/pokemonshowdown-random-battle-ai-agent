@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"leafeon\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun sweeper\", \"physical wall\", \"swords dancer\"],\n    \"notable_moves\": [\"leaf blade\", \"synthesis\", \"swords dance\", \"knock off\"],\n    \"abilities\": [\"leaf guard\", \"chlorophyll\"],\n    \"common_items\": [\"leftovers\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"a defensive grass-type with strong physical attack and reliable recovery, excels in sun teams with chlorophyll.\"\n}\n```"
+}

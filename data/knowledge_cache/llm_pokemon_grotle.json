@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grotle\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"wood hammer\", \"earthquake\", \"synthesis\", \"curse\"],\n    \"abilities\": [\"overgrow\", \"shell armor\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a sturdy grass-type turtle that uses curse to boost its physical attacks and bulk, often serving as a mid-game tank.\"\n}\n```"
+}

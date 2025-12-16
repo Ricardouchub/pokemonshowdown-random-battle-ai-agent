@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-cosplay\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special-attacker\", \"support\"],\n    \"notable_moves\": [\"thunderbolt\", \"quick attack\", \"feint\", \"electric-terrain\"],\n    \"abilities\": [\"lightning-rod\"],\n    \"common_items\": [\"light-ball\"],\n    \"summary\": \"a special pikachu variant with unique cosplay moves, excelling in special electric attacks and team support.\"\n}\n```"
+}

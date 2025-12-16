@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tympole\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special-attacker\", \"setup-sweeper\", \"hazard-setter\"],\n    \"notable_moves\": [\"scald\", \"earth-power\", \"stealth-rock\", \"hydropump\", \"toxic\"],\n    \"abilities\": [\"swift-swim\", \"hydration\", \"water-absorb\"],\n    \"common_items\": [\"life-orb\", \"leftovers\", \"focus-sash\"],\n    \"summary\": \"a water-type tadpole pok\u00e9mon that evolves into seismitoad. functions as a special attacker with setup potential via work up or rain support. notable for stealth rock utility and hydration ability synergy in rain.\"\n}\n```"
+}

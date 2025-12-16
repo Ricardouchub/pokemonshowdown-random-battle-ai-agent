@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"muk\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"wall\", \"toxic-staller\", \"special-sponge\"],\n    \"notable_moves\": [\"toxic\", \"poison-jab\", \"protect\", \"knock-off\"],\n    \"abilities\": [\"stench\", \"sticky-hold\", \"poison-touch\"],\n    \"common_items\": [\"black-sludge\", \"leftovers\"],\n    \"summary\": \"bulky poison-type wall that spreads status and absorbs toxic spikes.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-starter\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast-attacker\", \"voltage-switch\", \"revenge-killer\"],\n    \"notable_moves\": [\"volttackle\", \"thunderbolt\", \"fake-out\", \"encore\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\", \"air-balloon\"],\n    \"summary\": \"starter pikachu with exclusive volt tackle, high speed and special attack boosted by light ball, but extremely frail.\"\n}\n```"
+}

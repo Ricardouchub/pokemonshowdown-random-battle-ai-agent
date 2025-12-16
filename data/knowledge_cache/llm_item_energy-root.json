@@ -1,0 +1,8 @@
+{
+  "item": "Energy Root",
+  "category": "Consumable Healing Item",
+  "summary": "A single-use herb that restores 200 HP to a Pok\u00e9mon but lowers its happiness.",
+  "typical_users": [
+    "Bulky Pok\u00e9mon with recovery needs, especially in formats with restricted items like Nuzlocke or low-tier play; occasionally on Trick Room setters or supports that lack reliable recovery."
+  ]
+}

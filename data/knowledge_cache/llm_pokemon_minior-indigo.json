@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-indigo\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"setup sweeper\", \"late-game cleaner\"],\n    \"notable_moves\": [\"shell smash\", \"acrobatics\", \"stone edge\", \"earthquake\"],\n    \"abilities\": [\"shields down\"],\n    \"common_items\": [\"white herb\", \"power herb\"],\n    \"summary\": \"indigo core form with high speed and attack after shell smash, but fragile before transforming.\"\n}\n```"
+}

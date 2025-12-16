@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"moltres\",\n    \"types\": [\"fire\", \"flying\"],\n    \"roles\": [\"special attacker\", \"wallbreaker\", \"defogger\"],\n    \"notable_moves\": [\"hurricane\", \"fire blast\", \"roost\", \"uturn\"],\n    \"abilities\": [\"pressure\", \"flame body\"],\n    \"common_items\": [\"heavy-duty boots\", \"choice specs\"],\n    \"summary\": \"legendary fire bird with strong special attacks and utility, often used to break walls or clear hazards.\"\n}\n```"
+}

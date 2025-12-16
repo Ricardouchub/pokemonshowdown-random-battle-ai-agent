@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"charizard-gmax\",\n    \"types\": [\"fire\", \"flying\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"g-max wildfire\", \"fire blast\", \"air slash\", \"focus blast\"],\n    \"abilities\": [\"blaze\", \"solar-power\"],\n    \"common_items\": [\"life-orb\", \"choice-specs\", \"heavy-duty-boots\"],\n    \"summary\": \"gigantamax charizard with exclusive g-max wildfire move, high special attack, and sun synergy.\"\n}\n```"
+}

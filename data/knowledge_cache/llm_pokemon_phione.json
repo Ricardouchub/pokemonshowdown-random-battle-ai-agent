@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"phione\",\n    \"types\": [\"water\"],\n    \"roles\": [\"support\", \"hazard setter\", \"bulky water\"],\n    \"notable_moves\": [\"scald\", \"uturn\", \"knock off\", \"toxic\", \"heal bell\"],\n    \"abilities\": [\"hydration\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"a mythical water-type known for its supportive movepool and decent bulk, often used to spread status and remove hazards.\"\n}\n```"
+}

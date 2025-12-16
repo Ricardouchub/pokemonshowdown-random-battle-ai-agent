@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"fuecoco\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"torch song\", \"flamethrower\", \"earth power\", \"will-o-wisp\"],\n    \"abilities\": [\"blaze\", \"unaware\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"a slow but bulky fire-type starter that boosts its special attack with torch song, often using unaware to ignore opponent's stat boosts.\"\n}\n```"
+}

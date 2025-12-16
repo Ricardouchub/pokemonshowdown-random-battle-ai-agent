@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"swinub\",\n    \"types\": [\"ice\", \"ground\"],\n    \"roles\": [\"hazard setter\", \"offensive pivot\"],\n    \"notable_moves\": [\"ice shard\", \"earthquake\", \"stealth rock\", \"endeavor\"],\n    \"abilities\": [\"oblivious\", \"snow cloak\", \"thick fat\"],\n    \"common_items\": [\"eviolite\", \"focus sash\"],\n    \"summary\": \"a small ice-ground type used for early-game hazards and priority attacks, often holding eviolite for bulk.\"\n}\n```"
+}

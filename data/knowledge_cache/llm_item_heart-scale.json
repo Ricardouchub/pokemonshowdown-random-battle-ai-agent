@@ -1,0 +1,8 @@
+{
+  "item": "Heart Scale",
+  "category": "Utility",
+  "summary": "A held item that restores 1/8 of the holder's max HP at the end of each turn.",
+  "typical_users": [
+    "Bulky or stalling Pok\u00e9mon like Toxapex, Blissey, or Gliscor to enhance longevity and sustain in prolonged battles."
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"growlithe\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"offensive-support\", \"sun-setter\", \"early-game-sweeper\"],\n    \"notable_moves\": [\"flare-blitz\", \"wild-charge\", \"morning-sun\", \"will-o-wisp\"],\n    \"abilities\": [\"intimidate\", \"flash-fire\", \"justified\"],\n    \"common_items\": [\"eviolite\", \"heavy-duty-boots\", \"choice-band\"],\n    \"summary\": \"a versatile fire-type with strong offensive presence and support options, often used as an intimidate pivot or sun-setter before evolving.\"\n}\n```"
+}

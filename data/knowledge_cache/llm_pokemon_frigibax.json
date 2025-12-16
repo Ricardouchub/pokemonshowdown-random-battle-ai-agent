@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"frigibax\",\n    \"types\": [\"dragon\", \"ice\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"dragon dance\", \"glaive rush\", \"icicle spear\", \"ice shard\"],\n    \"abilities\": [\"thermal exchange\", \"ice body\"],\n    \"common_items\": [\"eviolite\", \"heavy-duty boots\"],\n    \"summary\": \"a slow but powerful physical attacker that uses dragon dance to sweep; its dual stabs are strong but it has poor defensive typing.\"\n}\n```"
+}

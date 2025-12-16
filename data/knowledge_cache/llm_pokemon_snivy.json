@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"snivy\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"setup sweeper\", \"support\"],\n    \"notable_moves\": [\"leaf storm\", \"substitute\", \"glare\", \"leech seed\"],\n    \"abilities\": [\"overgrow\", \"contrary\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a starter pok\u00e9mon that excels with contrary leaf storm boosts or as a disruptive support with glare and leech seed.\"\n}\n```"
+}

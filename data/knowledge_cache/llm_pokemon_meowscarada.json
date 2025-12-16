@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"meowscarada\",\n    \"types\": [\"grass\", \"dark\"],\n    \"roles\": [\"offensive pivot\", \"revenge killer\", \"setup sweeper\"],\n    \"notable_moves\": [\"flower trick\", \"knock off\", \"u-turn\", \"sucker punch\", \"play rough\"],\n    \"abilities\": [\"overgrow\", \"protean\"],\n    \"common_items\": [\"choice band\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"fast mixed attacker with protean for type flexibility and strong priority.\"\n}\n```"
+}

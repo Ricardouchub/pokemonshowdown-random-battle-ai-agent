@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pidgeot-mega\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\", \"revenge-killer\"],\n    \"notable_moves\": [\"hurricane\", \"heat-wave\", \"u-turn\", \"roost\"],\n    \"abilities\": [\"no-guard\"],\n    \"common_items\": [\"pidgeotite\"],\n    \"summary\": \"mega pidgeot becomes a powerful special attacker with perfect-accuracy hurricanes and good coverage. its high speed and no-guard ability make it a threatening wallbreaker and revenge killer.\"\n}\n```"
+}

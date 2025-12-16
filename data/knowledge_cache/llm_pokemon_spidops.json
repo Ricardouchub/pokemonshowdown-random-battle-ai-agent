@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"spidops\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"hazard setter\", \"pivot\", \"stall\"],\n    \"notable_moves\": [\"sticky web\", \"silk trap\", \"circle throw\", \"spikes\"],\n    \"abilities\": [\"insomnia\", \"stakeout\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"defensive bug-type focused on setting entry hazards and disrupting opponents with phazing moves.\"\n}\n```"
+}

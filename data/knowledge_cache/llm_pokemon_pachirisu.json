@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pachirisu\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"support\", \"cleric\", \"pivot\"],\n    \"notable_moves\": [\"nuzzle\", \"super fang\", \"u-turn\", \"follow me\", \"protect\"],\n    \"abilities\": [\"run away\", \"pickup\", \"volt absorb\"],\n    \"common_items\": [\"sitrus berry\", \"electric seed\", \"red card\"],\n    \"summary\": \"a niche but iconic support pok\u00e9mon known for its surprising 2014 world championship win, using follow me to redirect attacks and provide team utility with paralysis and chip damage.\"\n}\n```"
+}

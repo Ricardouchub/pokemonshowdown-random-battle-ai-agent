@@ -1,0 +1,9 @@
+{
+  "item": "Salac Berry",
+  "category": "Consumable",
+  "summary": "Boosts the holder's Speed by one stage when HP drops to 1/4 or below.",
+  "typical_users": [
+    "Sweepers needing a Speed boost to outspeed foes (e.g., Substitute + Reversal users, Belly Drum users)",
+    "Pok\u00e9mon with the ability Gluttony to activate at 1/2 HP"
+  ]
+}

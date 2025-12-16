@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"inteleon\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special sweeper\", \"revenge killer\", \"scout\"],\n    \"notable_moves\": [\"snipe shot\", \"ice beam\", \"dark pulse\", \"uturn\", \"air slash\"],\n    \"abilities\": [\"torrent\", \"sniper\"],\n    \"common_items\": [\"choice specs\", \"focus sash\", \"life orb\"],\n    \"summary\": \"a fast special attacker with signature snipe shot, excels at picking off weakened targets and scouting with uturn.\"\n}\n```"
+}

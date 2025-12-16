@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Fluffy Tail\",\n    \"category\": \"Battle Item\",\n    \"summary\": \"A one-time use item that guarantees the next move will hit, bypassing accuracy checks and evasion.\",\n    \"typical_users\": [\"Pok\u00e9mon needing to land crucial low-accuracy moves (e.g., Dynamic Punch, Hypnosis), stall or setup strategies, and in specific niche scenarios to guarantee a pivotal hit.\"]\n}\n```"
+}

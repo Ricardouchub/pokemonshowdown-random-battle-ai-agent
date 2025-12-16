@@ -1,0 +1,10 @@
+{
+  "item": "Figy Berry",
+  "category": "Berries",
+  "summary": "Restores 1/3 of the user's max HP when HP drops to 1/2 or below, but confuses Pok\u00e9mon that dislike spicy flavors.",
+  "typical_users": [
+    "Gluttony ability users (e.g., Snorlax, Munchlax)",
+    "Bulkier Pok\u00e9mon with neutral or spicy natures",
+    "Trick Room setters or tanks"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"doublade\",\n    \"types\": [\"steel\", \"ghost\"],\n    \"roles\": [\"tank\", \"swords dance sweeper\"],\n    \"notable_moves\": [\"swords dance\", \"shadow claw\", \"iron head\", \"sacred sword\"],\n    \"abilities\": [\"no guard\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a physically defensive ghost/steel type that becomes a potent sweeper after a swords dance boost, often holding eviolite to boost its defenses.\"\n}\n```"
+}

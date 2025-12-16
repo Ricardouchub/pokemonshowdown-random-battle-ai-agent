@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"foongus\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"pivot\", \"status spreader\", \"trick room setter\"],\n    \"notable_moves\": [\"spore\", \"rage powder\", \"giga drain\", \"clear smog\", \"protect\"],\n    \"abilities\": [\"effect spore\", \"regenerator\"],\n    \"common_items\": [\"black sludge\", \"sitrus berry\", \"mental herb\"],\n    \"summary\": \"bulky utility pok\u00e9mon known for spore support and regenerator pivoting, often disguised as a pok\u00e9 ball.\"\n}\n```"
+}

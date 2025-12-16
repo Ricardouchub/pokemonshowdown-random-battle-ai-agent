@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zygarde-10-power-construct\",\n    \"types\": [\"dragon\", \"ground\"],\n    \"roles\": [\"setup sweeper\", \"bulky attacker\"],\n    \"notable_moves\": [\"thousand arrows\", \"dragon dance\", \"extreme speed\", \"substitute\"],\n    \"abilities\": [\"power construct\"],\n    \"common_items\": [\"leftovers\", \"lum berry\"],\n    \"summary\": \"a powerful setup sweeper that transforms into complete forme when weakened, using thousand arrows for unique ground coverage.\"\n}\n```"
+}

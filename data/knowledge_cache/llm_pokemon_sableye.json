@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sableye\",\n    \"types\": [\"dark\", \"ghost\"],\n    \"roles\": [\"pivot\", \"status-spreader\", \"stallbreaker\"],\n    \"notable_moves\": [\"knock off\", \"will-o-wisp\", \"recover\", \"taunt\"],\n    \"abilities\": [\"prankster\", \"keen-eye\", \"stall\"],\n    \"common_items\": [\"leftovers\", \"sablenite\", \"rocky-helmet\"],\n    \"summary\": \"a disruptive utility pok\u00e9mon that uses prankster to cripple opponents with priority status and taunt, while recovering health.\"\n}\n```"
+}

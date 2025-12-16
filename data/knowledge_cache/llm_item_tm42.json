@@ -1,0 +1,8 @@
+{
+  "item": "TM42",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Facade, a Normal-type physical attack (70 power) that doubles in power (140) if the user is poisoned, paralyzed, or burned, ignoring the Attack drop from burn.",
+  "typical_users": [
+    "Physical attackers leveraging status conditions (e.g., Guts users like Ursaluna, Heracross), setup sweepers with Flame Orb (e.g., Dragonite), or any Pok\u00e9mon needing a reliable, condition-boosted STAB or coverage move."
+  ]
+}

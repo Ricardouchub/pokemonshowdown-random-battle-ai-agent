@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"boldore\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"trick room attacker\", \"tank\"],\n    \"notable_moves\": [\"stone edge\", \"earthquake\", \"stealth rock\", \"explosion\"],\n    \"abilities\": [\"sturdy\", \"weak armor\", \"sand force\"],\n    \"common_items\": [\"eviolite\", \"rocky helmet\"],\n    \"summary\": \"a sturdy rock-type that excels in trick room teams, using its high defense and eviolite to tank hits while hitting back hard with rock and ground moves.\"\n}\n```"
+}

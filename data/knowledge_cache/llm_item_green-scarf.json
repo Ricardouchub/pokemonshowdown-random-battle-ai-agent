@@ -1,0 +1,9 @@
+{
+  "item": "Green Scarf",
+  "category": "Held Item",
+  "summary": "Boosts the power of Grass-type moves by 20% when held.",
+  "typical_users": [
+    "Grass-type attackers (e.g., Rillaboom, Kartana, Meowscarada)",
+    "Pok\u00e9mon with strong Grass-type coverage moves"
+  ]
+}

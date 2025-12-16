@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"volbeat\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"support\", \"weather-setter\", \"pivot\"],\n    \"notable_moves\": [\"tail glow\", \"baton pass\", \"thunder wave\", \"encore\"],\n    \"abilities\": [\"illuminate\", \"swarm\", \"prankster\"],\n    \"common_items\": [\"leftovers\", \"light clay\"],\n    \"summary\": \"a niche bug-type support pok\u00e9mon known for prankster tail glow and baton pass strategies, often setting rain or screens.\"\n}\n```"
+}

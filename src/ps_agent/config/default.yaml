@@ -1,0 +1,17 @@
+seed: 42
+mode: offline
+evaluator:
+  material: 1.0
+  position: 1.0
+  field_control: 0.5
+  wincon_progress: 0.5
+  risk: 0.5
+lookahead:
+  depth: 1
+  samples: 1
+policy:
+  risk_mode: balanced
+paths:
+  randbats_priors: data/randbats_priors
+  logs: artifacts/logs
+  reports: artifacts/reports

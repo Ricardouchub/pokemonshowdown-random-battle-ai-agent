@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"machamp-gmax\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\", \"dynamax sweeper\"],\n    \"notable_moves\": [\"dynamic punch\", \"close combat\", \"knock off\", \"bullet punch\", \"stone edge\"],\n    \"abilities\": [\"guts\", \"no guard\", \"steadfast\"],\n    \"common_items\": [\"choice band\", \"assault vest\", \"flame orb\", \"life orb\"],\n    \"summary\": \"gigantamax form with exclusive g-max move 'g-max chi strike' that sets up critical hit chances for the team, enhancing its wallbreaking potential.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"regigigas\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"slow wallbreaker\", \"defensive pivot\"],\n    \"notable_moves\": [\"body slam\", \"knock off\", \"thunder wave\", \"protect\"],\n    \"abilities\": [\"slow start\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"legendary titan crippled by slow start, requiring team support to function effectively.\"\n}\n```"
+}

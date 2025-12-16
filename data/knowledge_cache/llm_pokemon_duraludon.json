@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"duraludon\",\n    \"types\": [\"steel\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"special attacker\"],\n    \"notable_moves\": [\"draco meteor\", \"flash cannon\", \"steel beam\", \"thunderbolt\"],\n    \"abilities\": [\"light metal\", \"heavy metal\", \"stalwart\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"assault vest\"],\n    \"summary\": \"a durable special attacker with high offensive stats and unique defensive typing, often used to break through defensive cores.\"\n}\n```"
+}

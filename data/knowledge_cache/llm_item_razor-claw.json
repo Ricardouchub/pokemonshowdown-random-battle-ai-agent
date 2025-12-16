@@ -1,0 +1,9 @@
+{
+  "item": "Razor Claw",
+  "category": "Held Item",
+  "summary": "Increases the holder's critical hit ratio by one stage. Evolves Sneasel into Weavile when held and leveled up at night.",
+  "typical_users": [
+    "Physical attackers like Weavile, Gallade, and Absol to boost critical hit chance",
+    "Sneasel for evolution"
+  ]
+}

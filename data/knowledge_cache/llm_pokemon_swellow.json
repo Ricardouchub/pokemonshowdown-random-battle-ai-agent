@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"swellow\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"fast attacker\", \"revenge killer\", \"late-game cleaner\"],\n    \"notable_moves\": [\"brave bird\", \"facade\", \"u-turn\", \"quick attack\"],\n    \"abilities\": [\"guts\", \"scrappy\"],\n    \"common_items\": [\"flame orb\", \"choice band\", \"life orb\"],\n    \"summary\": \"extremely fast physical attacker known for guts-boosted facade and brave bird, often used as a late-game cleaner or revenge killer.\"\n}\n```"
+}

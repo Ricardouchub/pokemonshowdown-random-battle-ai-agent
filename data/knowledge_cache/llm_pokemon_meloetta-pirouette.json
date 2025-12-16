@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"meloetta-pirouette\",\n    \"types\": [\"normal\", \"fighting\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"close combat\", \"relic song\", \"knock off\", \"return\"],\n    \"abilities\": [\"serene grace\"],\n    \"common_items\": [\"life orb\", \"choice band\"],\n    \"summary\": \"a rare forme with high attack and speed, activated by relic song. excels at physical offense but has defensive weaknesses.\"\n}\n```"
+}

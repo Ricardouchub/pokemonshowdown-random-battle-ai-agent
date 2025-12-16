@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"indeedee-male\",\n    \"types\": [\"psychic\", \"normal\"],\n    \"roles\": [\"support\", \"utility\", \"special attacker\"],\n    \"notable_moves\": [\"expanding force\", \"follow me\", \"helping hand\", \"hyper voice\", \"trick room\"],\n    \"abilities\": [\"psychic surge\", \"synchronize\", \"inner focus\"],\n    \"common_items\": [\"psychic seed\", \"focus sash\", \"leftovers\"],\n    \"summary\": \"male indeedee sets psychic terrain with psychic surge, enabling powerful expanding force attacks while providing team support with follow me and helping hand.\"\n}\n```"
+}

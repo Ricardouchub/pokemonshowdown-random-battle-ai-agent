@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pichu\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"setup\", \"support\"],\n    \"notable_moves\": [\"nuzzle\", \"fake out\", \"encore\", \"volt switch\"],\n    \"abilities\": [\"static\", \"lightning rod\"],\n    \"common_items\": [\"eviolite\", \"focus sash\"],\n    \"summary\": \"pre-evolution with niche support utility via paralysis and disruption, but extremely frail.\"\n}\n```"
+}

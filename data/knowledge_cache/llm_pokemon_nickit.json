@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"nickit\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"fast-support\", \"pivot\"],\n    \"notable_moves\": [\"thief\", \"quick-attack\", \"tail-whip\", \"nasty-plot\"],\n    \"abilities\": [\"run-away\", \"unburden\", \"stakeout\"],\n    \"common_items\": [\"focus-sash\", \"choice-scarf\"],\n    \"summary\": \"a swift dark-type fox pok\u00e9mon that excels at stealing items and fleeing, often used for early-game disruption and pivoting.\"\n}\n```"
+}

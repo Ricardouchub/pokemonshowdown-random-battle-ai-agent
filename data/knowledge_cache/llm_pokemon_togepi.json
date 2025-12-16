@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"togepi\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"support\", \"cleric\", \"hazard-setter\"],\n    \"notable_moves\": [\"wish\", \"protect\", \"toxic\", \"heal bell\", \"stealth rock\"],\n    \"abilities\": [\"hustle\", \"serene grace\", \"super luck\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a pre-evolution fairy-type known for its supportive capabilities, often using eviolite to boost its defenses while providing team support through wish passing, status healing, and hazard setting.\"\n}\n```"
+}

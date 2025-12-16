@@ -1,0 +1,8 @@
+{
+  "item": "Cornn Berry",
+  "category": "Berry",
+  "summary": "Restores 1/8 of max HP when holder's HP drops to 1/4 or less, but only if the holder's Nature lowers Defense.",
+  "typical_users": [
+    "Pok\u00e9mon with hindering Defense Natures, often on niche or surprise sets, such as certain Trick Room sweepers or specific defensive pivits like Shuckle or Ditto."
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bellsprout\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"sun-sweeper\", \"chlorophyll-abuser\", \"early-game-threat\"],\n    \"notable_moves\": [\"solar-beam\", \"sludge-bomb\", \"growth\", \"weather-ball\"],\n    \"abilities\": [\"chlorophyll\", \"gluttony\"],\n    \"common_items\": [\"life-orb\", \"choice-scarf\", \"sun-rock\"],\n    \"summary\": \"a fragile grass/poison type that excels in sun teams with chlorophyll, using growth-boosted solar beams to sweep.\"\n}\n```"
+}

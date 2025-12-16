@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"aipom\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"fast-attacker\", \"support\", \"baton-passer\"],\n    \"notable_moves\": [\"fake-out\", \"u-turn\", \"baton-pass\", \"agility\", \"double-hit\"],\n    \"abilities\": [\"run-away\", \"pickup\", \"skill-link\"],\n    \"common_items\": [\"choice-band\", \"life-orb\", \"focus-sash\"],\n    \"summary\": \"fast normal-type with utility moves, often used for speed control and passing boosts.\"\n}\n```"
+}

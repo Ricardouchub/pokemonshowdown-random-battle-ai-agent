@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zweilous\",\n    \"types\": [\"dark\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"dragon rush\", \"crunch\", \"work up\", \"fire fang\"],\n    \"abilities\": [\"hustle\"],\n    \"common_items\": [\"eviolite\", \"life orb\"],\n    \"summary\": \"mid-stage dragon with high attack but poor accuracy; relies on setup to sweep or wallbreak with eviolite bulk.\"\n}\n```"
+}

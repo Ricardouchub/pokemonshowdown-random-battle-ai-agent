@@ -1,0 +1,10 @@
+{
+  "item": "Mago Berry",
+  "category": "Berries",
+  "summary": "Restores 33% of the user's HP when HP drops below 25%, but confuses Pok\u00e9mon that dislike spicy flavors.",
+  "typical_users": [
+    "Pok\u00e9mon with the Gluttony ability",
+    "Bulky sweepers or tanks that benefit from recovery and can manage confusion risk",
+    "Teams utilizing Harvest or Recycle strategies"
+  ]
+}

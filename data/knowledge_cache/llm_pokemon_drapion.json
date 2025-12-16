@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"drapion\",\n    \"types\": [\"poison\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"pivot\", \"tank\"],\n    \"notable_moves\": [\"knock off\", \"poison jab\", \"earthquake\", \"taunt\", \"toxic spikes\"],\n    \"abilities\": [\"battle armor\", \"sniper\", \"keen eye\"],\n    \"common_items\": [\"black sludge\", \"assault vest\", \"choice band\"],\n    \"summary\": \"a bulky poison/dark type with strong utility and offensive pressure, known for its good defensive typing and ability to disrupt opponents.\"\n}\n```"
+}

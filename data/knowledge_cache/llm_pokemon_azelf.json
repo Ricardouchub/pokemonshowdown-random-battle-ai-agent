@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"azelf\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"lead\", \"special sweeper\", \"suicide lead\"],\n    \"notable_moves\": [\"psychic\", \"flamethrower\", \"uturn\", \"stealth rock\", \"explosion\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice specs\"],\n    \"summary\": \"fast psychic-type with high offensive stats, often used as a lead to set hazards or deal early damage.\"\n}\n```"
+}

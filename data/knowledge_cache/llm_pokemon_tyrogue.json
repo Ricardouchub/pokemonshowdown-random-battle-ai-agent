@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tyrogue\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"evolving\", \"baby\", \"setup\"],\n    \"notable_moves\": [\"fake out\", \"high jump kick\", \"mach punch\", \"bulk up\"],\n    \"abilities\": [\"guts\", \"steadfast\", \"vital spirit\"],\n    \"common_items\": [\"eviolite\", \"choice scarf\"],\n    \"summary\": \"baby fighting-type that evolves into hitmonlee, hitmonchan, or hitmontop based on stats. used as a setup sweeper or pivot before evolution.\"\n}\n```"
+}

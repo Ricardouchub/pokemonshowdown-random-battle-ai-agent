@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shaymin-sky\",\n    \"types\": [\"grass\", \"flying\"],\n    \"roles\": [\"special sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"seed flare\", \"air slash\", \"earth power\", \"hidden power\"],\n    \"abilities\": [\"serene grace\"],\n    \"common_items\": [\"life orb\", \"choice scarf\"],\n    \"summary\": \"fast special attacker with high-powered stab moves and flinch potential.\"\n}\n```"
+}

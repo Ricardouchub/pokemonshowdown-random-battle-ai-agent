@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"raichu\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast attacker\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"thunderbolt\", \"fake out\", \"volttackle\", \"focus blast\", \"nuzzle\"],\n    \"abilities\": [\"static\", \"lightning rod\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"choice scarf\"],\n    \"summary\": \"fast electric sweeper with strong coverage and priority, but frail.\"\n}\n```"
+}

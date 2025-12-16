@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gengar\",\n    \"types\": [\"ghost\", \"poison\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"shadow ball\", \"sludge bomb\", \"focus blast\", \"thunderbolt\", \"nasty plot\"],\n    \"abilities\": [\"levitate\", \"cursed body\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"focus sash\"],\n    \"summary\": \"fast ghost-type special attacker with strong coverage and setup potential, but frail defensively.\"\n}\n```"
+}

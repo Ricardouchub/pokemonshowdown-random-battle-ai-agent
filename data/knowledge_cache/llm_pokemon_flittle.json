@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"flittle\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"fast_support\", \"setup_sweeper\"],\n    \"notable_moves\": [\"stored_power\", \"calm_mind\", \"protect\", \"hypnosis\"],\n    \"abilities\": [\"anticipation\", \"frisk\", \"speed_boost\"],\n    \"common_items\": [\"focus_sash\", \"leftovers\", \"mental_herb\"],\n    \"summary\": \"a small psychic-type that evolves into espathra. known for high speed and setup potential with stored power, especially with hidden ability speed boost.\"\n}\n```"
+}

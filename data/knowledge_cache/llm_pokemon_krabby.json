@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"krabby\",\n    \"types\": [\"water\"],\n    \"roles\": [\"physical attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"crabhammer\", \"agility\", \"swords dance\", \"rock slide\"],\n    \"abilities\": [\"hyper cutter\", \"shell armor\", \"sheer force\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"focus sash\"],\n    \"summary\": \"a physically powerful water-type with high attack and access to boosting moves, but limited by poor speed and special bulk.\"\n}\n```"
+}

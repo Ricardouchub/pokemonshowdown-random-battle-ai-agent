@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"staraptor\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"revenge killer\", \"late-game cleaner\"],\n    \"notable_moves\": [\"brave bird\", \"close combat\", \"uturn\", \"double-edge\"],\n    \"abilities\": [\"intimidate\", \"reckless\"],\n    \"common_items\": [\"choice band\", \"choice scarf\", \"heavy-duty boots\"],\n    \"summary\": \"high-attack physical attacker with powerful stab moves and coverage, often used as a hit-and-run wallbreaker with intimidate support.\"\n}\n```"
+}

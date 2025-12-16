@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gyarados-mega\",\n    \"types\": [\"water\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\", \"bulky attacker\"],\n    \"notable_moves\": [\"waterfall\", \"crunch\", \"earthquake\", \"ice fang\", \"dragon dance\"],\n    \"abilities\": [\"mold breaker\"],\n    \"common_items\": [\"gyaradosite\"],\n    \"summary\": \"mega evolution transforms gyarados into a powerful dark-type attacker with mold breaker, excelling at breaking through defensive cores and sweeping with dragon dance boosts.\"\n}\n```"
+}

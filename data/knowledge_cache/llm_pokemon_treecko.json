@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"treecko\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"lead\", \"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"leaf storm\", \"giga drain\", \"substitute\", \"leech seed\", \"energy ball\"],\n    \"abilities\": [\"overgrow\", \"unburden\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"focus sash\"],\n    \"summary\": \"fast grass-type starter with setup potential via unburden and strong special attacks.\"\n}\n```"
+}

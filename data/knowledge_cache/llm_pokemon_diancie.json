@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"diancie\",\n    \"types\": [\"rock\", \"fairy\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"support\"],\n    \"notable_moves\": [\"diamond storm\", \"moonblast\", \"stealth rock\", \"trick room\"],\n    \"abilities\": [\"clear body\"],\n    \"common_items\": [\"weakness policy\", \"life orb\", \"leftovers\"],\n    \"summary\": \"mythical rock/fairy with high defenses, diamond storm boosts defense, versatile in trick room or support roles.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bellibolt\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special wall\", \"slow pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"parabolic charge\", \"slack off\", \"thunderbolt\", \"voltswitch\", \"acid spray\"],\n    \"abilities\": [\"electromorphosis\", \"static\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"assault vest\"],\n    \"summary\": \"bulky electric-type with unique ability to boost electric moves after taking damage, known for its recovery and pivoting utility.\"\n}\n```"
+}

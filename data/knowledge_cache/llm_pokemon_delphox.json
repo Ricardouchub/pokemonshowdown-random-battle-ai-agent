@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"delphox\",\n    \"types\": [\"fire\", \"psychic\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"setup\"],\n    \"notable_moves\": [\"fire blast\", \"psychic\", \"calm mind\", \"grass knot\"],\n    \"abilities\": [\"blaze\", \"magician\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"a fire/psychic special attacker with setup potential via calm mind, using its high special attack to break through defensive cores.\"\n}\n```"
+}

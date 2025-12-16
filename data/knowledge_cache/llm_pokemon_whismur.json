@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"whismur\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"hyper voice\", \"boomburst\", \"flamethrower\", \"ice beam\"],\n    \"abilities\": [\"soundproof\", \"rattled\"],\n    \"common_items\": [\"choice specs\", \"life orb\"],\n    \"summary\": \"a sound-based special attacker that evolves into loudred and exploud, known for its powerful normal-type moves like boomburst.\"\n}\n```"
+}

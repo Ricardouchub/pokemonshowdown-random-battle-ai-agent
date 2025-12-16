@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"uxie\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"support\", \"wall\", \"hazard_setter\"],\n    \"notable_moves\": [\"stealth_rock\", \"uturn\", \"psychic\", \"thunder_wave\", \"yawn\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"light_clay\", \"mental_herb\"],\n    \"summary\": \"bulky psychic-type legendary known for setting hazards and disrupting opponents with status moves.\"\n}\n```"
+}

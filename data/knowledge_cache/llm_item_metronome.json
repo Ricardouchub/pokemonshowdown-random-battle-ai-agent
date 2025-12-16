@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Metronome\",\n    \"category\": \"Damage Boosting\",\n    \"summary\": \"Increases the power of a move used consecutively by 20% per use, up to 100% after five uses.\",\n    \"typical_users\": [\"Setup sweepers using single-move strategies\", \"Pok\u00e9mon with strong STAB moves like Kyogre's Water Spout\", \"Wallbreakers that force switches\"]\n}\n```"
+}

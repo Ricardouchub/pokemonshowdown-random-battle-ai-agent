@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grimmsnarl-gmax\",\n    \"types\": [\"dark\", \"fairy\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\", \"pivot\"],\n    \"notable_moves\": [\"spirit break\", \"false surrender\", \"sucker punch\", \"bulk up\", \"parting shot\"],\n    \"abilities\": [\"prankster\", \"frisk\", \"pickpocket\"],\n    \"common_items\": [\"leftovers\", \"assault vest\", \"heavy-duty boots\"],\n    \"summary\": \"gigantamax grimmsnarl uses its prankster ability for priority status moves and bulk up setup. its g-max move, g-max snooze, can put opponents to sleep, disrupting teams. functions as a bulky physical attacker with strong dark/fairy stab.\"\n}\n```"
+}

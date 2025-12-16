@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"skiploom\",\n    \"types\": [\"grass\", \"flying\"],\n    \"roles\": [\"support\", \"pivot\", \"sun-setter\"],\n    \"notable_moves\": [\"sleep powder\", \"u-turn\", \"sunny day\", \"synthesis\"],\n    \"abilities\": [\"chlorophyll\", \"leaf guard\", \"infiltrator\"],\n    \"common_items\": [\"focus sash\", \"heat rock\", \"leftovers\"],\n    \"summary\": \"mid-evolution grass/flying type that provides team support through sleep, weather setting, and pivoting, often used to enable sun teams with chlorophyll.\"\n}\n```"
+}

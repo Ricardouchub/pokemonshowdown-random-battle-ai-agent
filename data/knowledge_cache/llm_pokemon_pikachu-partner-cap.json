@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-partner-cap\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special-attacker\", \"fast-sweeper\"],\n    \"notable_moves\": [\"thunderbolt\", \"quick-attack\", \"electro-ball\", \"feint\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"focus-sash\"],\n    \"summary\": \"specialized pikachu variant with unique cap, excels in speed and special electric attacks, often used with light ball for maximum damage output.\"\n}\n```"
+}

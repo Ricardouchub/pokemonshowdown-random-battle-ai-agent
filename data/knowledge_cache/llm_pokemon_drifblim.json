@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"drifblim\",\n    \"types\": [\"ghost\", \"flying\"],\n    \"roles\": [\"special wall\", \"utility\", \"calm mind sweeper\"],\n    \"notable_moves\": [\"shadow ball\", \"calm mind\", \"strength sap\", \"substitute\"],\n    \"abilities\": [\"aftermath\", \"unburden\", \"flare boost\"],\n    \"common_items\": [\"leftovers\", \"weakness policy\", \"sitrus berry\"],\n    \"summary\": \"bulky ghost with recovery and setup potential, often using unburden with berry activation.\"\n}\n```"
+}

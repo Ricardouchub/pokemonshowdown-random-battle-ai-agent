@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sandygast\",\n    \"types\": [\"ghost\", \"ground\"],\n    \"roles\": [\"wall\", \"hazard setter\"],\n    \"notable_moves\": [\"shore up\", \"stealth rock\", \"shadow ball\", \"earth power\"],\n    \"abilities\": [\"water compaction\", \"sand veil\"],\n    \"common_items\": [\"leftovers\", \"colbur berry\"],\n    \"summary\": \"a defensive ghost/ground type that sets hazards and heals with shore up.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"clefairy\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"support\", \"cleric\", \"setup\"],\n    \"notable_moves\": [\"moonblast\", \"soft-boiled\", \"stealth rock\", \"thunder wave\"],\n    \"abilities\": [\"cute charm\", \"magic guard\", \"friend guard\"],\n    \"common_items\": [\"leftovers\", \"eviolite\"],\n    \"summary\": \"bulky fairy-type support pok\u00e9mon, often used with eviolite for enhanced defenses, providing team utility through healing, status, and hazard setting.\"\n}\n```"
+}

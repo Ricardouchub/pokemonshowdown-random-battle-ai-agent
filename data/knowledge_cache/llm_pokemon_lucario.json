@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lucario\",\n    \"types\": [\"fighting\", \"steel\"],\n    \"roles\": [\"wallbreaker\", \"revenge killer\", \"setup sweeper\"],\n    \"notable_moves\": [\"close combat\", \"meteor mash\", \"swords dance\", \"extreme speed\"],\n    \"abilities\": [\"steadfast\", \"inner focus\", \"justified\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"focus sash\"],\n    \"summary\": \"versatile mixed attacker with strong priority and setup potential, weak to common fire and ground moves.\"\n}\n```"
+}

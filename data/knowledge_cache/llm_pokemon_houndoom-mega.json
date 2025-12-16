@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"houndoom-mega\",\n    \"types\": [\"dark\", \"fire\"],\n    \"roles\": [\"wallbreaker\", \"special-attacker\", \"sun-sweeper\"],\n    \"notable_moves\": [\"nasty-plot\", \"dark-pulse\", \"fire-blast\", \"solar-beam\"],\n    \"abilities\": [\"solar-power\"],\n    \"common_items\": [\"houndoominite\"],\n    \"summary\": \"a powerful special wallbreaker with high speed and sp. atk, excels under sun but suffers from recoil damage.\"\n}\n```"
+}

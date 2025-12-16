@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zapdos\",\n    \"types\": [\"electric\", \"flying\"],\n    \"roles\": [\"special attacker\", \"pivot\", \"defensive wall\"],\n    \"notable_moves\": [\"thunderbolt\", \"heat wave\", \"hurricane\", \"roost\", \"voltswitch\"],\n    \"abilities\": [\"pressure\", \"static\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"choice specs\"],\n    \"summary\": \"legendary electric bird with strong special attacks and defensive utility, often used as a pivot with volt switch and boots to avoid entry hazards.\"\n}\n```"
+}

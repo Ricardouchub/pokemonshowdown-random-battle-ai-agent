@@ -1,0 +1,8 @@
+{
+  "item": "Carbos",
+  "category": "Vitamin",
+  "summary": "Increases a Pok\u00e9mon's Speed EV by 10 points when used, up to the maximum of 252 EVs per stat.",
+  "typical_users": [
+    "Fast sweepers like Dragapult, Cinderace, or Weavile that rely on outspeeding opponents"
+  ]
+}

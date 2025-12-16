@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"corviknight-gmax\",\n    \"types\": [\"flying\", \"steel\"],\n    \"roles\": [\"bulky support\", \"defensive pivot\", \"g-max threat\"],\n    \"notable_moves\": [\"brave bird\", \"body press\", \"roost\", \"defog\", \"uturn\"],\n    \"abilities\": [\"pressure\", \"unnerve\", \"mirror-armor\"],\n    \"common_items\": [\"leftovers\", \"rocky-helmet\", \"heavy-duty-boots\"],\n    \"summary\": \"gigantamax form of corviknight with massive bulk, unique g-max move that traps opponents, and excellent defensive typing for pivot and support roles.\"\n}\n```"
+}

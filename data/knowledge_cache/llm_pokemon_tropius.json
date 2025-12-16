@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tropius\",\n    \"types\": [\"grass\", \"flying\"],\n    \"roles\": [\"sun sweeper\", \"harvest support\", \"defensive pivot\"],\n    \"notable_moves\": [\"leaf storm\", \"air slash\", \"leech seed\", \"substitute\"],\n    \"abilities\": [\"chlorophyll\", \"solar power\", \"harvest\"],\n    \"common_items\": [\"sitrus berry\", \"leftovers\", \"weakness policy\"],\n    \"summary\": \"bulky grass/flying type known for harvest stalling with sitrus berry and chlorophyll sweeping in sun.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"arceus\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\", \"support\"],\n    \"notable_moves\": [\"judgment\", \"extreme speed\", \"swords dance\", \"recover\", \"defog\"],\n    \"abilities\": [\"multitype\"],\n    \"common_items\": [\"silk scarf\", \"life orb\", \"leftovers\", \"plate\"],\n    \"summary\": \"versatile legendary pok\u00e9mon with high stats, type-changing plates, and multiple competitive roles.\"\n}\n```"
+}

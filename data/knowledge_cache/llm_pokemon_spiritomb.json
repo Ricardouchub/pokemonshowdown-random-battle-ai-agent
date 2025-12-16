@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"spiritomb\",\n    \"types\": [\"ghost\", \"dark\"],\n    \"roles\": [\"wall\", \"pivot\", \"status-spreader\"],\n    \"notable_moves\": [\"will-o-wisp\", \"foul play\", \"sucker punch\", \"pursuit\", \"pain split\"],\n    \"abilities\": [\"pressure\", \"infiltrator\"],\n    \"common_items\": [\"leftovers\", \"black sludge\", \"colbur berry\"],\n    \"summary\": \"a defensive ghost/dark type known for its unique typing and ability to spread burns while checking physical attackers.\"\n}\n```"
+}

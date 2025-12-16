@@ -1,0 +1,8 @@
+{
+  "item": "Zinc",
+  "category": "Stat Boosting",
+  "summary": "Increases a Pok\u00e9mon's Special Defense stat by 10 EVs when used outside of battle.",
+  "typical_users": [
+    "Pok\u00e9mon needing special bulk, such as walls, tanks, or mixed defenders; often used in EV training."
+  ]
+}

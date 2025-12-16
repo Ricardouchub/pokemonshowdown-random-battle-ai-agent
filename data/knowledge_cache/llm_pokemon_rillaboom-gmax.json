@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rillaboom-gmax\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive-support\", \"terrain-setter\"],\n    \"notable_moves\": [\"drum-beating\", \"grassy-glide\", \"fake-out\", \"knock-off\", \"uturn\"],\n    \"abilities\": [\"overgrow\", \"grassy-surge\"],\n    \"common_items\": [\"assault-vest\", \"choice-band\", \"life-orb\"],\n    \"summary\": \"gigantamax form with unique g-max move that sets grassy terrain, boosting grass moves and providing team support.\"\n}\n```"
+}

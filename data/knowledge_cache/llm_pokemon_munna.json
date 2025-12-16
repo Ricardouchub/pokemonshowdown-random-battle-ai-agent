@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"munna\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"support\", \"trick room setter\"],\n    \"notable_moves\": [\"psychic\", \"moonlight\", \"trick room\", \"hypnosis\", \"helping hand\"],\n    \"abilities\": [\"forewarn\", \"synchronize\", \"telepathy\"],\n    \"common_items\": [\"leftovers\", \"mental herb\"],\n    \"summary\": \"a psychic-type support pok\u00e9mon known for inducing sleep and setting trick room, but with poor stats.\"\n}\n```"
+}

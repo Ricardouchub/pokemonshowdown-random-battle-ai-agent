@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"thwackey\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"grassy glide\", \"knock off\", \"uturn\", \"acrobatics\", \"synthesis\"],\n    \"abilities\": [\"overgrow\", \"grassy surge\"],\n    \"common_items\": [\"grassy seed\", \"heavy-duty boots\", \"choice band\"],\n    \"summary\": \"a fast grass-type pivot that sets grassy terrain, using priority grassy glide and utility moves to pressure opponents.\"\n}\n```"
+}

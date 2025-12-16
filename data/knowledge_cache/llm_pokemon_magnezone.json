@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"magnezone\",\n    \"types\": [\"electric\", \"steel\"],\n    \"roles\": [\"wallbreaker\", \"pivot\", \"stealth rock setter\"],\n    \"notable_moves\": [\"voltswitch\", \"flash cannon\", \"thunderbolt\", \"body press\"],\n    \"abilities\": [\"magnet pull\", \"sturdy\", \"analytic\"],\n    \"common_items\": [\"air balloon\", \"leftovers\", \"choice specs\"],\n    \"summary\": \"a powerful electric/steel type that traps steel foes, pivots with voltswitch, and breaks walls with strong special attacks.\"\n}\n```"
+}

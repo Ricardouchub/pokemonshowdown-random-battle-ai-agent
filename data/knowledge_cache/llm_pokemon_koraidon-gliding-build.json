@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"koraidon-gliding-build\",\n    \"types\": [\"fighting\", \"dragon\"],\n    \"roles\": [\"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"collision-course\", \"dragon-claw\", \"flame-charge\", \"drain-punch\"],\n    \"abilities\": [\"orichalcum-pulse\"],\n    \"common_items\": [\"booster-energy\", \"life-orb\"],\n    \"summary\": \"aggressive physical attacker that uses flame charge for speed control and setup sweeping under sun.\"\n}\n```"
+}

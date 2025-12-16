@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ivysaur\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"giga drain\", \"sludge bomb\", \"synthesis\", \"growth\"],\n    \"abilities\": [\"overgrow\", \"chlorophyll\"],\n    \"common_items\": [\"eviolite\", \"life orb\"],\n    \"summary\": \"mid-evolution grass/poison type that excels with eviolite bulk, using growth to boost offenses under sun or for sweeping.\"\n}\n```"
+}

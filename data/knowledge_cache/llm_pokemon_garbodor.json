@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"garbodor\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"wallbreaker\", \"hazard setter\", \"pivot\"],\n    \"notable_moves\": [\"gunkshot\", \"spikes\", \"toxic spikes\", \"drain punch\", \"seed bomb\"],\n    \"abilities\": [\"stench\", \"weak armor\", \"aftermath\"],\n    \"common_items\": [\"black sludge\", \"heavy-duty boots\", \"rocky helmet\"],\n    \"summary\": \"bulky poison-type wallbreaker and hazard setter, known for setting spikes and absorbing toxic spikes while hitting hard with gunkshot.\"\n}\n```"
+}

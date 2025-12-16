@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rotom-frost\",\n    \"types\": [\"electric\", \"ice\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\"],\n    \"notable_moves\": [\"blizzard\", \"thunderbolt\", \"volt-switch\", \"will-o-wisp\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"choice-specs\", \"heavy-duty-boots\"],\n    \"summary\": \"electric/ice special attacker with levitate, uses blizzard for strong ice stab and volt-switch for momentum.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"meowstic-male\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"support\", \"pivot\", \"hazard-setter\"],\n    \"notable_moves\": [\"psychic\", \"thunder-wave\", \"reflect\", \"light-screen\", \"yawn\"],\n    \"abilities\": [\"keen-eye\", \"infiltrator\", \"prankster\"],\n    \"common_items\": [\"light-clay\", \"leftovers\", \"focus-sash\"],\n    \"summary\": \"male meowstic is a prankster support pok\u00e9mon, excelling at setting screens, spreading status, and disrupting opponents with priority moves.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bergmite\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"physical wall\", \"hazard setter\"],\n    \"notable_moves\": [\"avalanche\", \"rapid spin\", \"recover\", \"rock tomb\"],\n    \"abilities\": [\"own tempo\", \"ice body\", \"sturdy\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"defensive ice-type that evolves into avalugg, often used with eviolite for bulk. sets rocks and spins hazards.\"\n}\n```"
+}

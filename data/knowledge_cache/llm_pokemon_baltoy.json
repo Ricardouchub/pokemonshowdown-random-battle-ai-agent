@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"baltoy\",\n    \"types\": [\"ground\", \"psychic\"],\n    \"roles\": [\"hazard setter\", \"rapid spinner\", \"trick room setter\"],\n    \"notable_moves\": [\"stealth rock\", \"rapid spin\", \"earth power\", \"trick room\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"eviolite\", \"leftovers\", \"focus sash\"],\n    \"summary\": \"a utility-focused ground/psychic type that sets hazards, removes them, and supports trick room teams while having a unique defensive typing.\"\n}\n```"
+}

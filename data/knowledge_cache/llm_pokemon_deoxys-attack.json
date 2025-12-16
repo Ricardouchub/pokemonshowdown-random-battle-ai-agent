@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"deoxys-attack\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"wallbreaker\", \"revenge-killer\"],\n    \"notable_moves\": [\"psycho-boost\", \"superpower\", \"ice-beam\", \"extreme-speed\", \"knock-off\"],\n    \"abilities\": [\"pressure\"],\n    \"common_items\": [\"life-orb\", \"focus-sash\"],\n    \"summary\": \"extreme glass cannon with the highest attack stat in the game, but extremely frail. uses powerful stab psycho-boost to obliterate targets.\"\n}\n```"
+}

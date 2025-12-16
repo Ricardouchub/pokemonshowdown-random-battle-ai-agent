@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lycanroc-dusk\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"wallbreaker\", \"revenge-killer\", \"priority-user\"],\n    \"notable_moves\": [\"accelerock\", \"stone-edge\", \"close-combat\", \"swords-dance\"],\n    \"abilities\": [\"tough-claws\"],\n    \"common_items\": [\"choice-band\", \"life-orb\", \"focus-sash\"],\n    \"summary\": \"unique dusk form with access to tough claws-boosted accelerock, making it a fast priority threat that can break through weakened teams.\"\n}\n```"
+}

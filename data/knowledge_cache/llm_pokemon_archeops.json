@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"archeops\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"late-game cleaner\"],\n    \"notable_moves\": [\"head smash\", \"acrobatics\", \"earthquake\", \"uturn\"],\n    \"abilities\": [\"defeatist\"],\n    \"common_items\": [\"choice band\", \"focus sash\"],\n    \"summary\": \"high-risk, high-reward attacker with massive offensive stats but crippled by its ability when below half health.\"\n}\n```"
+}

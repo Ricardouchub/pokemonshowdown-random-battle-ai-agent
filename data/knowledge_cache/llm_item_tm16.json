@@ -1,0 +1,10 @@
+{
+  "item": "TM16",
+  "category": "Technical Machine (Move)",
+  "summary": "Teaches the move Light Screen, which reduces Special damage taken by the user's side of the field for 5 turns.",
+  "typical_users": [
+    "Support Pok\u00e9mon",
+    "Bulky special walls",
+    "Dedicated screen setters like Alakazam, Mr. Mime, or Starmie"
+  ]
+}

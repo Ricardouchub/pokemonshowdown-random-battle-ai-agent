@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"blitzle\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast attacker\", \"early-game sweeper\"],\n    \"notable_moves\": [\"wild charge\", \"flame charge\", \"thunderbolt\", \"volt switch\"],\n    \"abilities\": [\"lightning rod\", \"motor drive\", \"sap sipper\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"focus sash\"],\n    \"summary\": \"a fast electric-type pok\u00e9mon known for its speed and offensive capabilities, often used as an early-game attacker with access to boosting moves like flame charge.\"\n}\n```"
+}

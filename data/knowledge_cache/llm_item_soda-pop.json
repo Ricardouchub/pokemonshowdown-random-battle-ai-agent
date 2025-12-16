@@ -1,0 +1,10 @@
+{
+  "item": "Soda Pop",
+  "category": "Healing",
+  "summary": "Restores 60 HP to a single Pok\u00e9mon in battle, but is less efficient than higher-tier healing items like Hyper Potion.",
+  "typical_users": [
+    "Early-game teams",
+    "Budget builds in low-tier formats",
+    "Occasional use on bulky Pok\u00e9mon in casual play"
+  ]
+}

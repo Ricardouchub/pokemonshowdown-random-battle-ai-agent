@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"venomoth\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"special sweeper\", \"quiver dance user\", \"sleep inducer\"],\n    \"notable_moves\": [\"quiver dance\", \"bug buzz\", \"sludge bomb\", \"sleep powder\"],\n    \"abilities\": [\"shield dust\", \"tinted lens\", \"wonder skin\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"heavy-duty boots\"],\n    \"summary\": \"a quiver dance sweeper that can bypass resistances with tinted lens and disrupt with sleep powder.\"\n}\n```"
+}

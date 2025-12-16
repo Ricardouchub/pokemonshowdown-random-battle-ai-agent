@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cramorant\",\n    \"types\": [\"water\", \"flying\"],\n    \"roles\": [\"revenge killer\", \"pivot\"],\n    \"notable_moves\": [\"surf\", \"hurricane\", \"defog\", \"roost\"],\n    \"abilities\": [\"gulp missile\"],\n    \"common_items\": [\"heavy-duty boots\", \"choice specs\"],\n    \"summary\": \"unique gimmick attacker that punishes contact moves by spitting prey, often used for momentum and hazard control.\"\n}\n```"
+}

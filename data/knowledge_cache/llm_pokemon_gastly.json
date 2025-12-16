@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gastly\",\n    \"types\": [\"ghost\", \"poison\"],\n    \"roles\": [\"special sweeper\", \"status spreader\"],\n    \"notable_moves\": [\"shadow ball\", \"sludge bomb\", \"will-o-wisp\", \"substitute\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"black sludge\"],\n    \"summary\": \"fast ghost/poison type with levitate immunity, known for special attacks and status moves.\"\n}\n```"
+}

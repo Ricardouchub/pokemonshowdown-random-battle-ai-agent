@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"scrafty-mega\",\n    \"types\": [\"dark\", \"fighting\"],\n    \"roles\": [\"bulky-attacker\", \"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"drain-punch\", \"knock-off\", \"dragon-dance\", \"ice-punch\"],\n    \"abilities\": [\"intimidate\"],\n    \"common_items\": [\"scraftite\"],\n    \"summary\": \"mega evolution boosts bulk and attack, becoming a formidable bulky setup sweeper with dragon dance and strong stabs.\"\n}\n```"
+}

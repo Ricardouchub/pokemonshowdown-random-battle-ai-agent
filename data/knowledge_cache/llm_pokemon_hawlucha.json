@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hawlucha\",\n    \"types\": [\"fighting\", \"flying\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"close combat\", \"acrobatics\", \"swords dance\", \"substitute\"],\n    \"abilities\": [\"unburden\", \"limber\", \"mold breaker\"],\n    \"common_items\": [\"power herb\", \"sitrus berry\", \"white herb\"],\n    \"summary\": \"fast unburden sweeper with unique typing and strong offensive presence.\"\n}\n```"
+}

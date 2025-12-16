@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"toxtricity-low-key-gmax\",\n    \"types\": [\"electric\", \"poison\"],\n    \"roles\": [\"special-attacker\", \"wallbreaker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"overdrive\", \"sludge-wave\", \"boomburst\", \"shift-gear\", \"voltswitch\"],\n    \"abilities\": [\"punk-rock\", \"plus\", \"technician\"],\n    \"common_items\": [\"life-orb\", \"throat-spray\", \"choice-specs\"],\n    \"summary\": \"gigantamax form with unique g-max move, excels in special damage output with sound-based moves boosted by punk-rock.\"\n}\n```"
+}

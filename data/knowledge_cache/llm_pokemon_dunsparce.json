@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dunsparce\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"hazard setter\", \"para-flincher\", \"stallbreaker\"],\n    \"notable_moves\": [\"glare\", \"stealth rock\", \"roost\", \"body slam\", \"drill run\"],\n    \"abilities\": [\"serene grace\", \"run away\", \"rattled\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"chesto berry\"],\n    \"summary\": \"bulky normal-type known for paralysis spreading with glare and serene grace flinch tactics, often using stealth rock for team support.\"\n}\n```"
+}

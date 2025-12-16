@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"machamp\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"wallbreaker\", \"physical sweeper\", \"assault vest user\"],\n    \"notable_moves\": [\"dynamic punch\", \"bullet punch\", \"knock off\", \"close combat\", \"ice punch\"],\n    \"abilities\": [\"guts\", \"no guard\", \"steadfast\"],\n    \"common_items\": [\"assault vest\", \"choice band\", \"flame orb\"],\n    \"summary\": \"powerful fighting-type with high attack and coverage moves, often using guts or no guard abilities to maximize damage output.\"\n}\n```"
+}

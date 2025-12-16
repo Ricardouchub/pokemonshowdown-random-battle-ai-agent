@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"granbull\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"status absorber\"],\n    \"notable_moves\": [\"play rough\", \"close combat\", \"thunder wave\", \"earthquake\"],\n    \"abilities\": [\"intimidate\", \"quick feet\", \"rattled\"],\n    \"common_items\": [\"leftovers\", \"assault vest\", \"choice band\"],\n    \"summary\": \"a physically bulky fairy-type with strong attack and intimidate support, but low speed.\"\n}\n```"
+}

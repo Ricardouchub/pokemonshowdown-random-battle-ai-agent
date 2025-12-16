@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"skiddo\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"physical attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"horn leech\", \"bulk up\", \"seed bomb\", \"earthquake\", \"milk drink\"],\n    \"abilities\": [\"sap sipper\", \"grass pelt\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a slow but bulky grass-type goat pok\u00e9mon that can set up with bulk up and recover health with horn leech or milk drink. benefits from grassy terrain with grass pelt.\"\n}\n```"
+}

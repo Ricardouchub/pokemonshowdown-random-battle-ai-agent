@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"meowstic-female\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"support\", \"utility\", \"pivot\"],\n    \"notable_moves\": [\"psychic\", \"thunder wave\", \"reflect\", \"light screen\", \"healing wish\"],\n    \"abilities\": [\"keen eye\", \"infiltrator\", \"competitive\"],\n    \"common_items\": [\"light clay\", \"leftovers\", \"focus sash\"],\n    \"summary\": \"bulky support pok\u00e9mon specializing in screens, status, and healing wish support.\"\n}\n```"
+}

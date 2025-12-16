@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cramorant-gulping\",\n    \"types\": [\"water\", \"flying\"],\n    \"roles\": [\"offensive-pivot\", \"surprise-attacker\"],\n    \"notable_moves\": [\"surf\", \"hurricane\", \"defog\", \"roost\"],\n    \"abilities\": [\"gulp-missile\"],\n    \"common_items\": [\"heavy-duty-boots\", \"leftovers\"],\n    \"summary\": \"unique water/flying pivot that uses gulp missile to punish contact moves, often surprising opponents with arrokuda or pikachu projectiles.\"\n}\n```"
+}

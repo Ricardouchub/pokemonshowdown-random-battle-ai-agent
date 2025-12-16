@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"groudon\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"sun-setter\", \"physical-wallbreaker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"precipice-blades\", \"fire-punch\", \"swords-dance\", \"stealth-rock\"],\n    \"abilities\": [\"drought\"],\n    \"common_items\": [\"red-orb\", \"leftovers\", \"life-orb\"],\n    \"summary\": \"legendary ground-type that summons harsh sunlight with drought, enabling powerful physical attacks and sun teams.\"\n}\n```"
+}

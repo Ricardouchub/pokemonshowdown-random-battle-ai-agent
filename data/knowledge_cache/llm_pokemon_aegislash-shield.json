@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"aegislash-shield\",\n    \"types\": [\"steel\", \"ghost\"],\n    \"roles\": [\"wall\", \"pivot\", \"trick-room-setter\"],\n    \"notable_moves\": [\"kings-shield\", \"shadow-ball\", \"shadow-sneak\", \"toxic\", \"iron-head\"],\n    \"abilities\": [\"stance-change\"],\n    \"common_items\": [\"leftovers\", \"weakness-policy\"],\n    \"summary\": \"defensive form of aegislash, excels at stalling and controlling with kings shield to reset its form and lower opponent's attack.\"\n}\n```"
+}

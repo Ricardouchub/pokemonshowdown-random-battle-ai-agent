@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dratini\",\n    \"types\": [\"dragon\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"dragon dance\", \"outrage\", \"extreme speed\", \"waterfall\"],\n    \"abilities\": [\"shed skin\", \"marvel scale\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"early dragon with setup potential via dragon dance, but frail before evolving.\"\n}\n```"
+}

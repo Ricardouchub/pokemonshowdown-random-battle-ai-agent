@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"marowak-alola\",\n    \"types\": [\"fire\", \"ghost\"],\n    \"roles\": [\"trick room sweeper\", \"wallbreaker\", \"bulky attacker\"],\n    \"notable_moves\": [\"shadow bone\", \"flare blitz\", \"bonemerang\", \"swords dance\"],\n    \"abilities\": [\"cursed body\", \"rock head\", \"lightning rod\"],\n    \"common_items\": [\"thick club\", \"assault vest\", \"leftovers\"],\n    \"summary\": \"alolan marowak is a slow but powerful physical attacker with unique typing, often using thick club to double its attack. excels in trick room teams and checks electric types with lightning rod.\"\n}\n```"
+}

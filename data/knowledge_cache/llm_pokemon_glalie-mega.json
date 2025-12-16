@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"glalie-mega\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"wallbreaker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"return\", \"earthquake\", \"ice-shard\", \"freeze-dry\"],\n    \"abilities\": [\"refrigerate\"],\n    \"common_items\": [\"glalitite\"],\n    \"summary\": \"mega glalie is a powerful ice-type wallbreaker with refrigerate-boosted returns and strong coverage. its high attack and speed make it a threatening setup sweeper after using explosion in previous generations or with substitute strategies.\"\n}\n```"
+}

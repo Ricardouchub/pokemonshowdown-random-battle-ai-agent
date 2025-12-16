@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mimikyu-totem-disguised\",\n    \"types\": [\"ghost\", \"fairy\"],\n    \"roles\": [\"setup sweeper\", \"disruptor\"],\n    \"notable_moves\": [\"swords dance\", \"play rough\", \"shadow sneak\", \"shadow claw\"],\n    \"abilities\": [\"disguise\"],\n    \"common_items\": [\"life orb\", \"ghostium z\"],\n    \"summary\": \"totem-sized mimikyu with free substitute via disguise, enabling safe setup with swords dance to sweep using priority shadow sneak and strong fairy/ghost attacks.\"\n}\n```"
+}

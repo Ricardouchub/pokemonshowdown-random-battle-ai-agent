@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kangaskhan\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"physical attacker\", \"support\", \"wallbreaker\"],\n    \"notable_moves\": [\"fake out\", \"return\", \"sucker punch\", \"earthquake\", \"power-up punch\"],\n    \"abilities\": [\"early bird\", \"scrappy\", \"inner focus\"],\n    \"common_items\": [\"kangaskhanite\", \"silk scarf\", \"life orb\"],\n    \"summary\": \"versatile normal-type known for parental bond mega evolution, providing strong priority and coverage.\"\n}\n```"
+}

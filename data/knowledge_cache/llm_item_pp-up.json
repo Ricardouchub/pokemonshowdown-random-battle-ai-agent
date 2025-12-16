@@ -1,0 +1,10 @@
+{
+  "item": "PP Up",
+  "category": "Consumable (Battle Item)",
+  "summary": "Permanently increases the maximum PP of a single move by 20% of its original base PP (up to 3 uses per move).",
+  "typical_users": [
+    "Pok\u00e9mon relying on low-PP, high-power moves (e.g., Hydro Pump, Fire Blast)",
+    "Stall or utility Pok\u00e9mon needing more uses of recovery or status moves",
+    "Generally used in teambuilding preparation, not held during battle."
+  ]
+}

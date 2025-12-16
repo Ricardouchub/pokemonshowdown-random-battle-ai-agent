@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ho-oh\",\n    \"types\": [\"fire\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"defensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"sacred fire\", \"brave bird\", \"recover\", \"earthquake\"],\n    \"abilities\": [\"pressure\", \"regenerator\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"life orb\"],\n    \"summary\": \"legendary phoenix with high bulk and powerful stab moves, often uses regenerator for longevity and heavy-duty boots to avoid stealth rock damage.\"\n}\n```"
+}

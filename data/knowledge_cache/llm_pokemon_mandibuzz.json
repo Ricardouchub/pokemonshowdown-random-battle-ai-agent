@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mandibuzz\",\n    \"types\": [\"dark\", \"flying\"],\n    \"roles\": [\"defensive wall\", \"hazard control\", \"pivot\"],\n    \"notable_moves\": [\"foul play\", \"roost\", \"defog\", \"uturn\", \"knock off\"],\n    \"abilities\": [\"big pecks\", \"overcoat\", \"weak armor\"],\n    \"common_items\": [\"heavy-duty boots\", \"rocky helmet\"],\n    \"summary\": \"bulky dark/flying wall with reliable recovery, hazard removal, and utility moves like knock off and uturn.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"urshifu-single-strike\",\n    \"types\": [\"fighting\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\", \"priority user\"],\n    \"notable_moves\": [\"wicked blow\", \"close combat\", \"sucker punch\", \"uturn\"],\n    \"abilities\": [\"unseen fist\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"focus sash\"],\n    \"summary\": \"a powerful physical attacker with signature move wicked blow that always crits, using its unseen fist ability to bypass protect effects. excels at breaking through defensive cores with its high damage output and priority sucker punch.\"\n}\n```"
+}

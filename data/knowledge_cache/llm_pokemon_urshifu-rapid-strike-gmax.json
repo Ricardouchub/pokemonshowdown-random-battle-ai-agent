@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"urshifu-rapid-strike-gmax\",\n    \"types\": [\"fighting\", \"water\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"surging strikes\", \"close combat\", \"aqua jet\", \"u-turn\"],\n    \"abilities\": [\"unseen fist\"],\n    \"common_items\": [\"choice band\", \"life orb\"],\n    \"summary\": \"a powerful physical attacker with multi-hit signature move and gmax form.\"\n}\n```"
+}

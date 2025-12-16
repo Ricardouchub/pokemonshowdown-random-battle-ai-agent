@@ -1,0 +1,8 @@
+{
+  "item": "Watmel Berry",
+  "category": "Berry",
+  "summary": "A one-time-use berry that restores 50% of the user's max HP when HP drops below 25%, but only if the user's HP stat is 100 or lower.",
+  "typical_users": [
+    "Pok\u00e9mon with low base HP stats, such as Shedinja, or in niche low-HP strategies in specific formats like Little Cup"
+  ]
+}

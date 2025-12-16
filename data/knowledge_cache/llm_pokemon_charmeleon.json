@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"charmeleon\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"offensive sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"flamethrower\", \"dragon pulse\", \"fire blast\", \"focus blast\"],\n    \"abilities\": [\"blaze\", \"solar power\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"heavy-duty boots\"],\n    \"summary\": \"mid-stage fire-type with strong special attack, often used as a powerful special attacker with coverage moves.\"\n}\n```"
+}

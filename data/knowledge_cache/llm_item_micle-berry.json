@@ -1,0 +1,8 @@
+{
+  "item": "Micle Berry",
+  "category": "Held Item (Berry)",
+  "summary": "When HP drops below 25%, raises the accuracy of the holder's next move by 20% (1.2x multiplier) and is consumed. Does not activate if the move has perfect accuracy.",
+  "typical_users": [
+    "Pok\u00e9mon using low-accuracy, high-power moves like Stone Edge or Focus Blast, often on sets aiming for a one-time clutch play or on frail sweepers."
+  ]
+}

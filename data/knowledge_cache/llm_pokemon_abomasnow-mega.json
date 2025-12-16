@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"abomasnow-mega\",\n    \"types\": [\"grass\", \"ice\"],\n    \"roles\": [\"trick-room-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"blizzard\", \"giga-drain\", \"focus-blast\", \"ice-shard\"],\n    \"abilities\": [\"snow-warning\"],\n    \"common_items\": [\"abomasite\"],\n    \"summary\": \"mega-evolved form with boosted stats, excels in trick room teams due to low speed, sets permanent hail to boost blizzard accuracy and chip damage.\"\n}\n```"
+}

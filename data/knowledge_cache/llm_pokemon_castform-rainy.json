@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"castform-rainy\",\n    \"types\": [\"water\"],\n    \"roles\": [\"weather-setter\", \"special-attacker\"],\n    \"notable_moves\": [\"weather-ball\", \"hydro-pump\", \"thunder\", \"hurricane\"],\n    \"abilities\": [\"forecast\"],\n    \"common_items\": [\"damp-rock\", \"life-orb\"],\n    \"summary\": \"weather-dependent water-type form of castform, excels in rain with boosted water moves and perfect-accuracy hurricanes.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"regirock\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"tank\", \"wall\", \"stealth rock setter\"],\n    \"notable_moves\": [\"stealth rock\", \"stone edge\", \"earthquake\", \"thunder wave\", \"toxic\"],\n    \"abilities\": [\"clear body\", \"sturdy\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"custap berry\"],\n    \"summary\": \"a pure rock-type legendary with immense physical bulk, often used as a defensive wall and hazard setter.\"\n}\n```"
+}

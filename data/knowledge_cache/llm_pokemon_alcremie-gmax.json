@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"alcremie-gmax\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"sweeper\", \"setup\", \"bulky-attacker\"],\n    \"notable_moves\": [\"g-max-finale\", \"dazzling-gleam\", \"recover\", \"calm-mind\", \"acid-armor\"],\n    \"abilities\": [\"sweet-veil\"],\n    \"common_items\": [\"leftovers\", \"life-orb\", \"weakness-policy\"],\n    \"summary\": \"gigantamax form with exclusive g-max-finale, healing allies while dealing damage. excels as a bulky setup sweeper with recovery and stat boosts.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sigilyph\",\n    \"types\": [\"psychic\", \"flying\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"utility\"],\n    \"notable_moves\": [\"psychic\", \"air slash\", \"heat wave\", \"calm mind\", \"roost\"],\n    \"abilities\": [\"wonder skin\", \"magic guard\", \"tinted lens\"],\n    \"common_items\": [\"life orb\", \"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"a versatile psychic/flying type with magic guard, enabling it to ignore passive damage while hitting hard with its special attacks and providing team support.\"\n}\n```"
+}

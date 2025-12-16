@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"toedscool\",\n    \"types\": [\"ground\", \"grass\"],\n    \"roles\": [\"hazard setter\", \"pivot\", \"status spreader\"],\n    \"notable_moves\": [\"spikes\", \"spore\", \"rapid spin\", \"earth power\"],\n    \"abilities\": [\"mycelium might\"],\n    \"common_items\": [\"heavy-duty boots\", \"rocky helmet\"],\n    \"summary\": \"slow hazard-setting mushroom with unique ability to ignore abilities when inflicting status, but moves last.\"\n}\n```"
+}

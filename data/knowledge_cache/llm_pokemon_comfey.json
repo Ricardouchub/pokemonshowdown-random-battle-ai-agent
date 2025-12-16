@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"comfey\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"support\", \"cleric\", \"stall\"],\n    \"notable_moves\": [\"floral healing\", \"draining kiss\", \"calm mind\", \"synthesis\", \"aromatherapy\"],\n    \"abilities\": [\"flower veil\", \"triage\", \"natural cure\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"big root\"],\n    \"summary\": \"a supportive fairy-type known for priority healing moves and stalling tactics.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rayquaza\",\n    \"types\": [\"dragon\", \"flying\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\", \"setup\"],\n    \"notable_moves\": [\"dragon ascent\", \"dragon dance\", \"extremespeed\", \"v-create\", \"earthquake\"],\n    \"abilities\": [\"air lock\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"choice scarf\"],\n    \"summary\": \"legendary dragon-flying type with mega evolution, known for its high offensive stats and signature move dragon ascent.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"floette\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"support\", \"cleric\", \"wall\"],\n    \"notable_moves\": [\"moonblast\", \"wish\", \"protect\", \"aromatherapy\", \"toxic\"],\n    \"abilities\": [\"flower veil\", \"symbiosis\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive fairy-type support pok\u00e9mon known for healing allies and disrupting opponents with status moves.\"\n}\n```"
+}

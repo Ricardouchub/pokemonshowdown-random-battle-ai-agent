@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"haxorus\",\n    \"types\": [\"dragon\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\", \"dragon dancer\"],\n    \"notable_moves\": [\"outrage\", \"earthquake\", \"close combat\", \"first impression\", \"dragon dance\"],\n    \"abilities\": [\"mold breaker\", \"unnerve\", \"rivalry\"],\n    \"common_items\": [\"choice band\", \"lum berry\", \"life orb\"],\n    \"summary\": \"a powerful physical dragon with high attack and mold breaker to ignore abilities, often using dragon dance to sweep or choice band to wallbreak.\"\n}\n```"
+}

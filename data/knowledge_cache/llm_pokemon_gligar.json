@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gligar\",\n    \"types\": [\"ground\", \"flying\"],\n    \"roles\": [\"defensive pivot\", \"hazard setter\", \"eviolite wall\"],\n    \"notable_moves\": [\"earthquake\", \"roost\", \"toxic\", \"stealth rock\", \"uturn\"],\n    \"abilities\": [\"hyper cutter\", \"sand veil\", \"immunity\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"bulky ground/flying type known for its eviolite-boosted defenses, reliable recovery, and utility moveset.\"\n}\n```"
+}

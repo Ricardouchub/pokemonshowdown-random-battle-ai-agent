@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tinkatuff\",\n    \"types\": [\"fairy\", \"steel\"],\n    \"roles\": [\"bulky attacker\", \"support\", \"trick room sweeper\"],\n    \"notable_moves\": [\"gigaton hammer\", \"play rough\", \"knock off\", \"encore\", \"stealth rock\"],\n    \"abilities\": [\"mold breaker\", \"own tempo\", \"pickpocket\"],\n    \"common_items\": [\"leftovers\", \"air balloon\", \"assault vest\"],\n    \"summary\": \"a bulky fairy-steel type with powerful stab moves and disruptive utility options.\"\n}\n```"
+}

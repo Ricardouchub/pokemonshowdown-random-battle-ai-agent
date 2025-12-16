@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"toedscruel\",\n    \"types\": [\"ground\", \"grass\"],\n    \"roles\": [\"hazard setter\", \"pivot\", \"special wall\"],\n    \"notable_moves\": [\"spore\", \"earth power\", \"rapid spin\", \"knock off\"],\n    \"abilities\": [\"mycelium might\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"heavy-duty boots\"],\n    \"summary\": \"slow hazard-setting pivot with unique ability ignoring move priority effects, notable for spore on any type.\"\n}\n```"
+}

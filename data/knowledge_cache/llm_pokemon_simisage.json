@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"simisage\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive pivot\", \"special sweeper\"],\n    \"notable_moves\": [\"nasty plot\", \"giga drain\", \"focus blast\", \"knock off\"],\n    \"abilities\": [\"gluttony\", \"overgrow\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"focus sash\"],\n    \"summary\": \"a fast special attacker with setup potential, but limited by poor defensive typing and movepool.\"\n}\n```"
+}

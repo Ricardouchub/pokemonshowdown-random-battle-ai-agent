@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"aron\",\n    \"types\": [\"steel\", \"rock\"],\n    \"roles\": [\"tank\", \"setup sweeper\", \"hazard setter\"],\n    \"notable_moves\": [\"head smash\", \"iron head\", \"stealth rock\", \"dragon dance\"],\n    \"abilities\": [\"sturdy\", \"rock head\", \"heavy metal\"],\n    \"common_items\": [\"leftovers\", \"choice band\", \"rocky helmet\"],\n    \"summary\": \"a sturdy steel/rock tank known for its high defense and powerful recoil moves. evolves into lairon at level 32.\"\n}\n```"
+}

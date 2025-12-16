@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lilligant-hisui\",\n    \"types\": [\"grass\", \"fighting\"],\n    \"roles\": [\"physical sweeper\", \"setup sweeper\"],\n    \"notable_moves\": [\"victory dance\", \"close combat\", \"leaf blade\", \"ice spinner\"],\n    \"abilities\": [\"chlorophyll\", \"hustle\", \"leaf guard\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"focus sash\"],\n    \"summary\": \"hisuian lilligant is a potent physical attacker with victory dance boosting its attack, speed, and defense. its grass/fighting typing and coverage moves allow it to break through common walls.\"\n}\n```"
+}

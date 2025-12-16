@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"thievul\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"support\", \"utility\", \"pivot\"],\n    \"notable_moves\": [\"parting shot\", \"knock off\", \"nasty plot\", \"sucker punch\"],\n    \"abilities\": [\"run away\", \"unburden\", \"stakeout\"],\n    \"common_items\": [\"focus sash\", \"heavy-duty boots\"],\n    \"summary\": \"a fast dark-type support pok\u00e9mon known for its disruptive utility moves like parting shot and knock off, often used to pivot and cripple opponents.\"\n}\n```"
+}

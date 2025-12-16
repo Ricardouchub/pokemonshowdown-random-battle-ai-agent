@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"naganadel\",\n    \"types\": [\"poison\", \"dragon\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"ultra beast\"],\n    \"notable_moves\": [\"draco meteor\", \"sludge wave\", \"nasty plot\", \"fire blast\"],\n    \"abilities\": [\"beast boost\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"focus sash\"],\n    \"summary\": \"ultra beast with high special attack and speed, using beast boost to snowball after knocking out foes.\"\n}\n```"
+}

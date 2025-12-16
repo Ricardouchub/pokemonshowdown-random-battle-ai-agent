@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"calyrex\",\n    \"types\": [\"psychic\", \"grass\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"astral barrage\", \"trick room\", \"seed bomb\", \"nasty plot\"],\n    \"abilities\": [\"unnerve\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"weakness policy\"],\n    \"summary\": \"a mythical pok\u00e9mon with high special attack; its signature move astral barrage is a powerful ghost-type attack. often runs trick room to exploit its low speed.\"\n}\n```"
+}

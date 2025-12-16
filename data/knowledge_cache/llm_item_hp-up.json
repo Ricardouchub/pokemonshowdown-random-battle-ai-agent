@@ -1,0 +1,6 @@
+{
+  "item": "HP Up",
+  "category": "Stat Booster",
+  "summary": "Permanently increases a Pok\u00e9mon's HP stat by 1 EV, up to the maximum of 252 EVs per stat. Used for EV training outside of battle.",
+  "typical_users": "Pok\u00e9mon needing maximum HP investment, such as walls, tanks, or Pok\u00e9mon utilizing the move Substitute."
+}

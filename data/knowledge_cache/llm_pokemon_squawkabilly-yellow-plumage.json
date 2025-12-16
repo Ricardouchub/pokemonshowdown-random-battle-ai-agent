@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"squawkabilly-yellow-plumage\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"hazard-setter\", \"pivot\", \"disruptor\"],\n    \"notable_moves\": [\"parting-shot\", \"u-turn\", \"brave-bird\", \"taunt\"],\n    \"abilities\": [\"intimidate\", \"hustle\", \"guts\"],\n    \"common_items\": [\"heavy-duty-boots\", \"choice-scarf\", \"flame-orb\"],\n    \"summary\": \"a disruptive pivot using intimidate and parting shot to weaken opponents, with guts sets as a surprise wallbreaker.\"\n}\n```"
+}

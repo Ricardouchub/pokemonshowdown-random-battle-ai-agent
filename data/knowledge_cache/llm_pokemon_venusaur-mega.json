@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"venusaur-mega\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"bulky-attacker\", \"tank\", \"setup-sweeper\"],\n    \"notable_moves\": [\"giga-drain\", \"sludge-bomb\", \"synthesis\", \"leech-seed\", \"earthquake\"],\n    \"abilities\": [\"thick-fat\"],\n    \"common_items\": [\"venusaurite\"],\n    \"summary\": \"mega evolution grants thick fat, improving bulk and defensive typing. excels as a resilient tank and setup sweeper with reliable recovery.\"\n}\n```"
+}

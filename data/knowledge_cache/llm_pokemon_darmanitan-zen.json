@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"darmanitan-zen\",\n    \"types\": [\"fire\", \"psychic\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"flare blitz\", \"psychic\", \"fire blast\", \"grass knot\"],\n    \"abilities\": [\"zen mode\"],\n    \"common_items\": [\"choice scarf\", \"life orb\"],\n    \"summary\": \"zen mode transforms it into a powerful special attacker with high special attack and speed, but requires careful hp management to activate.\"\n}\n```"
+}

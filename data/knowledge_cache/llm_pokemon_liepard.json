@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"liepard\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"fast-attacker\", \"pivot\", \"status-spreader\"],\n    \"notable_moves\": [\"knock off\", \"sucker punch\", \"encore\", \"uturn\"],\n    \"abilities\": [\"limber\", \"unburden\", \"prankster\"],\n    \"common_items\": [\"focus sash\", \"black sludge\", \"choice scarf\"],\n    \"summary\": \"a fast dark-type with prankster utility, known for disruptive moves like knock off and encore.\"\n}\n```"
+}

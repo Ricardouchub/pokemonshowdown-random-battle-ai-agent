@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"farigiraf\",\n    \"types\": [\"normal\", \"psychic\"],\n    \"roles\": [\"trick room setter\", \"bulky attacker\", \"support\"],\n    \"notable_moves\": [\"hyper voice\", \"psychic\", \"trick room\", \"nuzzle\"],\n    \"abilities\": [\"cud chew\", \"armor tail\", \"sap sipper\"],\n    \"common_items\": [\"leftovers\", \"safety goggles\", \"room service\"],\n    \"summary\": \"a bulky trick room setter with unique ability to block priority moves, using its dual typing for offensive coverage.\"\n}\n```"
+}

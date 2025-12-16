@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dustox\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"special wall\", \"status spreader\", \"defensive pivot\"],\n    \"notable_moves\": [\"quiver dance\", \"roost\", \"toxic\", \"bug buzz\", \"protect\"],\n    \"abilities\": [\"shield dust\", \"compound eyes\"],\n    \"common_items\": [\"black sludge\", \"leftovers\", \"mental herb\"],\n    \"summary\": \"a defensive bug/poison type known for its special bulk and ability to spread status, though often outclassed by other walls.\"\n}\n```"
+}

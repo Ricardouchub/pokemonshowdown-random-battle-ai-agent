@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"elgyem\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"trick-room-setter\", \"special-attacker\", \"support\"],\n    \"notable_moves\": [\"trick-room\", \"psychic\", \"recover\", \"thunderbolt\"],\n    \"abilities\": [\"telepathy\", \"synchronize\", \"analytic\"],\n    \"common_items\": [\"life-orb\", \"leftovers\", \"focus-sash\"],\n    \"summary\": \"a slow psychic-type that sets trick room, has decent special attack and recovery, and benefits from analytic's power boost.\"\n}\n```"
+}

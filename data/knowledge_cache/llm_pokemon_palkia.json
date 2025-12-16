@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"palkia\",\n    \"types\": [\"dragon\", \"water\"],\n    \"roles\": [\"wallbreaker\", \"special sweeper\", \"choice user\"],\n    \"notable_moves\": [\"spacial rend\", \"hydro pump\", \"draco meteor\", \"fire blast\", \"thunder\"],\n    \"abilities\": [\"pressure\", \"telepathy\"],\n    \"common_items\": [\"lustrous orb\", \"choice specs\", \"life orb\"],\n    \"summary\": \"legendary dragon/water type with immense special attack and signature move spacial rend. excels at breaking through defensive cores with its powerful stabs and coverage.\"\n}\n```"
+}

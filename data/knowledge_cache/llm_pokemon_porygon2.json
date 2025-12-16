@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"porygon2\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"defensive pivot\", \"trick room setter\", \"utility\"],\n    \"notable_moves\": [\"tri attack\", \"ice beam\", \"thunderbolt\", \"recover\", \"trick room\"],\n    \"abilities\": [\"trace\", \"download\", \"analytic\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a bulky normal-type that excels with eviolite, providing defensive utility, coverage, and setup support.\"\n}\n```"
+}

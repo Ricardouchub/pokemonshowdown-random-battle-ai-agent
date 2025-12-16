@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"duskull\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"trick-room-setter\", \"wall\", \"disruptor\"],\n    \"notable_moves\": [\"will-o-wisp\", \"trick-room\", \"night-shade\", \"pain-split\"],\n    \"abilities\": [\"levitate\", \"frisk\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"bulky ghost-type with eviolite, known for setting trick room and spreading burns.\"\n}\n```"
+}

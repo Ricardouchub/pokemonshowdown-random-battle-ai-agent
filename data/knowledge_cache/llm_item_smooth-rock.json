@@ -1,0 +1,11 @@
+{
+  "item": "Smooth Rock",
+  "category": "Held Item",
+  "summary": "Extends the duration of Sandstorm from 5 to 8 turns when held by the user.",
+  "typical_users": [
+    "Tyranitar",
+    "Hippowdon",
+    "Gigalith",
+    "Sand-setting leads or support Pok\u00e9mon"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"squawkabilly-white-plumage\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"hazard setter\", \"pivot\", \"screens setter\"],\n    \"notable_moves\": [\"parting shot\", \"feather dance\", \"u-turn\", \"tailwind\", \"brave bird\"],\n    \"abilities\": [\"intimidate\", \"hustle\", \"sheer force\"],\n    \"common_items\": [\"heavy-duty boots\", \"rocky helmet\", \"focus sash\"],\n    \"summary\": \"bulky pivot with intimidate and parting shot for momentum, sets hazards and tailwind for team support.\"\n}\n```"
+}

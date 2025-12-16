@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"omanyte\",\n    \"types\": [\"rock\", \"water\"],\n    \"roles\": [\"hazard setter\", \"shell smasher\", \"special attacker\"],\n    \"notable_moves\": [\"shell smash\", \"stealth rock\", \"scald\", \"ice beam\"],\n    \"abilities\": [\"swift swim\", \"shell armor\", \"weak armor\"],\n    \"common_items\": [\"focus sash\", \"white herb\", \"life orb\"],\n    \"summary\": \"a fossil pok\u00e9mon that sets hazards and sweeps with shell smash, using its rock-water typing defensively.\"\n}\n```"
+}

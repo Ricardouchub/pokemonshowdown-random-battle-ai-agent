@@ -1,0 +1,10 @@
+{
+  "item": "Lum Berry",
+  "category": "Held Item",
+  "summary": "Cures any non-volatile status condition or confusion once when inflicted, then is consumed.",
+  "typical_users": [
+    "Sweepers and setup Pok\u00e9mon vulnerable to status (e.g., Dragonite, Garchomp)",
+    "Bulky attackers and walls to avoid being crippled (e.g., Toxapex, Clefable)",
+    "Pok\u00e9mon in roles where avoiding a single status turn is critical"
+  ]
+}

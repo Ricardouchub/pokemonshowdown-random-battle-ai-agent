@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"archaludon\",\n    \"types\": [\"steel\", \"dragon\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"electro shot\", \"draco meteor\", \"body press\", \"steel beam\", \"thunderbolt\"],\n    \"abilities\": [\"stamina\", \"sturdy\", \"stalwart\"],\n    \"common_items\": [\"assault vest\", \"leftovers\", \"choice specs\"],\n    \"summary\": \"a powerful special attacker with unique electro shot setup, utilizing its high defenses and steel/dragon typing to pressure opponents.\"\n}\n```"
+}

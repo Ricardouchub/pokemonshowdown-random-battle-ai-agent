@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"larvesta\",\n    \"types\": [\"bug\", \"fire\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"quiver dance\", \"flamethrower\", \"bug buzz\", \"morning sun\"],\n    \"abilities\": [\"flame body\", \"swarm\"],\n    \"common_items\": [\"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"slow-evolving bug-fire type that becomes a potent setup sweeper with quiver dance, but is heavily weak to stealth rock until evolution.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"igglybuff\",\n    \"types\": [\"normal\", \"fairy\"],\n    \"roles\": [\"cleric\", \"support\", \"wish-passer\"],\n    \"notable_moves\": [\"wish\", \"protect\", \"heal-bell\", \"stealth-rock\"],\n    \"abilities\": [\"friend-guard\", \"competitive\", \"cute-charm\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"pre-evolution support pok\u00e9mon that uses eviolite for bulk, providing team healing and utility.\"\n}\n```"
+}

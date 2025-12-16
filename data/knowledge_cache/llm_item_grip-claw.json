@@ -1,0 +1,8 @@
+{
+  "item": "Grip Claw",
+  "category": "Held Item",
+  "summary": "Extends the duration of multi-turn trapping moves (e.g., Bind, Fire Spin) from 4-5 turns to 7 turns.",
+  "typical_users": [
+    "Pok\u00e9mon using trapping moves for chip damage or stall strategies, such as Magcargo, Octillery, or Shuckle."
+  ]
+}

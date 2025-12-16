@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"yungoos\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"early-game attacker\", \"revenge killer\"],\n    \"notable_moves\": [\"crunch\", \"return\", \"u-turn\", \"earthquake\"],\n    \"abilities\": [\"stakeout\", \"strong jaw\", \"adaptability\"],\n    \"common_items\": [\"choice scarf\", \"silk scarf\"],\n    \"summary\": \"a simple early-game normal-type with strong abilities but limited stats; excels at revenge killing with stakeout.\"\n}\n```"
+}

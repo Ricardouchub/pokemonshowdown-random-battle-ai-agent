@@ -1,0 +1,10 @@
+{
+  "item": "Guard Spec.",
+  "category": "Battle Item",
+  "summary": "Prevents stat reductions for the user's team for 5 turns.",
+  "typical_users": [
+    "Support Pok\u00e9mon",
+    "Baton Pass teams",
+    "Set-up sweepers vulnerable to Intimidate or stat-dropping moves"
+  ]
+}

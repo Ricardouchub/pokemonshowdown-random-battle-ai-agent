@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"drowzee\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"sleep-inducer\", \"special-wall\", \"trick-room-setter\"],\n    \"notable_moves\": [\"hypnosis\", \"psychic\", \"shadow-ball\", \"thunder-wave\", \"trick-room\"],\n    \"abilities\": [\"insomnia\", \"forewarn\", \"inner-focus\"],\n    \"common_items\": [\"leftovers\", \"colbur-berry\", \"mental-herb\"],\n    \"summary\": \"a psychic-type focused on sleep disruption and trick room support, with decent special bulk but poor speed.\"\n}\n```"
+}

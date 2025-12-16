@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"darumaka\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"flare blitz\", \"fire punch\", \"superpower\", \"uturn\"],\n    \"abilities\": [\"hustle\", \"inner focus\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"eviolite\"],\n    \"summary\": \"high-attack fire-type with hustle-boosted physical moves, but poor accuracy and defenses. evolves into darmanitan.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lunala\",\n    \"types\": [\"psychic\", \"ghost\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"moongeist beam\", \"calm mind\", \"psyshock\", \"moonblast\", \"roost\"],\n    \"abilities\": [\"shadow shield\"],\n    \"common_items\": [\"life orb\", \"weakness policy\", \"leftovers\"],\n    \"summary\": \"legendary psychic/ghost type with high special attack and signature ability shadow shield, functioning as a powerful special attacker and setup sweeper.\"\n}\n```"
+}

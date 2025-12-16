@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ogerpon\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"ivy cudgel\", \"horn leech\", \"sucker punch\", \"swords dance\"],\n    \"abilities\": [\"defiant\", \"mold breaker\"],\n    \"common_items\": [\"hearthflame mask\", \"wellspring mask\", \"cornerstone mask\", \"grassy seed\"],\n    \"summary\": \"a versatile grass-type attacker whose power and typing change with its mask, excelling at breaking through defensive cores.\"\n}\n```"
+}

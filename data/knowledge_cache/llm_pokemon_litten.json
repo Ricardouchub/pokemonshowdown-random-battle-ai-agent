@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"litten\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"physical attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"flare blitz\", \"uturn\", \"swords dance\", \"will-o-wisp\"],\n    \"abilities\": [\"blaze\", \"intimidate\"],\n    \"common_items\": [\"eviolite\", \"heavy-duty boots\"],\n    \"summary\": \"fire cat starter with strong physical attacks and setup potential, evolves into incineroar.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"poochyena\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"early-game attacker\", \"intimidate support\", \"status spreader\"],\n    \"notable_moves\": [\"crunch\", \"sucker punch\", \"thunder fang\", \"yawn\", \"howl\"],\n    \"abilities\": [\"run away\", \"quick feet\", \"rattled\"],\n    \"common_items\": [\"oran berry\", \"silk scarf\", \"focus sash\"],\n    \"summary\": \"basic dark-type pok\u00e9mon known for intimidate ability and early-game utility, often used for status spreading with yawn or as a simple physical attacker.\"\n}\n```"
+}

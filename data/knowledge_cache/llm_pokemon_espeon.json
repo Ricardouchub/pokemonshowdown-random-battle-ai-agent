@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"espeon\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"special sweeper\", \"support\", \"hazard control\"],\n    \"notable_moves\": [\"psychic\", \"stored power\", \"calm mind\", \"morning sun\", \"dazzling gleam\"],\n    \"abilities\": [\"synchronize\", \"magic bounce\"],\n    \"common_items\": [\"leftovers\", \"life orb\", \"choice specs\"],\n    \"summary\": \"a fast psychic-type with magic bounce to reflect status moves, excelling as a special attacker or support with recovery.\"\n}\n```"
+}

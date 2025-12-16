@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"skorupi\",\n    \"types\": [\"poison\", \"bug\"],\n    \"roles\": [\"physical wall\", \"toxic staller\", \"pivot\"],\n    \"notable_moves\": [\"knock off\", \"toxic spikes\", \"poison jab\", \"protect\"],\n    \"abilities\": [\"battle armor\", \"sniper\", \"keen eye\"],\n    \"common_items\": [\"black sludge\", \"eviolite\", \"leftovers\"],\n    \"summary\": \"a defensive poison/bug type that sets hazards and disrupts with knock off, often used with eviolite in lower tiers.\"\n}\n```"
+}

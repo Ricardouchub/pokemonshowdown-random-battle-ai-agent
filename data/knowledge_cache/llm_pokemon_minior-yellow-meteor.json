@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-yellow-meteor\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"setup-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"shell-smash\", \"acrobatics\", \"earthquake\", \"stone-edge\"],\n    \"abilities\": [\"shields-down\"],\n    \"common_items\": [\"white-herb\", \"power-herb\"],\n    \"summary\": \"yellow meteor form minior with shields-down ability; fragile until hp drops below 50%, then transforms into core form with boosted stats. uses shell smash to sweep.\"\n}\n```"
+}

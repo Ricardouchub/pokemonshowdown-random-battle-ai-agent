@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dudunsparce-two-segment\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"bulky setup\", \"status spreader\", \"wallbreaker\"],\n    \"notable_moves\": [\"boomburst\", \"coil\", \"roost\", \"glare\", \"stealth rock\"],\n    \"abilities\": [\"serene grace\", \"rattled\", \"run away\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"chesto berry\"],\n    \"summary\": \"bulky normal-type with coil setup and serene grace-boosted moves, notable for high hp and para-spreading utility.\"\n}\n```"
+}

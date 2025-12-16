@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grapploct\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"octolock\", \"drain punch\", \"ice punch\", \"taunt\"],\n    \"abilities\": [\"limber\", \"technician\"],\n    \"common_items\": [\"leftovers\", \"assault vest\"],\n    \"summary\": \"a slow but bulky fighting-type that traps foes with octolock and sets up with bulk up.\"\n}\n```"
+}

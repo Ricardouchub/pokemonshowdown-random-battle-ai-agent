@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gloom\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"status-spreader\", \"support\"],\n    \"notable_moves\": [\"sleep-powder\", \"moonblast\", \"sludge-bomb\", \"synthesis\"],\n    \"abilities\": [\"chlorophyll\", \"stench\", \"effect-spore\"],\n    \"common_items\": [\"black-sludge\", \"leftovers\"],\n    \"summary\": \"a mid-evolution grass/poison type known for spreading sleep and supporting teams with status moves and recovery.\"\n}\n```"
+}

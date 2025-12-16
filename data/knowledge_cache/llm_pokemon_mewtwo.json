@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mewtwo\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"psystrike\", \"aura sphere\", \"ice beam\", \"calm mind\", \"recover\"],\n    \"abilities\": [\"pressure\", \"unnerve\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"mewtwonite x\", \"mewtwonite y\"],\n    \"summary\": \"legendary psychic-type with immense special attack and speed, capable of sweeping teams with powerful moves and setup.\"\n}\n```"
+}

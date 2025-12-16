@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mareep\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"thunderbolt\", \"agility\", \"charge beam\", \"cotton guard\"],\n    \"abilities\": [\"static\", \"plus\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a slow electric-type with decent special attack; evolves into ampharos and excels in lower tiers with setup moves.\"\n}\n```"
+}

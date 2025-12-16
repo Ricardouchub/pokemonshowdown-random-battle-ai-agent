@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sprigatito\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive sweeper\", \"setup sweeper\"],\n    \"notable_moves\": [\"leafage\", \"play rough\", \"uturn\", \"sucker punch\"],\n    \"abilities\": [\"overgrow\", \"protean\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"fast grass starter with protean for type-changing offense, often used as a setup or revenge killer.\"\n}\n```"
+}

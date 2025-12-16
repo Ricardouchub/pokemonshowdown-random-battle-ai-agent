@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dragonite-mega\",\n    \"types\": [\"dragon\", \"flying\"],\n    \"roles\": [\"sweeper\", \"wallbreaker\", \"dragon-dance\"],\n    \"notable_moves\": [\"dragon-dance\", \"outrage\", \"earthquake\", \"extreme-speed\", \"fire-punch\"],\n    \"abilities\": [\"multiscale\"],\n    \"common_items\": [\"dragoniteite\"],\n    \"summary\": \"mega evolution boosts attack and speed, making it a potent physical sweeper with priority and setup potential.\"\n}\n```"
+}

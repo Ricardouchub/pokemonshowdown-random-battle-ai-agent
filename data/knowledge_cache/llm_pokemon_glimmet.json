@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"glimmet\",\n    \"types\": [\"rock\", \"poison\"],\n    \"roles\": [\"hazard-setter\", \"special-attacker\"],\n    \"notable_moves\": [\"stealth-rock\", \"power-gem\", \"sludge-wave\", \"earth-power\"],\n    \"abilities\": [\"toxic-debris\", \"corrosion\"],\n    \"common_items\": [\"air-balloon\", \"focus-sash\"],\n    \"summary\": \"rock/poison hazard setter that spreads poison and sets stealth rocks, using toxic debris to punish physical contact.\"\n}\n```"
+}

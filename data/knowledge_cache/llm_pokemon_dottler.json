@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dottler\",\n    \"types\": [\"bug\", \"psychic\"],\n    \"roles\": [\"defensive pivot\", \"setup\", \"trick room setter\"],\n    \"notable_moves\": [\"sticky web\", \"psychic\", \"body press\", \"recover\"],\n    \"abilities\": [\"swarm\", \"compound eyes\", \"telepathy\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"a transitional bug-psychic with strong defenses, used for hazard setting and utility in lower tiers.\"\n}\n```"
+}

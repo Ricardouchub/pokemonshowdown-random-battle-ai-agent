@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"nidoran-m\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"physical-attacker\", \"hazard-setter\", \"early-game\"],\n    \"notable_moves\": [\"poison-jab\", \"sucker-punch\", \"drill-run\", \"toxic-spikes\"],\n    \"abilities\": [\"poison-point\", \"rivalry\", \"hustle\"],\n    \"common_items\": [\"life-orb\", \"eviolite\", \"black-sludge\"],\n    \"summary\": \"poison-type attacker with strong physical moves and hazard-setting utility, often used in lower tiers.\"\n}\n```"
+}

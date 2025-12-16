@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"absol-mega\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"wallbreaker\", \"revenge-killer\", \"setup-sweeper\"],\n    \"notable_moves\": [\"knock off\", \"sucker punch\", \"swords dance\", \"play rough\", \"superpower\"],\n    \"abilities\": [\"magic bounce\"],\n    \"common_items\": [\"absolite\"],\n    \"summary\": \"mega absol is a fast physical attacker with magic bounce to reflect hazards and status. its high speed and strong dark stab make it a potent wallbreaker and revenge killer, though it remains frail.\"\n}\n```"
+}

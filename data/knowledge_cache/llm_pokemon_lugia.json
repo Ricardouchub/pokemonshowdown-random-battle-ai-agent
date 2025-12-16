@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lugia\",\n    \"types\": [\"psychic\", \"flying\"],\n    \"roles\": [\"wall\", \"support\", \"defensive pivot\"],\n    \"notable_moves\": [\"aeroblast\", \"toxic\", \"roost\", \"whirlwind\", \"ice beam\"],\n    \"abilities\": [\"pressure\", \"multiscale\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"legendary defensive wall with multiscale, known for stalling and phazing.\"\n}\n```"
+}

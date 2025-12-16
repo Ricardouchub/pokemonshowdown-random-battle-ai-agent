@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"falinks-mega\",\n    \"types\": [\"fighting\", \"steel\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"no retreat\", \"close combat\", \"iron head\", \"zen headbutt\", \"poison jab\"],\n    \"abilities\": [\"battle-armor\"],\n    \"common_items\": [\"falinksite\"],\n    \"summary\": \"mega evolution boosts falinks' bulk and attack, transforming it into a formidable steel/fighting sweeper. its signature move no retreat provides omniboost but traps it in battle.\"\n}\n```"
+}

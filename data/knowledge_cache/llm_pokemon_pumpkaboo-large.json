@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pumpkaboo-large\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"trick-room-setter\", \"support\", \"trick\"],\n    \"notable_moves\": [\"trick-or-treat\", \"trick-room\", \"will-o-wisp\", \"seed-bomb\"],\n    \"abilities\": [\"pickup\", \"frisk\", \"insomnia\"],\n    \"common_items\": [\"leftovers\", \"colbur-berry\"],\n    \"summary\": \"bulky ghost-grass type with unique size mechanics, often used for trick room support and disruptive moves.\"\n}\n```"
+}

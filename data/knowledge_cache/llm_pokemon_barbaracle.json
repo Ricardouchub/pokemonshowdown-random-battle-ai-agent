@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"barbaracle\",\n    \"types\": [\"rock\", \"water\"],\n    \"roles\": [\"shell smasher\", \"physical sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"shell smash\", \"razor shell\", \"stone edge\", \"cross chop\", \"liquidation\"],\n    \"abilities\": [\"tough claws\", \"sniper\", \"pickpocket\"],\n    \"common_items\": [\"white herb\", \"life orb\", \"focus sash\"],\n    \"summary\": \"a slow but powerful physical attacker that uses shell smash to sweep; its tough claws ability boosts contact moves.\"\n}\n```"
+}

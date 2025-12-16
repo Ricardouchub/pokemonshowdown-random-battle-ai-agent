@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"accelgor\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"hazard setter\", \"fast pivot\", \"revenge killer\"],\n    \"notable_moves\": [\"spikes\", \"final gambit\", \"u-turn\", \"bug buzz\", \"energy ball\"],\n    \"abilities\": [\"hydration\", \"sticky hold\", \"unburden\"],\n    \"common_items\": [\"heavy-duty boots\", \"focus sash\", \"choice scarf\"],\n    \"summary\": \"extremely fast bug-type specializing in setting hazards and pivoting with u-turn, often using final gambit for surprise trades.\"\n}\n```"
+}

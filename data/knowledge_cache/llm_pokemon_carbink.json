@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"carbink\",\n    \"types\": [\"rock\", \"fairy\"],\n    \"roles\": [\"hazard setter\", \"cleric\", \"trick room support\"],\n    \"notable_moves\": [\"stealth rock\", \"moonblast\", \"body press\", \"trick room\"],\n    \"abilities\": [\"clear body\", \"sturdy\"],\n    \"common_items\": [\"leftovers\", \"mental herb\", \"light clay\"],\n    \"summary\": \"defensive rock/fairy type with utility moves, often used for setting hazards and providing team support.\"\n}\n```"
+}

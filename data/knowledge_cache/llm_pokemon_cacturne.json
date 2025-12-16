@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cacturne\",\n    \"types\": [\"grass\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"spikes setter\", \"revenge killer\"],\n    \"notable_moves\": [\"sucker punch\", \"spikes\", \"energy ball\", \"dark pulse\"],\n    \"abilities\": [\"sand veil\", \"water absorb\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"choice scarf\"],\n    \"summary\": \"a slow but powerful mixed attacker with priority sucker punch, often used to set spikes or revenge kill frail threats.\"\n}\n```"
+}

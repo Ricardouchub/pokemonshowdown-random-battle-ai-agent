@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ledyba\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"support\", \"hazard_setter\"],\n    \"notable_moves\": [\"reflect\", \"light_screen\", \"encore\", \"u-turn\"],\n    \"abilities\": [\"swarm\", \"early_bird\", \"rattled\"],\n    \"common_items\": [\"light_clay\", \"focus_sash\"],\n    \"summary\": \"fragile bug-type support pok\u00e9mon known for setting dual screens and momentum with u-turn.\"\n}\n```"
+}

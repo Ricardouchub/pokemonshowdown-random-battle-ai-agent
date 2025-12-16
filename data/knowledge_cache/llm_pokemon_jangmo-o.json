@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"jangmo-o\",\n    \"types\": [\"dragon\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"dragon dance\", \"outrage\", \"close combat\", \"iron head\"],\n    \"abilities\": [\"bulletproof\", \"soundproof\", \"overcoat\"],\n    \"common_items\": [\"eviolite\", \"dragon fang\"],\n    \"summary\": \"a defensive dragon-type that evolves into a powerful sweeper, often using eviolite to boost its bulk while setting up with dragon dance.\"\n}\n```"
+}

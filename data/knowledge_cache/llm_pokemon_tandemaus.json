@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tandemaus\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"support\", \"hazard setter\", \"momentum\"],\n    \"notable_moves\": [\"population bomb\", \"follow me\", \"super fang\", \"encore\"],\n    \"abilities\": [\"run away\", \"pickup\", \"own tempo\"],\n    \"common_items\": [\"focus sash\", \"leftovers\", \"air balloon\"],\n    \"summary\": \"a tiny normal-type that excels at support and disruption, often using population bomb for multi-hit damage or follow me for redirection. evolves into maushold at high friendship.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"trapinch\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"trick-room-sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"earthquake\", \"first-impression\", \"superpower\", \"rock-slide\"],\n    \"abilities\": [\"hyper-cutter\", \"arena-trap\", \"sheer-force\"],\n    \"common_items\": [\"choice-band\", \"life-orb\"],\n    \"summary\": \"slow but powerful ground-type attacker with high attack and arena trap to pin foes, often used in trick room teams.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pecharunt\",\n    \"types\": [\"poison\", \"ghost\"],\n    \"roles\": [\"bulky support\", \"setup sweeper\", \"trick room setter\"],\n    \"notable_moves\": [\"malignant chain\", \"shadow ball\", \"nasty plot\", \"recover\"],\n    \"abilities\": [\"poison puppeteer\"],\n    \"common_items\": [\"leftovers\", \"black sludge\", \"heavy-duty boots\"],\n    \"summary\": \"mythical poison/ghost type known for spreading toxic chains and controlling poisoned foes with its signature ability.\"\n}\n```"
+}

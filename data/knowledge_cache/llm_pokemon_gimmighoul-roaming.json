@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gimmighoul-roaming\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"hazard-setter\", \"annoyer\", \"scout\"],\n    \"notable_moves\": [\"stealth-rock\", \"shadow-ball\", \"nasty-plot\", \"hex\"],\n    \"abilities\": [\"rattled\"],\n    \"common_items\": [\"leftovers\", \"colbur-berry\"],\n    \"summary\": \"a roaming ghost-type focused on setting hazards and disrupting opponents with its unique ability and movepool.\"\n}\n```"
+}

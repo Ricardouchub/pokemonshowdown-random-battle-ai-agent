@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"chatot\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"special attacker\", \"support\", \"annoyer\"],\n    \"notable_moves\": [\"chatter\", \"boomburst\", \"nasty plot\", \"encore\", \"heat wave\"],\n    \"abilities\": [\"keen eye\", \"tangled feet\", \"big pecks\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"focus sash\"],\n    \"summary\": \"unique sound-based attacker with signature chatter move, decent special attack and speed, but fragile defensively.\"\n}\n```"
+}

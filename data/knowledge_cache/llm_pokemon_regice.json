@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"regice\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"special wall\", \"trick room setter\", \"hazard setter\"],\n    \"notable_moves\": [\"ice beam\", \"thunderbolt\", \"focus blast\", \"rock polish\", \"explosion\"],\n    \"abilities\": [\"clear body\", \"ice body\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"light clay\"],\n    \"summary\": \"bulky ice-type with massive special defense, often used as a defensive pivot or trick room supporter despite its poor defensive typing.\"\n}\n```"
+}

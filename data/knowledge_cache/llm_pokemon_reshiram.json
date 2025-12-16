@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"reshiram\",\n    \"types\": [\"dragon\", \"fire\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\", \"choice user\"],\n    \"notable_moves\": [\"blue flare\", \"draco meteor\", \"roost\", \"earth power\"],\n    \"abilities\": [\"turboblaze\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"legendary dragon-fire special attacker with high sp.atk, turboblaze ignores abilities, often runs choice or orb sets.\"\n}\n```"
+}

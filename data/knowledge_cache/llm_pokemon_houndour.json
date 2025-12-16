@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"houndour\",\n    \"types\": [\"dark\", \"fire\"],\n    \"roles\": [\"special-attacker\", \"revenge-killer\", \"sun-abuser\"],\n    \"notable_moves\": [\"dark-pulse\", \"fire-blast\", \"nasty-plot\", \"sucker-punch\"],\n    \"abilities\": [\"early-bird\", \"flash-fire\", \"unnerve\"],\n    \"common_items\": [\"life-orb\", \"choice-scarf\", \"focus-sash\"],\n    \"summary\": \"a fragile but powerful special attacker with strong dual-stab coverage, often used as a late-game cleaner or sun team supporter.\"\n}\n```"
+}

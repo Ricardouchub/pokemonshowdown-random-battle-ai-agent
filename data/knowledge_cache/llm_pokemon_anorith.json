@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"anorith\",\n    \"types\": [\"rock\", \"bug\"],\n    \"roles\": [\"physical sweeper\", \"hazard setter\"],\n    \"notable_moves\": [\"rock blast\", \"x-scissor\", \"aqua jet\", \"stealth rock\"],\n    \"abilities\": [\"battle armor\", \"swift swim\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice band\"],\n    \"summary\": \"fossil pok\u00e9mon with strong physical attack and swift swim potential, often used for early-game pressure and stealth rock support.\"\n}\n```"
+}

@@ -1,0 +1,8 @@
+{
+  "item": "Rare Bone",
+  "category": "Valuable Item",
+  "summary": "A sellable item with no in-battle effect, used to generate money for competitive team funding.",
+  "typical_users": [
+    "Players farming in-game currency, typically not used in actual battles"
+  ]
+}

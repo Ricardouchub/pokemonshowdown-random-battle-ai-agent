@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"appletun-gmax\",\n    \"types\": [\"grass\", \"dragon\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"apple acid\", \"dragon pulse\", \"recover\", \"leech seed\"],\n    \"abilities\": [\"ripen\", \"gluttony\", \"thick fat\"],\n    \"common_items\": [\"leftovers\", \"sitrus berry\"],\n    \"summary\": \"gigantamax appletun uses its bulk and recovery to set up with apple acid, lowering sp. def to sweep.\"\n}\n```"
+}

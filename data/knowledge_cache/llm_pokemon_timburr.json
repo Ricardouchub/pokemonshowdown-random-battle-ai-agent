@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"timburr\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"drain punch\", \"knock off\", \"ice punch\", \"mach punch\"],\n    \"abilities\": [\"guts\", \"sheer force\", \"iron fist\"],\n    \"common_items\": [\"eviolite\", \"flame orb\"],\n    \"summary\": \"bulky fighting-type that evolves into conkeldurr, often uses eviolite in lower tiers to boost defenses. benefits from guts or sheer force for increased damage output.\"\n}\n```"
+}

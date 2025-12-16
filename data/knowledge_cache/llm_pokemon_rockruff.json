@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rockruff\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"stone edge\", \"accelerock\", \"swords dance\", \"endeavor\"],\n    \"abilities\": [\"keen eye\", \"vital spirit\", \"own tempo\"],\n    \"common_items\": [\"choice band\", \"focus sash\", \"life orb\"],\n    \"summary\": \"fast rock-type with priority accelerock; evolves into different lycanroc forms based on game version/time.\"\n}\n```"
+}

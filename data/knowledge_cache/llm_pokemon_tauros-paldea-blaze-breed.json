@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tauros-paldea-blaze-breed\",\n    \"types\": [\"fighting\", \"fire\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"rage-fist\", \"flare-blitz\", \"close-combat\", \"wild-charge\"],\n    \"abilities\": [\"intimidate\", \"anger-point\", \"cud-chew\"],\n    \"common_items\": [\"choice-scarf\", \"choice-band\", \"assault-vest\"],\n    \"summary\": \"a powerful physical attacker with unique fire/fighting typing and rage-fist synergy, often run as a choice item user to maximize its offensive pressure.\"\n}\n```"
+}

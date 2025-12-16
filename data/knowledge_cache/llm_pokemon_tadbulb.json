@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tadbulb\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"parabolic charge\", \"thunderbolt\", \"voltswitch\", \"muddy water\"],\n    \"abilities\": [\"own tempo\", \"static\", \"damp\"],\n    \"common_items\": [\"magnet\", \"life orb\"],\n    \"summary\": \"a small electric-type pok\u00e9mon that can evolve into bellibolt. it uses parabolic charge for recovery while dealing damage.\"\n}\n```"
+}

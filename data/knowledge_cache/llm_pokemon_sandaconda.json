@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sandaconda\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"physical wall\", \"hazard setter\", \"stealth rock user\"],\n    \"notable_moves\": [\"stealth rock\", \"glare\", \"earthquake\", \"body press\"],\n    \"abilities\": [\"sand spit\", \"shed skin\", \"sand veil\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a defensive ground-type that sets hazards and disrupts with glare, often using sand spit to enable sand teams.\"\n}\n```"
+}

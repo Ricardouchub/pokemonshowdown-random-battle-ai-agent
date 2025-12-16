@@ -1,0 +1,8 @@
+{
+  "item": "Choice Band",
+  "category": "Held Item",
+  "summary": "Boosts holder's Attack by 50%, but locks it into using only the first move selected until switched out.",
+  "typical_users": [
+    "Physical attackers like Dragonite, Garchomp, and Scizor"
+  ]
+}

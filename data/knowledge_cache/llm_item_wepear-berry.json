@@ -1,0 +1,8 @@
+{
+  "item": "Wepear Berry",
+  "category": "Berry",
+  "summary": "Restores 1/8 of the user's max HP when HP drops below 1/2, but only if the user has the Gluttony ability.",
+  "typical_users": [
+    "Pok\u00e9mon with Gluttony ability, such as Snorlax, Greedent, or Amoonguss, to activate recovery earlier than usual"
+  ]
+}

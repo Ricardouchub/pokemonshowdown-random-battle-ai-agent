@@ -1,0 +1,8 @@
+{
+  "item": "Enigma Berry",
+  "category": "Berries",
+  "summary": "Restores 25% of the user's HP when hit by a super-effective move. Consumed automatically.",
+  "typical_users": [
+    "Bulky attackers and pivots weak to common coverage moves, such as Greninja, Rotom-Wash, or Assault Vest users"
+  ]
+}

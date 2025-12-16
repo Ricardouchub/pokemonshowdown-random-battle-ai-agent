@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"emolga\",\n    \"types\": [\"electric\", \"flying\"],\n    \"roles\": [\"fast attacker\", \"pivot\", \"support\"],\n    \"notable_moves\": [\"acrobatics\", \"volt switch\", \"encore\", \"roost\"],\n    \"abilities\": [\"static\", \"motor drive\"],\n    \"common_items\": [\"flying gem\", \"focus sash\", \"choice scarf\"],\n    \"summary\": \"fast electric-flying rodent with pivot utility and acrobatics potential.\"\n}\n```"
+}

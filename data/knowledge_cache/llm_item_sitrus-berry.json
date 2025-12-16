@@ -1,0 +1,11 @@
+{
+  "item": "Sitrus Berry",
+  "category": "Consumable",
+  "summary": "Restores 25% of the holder's max HP when HP drops to 50% or below.",
+  "typical_users": [
+    "Bulky attackers",
+    "Tanks",
+    "Setup sweepers",
+    "Pok\u00e9mon in VGC formats"
+  ]
+}

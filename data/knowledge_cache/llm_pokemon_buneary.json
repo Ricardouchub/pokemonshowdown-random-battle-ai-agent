@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"buneary\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"fast-attacker\", \"setup-sweeper\", \"pivot\"],\n    \"notable_moves\": [\"return\", \"ice-punch\", \"jump-kick\", \"switcheroo\", \"agility\"],\n    \"abilities\": [\"run-away\", \"klutz\", \"limber\"],\n    \"common_items\": [\"choice-band\", \"life-orb\", \"focus-sash\"],\n    \"summary\": \"a fast normal-type with strong coverage moves and setup potential, often used as an early-game attacker or pivot.\"\n}\n```"
+}

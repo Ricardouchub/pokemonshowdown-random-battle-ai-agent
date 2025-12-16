@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ribombee\",\n    \"types\": [\"bug\", \"fairy\"],\n    \"roles\": [\"quiver dance sweeper\", \"sticky web setter\", \"pivot\"],\n    \"notable_moves\": [\"quiver dance\", \"moonblast\", \"bug buzz\", \"sticky web\", \"uturn\"],\n    \"abilities\": [\"honey gather\", \"shield dust\", \"sweet veil\"],\n    \"common_items\": [\"focus sash\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"fast special attacker with quiver dance setup, sets sticky web, and pivots with uturn.\"\n}\n```"
+}

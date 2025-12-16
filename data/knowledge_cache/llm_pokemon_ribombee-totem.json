@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ribombee-totem\",\n    \"types\": [\"bug\", \"fairy\"],\n    \"roles\": [\"special sweeper\", \"quiver dance user\", \"pivot\"],\n    \"notable_moves\": [\"quiver dance\", \"moonblast\", \"bug buzz\", \"sticky web\", \"uturn\"],\n    \"abilities\": [\"sweet veil\", \"shield dust\", \"honey gather\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"a larger, stronger variant of ribombee with boosted stats, excelling as a fast special attacker after setting up quiver dance.\"\n}\n```"
+}

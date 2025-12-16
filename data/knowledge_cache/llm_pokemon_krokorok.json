@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"krokorok\",\n    \"types\": [\"ground\", \"dark\"],\n    \"roles\": [\"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"earthquake\", \"knock off\", \"stone edge\", \"pursuit\"],\n    \"abilities\": [\"intimidate\", \"moxie\", \"anger point\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"eviolite\"],\n    \"summary\": \"mid-stage ground/dark attacker with strong coverage and ability options, often used with eviolite in lower tiers.\"\n}\n```"
+}

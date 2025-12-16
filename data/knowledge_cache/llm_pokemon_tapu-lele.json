@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tapu-lele\",\n    \"types\": [\"psychic\", \"fairy\"],\n    \"roles\": [\"wallbreaker\", \"choice user\", \"terrain setter\"],\n    \"notable_moves\": [\"psychic\", \"moonblast\", \"psyshock\", \"focus blast\", \"thunderbolt\"],\n    \"abilities\": [\"psychic surge\"],\n    \"common_items\": [\"choice scarf\", \"choice specs\", \"life orb\", \"terrain extender\"],\n    \"summary\": \"a powerful psychic/fairy attacker that sets psychic terrain, boosting its psychic moves and preventing priority attacks against grounded allies.\"\n}\n```"
+}

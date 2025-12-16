@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"weezing\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"wall\", \"hazard-setter\", \"status-spreader\"],\n    \"notable_moves\": [\"sludge-bomb\", \"will-o-wisp\", \"painsplit\", \"defog\", \"toxic-spikes\"],\n    \"abilities\": [\"levitate\", \"neutralizing-gas\"],\n    \"common_items\": [\"black-sludge\", \"heavy-duty-boots\"],\n    \"summary\": \"bulky poison-type wall known for setting hazards, spreading status, and neutralizing abilities.\"\n}\n```"
+}

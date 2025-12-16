@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"chimchar\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"fast-attacker\", \"setup-sweeper\", \"lead\"],\n    \"notable_moves\": [\"fire-blast\", \"flamethrower\", \"close-combat\", \"uturn\", \"nasty-plot\"],\n    \"abilities\": [\"blaze\", \"iron-fist\"],\n    \"common_items\": [\"life-orb\", \"focus-sash\", \"choice-scarf\"],\n    \"summary\": \"fast fire-type starter with strong special and physical options, often uses setup moves to sweep or leads with utility.\"\n}\n```"
+}

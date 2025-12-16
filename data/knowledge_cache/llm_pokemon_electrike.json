@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"electrike\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"special sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"thunderbolt\", \"volt switch\", \"hidden power ice\", \"flamethrower\"],\n    \"abilities\": [\"static\", \"lightning rod\", \"minus\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"focus sash\"],\n    \"summary\": \"fast electric-type with strong special attacks and volt switch utility, often used as a glass cannon in lower tiers.\"\n}\n```"
+}

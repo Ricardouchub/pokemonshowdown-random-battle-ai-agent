@@ -1,0 +1,8 @@
+{
+  "item": "Ice Heal",
+  "category": "Status Recovery",
+  "summary": "Cures a frozen status condition on a single Pok\u00e9mon when used.",
+  "typical_users": [
+    "Pok\u00e9mon vulnerable to Ice-type moves or in hail teams, often held as a precaution against freeze hax in niche or anti-meta sets."
+  ]
+}

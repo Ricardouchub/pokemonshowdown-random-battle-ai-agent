@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"leavanny\",\n    \"types\": [\"bug\", \"grass\"],\n    \"roles\": [\"swords dance sweeper\", \"support\", \"sun team support\"],\n    \"notable_moves\": [\"leaf blade\", \"x-scissor\", \"knock off\", \"sticky web\", \"swords dance\"],\n    \"abilities\": [\"swarm\", \"chlorophyll\", \"overcoat\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"leftovers\"],\n    \"summary\": \"a fast bug/grass type with strong offensive presence and support options like sticky web, but suffers from poor defensive typing and bulk.\"\n}\n```"
+}

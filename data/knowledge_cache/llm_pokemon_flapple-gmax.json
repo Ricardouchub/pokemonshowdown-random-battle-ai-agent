@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"flapple-gmax\",\n    \"types\": [\"grass\", \"dragon\"],\n    \"roles\": [\"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"grav apple\", \"dragon dance\", \"outrage\", \"sucker punch\"],\n    \"abilities\": [\"ripen\", \"gluttony\", \"hustle\"],\n    \"common_items\": [\"life orb\", \"choice band\"],\n    \"summary\": \"gigantamax form with exclusive g-max move tartness that lowers opponent defense. uses dragon dance to sweep or hits hard immediately with hustle-boosted attacks.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"squawkabilly-blue-plumage\",\n    \"types\": [\"flying\", \"normal\"],\n    \"roles\": [\"hazard-setter\", \"pivot\", \"wallbreaker\"],\n    \"notable_moves\": [\"brave-bird\", \"u-turn\", \"parting-shot\", \"taunt\"],\n    \"abilities\": [\"intimidate\", \"sheer-force\", \"guts\"],\n    \"common_items\": [\"choice-band\", \"heavy-duty-boots\", \"flame-orb\"],\n    \"summary\": \"a versatile physical attacker with strong utility moves and ability options, using its typing and moveset to control momentum.\"\n}\n```"
+}

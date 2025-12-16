@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"purugly\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"fast-attacker\", \"revenge-killer\", \"wallbreaker\"],\n    \"notable_moves\": [\"fake-out\", \"uturn\", \"return\", \"sucker-punch\", \"knock-off\"],\n    \"abilities\": [\"thick-fat\", \"own-tempo\", \"defiant\"],\n    \"common_items\": [\"life-orb\", \"choice-scarf\", \"silk-scarf\"],\n    \"summary\": \"a fast, bulky normal-type with priority moves and strong offensive pressure, often used as a revenge killer or wallbreaker.\"\n}\n```"
+}

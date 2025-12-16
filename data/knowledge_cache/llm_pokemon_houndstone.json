@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"houndstone\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"bulky attacker\", \"revenge killer\", \"trick room sweeper\"],\n    \"notable_moves\": [\"last respects\", \"shadow sneak\", \"body press\", \"will-o-wisp\"],\n    \"abilities\": [\"sand rush\", \"fluffy\"],\n    \"common_items\": [\"choice band\", \"leftovers\", \"air balloon\"],\n    \"summary\": \"slow ghost-type with massive last respects damage after teammates faint; fluffy provides physical bulk but fire weakness.\"\n}\n```"
+}

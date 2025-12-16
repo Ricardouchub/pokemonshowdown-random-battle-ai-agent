@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"landorus-therian\",\n    \"types\": [\"ground\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"earthquake\", \"u-turn\", \"stone edge\", \"swords dance\"],\n    \"abilities\": [\"intimidate\"],\n    \"common_items\": [\"choice band\", \"assault vest\", \"leftovers\"],\n    \"summary\": \"versatile physical attacker with intimidate, excellent offensive typing and utility.\"\n}\n```"
+}

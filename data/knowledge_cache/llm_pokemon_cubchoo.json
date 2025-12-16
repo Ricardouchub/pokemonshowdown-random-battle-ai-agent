@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cubchoo\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"physical attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"icicle crash\", \"superpower\", \"swords dance\", \"aqua jet\"],\n    \"abilities\": [\"snow cloak\", \"slush rush\", \"rattled\"],\n    \"common_items\": [\"eviolite\", \"choice band\"],\n    \"summary\": \"a slow but powerful ice-type attacker that can set up with swords dance or hit hard immediately. its signature runny nose indicates health.\"\n}\n```"
+}

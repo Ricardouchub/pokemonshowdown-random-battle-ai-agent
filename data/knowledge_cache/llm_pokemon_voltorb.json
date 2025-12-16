@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"voltorb\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"lead\", \"hazard setter\", \"revenge killer\"],\n    \"notable_moves\": [\"thunderbolt\", \"explosion\", \"taunt\", \"thunder wave\"],\n    \"abilities\": [\"soundproof\", \"static\", \"aftermath\"],\n    \"common_items\": [\"focus sash\", \"choice scarf\", \"air balloon\"],\n    \"summary\": \"fast electric-type often used as a suicide lead to set up hazards or explode early in battle.\"\n}\n```"
+}

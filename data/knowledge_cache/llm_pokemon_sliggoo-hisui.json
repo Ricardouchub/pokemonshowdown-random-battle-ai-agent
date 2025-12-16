@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sliggoo-hisui\",\n    \"types\": [\"steel\", \"dragon\"],\n    \"roles\": [\"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"shelter\", \"iron head\", \"draco meteor\", \"flash cannon\"],\n    \"abilities\": [\"sap sipper\", \"shell armor\", \"gooey\"],\n    \"common_items\": [\"leftovers\", \"assault vest\"],\n    \"summary\": \"hisuian sliggoo is a defensive steel/dragon type that uses shelter to boost its defenses while setting up with moves like iron head. its unique typing gives it key resistances.\"\n}\n```"
+}

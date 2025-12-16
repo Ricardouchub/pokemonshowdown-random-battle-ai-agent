@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cresselia\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"wall\", \"support\", \"cleric\"],\n    \"notable_moves\": [\"moonlight\", \"ice beam\", \"psychic\", \"lunar dance\", \"thunder wave\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"bulky psychic-type legendary known for its exceptional defensive stats and support capabilities, often used as a wall and team supporter with recovery and status moves.\"\n}\n```"
+}

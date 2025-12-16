@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"castform-snowy\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"weather-setter\", \"special-attacker\"],\n    \"notable_moves\": [\"blizzard\", \"ice-beam\", \"weather-ball\", \"thunderbolt\"],\n    \"abilities\": [\"forecast\"],\n    \"common_items\": [\"icy-rock\", \"choice-specs\"],\n    \"summary\": \"ice form castform that excels in hail with perfect-accuracy blizzards and powerful weather-balls.\"\n}\n```"
+}

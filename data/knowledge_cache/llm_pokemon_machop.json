@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"machop\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical attacker\", \"bulky attacker\", \"early-game sweeper\"],\n    \"notable_moves\": [\"dynamic punch\", \"cross chop\", \"bulk up\", \"knock off\"],\n    \"abilities\": [\"guts\", \"no guard\", \"steadfast\"],\n    \"common_items\": [\"eviolite\", \"choice band\", \"flame orb\"],\n    \"summary\": \"a pure fighting-type known for high attack and bulk with eviolite, often using guts or no guard abilities for powerful attacks.\"\n}\n```"
+}

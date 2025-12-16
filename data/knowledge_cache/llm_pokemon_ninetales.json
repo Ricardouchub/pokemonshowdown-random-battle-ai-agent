@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ninetales\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"sun-setter\", \"special-attacker\", \"utility\"],\n    \"notable_moves\": [\"sunny-day\", \"flamethrower\", \"will-o-wisp\", \"nasty-plot\"],\n    \"abilities\": [\"flash-fire\", \"drought\"],\n    \"common_items\": [\"heat-rock\", \"heavy-duty-boots\", \"leftovers\"],\n    \"summary\": \"a graceful fire-type fox known for setting sun with drought, enabling fire teams while providing burn support and special offense.\"\n}\n```"
+}

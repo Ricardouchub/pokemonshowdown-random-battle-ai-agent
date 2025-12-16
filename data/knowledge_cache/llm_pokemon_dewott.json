@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dewott\",\n    \"types\": [\"water\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"razor shell\", \"aqua jet\", \"swords dance\", \"sacred sword\"],\n    \"abilities\": [\"torrent\", \"shell armor\"],\n    \"common_items\": [\"eviolite\", \"life orb\"],\n    \"summary\": \"a mid-stage water-type that uses eviolite for bulk or offensive items to sweep with swords dance.\"\n}\n```"
+}

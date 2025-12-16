@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rabsca\",\n    \"types\": [\"bug\", \"psychic\"],\n    \"roles\": [\"support\", \"trick room setter\", \"hazard setter\"],\n    \"notable_moves\": [\"revival blessing\", \"trick room\", \"sticky web\", \"psychic\"],\n    \"abilities\": [\"synchronize\", \"telepathy\"],\n    \"common_items\": [\"focus sash\", \"mental herb\", \"leftovers\"],\n    \"summary\": \"slow support pok\u00e9mon known for revival blessing, sets trick room or sticky web, vulnerable to priority moves.\"\n}\n```"
+}

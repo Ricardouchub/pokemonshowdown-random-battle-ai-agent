@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"raichu-mega-x\",\n    \"types\": [\"electric\", \"psychic\"],\n    \"roles\": [\"special sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"psychic\", \"thunderbolt\", \"focus blast\", \"nasty plot\"],\n    \"abilities\": [\"surge surfer\"],\n    \"common_items\": [\"raichunite-x\"],\n    \"summary\": \"a mega evolution exclusive to fan games with boosted special attack and speed, gaining psychic typing for unique coverage.\"\n}\n```"
+}

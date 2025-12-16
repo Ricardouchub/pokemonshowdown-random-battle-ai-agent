@@ -1,0 +1,10 @@
+{
+  "item": "Full Heal",
+  "category": "Status Recovery",
+  "summary": "Cures a Pok\u00e9mon of any non-volatile status condition (burn, paralysis, poison, sleep, freeze).",
+  "typical_users": [
+    "Fast sweepers or wallbreakers vulnerable to paralysis or sleep",
+    "Pok\u00e9mon in hyper offense teams needing immediate status removal",
+    "Choice-locked attackers to maintain momentum"
+  ]
+}

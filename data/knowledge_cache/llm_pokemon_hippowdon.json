@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hippowdon\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"sand setter\", \"physical wall\", \"stealth rock setter\"],\n    \"notable_moves\": [\"earthquake\", \"stealth rock\", \"slack off\", \"toxic\", \"whirlwind\"],\n    \"abilities\": [\"sand stream\", \"sand force\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a bulky ground-type that sets permanent sandstorm, provides hazard support, and walls physical attackers.\"\n}\n```"
+}

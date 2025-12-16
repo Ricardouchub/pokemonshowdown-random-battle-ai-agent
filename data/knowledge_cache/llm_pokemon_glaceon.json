@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"glaceon\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"special attacker\", \"wallbreaker\", \"hail setter\"],\n    \"notable_moves\": [\"blizzard\", \"freeze-dry\", \"shadow ball\", \"hidden power\", \"ice beam\"],\n    \"abilities\": [\"snow cloak\", \"ice body\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"icy rock\"],\n    \"summary\": \"pure ice-type eeveelution with high special attack, excels in hail teams but limited by defensive typing.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"decidueye\",\n    \"types\": [\"grass\", \"ghost\"],\n    \"roles\": [\"sweeper\", \"revenge killer\", \"wallbreaker\"],\n    \"notable_moves\": [\"spirit shackle\", \"leaf blade\", \"shadow sneak\", \"u-turn\", \"sucker punch\"],\n    \"abilities\": [\"overgrow\", \"long reach\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"heavy-duty boots\"],\n    \"summary\": \"a fast mixed attacker with unique ghost typing and trapping potential from spirit shackle.\"\n}\n```"
+}

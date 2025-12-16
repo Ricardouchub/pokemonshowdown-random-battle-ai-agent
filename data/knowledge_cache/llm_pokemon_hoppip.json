@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hoppip\",\n    \"types\": [\"grass\", \"flying\"],\n    \"roles\": [\"sun-setter\", \"support\", \"pivot\"],\n    \"notable_moves\": [\"sunny-day\", \"u-turn\", \"encore\", \"sleep-powder\"],\n    \"abilities\": [\"chlorophyll\", \"leaf-guard\", \"infiltrator\"],\n    \"common_items\": [\"heat-rock\", \"focus-sash\"],\n    \"summary\": \"fragile support pok\u00e9mon that sets sun for teammates, using speed in sun to pivot or disrupt.\"\n}\n```"
+}

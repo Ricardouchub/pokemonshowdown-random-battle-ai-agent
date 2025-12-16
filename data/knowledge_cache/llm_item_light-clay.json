@@ -1,0 +1,9 @@
+{
+  "item": "Light Clay",
+  "category": "Held Item",
+  "summary": "Extends the duration of Reflect, Light Screen, and Aurora Veil from 5 to 8 turns.",
+  "typical_users": [
+    "Support Pok\u00e9mon (e.g., Grimmsnarl, Klefki)",
+    "Setters of dual screens (e.g., Alolan Ninetales, Indeedee)"
+  ]
+}

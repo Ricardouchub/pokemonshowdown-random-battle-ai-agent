@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ralts\",\n    \"types\": [\"psychic\", \"fairy\"],\n    \"roles\": [\"fast-sweeper\", \"setup-sweeper\", \"support\"],\n    \"notable_moves\": [\"psychic\", \"moonblast\", \"calm-mind\", \"shadow-sneak\"],\n    \"abilities\": [\"synchronize\", \"trace\", \"telepathy\"],\n    \"common_items\": [\"choice-scarf\", \"focus-sash\", \"life-orb\"],\n    \"summary\": \"a psychic/fairy type known for evolving into gardevoir or gallade. its high special attack and speed make it a potent sweeper, especially after setup with calm-mind. its abilities provide utility in various situations.\"\n}\n```"
+}

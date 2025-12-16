@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"kingdra\",\n    \"types\": [\"water\", \"dragon\"],\n    \"roles\": [\"special sweeper\", \"rain sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"draco meteor\", \"hydro pump\", \"hurricane\", \"ice beam\", \"flip turn\"],\n    \"abilities\": [\"swift swim\", \"sniper\", \"damp\"],\n    \"common_items\": [\"choice specs\", \"life orb\", \"damp rock\"],\n    \"summary\": \"a potent special attacker that excels in rain teams with swift swim, leveraging its dual stabs and hurricane for coverage.\"\n}\n```"
+}

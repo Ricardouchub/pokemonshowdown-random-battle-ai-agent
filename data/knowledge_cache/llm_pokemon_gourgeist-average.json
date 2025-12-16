@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gourgeist-average\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"pivot\", \"wallbreaker\", \"trick-room-setter\"],\n    \"notable_moves\": [\"shadow-sneak\", \"seed-bomb\", \"trick-room\", \"will-o-wisp\"],\n    \"abilities\": [\"pickup\", \"frisk\", \"insomnia\"],\n    \"common_items\": [\"leftovers\", \"choice-band\", \"life-orb\"],\n    \"summary\": \"a bulky ghost/grass type with strong priority and utility, often used as a physical attacker or trick room setter.\"\n}\n```"
+}

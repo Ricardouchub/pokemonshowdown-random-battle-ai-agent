@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ursaluna-bloodmoon\",\n    \"types\": [\"ground\", \"normal\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"blood moon\", \"earthquake\", \"bulk up\", \"moonlight\"],\n    \"abilities\": [\"mind's eye\"],\n    \"common_items\": [\"leftovers\", \"life orb\"],\n    \"summary\": \"a powerful special attacker with unique signature move that ignores immunities and stat changes.\"\n}\n```"
+}

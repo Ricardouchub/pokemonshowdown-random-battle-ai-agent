@@ -1,0 +1,11 @@
+{
+  "item": "Fire Stone",
+  "category": "Evolutionary Item",
+  "summary": "A stone that evolves certain Fire-type Pok\u00e9mon, such as Eevee into Flareon or Growlithe into Arcanine.",
+  "typical_users": [
+    "Flareon",
+    "Arcanine",
+    "Ninetales",
+    "Simisear"
+  ]
+}

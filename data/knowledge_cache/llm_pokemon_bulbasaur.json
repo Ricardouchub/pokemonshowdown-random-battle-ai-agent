@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bulbasaur\",\n    \"types\": [\"grass\", \"poison\"],\n    \"roles\": [\"sun sweeper\", \"setup sweeper\", \"bulky attacker\"],\n    \"notable_moves\": [\"giga drain\", \"sludge bomb\", \"growth\", \"sleep powder\"],\n    \"abilities\": [\"overgrow\", \"chlorophyll\"],\n    \"common_items\": [\"life orb\", \"eviolite\", \"leftovers\"],\n    \"summary\": \"versatile grass starter that excels in sun teams with chlorophyll, using growth boosts to sweep. eviolite gives it notable bulk in lower tiers.\"\n}\n```"
+}

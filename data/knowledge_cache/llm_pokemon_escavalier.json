@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"escavalier\",\n    \"types\": [\"bug\", \"steel\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"choice user\"],\n    \"notable_moves\": [\"megahorn\", \"iron head\", \"knock off\", \"drill run\", \"swords dance\"],\n    \"abilities\": [\"swarm\", \"shell armor\", \"overcoat\"],\n    \"common_items\": [\"choice band\", \"assault vest\", \"leftovers\"],\n    \"summary\": \"slow but powerful physical attacker with excellent defensive typing and bulk, often used to break through defensive cores.\"\n}\n```"
+}

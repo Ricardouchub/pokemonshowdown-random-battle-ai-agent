@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wormadam-trash\",\n    \"types\": [\"bug\", \"steel\"],\n    \"roles\": [\"defensive pivot\", \"hazard setter\"],\n    \"notable_moves\": [\"stealth rock\", \"toxic\", \"protect\", \"iron head\"],\n    \"abilities\": [\"anticipation\", \"overcoat\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"defensive bug/steel type with hazard-setting utility and good resistances, but low speed and offensive presence.\"\n}\n```"
+}

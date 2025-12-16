@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cyndaquil\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special sweeper\", \"setup sweeper\"],\n    \"notable_moves\": [\"eruption\", \"flamethrower\", \"hidden power\", \"substitute\"],\n    \"abilities\": [\"blaze\", \"flash fire\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"focus sash\"],\n    \"summary\": \"fast fire-type starter with powerful eruption, often used as a special sweeper in lower tiers.\"\n}\n```"
+}

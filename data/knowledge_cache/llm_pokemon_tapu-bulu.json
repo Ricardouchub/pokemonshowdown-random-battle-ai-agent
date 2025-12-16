@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tapu-bulu\",\n    \"types\": [\"grass\", \"fairy\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\", \"defensive pivot\"],\n    \"notable_moves\": [\"wood hammer\", \"horn leech\", \"superpower\", \"zen headbutt\", \"swords dance\"],\n    \"abilities\": [\"grassy surge\"],\n    \"common_items\": [\"choice band\", \"assault vest\", \"leftovers\"],\n    \"summary\": \"a powerful grass/fairy attacker that sets grassy terrain, boasting high attack and bulk but low speed.\"\n}\n```"
+}

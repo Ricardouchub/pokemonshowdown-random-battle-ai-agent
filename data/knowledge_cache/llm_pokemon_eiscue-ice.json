@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"eiscue-ice\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"physical wall\", \"hazard setter\"],\n    \"notable_moves\": [\"belly drum\", \"icicle crash\", \"liquidation\", \"zen headbutt\"],\n    \"abilities\": [\"ice-face\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"unique ice-type with ice-face ability that blocks one physical hit, often used to set up or set hazards.\"\n}\n```"
+}

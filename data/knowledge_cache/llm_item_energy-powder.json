@@ -1,0 +1,10 @@
+{
+  "item": "Energy Powder",
+  "category": "Healing Item",
+  "summary": "Restores 50 HP to a single Pok\u00e9mon but lowers its happiness.",
+  "typical_users": [
+    "Early-game teams lacking reliable recovery",
+    "Nuzlocke challenge runs",
+    "Desperate situations in battle where healing is critical"
+  ]
+}

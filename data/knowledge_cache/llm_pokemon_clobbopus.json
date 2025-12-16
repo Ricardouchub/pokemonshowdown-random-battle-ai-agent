@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"clobbopus\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"drain punch\", \"ice punch\", \"sucker punch\", \"bulk up\"],\n    \"abilities\": [\"limber\", \"technician\"],\n    \"common_items\": [\"eviolite\", \"life orb\"],\n    \"summary\": \"a physical fighting-type that uses setup moves and coverage to sweep, often holding eviolite for bulk.\"\n}\n```"
+}

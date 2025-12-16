@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"metang\",\n    \"types\": [\"steel\", \"psychic\"],\n    \"roles\": [\"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"meteor mash\", \"zen headbutt\", \"earthquake\", \"agility\"],\n    \"abilities\": [\"clear body\", \"light metal\"],\n    \"common_items\": [\"leftovers\", \"weakness policy\"],\n    \"summary\": \"a durable steel/psychic type that can boost its speed with agility and hit hard with meteor mash.\"\n}\n```"
+}

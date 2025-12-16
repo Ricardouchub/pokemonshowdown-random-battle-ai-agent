@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"steelix-mega\",\n    \"types\": [\"steel\", \"ground\"],\n    \"roles\": [\"physical wall\", \"stealth rock setter\", \"toxic staller\"],\n    \"notable_moves\": [\"earthquake\", \"iron tail\", \"stealth rock\", \"toxic\"],\n    \"abilities\": [\"sand force\"],\n    \"common_items\": [\"steelixite\"],\n    \"summary\": \"mega steelix is an extremely bulky physical wall with sky-high defense, capable of setting hazards and stalling with toxic, though its special defense remains a vulnerability.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shroodle\",\n    \"types\": [\"poison\", \"normal\"],\n    \"roles\": [\"disruptor\", \"setup sweeper\"],\n    \"notable_moves\": [\"toxic\", \"encore\", \"parting shot\", \"gunk shot\"],\n    \"abilities\": [\"unburden\", \"pickpocket\", \"prankster\"],\n    \"common_items\": [\"air balloon\", \"focus sash\"],\n    \"summary\": \"a disruptive poison-type rodent that uses prankster to cripple opponents with status and encore.\"\n}\n```"
+}

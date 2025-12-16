@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"carnivine\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"trick-room-attacker\", \"wallbreaker\", \"sun-sweeper\"],\n    \"notable_moves\": [\"power-whip\", \"crunch\", \"synthesis\", \"swords-dance\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"life-orb\", \"choice-band\", \"leftovers\"],\n    \"summary\": \"slow grass-type attacker with unique levitate ability, often used in trick room or sun teams for surprise wallbreaking.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pawmo\",\n    \"types\": [\"electric\", \"fighting\"],\n    \"roles\": [\"physical sweeper\", \"setup sweeper\"],\n    \"notable_moves\": [\"double shock\", \"close combat\", \"ice punch\", \"wild charge\"],\n    \"abilities\": [\"volt absorb\", \"natural cure\", \"iron fist\"],\n    \"common_items\": [\"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"evolves from pawmi via walking, uses double shock to sacrifice its electric typing for powerful fighting-type attacks.\"\n}\n```"
+}

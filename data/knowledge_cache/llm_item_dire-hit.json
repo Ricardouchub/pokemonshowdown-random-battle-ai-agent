@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Dire Hit\",\n    \"category\": \"Battle Item\",\n    \"summary\": \"Raises the user's critical hit ratio by one stage for the remainder of the battle.\",\n    \"typical_users\": [\"Pok\u00e9mon with high critical hit rate moves (e.g., Slash, Night Slash, Cross Chop)\", \"Sweepers aiming to break through defensive walls with increased damage\"]\n}\n```"
+}

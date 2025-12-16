@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vespiquen\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"defensive wall\", \"support\", \"hazard setter\"],\n    \"notable_moves\": [\"defend order\", \"attack order\", \"toxic\", \"roost\", \"uturn\"],\n    \"abilities\": [\"pressure\", \"unnerve\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"defensive bug-flying type with unique order moves, known for stalling and team support.\"\n}\n```"
+}

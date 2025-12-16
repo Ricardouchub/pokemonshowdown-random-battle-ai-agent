@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"TM10\",\n    \"category\": \"Technical Machine (Move Tutor)\",\n    \"summary\": \"Teaches the move Hidden Power, a special attack whose type and power vary based on the user's individual values (IVs).\",\n    \"typical_users\": [\"Pok\u00e9mon needing coverage for specific threats, often with optimized IVs to achieve a desired type (e.g., Ice for Dragon-types, Fire for Steel-types).\"]\n}\n```"
+}

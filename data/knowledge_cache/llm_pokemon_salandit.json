@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"salandit\",\n    \"types\": [\"poison\", \"fire\"],\n    \"roles\": [\"special attacker\", \"status spreader\"],\n    \"notable_moves\": [\"sludge wave\", \"flamethrower\", \"toxic\", \"nasty plot\"],\n    \"abilities\": [\"corrosion\", \"oblivious\"],\n    \"common_items\": [\"life orb\", \"black sludge\"],\n    \"summary\": \"a frail but disruptive special attacker that can poison any target with corrosion, often used to wear down defensive cores.\"\n}\n```"
+}

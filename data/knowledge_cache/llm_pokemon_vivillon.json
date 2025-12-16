@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vivillon\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"quiver dance sweeper\", \"support\", \"hazard setter\"],\n    \"notable_moves\": [\"quiver dance\", \"hurricane\", \"sleep powder\", \"substitute\"],\n    \"abilities\": [\"compound eyes\", \"shield dust\", \"friend guard\"],\n    \"common_items\": [\"focus sash\", \"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"pattern-based butterfly pok\u00e9mon known for quiver dance sweeping and sleep support, with compound eyes boosting hurricane accuracy.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shellder\",\n    \"types\": [\"water\"],\n    \"roles\": [\"hazard setter\", \"physical wall\", \"rapid spin user\"],\n    \"notable_moves\": [\"rapid spin\", \"spikes\", \"toxic\", \"icicle spear\"],\n    \"abilities\": [\"shell armor\", \"skill link\", \"overcoat\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"defensive water-type known for setting hazards and removing them with rapid spin, often utilizing skill link with icicle spear.\"\n}\n```"
+}

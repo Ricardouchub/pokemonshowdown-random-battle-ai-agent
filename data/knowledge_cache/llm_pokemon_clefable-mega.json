@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"clefable-mega\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"wallbreaker\", \"special sweeper\", \"cleric\"],\n    \"notable_moves\": [\"moonblast\", \"soft-boiled\", \"calm mind\", \"stealth rock\", \"thunder wave\"],\n    \"abilities\": [\"unaware\"],\n    \"common_items\": [\"clefabilite\"],\n    \"summary\": \"mega evolution grants unaware, making it a formidable special wallbreaker that ignores opponent's stat boosts.\"\n}\n```"
+}

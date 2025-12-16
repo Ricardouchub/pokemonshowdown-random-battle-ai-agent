@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bonsly\",\n    \"types\": [\"rock\"],\n    \"roles\": [\"trick-room-setter\", \"support\", \"hazard-setter\"],\n    \"notable_moves\": [\"stealth-rock\", \"sucker-punch\", \"rock-tomb\", \"fake-tears\"],\n    \"abilities\": [\"sturdy\", \"rock-head\", \"rattled\"],\n    \"common_items\": [\"eviolite\", \"focus-sash\", \"mental-herb\"],\n    \"summary\": \"a pre-evolution rock-type known for its defensive utility, often using eviolite to bolster its bulk while setting hazards or supporting teammates with moves like fake tears.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mew\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"utility\", \"setup sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"psychic\", \"nasty plot\", \"aurasphere\", \"earth power\", \"transform\"],\n    \"abilities\": [\"synchronize\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"versatile mythical pok\u00e9mon with access to every tm, enabling unpredictable utility and sweeping sets.\"\n}\n```"
+}

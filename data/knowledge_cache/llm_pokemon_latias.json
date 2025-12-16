@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"latias\",\n    \"types\": [\"dragon\", \"psychic\"],\n    \"roles\": [\"special sweeper\", \"support\", \"defensive pivot\"],\n    \"notable_moves\": [\"draco meteor\", \"psychic\", \"healing wish\", \"defog\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"soul dew\", \"leftovers\", \"choice specs\"],\n    \"summary\": \"fast dragon-psychic legendary with strong special attacks and versatile support options.\"\n}\n```"
+}

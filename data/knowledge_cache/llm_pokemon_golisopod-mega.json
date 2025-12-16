@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"golisopod-mega\",\n    \"types\": [\"bug\", \"water\"],\n    \"roles\": [\"wallbreaker\", \"priority attacker\", \"bulky pivot\"],\n    \"notable_moves\": [\"first impression\", \"liquidation\", \"aqua jet\", \"sucker punch\", \"spikes\"],\n    \"abilities\": [\"emergency exit\"],\n    \"common_items\": [\"golisopodite\"],\n    \"summary\": \"mega evolution enhances bulk and attack, making it a fearsome priority attacker with emergency exit for safe pivoting.\"\n}\n```"
+}

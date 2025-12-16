@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mothim\",\n    \"types\": [\"bug\", \"flying\"],\n    \"roles\": [\"special_attacker\", \"quiver_dance_sweeper\"],\n    \"notable_moves\": [\"quiver_dance\", \"bug_buzz\", \"air_slash\", \"giga_drain\"],\n    \"abilities\": [\"swarm\", \"tinted_lens\"],\n    \"common_items\": [\"life_orb\", \"focus_sash\"],\n    \"summary\": \"fragile bug-type special sweeper that relies on quiver dance boosts to threaten opponents, but has poor defensive typing and bulk.\"\n}\n```"
+}

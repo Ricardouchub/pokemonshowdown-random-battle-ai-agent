@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"helioptile\",\n    \"types\": [\"electric\", \"normal\"],\n    \"roles\": [\"sun sweeper\", \"pivot\", \"weather support\"],\n    \"notable_moves\": [\"voltswitch\", \"thunderbolt\", \"surf\", \"uturn\"],\n    \"abilities\": [\"dry skin\", \"sand veil\", \"solar power\"],\n    \"common_items\": [\"life orb\", \"focus sash\", \"choice scarf\"],\n    \"summary\": \"a fragile electric-type that excels in sun teams, using solar power for damage or dry skin for utility pivoting.\"\n}\n```"
+}

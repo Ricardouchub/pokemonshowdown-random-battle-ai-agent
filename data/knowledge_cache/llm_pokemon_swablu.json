@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"swablu\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"support\", \"pivot\", \"status\"],\n    \"notable_moves\": [\"roost\", \"toxic\", \"perish song\", \"defog\"],\n    \"abilities\": [\"natural cure\", \"cloud nine\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a fluffy bird pok\u00e9mon that evolves into altaria. known for its defensive utility, status moves, and ability to remove hazards.\"\n}\n```"
+}

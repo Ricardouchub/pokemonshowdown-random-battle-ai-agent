@@ -1,0 +1,12 @@
+{
+  "item": "twisted-spoon",
+  "category": "damage-boosting",
+  "summary": "Boosts the power of Psychic-type moves by 20%.",
+  "typical_users": [
+    "Alakazam",
+    "Espeon",
+    "Gardevoir",
+    "Metagross",
+    "other special-attacking Psychic-types"
+  ]
+}

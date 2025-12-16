@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gallade-mega\",\n    \"types\": [\"psychic\", \"fighting\"],\n    \"roles\": [\"wallbreaker\", \"revenge-killer\", \"setup-sweeper\"],\n    \"notable_moves\": [\"close-combat\", \"psycho-cut\", \"knock-off\", \"swords-dance\", \"zen-headbutt\"],\n    \"abilities\": [\"inner-focus\"],\n    \"common_items\": [\"galladite\"],\n    \"summary\": \"mega gallade is a powerful physical attacker with high attack and speed, using swords dance to break through defensive cores or revenge kill with priority.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-orange\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"shell-smash-sweeper\", \"late-game-cleaner\"],\n    \"notable_moves\": [\"shell-smash\", \"acrobatics\", \"stone-edge\", \"earthquake\"],\n    \"abilities\": [\"shields-down\"],\n    \"common_items\": [\"white-herb\", \"focus-sash\"],\n    \"summary\": \"orange-core minior is a fast, fragile sweeper that relies on shields-down to transform and shell-smash to boost its stats, becoming a potent threat once its outer shell breaks.\"\n}\n```"
+}

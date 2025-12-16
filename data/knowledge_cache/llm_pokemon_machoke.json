@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"machoke\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical attacker\", \"bulky attacker\"],\n    \"notable_moves\": [\"dynamic punch\", \"cross chop\", \"bulk up\", \"knock off\"],\n    \"abilities\": [\"guts\", \"no guard\", \"steadfast\"],\n    \"common_items\": [\"eviolite\", \"flame orb\"],\n    \"summary\": \"a powerful fighting-type that evolves from machop and into machamp. it is commonly used with eviolite to boost its defenses, making it a formidable bulky attacker. its abilities like guts and no guard enhance its offensive capabilities.\"\n}\n```"
+}

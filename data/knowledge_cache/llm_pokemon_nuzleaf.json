@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"nuzleaf\",\n    \"types\": [\"grass\", \"dark\"],\n    \"roles\": [\"sun-setter\", \"physical-attacker\", \"pivot\"],\n    \"notable_moves\": [\"leaf-blade\", \"knock-off\", \"sucker-punch\", \"swords-dance\"],\n    \"abilities\": [\"chlorophyll\", \"early-bird\", \"pickpocket\"],\n    \"common_items\": [\"life-orb\", \"choice-band\", \"focus-sash\"],\n    \"summary\": \"a disruptive grass/dark type that excels at setting sun, removing items with knock-off, and threatening with priority sucker-punch.\"\n}\n```"
+}

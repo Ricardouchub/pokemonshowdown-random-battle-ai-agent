@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zygarde-complete\",\n    \"types\": [\"dragon\", \"ground\"],\n    \"roles\": [\"bulky sweeper\", \"tank\", \"setup sweeper\"],\n    \"notable_moves\": [\"thousand arrows\", \"core enforcer\", \"dragon dance\", \"substitute\", \"coil\"],\n    \"abilities\": [\"power construct\"],\n    \"common_items\": [\"leftovers\", \"lum berry\", \"weakness policy\"],\n    \"summary\": \"ultimate form with immense bulk and power, transforms via power construct when hp drops below 50%, versatile setup sweeper with unique ground-type coverage.\"\n}\n```"
+}

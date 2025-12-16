@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"nincada\",\n    \"types\": [\"bug\", \"ground\"],\n    \"roles\": [\"sacrifice-lead\", \"hazard-setter\"],\n    \"notable_moves\": [\"dig\", \"x-scissor\", \"aerial-ace\", \"final-gambit\"],\n    \"abilities\": [\"compound-eyes\", \"run-away\"],\n    \"common_items\": [\"focus-sash\", \"berry-juice\"],\n    \"summary\": \"unique bug/ground type that evolves into two pok\u00e9mon simultaneously. primarily used as a sacrificial lead to set stealth rocks in lower tiers.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"litwick\",\n    \"types\": [\"ghost\", \"fire\"],\n    \"roles\": [\"special attacker\", \"trick room sweeper\"],\n    \"notable_moves\": [\"shadow ball\", \"flamethrower\", \"energy ball\", \"trick room\"],\n    \"abilities\": [\"flash fire\", \"flame body\", \"infiltrator\"],\n    \"common_items\": [\"eviolite\", \"life orb\"],\n    \"summary\": \"a ghostly candle pok\u00e9mon that evolves into chandelure. excels as a special attacker, particularly in trick room teams due to its low speed.\"\n}\n```"
+}

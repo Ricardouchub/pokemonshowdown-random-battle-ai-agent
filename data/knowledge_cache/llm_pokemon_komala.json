@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"komala\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"wood hammer\", \"return\", \"sucker punch\", \"swords dance\"],\n    \"abilities\": [\"comatose\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"leftovers\"],\n    \"summary\": \"unique ability prevents status, hits hard with stab moves but limited by pure normal typing and low speed.\"\n}\n```"
+}

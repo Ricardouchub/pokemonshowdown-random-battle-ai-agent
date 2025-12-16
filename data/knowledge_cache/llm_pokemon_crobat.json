@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"crobat\",\n    \"types\": [\"poison\", \"flying\"],\n    \"roles\": [\"fast attacker\", \"utility\", \"pivot\"],\n    \"notable_moves\": [\"brave bird\", \"cross poison\", \"uturn\", \"taunt\", \"defog\"],\n    \"abilities\": [\"inner focus\", \"infiltrator\"],\n    \"common_items\": [\"black sludge\", \"heavy-duty boots\", \"choice band\"],\n    \"summary\": \"extremely fast poison/flying type with strong offensive pressure and utility options like taunt and defog.\"\n}\n```"
+}

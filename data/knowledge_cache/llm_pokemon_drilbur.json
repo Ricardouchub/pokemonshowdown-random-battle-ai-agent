@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"drilbur\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"hazard removal\", \"physical sweeper\", \"setup sweeper\"],\n    \"notable_moves\": [\"earthquake\", \"rapid spin\", \"swords dance\", \"rock slide\"],\n    \"abilities\": [\"sand rush\", \"sand force\", \"mold breaker\"],\n    \"common_items\": [\"eviolite\", \"life orb\", \"focus sash\"],\n    \"summary\": \"ground-type mole pok\u00e9mon that evolves into excadrill. excels at rapid spin hazard removal and can sweep with swords dance, especially under sand with sand rush.\"\n}\n```"
+}

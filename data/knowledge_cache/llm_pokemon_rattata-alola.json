@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rattata-alola\",\n    \"types\": [\"dark\", \"normal\"],\n    \"roles\": [\"early-game sweeper\", \"gluttony abuser\"],\n    \"notable_moves\": [\"crunch\", \"sucker punch\", \"endeavor\", \"quick attack\"],\n    \"abilities\": [\"gluttony\", \"hustle\", \"thick fat\"],\n    \"common_items\": [\"berry juice\", \"chople berry\", \"eviolite\"],\n    \"summary\": \"alolan rattata trades normal typing for dark, gaining better offensive coverage and a unique gluttony + berry juice combo in little cup. its dark/normal typing provides useful resistances to ghost and psychic.\"\n}\n```"
+}

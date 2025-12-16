@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"braviary-hisui\",\n    \"types\": [\"psychic\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"esper wing\", \"hurricane\", \"close combat\", \"roost\"],\n    \"abilities\": [\"keen eye\", \"sheer force\", \"tinted lens\"],\n    \"common_items\": [\"heavy-duty boots\", \"choice scarf\", \"life orb\"],\n    \"summary\": \"hisuian braviary is a powerful special attacker with strong stabs and setup potential via esper wing's speed boost.\"\n}\n```"
+}

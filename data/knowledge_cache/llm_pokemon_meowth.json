@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"meowth\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"fast attacker\", \"utility\", \"pivot\"],\n    \"notable_moves\": [\"fake out\", \"uturn\", \"knock off\", \"taunt\"],\n    \"abilities\": [\"pickup\", \"technician\", \"unnerve\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice scarf\"],\n    \"summary\": \"fast utility pok\u00e9mon with priority and disruption moves, often used for early-game pressure and item removal.\"\n}\n```"
+}

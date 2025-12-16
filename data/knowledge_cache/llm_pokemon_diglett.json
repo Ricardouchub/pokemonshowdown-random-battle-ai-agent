@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"diglett\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"hazard setter\", \"revenge killer\", \"lead\"],\n    \"notable_moves\": [\"earthquake\", \"stealth rock\", \"sucker punch\", \"rock slide\"],\n    \"abilities\": [\"sand veil\", \"arena trap\", \"sand force\"],\n    \"common_items\": [\"focus sash\", \"life orb\", \"choice scarf\"],\n    \"summary\": \"fast ground-type with arena trap for trapping foes, commonly used to set stealth rock and revenge kill with earthquake.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"polteageist\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"special sweeper\", \"setup sweeper\", \"stored power user\"],\n    \"notable_moves\": [\"shell smash\", \"stored power\", \"shadow ball\", \"giga drain\"],\n    \"abilities\": [\"weak armor\", \"cursed body\"],\n    \"common_items\": [\"white herb\", \"focus sash\", \"leftovers\"],\n    \"summary\": \"a ghost-type special attacker that uses shell smash to boost its stats and sweep with stored power, often holding white herb to negate defense drops.\"\n}\n```"
+}

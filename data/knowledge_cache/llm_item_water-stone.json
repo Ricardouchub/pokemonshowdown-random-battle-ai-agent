@@ -1,0 +1,12 @@
+{
+  "item": "Water Stone",
+  "category": "Evolutionary Item",
+  "summary": "Evolves specific Water-type Pok\u00e9mon, such as Poliwhirl into Poliwrath or Shellder into Cloyster.",
+  "typical_users": [
+    "Poliwrath",
+    "Cloyster",
+    "Starmie",
+    "Vaporeon",
+    "Lombre (into Ludicolo)"
+  ]
+}

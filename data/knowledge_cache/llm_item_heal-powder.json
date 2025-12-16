@@ -1,0 +1,10 @@
+{
+  "item": "Heal Powder",
+  "category": "Status Recovery",
+  "summary": "Cures any non-volatile status condition (poison, burn, paralysis, sleep, freeze) from a single Pok\u00e9mon, but consumes the user's turn.",
+  "typical_users": [
+    "Support Pok\u00e9mon in Doubles/VGC (e.g., Indeedee, Clefairy)",
+    "Bulky utility sets in lower tiers",
+    "Teams lacking other reliable status removal like Heal Bell/Aromatherapy"
+  ]
+}

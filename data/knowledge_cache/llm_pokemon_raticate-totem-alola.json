@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"raticate-totem-alola\",\n    \"types\": [\"dark\", \"normal\"],\n    \"roles\": [\"bulky-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"sucker-punch\", \"crunch\", \"swords-dance\", \"return\"],\n    \"abilities\": [\"thick-fat\", \"gluttony\", \"hustle\"],\n    \"common_items\": [\"figy-berry\", \"darkinium-z\"],\n    \"summary\": \"bulky alolan variant with totem-sized hp; uses dark stab and setup to sweep.\"\n}\n```"
+}

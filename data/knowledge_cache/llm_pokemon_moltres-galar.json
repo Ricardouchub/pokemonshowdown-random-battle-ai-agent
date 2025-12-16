@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"moltres-galar\",\n    \"types\": [\"dark\", \"flying\"],\n    \"roles\": [\"special wallbreaker\", \"bulky attacker\"],\n    \"notable_moves\": [\"fiery wrath\", \"hurricane\", \"nasty plot\", \"agility\"],\n    \"abilities\": [\"berserk\"],\n    \"common_items\": [\"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"a bulky special attacker with unique dark/flying typing and berserk ability for snowballing power.\"\n}\n```"
+}

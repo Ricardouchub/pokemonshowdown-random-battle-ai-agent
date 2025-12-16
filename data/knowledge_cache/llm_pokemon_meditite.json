@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"meditite\",\n    \"types\": [\"fighting\", \"psychic\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\"],\n    \"notable_moves\": [\"high jump kick\", \"zen headbutt\", \"fake out\", \"bullet punch\"],\n    \"abilities\": [\"pure power\", \"telepathy\"],\n    \"common_items\": [\"choice band\", \"life orb\"],\n    \"summary\": \"a physically powerful attacker that uses pure power to hit hard with fighting and psychic moves, often as a wallbreaker or setup sweeper.\"\n}\n```"
+}

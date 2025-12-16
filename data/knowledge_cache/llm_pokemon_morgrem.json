@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"morgrem\",\n    \"types\": [\"dark\", \"fairy\"],\n    \"roles\": [\"bulky attacker\", \"setup sweeper\", \"pivot\"],\n    \"notable_moves\": [\"spirit break\", \"sucker punch\", \"thunder wave\", \"nasty plot\"],\n    \"abilities\": [\"prankster\", \"frisk\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"a tricky mid-evolution dark/fairy type that uses prankster for priority status moves and setup, often serving as a bulky pivot or late-game sweeper after nasty plot.\"\n}\n```"
+}

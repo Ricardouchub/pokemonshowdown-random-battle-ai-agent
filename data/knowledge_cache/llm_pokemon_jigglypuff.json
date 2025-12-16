@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"jigglypuff\",\n    \"types\": [\"normal\", \"fairy\"],\n    \"roles\": [\"cleric\", \"support\", \"wall\"],\n    \"notable_moves\": [\"wish\", \"protect\", \"stealth rock\", \"heal bell\", \"thunder wave\"],\n    \"abilities\": [\"cute charm\", \"friend guard\", \"competitive\"],\n    \"common_items\": [\"leftovers\", \"light clay\", \"rocky helmet\"],\n    \"summary\": \"bulky support pok\u00e9mon with healing and status utility, often used as a cleric in lower tiers.\"\n}\n```"
+}

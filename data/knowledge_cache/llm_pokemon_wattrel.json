@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wattrel\",\n    \"types\": [\"electric\", \"flying\"],\n    \"roles\": [\"special attacker\", \"pivot\", \"weather setter\"],\n    \"notable_moves\": [\"thunderbolt\", \"hurricane\", \"voltswitch\", \"weather ball\"],\n    \"abilities\": [\"wind power\", \"volt absorb\", \"competitive\"],\n    \"common_items\": [\"heavy-duty boots\", \"choice specs\", \"magnet\"],\n    \"summary\": \"fast electric/flying special attacker with pivoting and weather utility.\"\n}\n```"
+}

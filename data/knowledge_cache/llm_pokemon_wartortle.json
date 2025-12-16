@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wartortle\",\n    \"types\": [\"water\"],\n    \"roles\": [\"bulky attacker\", \"rapid spin user\", \"setup sweeper\"],\n    \"notable_moves\": [\"scald\", \"rapid spin\", \"shell smash\", \"ice beam\"],\n    \"abilities\": [\"torrent\", \"rain dish\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty boots\", \"white herb\"],\n    \"summary\": \"a bulky water-type that can support teams with hazard removal or threaten with setup sweeps.\"\n}\n```"
+}

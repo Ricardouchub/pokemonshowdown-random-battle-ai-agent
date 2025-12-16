@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"misdreavus\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"special attacker\", \"disruptor\", \"pivot\"],\n    \"notable_moves\": [\"shadow ball\", \"thunderbolt\", \"will-o-wisp\", \"taunt\", \"pain split\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"leftovers\", \"colbur berry\", \"heavy-duty boots\"],\n    \"summary\": \"a versatile ghost-type special attacker known for its disruptive movepool and immunity to ground moves via levitate.\"\n}\n```"
+}

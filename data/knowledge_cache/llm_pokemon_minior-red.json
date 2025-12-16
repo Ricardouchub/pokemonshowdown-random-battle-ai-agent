@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-red\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"setup sweeper\", \"late-game cleaner\"],\n    \"notable_moves\": [\"shell smash\", \"acrobatics\", \"earthquake\", \"stone edge\"],\n    \"abilities\": [\"shields down\"],\n    \"common_items\": [\"white herb\", \"power herb\"],\n    \"summary\": \"a meteor pok\u00e9mon that sheds its rocky shell after taking damage, becoming extremely fast and powerful with shell smash.\"\n}\n```"
+}

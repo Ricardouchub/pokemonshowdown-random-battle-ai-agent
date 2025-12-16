@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"raticate\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\", \"early-game cleaner\"],\n    \"notable_moves\": [\"facade\", \"sucker punch\", \"swords dance\", \"uturn\"],\n    \"abilities\": [\"guts\", \"hustle\", \"run away\"],\n    \"common_items\": [\"flame orb\", \"choice band\", \"life orb\"],\n    \"summary\": \"a fast physical attacker that can punish status with guts or set up with swords dance, but is frail.\"\n}\n```"
+}

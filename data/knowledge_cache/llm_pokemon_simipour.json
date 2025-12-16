@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"simipour\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special attacker\", \"fast sweeper\", \"coverage user\"],\n    \"notable_moves\": [\"hydro pump\", \"ice beam\", \"grass knot\", \"nasty plot\"],\n    \"abilities\": [\"gluttony\", \"torrent\"],\n    \"common_items\": [\"life orb\", \"choice specs\", \"focus sash\"],\n    \"summary\": \"a fast water-type special attacker with coverage options and setup potential via nasty plot, but limited by mediocre stats and movepool.\"\n}\n```"
+}

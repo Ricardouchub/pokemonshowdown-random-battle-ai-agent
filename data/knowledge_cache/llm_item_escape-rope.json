@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Escape Rope\",\n    \"category\": \"Utility\",\n    \"summary\": \"A single-use held item that allows the holder to switch out of battle regardless of trapping effects or moves like Mean Look or Block, but does not bypass moves like Roar or Whirlwind.\",\n    \"typical_users\": [\"Pok\u00e9mon vulnerable to trapping strategies, such as frail sweepers or setup sweepers that fear being trapped by opponents like Gothitelle or Dugtrio.\"]\n}\n```"
+}

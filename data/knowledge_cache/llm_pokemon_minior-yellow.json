@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"minior-yellow\",\n    \"types\": [\"rock\", \"flying\"],\n    \"roles\": [\"offensive-shell-shield\", \"setup-sweeper\"],\n    \"notable_moves\": [\"shell-smash\", \"acrobatics\", \"power-gem\", \"earthquake\"],\n    \"abilities\": [\"shields-down\"],\n    \"common_items\": [\"white-herb\", \"focus-sash\"],\n    \"summary\": \"yellow-core minior uses shields-down to change forms. after shell smash, it becomes a fast, powerful sweeper with acrobatics and coverage moves.\"\n}\n```"
+}

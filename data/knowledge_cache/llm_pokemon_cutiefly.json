@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"cutiefly\",\n    \"types\": [\"bug\", \"fairy\"],\n    \"roles\": [\"hazard setter\", \"support\", \"early-game pivot\"],\n    \"notable_moves\": [\"sticky web\", \"moonblast\", \"uturn\", \"quiver dance\"],\n    \"abilities\": [\"honey gather\", \"shield dust\", \"sweet veil\"],\n    \"common_items\": [\"focus sash\", \"heavy-duty boots\"],\n    \"summary\": \"tiny bug-fairy known for setting sticky web to slow opponents, with decent support options but very frail.\"\n}\n```"
+}

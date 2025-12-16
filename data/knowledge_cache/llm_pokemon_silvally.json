@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"silvally\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"utility\", \"offensive pivot\", \"defensive pivot\"],\n    \"notable_moves\": [\"multi-attack\", \"parting shot\", \"defog\", \"thunder wave\", \"uturn\"],\n    \"abilities\": [\"rks system\"],\n    \"common_items\": [\"memory items\", \"leftovers\", \"heavy-duty boots\"],\n    \"summary\": \"versatile normal-type with type-changing memory items, functioning as a flexible pivot with utility support.\"\n}\n```"
+}

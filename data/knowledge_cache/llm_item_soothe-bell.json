@@ -1,0 +1,9 @@
+{
+  "item": "Soothe Bell",
+  "category": "Held Item",
+  "summary": "Increases friendship gain by 50% when held by a Pok\u00e9mon.",
+  "typical_users": [
+    "Pok\u00e9mon requiring high friendship to evolve (e.g., Riolu, Budew, Eevee into Sylveon)",
+    "Teams focused on friendship-based evolution or Return/Frustration moves"
+  ]
+}

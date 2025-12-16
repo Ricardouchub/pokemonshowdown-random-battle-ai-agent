@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"snorlax-gmax\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"tank\", \"wallbreaker\", \"curse sweeper\"],\n    \"notable_moves\": [\"body slam\", \"curse\", \"rest\", \"earthquake\", \"darkest lariat\"],\n    \"abilities\": [\"immunity\", \"thick fat\", \"gluttony\"],\n    \"common_items\": [\"leftovers\", \"chesto berry\", \"figy berry\"],\n    \"summary\": \"gigantamax snorlax is a colossal tank with immense hp and bulk, using g-max replenish to restore berries and set up with curse. its g-max move also prevents opponents from using berries.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"snover\",\n    \"types\": [\"grass\", \"ice\"],\n    \"roles\": [\"trick room setter\", \"weather setter\", \"disruptor\"],\n    \"notable_moves\": [\"blizzard\", \"giga drain\", \"leech seed\", \"icy wind\"],\n    \"abilities\": [\"snow warning\", \"soundproof\"],\n    \"common_items\": [\"focus sash\", \"leftovers\", \"icy rock\"],\n    \"summary\": \"a slow grass/ice type that sets hail with snow warning, functioning as a disruptive support pokemon in trick room teams.\"\n}\n```"
+}

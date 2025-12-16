@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"fidough\",\n    \"types\": [\"fairy\"],\n    \"roles\": [\"setup-sweeper\", \"bulky-attacker\"],\n    \"notable_moves\": [\"body-press\", \"play-rough\", \"wish\", \"protect\"],\n    \"abilities\": [\"own-tempo\", \"klutz\"],\n    \"common_items\": [\"leftovers\", \"sitrus-berry\"],\n    \"summary\": \"a bulky fairy-type that uses body press and setup to sweep, with reliable recovery.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"corsola-galar\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"wall\", \"hazard-setter\"],\n    \"notable_moves\": [\"strength-sap\", \"will-o-wisp\", \"stealth-rock\", \"night-shade\"],\n    \"abilities\": [\"weak-armor\", \"cursed-body\"],\n    \"common_items\": [\"eviolite\", \"rocky-helmet\"],\n    \"summary\": \"a defensive ghost-type wall that sets hazards and cripples physical attackers with strength sap and burns.\"\n}\n```"
+}

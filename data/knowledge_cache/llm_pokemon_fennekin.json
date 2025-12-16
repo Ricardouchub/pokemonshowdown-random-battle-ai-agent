@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"fennekin\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"special-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"fire-blast\", \"psychic\", \"grass-knot\", \"sunny-day\"],\n    \"abilities\": [\"blaze\", \"magician\"],\n    \"common_items\": [\"eviolite\", \"life-orb\"],\n    \"summary\": \"a fire-type starter with special attacking potential and a hidden ability that steals items.\"\n}\n```"
+}

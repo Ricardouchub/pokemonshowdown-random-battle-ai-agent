@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"corviknight\",\n    \"types\": [\"flying\", \"steel\"],\n    \"roles\": [\"defensive pivot\", \"bulky support\", \"hazard removal\"],\n    \"notable_moves\": [\"brave bird\", \"body press\", \"roost\", \"defog\", \"u-turn\"],\n    \"abilities\": [\"pressure\", \"unnerve\", \"mirror armor\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"heavy-duty boots\"],\n    \"summary\": \"a bulky defensive pok\u00e9mon with excellent typing, reliable recovery, and utility moves like defog and u-turn.\"\n}\n```"
+}

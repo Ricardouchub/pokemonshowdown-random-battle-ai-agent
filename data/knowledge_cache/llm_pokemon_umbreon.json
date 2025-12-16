@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"umbreon\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"wall\", \"cleric\", \"status-spreader\"],\n    \"notable_moves\": [\"foul play\", \"wish\", \"protect\", \"toxic\", \"heal bell\"],\n    \"abilities\": [\"synchronize\", \"inner-focus\"],\n    \"common_items\": [\"leftovers\", \"heavy-duty-boots\"],\n    \"summary\": \"a bulky dark-type eeveelution known for its high special defense and reliable recovery, often used to stall opponents with toxic and wish-protect strategies.\"\n}\n```"
+}

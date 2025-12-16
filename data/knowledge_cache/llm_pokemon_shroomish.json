@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"shroomish\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"staller\", \"status spreader\", \"early-game wall\"],\n    \"notable_moves\": [\"spore\", \"leech seed\", \"giga drain\", \"toxic\"],\n    \"abilities\": [\"effect spore\", \"poison heal\", \"quick feet\"],\n    \"common_items\": [\"toxic orb\", \"leftovers\", \"black sludge\"],\n    \"summary\": \"a defensive grass-type known for spore and poison heal stalling, evolves into breloom.\"\n}\n```"
+}

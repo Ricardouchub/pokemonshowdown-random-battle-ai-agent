@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"persian\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"fast-attacker\", \"support\", \"hazard-setter\"],\n    \"notable_moves\": [\"fake-out\", \"uturn\", \"taunt\", \"knock-off\"],\n    \"abilities\": [\"technician\", \"unnerve\", \"rattled\"],\n    \"common_items\": [\"life-orb\", \"choice-scarf\", \"focus-sash\"],\n    \"summary\": \"fast normal-type with priority fake-out and utility moves, often using technician to boost weak attacks.\"\n}\n```"
+}

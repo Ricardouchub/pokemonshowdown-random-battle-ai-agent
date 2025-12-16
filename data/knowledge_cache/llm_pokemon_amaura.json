@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"amaura\",\n    \"types\": [\"rock\", \"ice\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"aurora veil\", \"freeze-dry\", \"ancient power\", \"hyper voice\"],\n    \"abilities\": [\"refrigerate\", \"snow warning\"],\n    \"common_items\": [\"light clay\", \"focus sash\"],\n    \"summary\": \"a slow but potent special attacker that can set up aurora veil with snow warning, using refrigerate to boost normal-type moves.\"\n}\n```"
+}

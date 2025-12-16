@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"trumbeak\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"early-game attacker\", \"scout\"],\n    \"notable_moves\": [\"rock blast\", \"bullet seed\", \"pluck\", \"drill peck\"],\n    \"abilities\": [\"keen eye\", \"skill link\", \"pickup\"],\n    \"common_items\": [\"oran berry\", \"sharp beak\"],\n    \"summary\": \"mid-evolution woodpecker pok\u00e9mon that uses its beak to drill holes and store berries. skill link boosts multi-hit moves like rock blast.\"\n}\n```"
+}

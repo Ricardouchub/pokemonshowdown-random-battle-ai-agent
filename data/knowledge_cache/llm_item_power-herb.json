@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Power Herb\",\n    \"category\": \"Held Item\",\n    \"summary\": \"Allows the holder to use a two-turn move (e.g., Solar Beam, Sky Attack) in a single turn. Consumed after one use.\",\n    \"typical_users\": [\"Pok\u00e9mon using two-turn moves for surprise KOs\", \"Movesets with Geomancy, Meteor Beam, or Freeze Shock\"]\n}\n```"
+}

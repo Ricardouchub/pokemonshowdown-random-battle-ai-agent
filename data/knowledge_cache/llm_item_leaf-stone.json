@@ -1,0 +1,12 @@
+{
+  "item": "Leaf Stone",
+  "category": "Evolutionary Item",
+  "summary": "Evolves specific Grass-type Pok\u00e9mon, such as Gloom into Vileplume or Weepinbell into Victreebel.",
+  "typical_users": [
+    "Gloom",
+    "Weepinbell",
+    "Exeggcute",
+    "Nuzleaf",
+    "Pansage"
+  ]
+}

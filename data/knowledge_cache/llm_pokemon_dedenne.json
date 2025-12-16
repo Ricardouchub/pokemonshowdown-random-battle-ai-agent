@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dedenne\",\n    \"types\": [\"electric\", \"fairy\"],\n    \"roles\": [\"pivot\", \"support\", \"offensive utility\"],\n    \"notable_moves\": [\"nuzzle\", \"voltswitch\", \"grass knot\", \"recycle\"],\n    \"abilities\": [\"cheek pouch\", \"pickup\", \"plus\"],\n    \"common_items\": [\"sitrus berry\", \"air balloon\"],\n    \"summary\": \"a fast electric/fairy pivot with cheek pouch recovery and paralysis support via nuzzle.\"\n}\n```"
+}

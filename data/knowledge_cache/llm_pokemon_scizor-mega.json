@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"scizor-mega\",\n    \"types\": [\"bug\", \"steel\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\", \"pivot\"],\n    \"notable_moves\": [\"bullet punch\", \"u-turn\", \"superpower\", \"knock off\", \"swords dance\"],\n    \"abilities\": [\"technician\"],\n    \"common_items\": [\"scizorite\"],\n    \"summary\": \"mega evolution boosts attack, defense, and special defense. technician makes bullet punch a powerful priority move. excellent physical attacker with strong defensive typing.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hitmontop\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"rapid spinner\", \"bulky pivot\", \"technician attacker\"],\n    \"notable_moves\": [\"rapid spin\", \"triple axel\", \"close combat\", \"sucker punch\", \"mach punch\"],\n    \"abilities\": [\"intimidate\", \"technician\", \"steadfast\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"a versatile fighting-type known for spinning away hazards and using technician-boosted priority moves.\"\n}\n```"
+}

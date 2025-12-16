@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dragonair\",\n    \"types\": [\"dragon\"],\n    \"roles\": [\"setup sweeper\", \"bulky attacker\"],\n    \"notable_moves\": [\"dragon dance\", \"outrage\", \"extreme speed\", \"waterfall\"],\n    \"abilities\": [\"shed skin\", \"marvel scale\"],\n    \"common_items\": [\"leftovers\", \"lum berry\"],\n    \"summary\": \"mid-stage dragon with setup potential and defensive utility via marvel scale.\"\n}\n```"
+}

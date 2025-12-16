@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"yamask\",\n    \"types\": [\"ghost\"],\n    \"roles\": [\"defensive wall\", \"trick room setter\", \"status spreader\"],\n    \"notable_moves\": [\"shadow ball\", \"will-o-wisp\", \"trick room\", \"haze\"],\n    \"abilities\": [\"mummy\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a defensive ghost-type that spreads burns and sets trick room, relying on eviolite for bulk.\"\n}\n```"
+}

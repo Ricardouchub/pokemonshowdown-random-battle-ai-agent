@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"stunky\",\n    \"types\": [\"poison\", \"dark\"],\n    \"roles\": [\"staller\", \"utility\", \"hazard-setter\"],\n    \"notable_moves\": [\"sucker-punch\", \"toxic\", \"crunch\", \"defog\"],\n    \"abilities\": [\"stench\", \"aftermath\", \"keen-eye\"],\n    \"common_items\": [\"black-sludge\", \"leftovers\", \"air-balloon\"],\n    \"summary\": \"a defensive poison/dark type known for its stalling capabilities, hazard removal, and ability to punish physical attackers with aftermath.\"\n}\n```"
+}

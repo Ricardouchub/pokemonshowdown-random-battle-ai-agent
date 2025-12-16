@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sizzlipede\",\n    \"types\": [\"fire\", \"bug\"],\n    \"roles\": [\"setup sweeper\", \"physical attacker\"],\n    \"notable_moves\": [\"fire lash\", \"leech life\", \"knock off\", \"coil\"],\n    \"abilities\": [\"flash fire\", \"white smoke\", \"flame body\"],\n    \"common_items\": [\"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"a physical fire/bug type that sets up with coil and uses fire lash to lower defense.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Icy Rock\",\n    \"category\": \"Held Item\",\n    \"summary\": \"Extends the duration of Hail from 5 turns to 8 turns when held by the user that activates the weather.\",\n    \"typical_users\": [\"Abomasnow\", \"Alolan Ninetales\", \"Aurorus\", \"Glaceon\", \"other Hail setters or weather-dependent Ice-type attackers\"]\n}\n```"
+}

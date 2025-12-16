@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"bibarel\",\n    \"types\": [\"normal\", \"water\"],\n    \"roles\": [\"simple sweeper\", \"utility\", \"hazard setter\"],\n    \"notable_moves\": [\"curse\", \"aqua jet\", \"quick attack\", \"stealth rock\"],\n    \"abilities\": [\"simple\", \"unaware\", \"moody\"],\n    \"common_items\": [\"leftovers\", \"sitrus berry\"],\n    \"summary\": \"a versatile normal/water type known for its ability simple boosting stat changes, often used for setup sweeping or utility roles.\"\n}\n```"
+}

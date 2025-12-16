@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"avalugg\",\n    \"types\": [\"ice\"],\n    \"roles\": [\"physical wall\", \"hazard setter\"],\n    \"notable_moves\": [\"avalanche\", \"recover\", \"rapid spin\", \"body press\"],\n    \"abilities\": [\"own tempo\", \"ice body\", \"sturdy\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\"],\n    \"summary\": \"bulky ice-type physical wall with hazard control and recovery, but suffers from poor defensive typing.\"\n}\n```"
+}

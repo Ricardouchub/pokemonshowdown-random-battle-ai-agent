@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"mewtwo-mega-x\",\n    \"types\": [\"psychic\", \"fighting\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\", \"revenge-killer\"],\n    \"notable_moves\": [\"low-kick\", \"psychic\", \"ice-beam\", \"fire-punch\", \"earthquake\"],\n    \"abilities\": [\"steadfast\"],\n    \"common_items\": [\"mewtwonite-x\"],\n    \"summary\": \"mega evolution of mewtwo with immense physical attack and fighting type, excelling at breaking through defensive cores with its coverage moves.\"\n}\n```"
+}

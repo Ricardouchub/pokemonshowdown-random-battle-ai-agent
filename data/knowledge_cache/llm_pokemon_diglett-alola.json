@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"diglett-alola\",\n    \"types\": [\"ground\", \"steel\"],\n    \"roles\": [\"hazard setter\", \"stealth rock user\", \"trapper\"],\n    \"notable_moves\": [\"earthquake\", \"iron head\", \"stealth rock\", \"sucker punch\"],\n    \"abilities\": [\"sand veil\", \"tangling hair\", \"sand force\"],\n    \"common_items\": [\"focus sash\", \"choice scarf\", \"air balloon\"],\n    \"summary\": \"alolan diglett trades speed for steel typing and trapping ability, functioning as a niche stealth rock setter and ground-type attacker with priority.\"\n}\n```"
+}

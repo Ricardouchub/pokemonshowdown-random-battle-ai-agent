@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"landorus-incarnate\",\n    \"types\": [\"ground\", \"flying\"],\n    \"roles\": [\"wallbreaker\", \"setup sweeper\", \"pivot\"],\n    \"notable_moves\": [\"earthquake\", \"stone edge\", \"swords dance\", \"uturn\"],\n    \"abilities\": [\"sand force\", \"sheer force\"],\n    \"common_items\": [\"life orb\", \"choice scarf\", \"leftovers\"],\n    \"summary\": \"powerful physical attacker with great offensive typing and setup potential, often used to break defensive cores.\"\n}\n```"
+}

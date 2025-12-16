@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"snom\",\n    \"types\": [\"ice\", \"bug\"],\n    \"roles\": [\"setup\", \"defensive pivot\"],\n    \"notable_moves\": [\"struggle bug\", \"icy wind\", \"mirror coat\", \"bug bite\"],\n    \"abilities\": [\"shield dust\", \"ice scales\"],\n    \"common_items\": [\"eviolite\", \"berry juice\"],\n    \"summary\": \"a weak early-game ice/bug type that evolves into frosmoth. used for setup with eviolite or as a defensive pivot with ice scales.\"\n}\n```"
+}

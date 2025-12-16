@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grafaiai\",\n    \"types\": [\"poison\", \"normal\"],\n    \"roles\": [\"hazard setter\", \"pivot\", \"disruptor\"],\n    \"notable_moves\": [\"parting shot\", \"toxic spikes\", \"knock off\", \"doodle\", \"gunkshot\"],\n    \"abilities\": [\"prankster\", \"unburden\", \"poison touch\"],\n    \"common_items\": [\"heavy-duty boots\", \"black sludge\", \"focus sash\"],\n    \"summary\": \"unique poison/normal prankster user known for setting hazards, disrupting with doodle, and pivoting with parting shot.\"\n}\n```"
+}

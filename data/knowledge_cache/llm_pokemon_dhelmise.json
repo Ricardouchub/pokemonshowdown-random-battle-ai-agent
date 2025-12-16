@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dhelmise\",\n    \"types\": [\"ghost\", \"grass\"],\n    \"roles\": [\"wallbreaker\", \"tank\", \"rapid_spin_user\"],\n    \"notable_moves\": [\"power_whip\", \"anchor_shot\", \"rapid_spin\", \"shadow_claw\", \"synthesis\"],\n    \"abilities\": [\"steelworker\"],\n    \"common_items\": [\"assault_vest\", \"leftovers\", \"life_orb\"],\n    \"summary\": \"unique anchor-based pok\u00e9mon with steelworker boosting steel moves despite its typing, functioning as a slow but powerful physical attacker and spinner.\"\n}\n```"
+}

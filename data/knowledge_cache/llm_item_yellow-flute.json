@@ -1,0 +1,8 @@
+{
+  "item": "Yellow Flute",
+  "category": "Status Recovery",
+  "summary": "Cures confusion for the holder when it becomes confused.",
+  "typical_users": [
+    "Pok\u00e9mon vulnerable to confusion-inducing moves or abilities, such as those with low Speed or using high-risk moves like Outrage or Petal Dance"
+  ]
+}

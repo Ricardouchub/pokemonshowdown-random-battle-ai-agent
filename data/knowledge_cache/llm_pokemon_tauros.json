@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"tauros\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"physical attacker\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"body slam\", \"earthquake\", \"rock slide\", \"zen headbutt\", \"close combat\"],\n    \"abilities\": [\"intimidate\", \"anger point\", \"sheer force\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"choice scarf\"],\n    \"summary\": \"a pure normal-type physical powerhouse known for high attack and speed, often using choice items to hit hard or revenge kill.\"\n}\n```"
+}

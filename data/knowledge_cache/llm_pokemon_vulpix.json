@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"vulpix\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"sun-setter\", \"special-attacker\", \"support\"],\n    \"notable_moves\": [\"flamethrower\", \"will-o-wisp\", \"energy-ball\", \"hypnosis\"],\n    \"abilities\": [\"flash-fire\", \"drought\"],\n    \"common_items\": [\"heat-rock\", \"focus-sash\", \"choice-specs\"],\n    \"summary\": \"a fire-type fox known for drought support and status moves, often used to set sun.\"\n}\n```"
+}

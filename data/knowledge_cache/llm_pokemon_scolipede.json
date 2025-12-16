@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"scolipede\",\n    \"types\": [\"bug\", \"poison\"],\n    \"roles\": [\"speed_control\", \"physical_sweeper\", \"hazard_setter\"],\n    \"notable_moves\": [\"megahorn\", \"poison_jab\", \"earthquake\", \"rock_slide\", \"swords_dance\"],\n    \"abilities\": [\"poison_point\", \"swarm\", \"speed_boost\"],\n    \"common_items\": [\"life_orb\", \"focus_sash\", \"black_sludge\"],\n    \"summary\": \"fast bug/poison centipede with speed boost, excels at late-game sweeping and baton pass strategies.\"\n}\n```"
+}

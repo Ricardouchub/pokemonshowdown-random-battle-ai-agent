@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Max Elixir\",\n    \"category\": \"Consumable / Battle Item\",\n    \"summary\": \"Restores the PP of all moves for one Pok\u00e9mon to maximum when used from the bag during battle.\",\n    \"typical_users\": [\"Stall or defensive Pok\u00e9mon needing PP recovery\", \"Wallbreakers with low-PP high-power moves\", \"Teams lacking reliable recovery or facing PP-stall strategies\"]\n}\n```"
+}

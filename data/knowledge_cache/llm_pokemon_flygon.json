@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"flygon\",\n    \"types\": [\"ground\", \"dragon\"],\n    \"roles\": [\"choice scarf attacker\", \"setup sweeper\", \"pivot\"],\n    \"notable_moves\": [\"earthquake\", \"dragon claw\", \"uturn\", \"fire punch\"],\n    \"abilities\": [\"levitate\"],\n    \"common_items\": [\"choice scarf\", \"life orb\", \"leftovers\"],\n    \"summary\": \"versatile dragon/ground type with levitate immunity, good coverage, and utility moves like uturn.\"\n}\n```"
+}

@@ -1,0 +1,9 @@
+{
+  "item": "Spooky Plate",
+  "category": "Type-Enhancing Item",
+  "summary": "Boosts the power of Ghost-type moves by 20% and changes Arceus or Judgment's type to Ghost.",
+  "typical_users": [
+    "Arceus (Ghost)",
+    "Pok\u00e9mon using Ghost-type coverage moves, e.g., Gengar, Chandelure"
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"inteleon-gmax\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special-attacker\", \"revenge-killer\", \"sniper\"],\n    \"notable_moves\": [\"snipe-shot\", \"hydro-pump\", \"dark-pulse\", \"ice-beam\", \"uturn\"],\n    \"abilities\": [\"torrent\", \"sniper\"],\n    \"common_items\": [\"choice-specs\", \"focus-sash\", \"life-orb\"],\n    \"summary\": \"gigantamax form with exclusive g-max move 'g-max hydrosnipe' that ignores abilities, making it a potent wallbreaker and revenge killer.\"\n}\n```"
+}

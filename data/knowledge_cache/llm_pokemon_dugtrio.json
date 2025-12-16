@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dugtrio\",\n    \"types\": [\"ground\"],\n    \"roles\": [\"revenge-killer\", \"hazard-setter\", \"cleaner\"],\n    \"notable_moves\": [\"earthquake\", \"sucker-punch\", \"stealth-rock\", \"stone-edge\"],\n    \"abilities\": [\"arena-trap\", \"sand-force\", \"sand-veil\"],\n    \"common_items\": [\"choice-band\", \"focus-sash\", \"life-orb\"],\n    \"summary\": \"fast ground-type attacker known for arena trap ability to trap and eliminate foes, often used as a revenge killer or late-game cleaner.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wugtrio\",\n    \"types\": [\"water\"],\n    \"roles\": [\"hazard-setter\", \"revenge-killer\", \"pivot\"],\n    \"notable_moves\": [\"memento\", \"liquidation\", \"sucker-punch\", \"spikes\"],\n    \"abilities\": [\"gooey\", \"rattled\"],\n    \"common_items\": [\"focus-sash\", \"heavy-duty-boots\"],\n    \"summary\": \"fast water-type hazard setter that uses memento to enable teammates after setting spikes.\"\n}\n```"
+}

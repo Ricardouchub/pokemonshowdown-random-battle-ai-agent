@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"wailord\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special attacker\", \"bulky water\", \"rain supporter\"],\n    \"notable_moves\": [\"water spout\", \"ice beam\", \"rest\", \"sleep talk\"],\n    \"abilities\": [\"water veil\", \"oblivious\", \"pressure\"],\n    \"common_items\": [\"leftovers\", \"choice specs\"],\n    \"summary\": \"massive hp stat with decent special attack, often used for powerful water spout attacks or as a bulky rain team supporter.\"\n}\n```"
+}

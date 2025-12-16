@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"whimsicott\",\n    \"types\": [\"grass\", \"fairy\"],\n    \"roles\": [\"pivot\", \"support\", \"disruptor\"],\n    \"notable_moves\": [\"tailwind\", \"encore\", \"memento\", \"moonblast\", \"u-turn\"],\n    \"abilities\": [\"prankster\", \"infiltrator\", \"chlorophyll\"],\n    \"common_items\": [\"focus sash\", \"leftovers\", \"eject button\"],\n    \"summary\": \"fast prankster support with priority disruption and momentum moves.\"\n}\n```"
+}

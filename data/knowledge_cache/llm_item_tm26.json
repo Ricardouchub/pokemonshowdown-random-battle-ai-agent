@@ -1,0 +1,10 @@
+{
+  "item": "TM26",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Earthquake, a powerful 100 base power Ground-type physical attack with 100% accuracy that hits all adjacent Pok\u00e9mon in Double Battles.",
+  "typical_users": [
+    "Physical Ground-type attackers (e.g., Garchomp, Excadrill)",
+    "Pok\u00e9mon needing strong, reliable coverage against Electric, Fire, Poison, Rock, and Steel types",
+    "Trick Room or slow, bulky attackers (e.g., Swampert, Mamoswine)"
+  ]
+}

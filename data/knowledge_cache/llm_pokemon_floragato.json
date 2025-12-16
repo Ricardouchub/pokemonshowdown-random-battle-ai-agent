@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"floragato\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"offensive pivot\", \"setup sweeper\"],\n    \"notable_moves\": [\"flower trick\", \"u-turn\", \"sucker punch\", \"knock off\"],\n    \"abilities\": [\"overgrow\", \"protean\"],\n    \"common_items\": [\"choice scarf\", \"heavy-duty boots\", \"life orb\"],\n    \"summary\": \"fast grass-type attacker with protean flexibility, using u-turn for momentum and priority for revenge killing.\"\n}\n```"
+}

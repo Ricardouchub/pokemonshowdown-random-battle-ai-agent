@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sentret\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"scout\", \"early-game attacker\"],\n    \"notable_moves\": [\"quick attack\", \"slam\", \"follow me\", \"u-turn\"],\n    \"abilities\": [\"run away\", \"keen eye\", \"frisk\"],\n    \"common_items\": [\"oran berry\", \"silk scarf\"],\n    \"summary\": \"a basic normal-type scout pok\u00e9mon known for standing watch and using its tail for balance. evolves into furret at level 15.\"\n}\n```"
+}

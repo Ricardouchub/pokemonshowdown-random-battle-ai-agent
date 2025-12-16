@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"qwilfish-hisui\",\n    \"types\": [\"dark\", \"poison\"],\n    \"roles\": [\"wallbreaker\", \"spiker\", \"poison-spreader\"],\n    \"notable_moves\": [\"barb barrage\", \"sucker punch\", \"toxic spikes\", \"swords dance\"],\n    \"abilities\": [\"poison-point\", \"swift-swim\", \"intimidate\"],\n    \"common_items\": [\"black-sludge\", \"focus-sash\", \"life-orb\"],\n    \"summary\": \"hisuian qwilfish is a physical wallbreaker that sets toxic spikes and spreads poison with barb barrage, often using swords dance to boost its damage output.\"\n}\n```"
+}

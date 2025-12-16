@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"grimer\",\n    \"types\": [\"poison\"],\n    \"roles\": [\"physical wall\", \"toxic staller\"],\n    \"notable_moves\": [\"sludge bomb\", \"toxic\", \"protect\", \"shadow sneak\"],\n    \"abilities\": [\"stench\", \"sticky hold\", \"poison touch\"],\n    \"common_items\": [\"black sludge\", \"leftovers\"],\n    \"summary\": \"a slow poison-type tank that spreads status and wears down opponents with residual damage.\"\n}\n```"
+}

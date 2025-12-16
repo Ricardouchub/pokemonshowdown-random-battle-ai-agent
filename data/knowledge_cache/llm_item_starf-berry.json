@@ -1,0 +1,9 @@
+{
+  "item": "Starf Berry",
+  "category": "Berry",
+  "summary": "Raises a random stat by two stages when HP drops below 25%, unless the stat is already at +6.",
+  "typical_users": [
+    "Bulk setup sweepers (e.g., Clefable, Snorlax)",
+    "Pok\u00e9mon with recovery moves to reuse the berry"
+  ]
+}

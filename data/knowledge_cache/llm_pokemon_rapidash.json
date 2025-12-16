@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"rapidash\",\n    \"types\": [\"fire\"],\n    \"roles\": [\"physical sweeper\", \"revenge killer\"],\n    \"notable_moves\": [\"flare blitz\", \"wild charge\", \"high horsepower\", \"swords dance\"],\n    \"abilities\": [\"run away\", \"flash fire\", \"flame body\"],\n    \"common_items\": [\"life orb\", \"choice band\", \"heavy-duty boots\"],\n    \"summary\": \"a fast fire-type physical attacker known for its high speed and powerful flare blitz, often used to clean up weakened teams or revenge kill.\"\n}\n```"
+}

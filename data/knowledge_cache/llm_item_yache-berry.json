@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Yache Berry\",\n    \"category\": \"Damage Reduction Berry\",\n    \"summary\": \"Halves damage taken from a super effective Ice-type move, then is consumed.\",\n    \"typical_users\": [\"Garchomp\", \"Landorus-Therian\", \"Salamence\", \"Dragonite\", \"other Dragon/Ground/Flying types weak to Ice\"]\n}\n```"
+}

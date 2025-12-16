@@ -1,0 +1,8 @@
+{
+  "item": "Quick Powder",
+  "category": "Held Item",
+  "summary": "Doubles the Speed stat of Ditto when held, but only while Ditto is in its base form (not transformed).",
+  "typical_users": [
+    "Ditto"
+  ]
+}

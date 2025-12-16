@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"palossand\",\n    \"types\": [\"ghost\", \"ground\"],\n    \"roles\": [\"special wall\", \"hazard setter\", \"trick room sweeper\"],\n    \"notable_moves\": [\"shore up\", \"stealth rock\", \"shadow ball\", \"earth power\"],\n    \"abilities\": [\"water compaction\", \"sand veil\"],\n    \"common_items\": [\"leftovers\", \"colbur berry\", \"weakness policy\"],\n    \"summary\": \"a defensive ghost/ground type known for its recovery with shore up and ability to set hazards. its water compaction ability boosts defense when hit by water moves.\"\n}\n```"
+}

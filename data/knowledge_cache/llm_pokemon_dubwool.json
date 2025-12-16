@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dubwool\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"defensive wall\", \"support\", \"setup sweeper\"],\n    \"notable_moves\": [\"body press\", \"cotton guard\", \"rest\", \"thunder wave\", \"payback\"],\n    \"abilities\": [\"fluffy\", \"steadfast\", \"bulletproof\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"heavy-duty boots\"],\n    \"summary\": \"bulky normal-type with high defense, uses cotton guard and body press to sweep or provides team support with status moves.\"\n}\n```"
+}

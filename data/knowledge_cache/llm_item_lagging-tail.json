@@ -1,0 +1,9 @@
+{
+  "item": "Lagging Tail",
+  "category": "Held Item",
+  "summary": "Holder always moves last in its priority bracket, ignoring Speed stats.",
+  "typical_users": [
+    "Trick Room setters (e.g., Porygon2, Cresselia)",
+    "Pok\u00e9mon with slow, powerful moves or abilities like 'Stall' (e.g., Shuckle)"
+  ]
+}

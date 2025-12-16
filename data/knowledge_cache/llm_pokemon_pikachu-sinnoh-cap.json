@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-sinnoh-cap\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast-attacker\", \"voltage-switch\", \"z-move-user\"],\n    \"notable_moves\": [\"volt-tackle\", \"thunderbolt\", \"fake-out\", \"voltage-switch\"],\n    \"abilities\": [\"static\", \"lightning-rod\"],\n    \"common_items\": [\"light-ball\", \"electrium-z\"],\n    \"summary\": \"a special pikachu variant with sinnoh cap, known for its high-speed electric attacks and signature volt tackle, often holding light ball to boost its offensive power.\"\n}\n```"
+}

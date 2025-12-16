@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"purrloin\",\n    \"types\": [\"dark\"],\n    \"roles\": [\"fast-support\", \"nuisance\"],\n    \"notable_moves\": [\"foul-play\", \"taunt\", \"thunder-wave\", \"uturn\"],\n    \"abilities\": [\"limber\", \"unburden\", \"prankster\"],\n    \"common_items\": [\"focus-sash\", \"choice-scarf\"],\n    \"summary\": \"a fast dark-type with prankster support moves, but poor stats limit its viability.\"\n}\n```"
+}

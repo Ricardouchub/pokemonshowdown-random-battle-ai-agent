@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"lopunny\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"physical sweeper\", \"support\", \"revenge killer\"],\n    \"notable_moves\": [\"return\", \"high jump kick\", \"ice punch\", \"fake out\", \"healing wish\"],\n    \"abilities\": [\"klutz\", \"limber\", \"scrappy\"],\n    \"common_items\": [\"lopunnite\", \"life orb\", \"choice scarf\"],\n    \"summary\": \"fast normal-type with mega evolution access; versatile physical attacker or support with scrappy ability to hit ghosts.\"\n}\n```"
+}

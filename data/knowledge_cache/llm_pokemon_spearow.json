@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"spearow\",\n    \"types\": [\"normal\", \"flying\"],\n    \"roles\": [\"early-game attacker\", \"fast scout\"],\n    \"notable_moves\": [\"drill peck\", \"return\", \"quick attack\", \"u-turn\"],\n    \"abilities\": [\"keen eye\", \"sniper\"],\n    \"common_items\": [\"sharp beak\", \"choice band\"],\n    \"summary\": \"a fast, frail early-game bird pok\u00e9mon with decent attack but poor defenses.\"\n}\n```"
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"aggron\",\n    \"types\": [\"steel\", \"rock\"],\n    \"roles\": [\"tank\", \"wall\", \"stealth rock setter\"],\n    \"notable_moves\": [\"stealth rock\", \"heavy slam\", \"earthquake\", \"head smash\", \"toxic\"],\n    \"abilities\": [\"sturdy\", \"rock head\", \"heavy metal\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"assault vest\"],\n    \"summary\": \"a physically defensive steel/rock tank known for setting hazards and absorbing hits with high defense.\"\n}\n```"
+}

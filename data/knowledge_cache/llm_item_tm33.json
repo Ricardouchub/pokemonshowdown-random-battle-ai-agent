@@ -1,0 +1,10 @@
+{
+  "item": "TM33",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Reflect, which raises the Defense stat of the user's side for 5 turns.",
+  "typical_users": [
+    "Support Pok\u00e9mon",
+    "Defensive pivots",
+    "Screens setters like Grimmsnarl, Klefki, or Alakazam"
+  ]
+}

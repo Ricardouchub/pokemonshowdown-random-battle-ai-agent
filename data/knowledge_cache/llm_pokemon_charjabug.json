@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"charjabug\",\n    \"types\": [\"bug\", \"electric\"],\n    \"roles\": [\"tank\", \"setup\", \"pivot\"],\n    \"notable_moves\": [\"volt switch\", \"bug buzz\", \"iron defense\", \"sticky web\"],\n    \"abilities\": [\"battery\"],\n    \"common_items\": [\"eviolite\", \"leftovers\"],\n    \"summary\": \"a defensive pivot that boosts allies with battery, often using eviolite for bulk.\"\n}\n```"
+}

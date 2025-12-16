@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"gothitelle\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"trick room setter\", \"wall\", \"support\"],\n    \"notable_moves\": [\"psychic\", \"trick room\", \"heal bell\", \"thunder wave\"],\n    \"abilities\": [\"frisk\", \"competitive\", \"shadow tag\"],\n    \"common_items\": [\"leftovers\", \"light clay\"],\n    \"summary\": \"bulky psychic-type known for setting trick room and providing team support with status moves and utility.\"\n}\n```"
+}

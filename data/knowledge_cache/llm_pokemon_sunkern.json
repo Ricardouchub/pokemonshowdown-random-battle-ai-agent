@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sunkern\",\n    \"types\": [\"grass\"],\n    \"roles\": [\"sun-setter\", \"support\", \"sun-abuser\"],\n    \"notable_moves\": [\"sunny day\", \"solar beam\", \"growth\", \"encore\"],\n    \"abilities\": [\"chlorophyll\", \"solar power\", \"early bird\"],\n    \"common_items\": [\"heat rock\", \"focus sash\"],\n    \"summary\": \"fragile grass-type sun setter; excels in sun teams with chlorophyll speed or solar power damage, but extremely weak defensively.\"\n}\n```"
+}

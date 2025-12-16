@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hitmonlee\",\n    \"types\": [\"fighting\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\", \"revenge killer\"],\n    \"notable_moves\": [\"high jump kick\", \"knock off\", \"stone edge\", \"poison jab\", \"rapid spin\"],\n    \"abilities\": [\"limber\", \"reckless\", \"unburden\"],\n    \"common_items\": [\"choice band\", \"life orb\", \"focus sash\", \"white herb\"],\n    \"summary\": \"high-risk physical attacker with powerful fighting moves and speed control options.\"\n}\n```"
+}

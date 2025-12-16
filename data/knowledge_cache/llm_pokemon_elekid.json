@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"elekid\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"thunder-punch\", \"ice-punch\", \"fire-punch\", \"cross-chop\"],\n    \"abilities\": [\"static\", \"vital-spirit\"],\n    \"common_items\": [\"eviolite\", \"choice-scarf\"],\n    \"summary\": \"fast electric baby pok\u00e9mon with elemental punches and fighting coverage, often uses eviolite for bulk.\"\n}\n```"
+}

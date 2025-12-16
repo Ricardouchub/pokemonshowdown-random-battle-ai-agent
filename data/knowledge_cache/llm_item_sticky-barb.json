@@ -1,0 +1,11 @@
+{
+  "item": "sticky-barb",
+  "category": "damage",
+  "summary": "Inflicts damage each turn on holder; transfers to Pok\u00e9mon making contact.",
+  "typical_users": [
+    "Ferrothorn",
+    "Toxapex",
+    "Gliscor",
+    "stall or hazard-stacking teams"
+  ]
+}

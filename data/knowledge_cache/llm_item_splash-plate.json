@@ -1,0 +1,9 @@
+{
+  "item": "Splash Plate",
+  "category": "Type-Enhancing Item",
+  "summary": "Boosts the power of Water-type moves by 20% and changes Arceus or Judgment to Water-type.",
+  "typical_users": [
+    "Arceus (Water)",
+    "Water-type attackers needing a consistent damage boost"
+  ]
+}

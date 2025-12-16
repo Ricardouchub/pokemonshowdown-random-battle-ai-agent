@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"quagsire\",\n    \"types\": [\"water\", \"ground\"],\n    \"roles\": [\"defensive wall\", \"status absorber\", \"hazard setter\"],\n    \"notable_moves\": [\"scald\", \"earthquake\", \"recover\", \"toxic\", \"yawn\"],\n    \"abilities\": [\"damp\", \"water absorb\", \"unaware\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\"],\n    \"summary\": \"a slow but bulky water/ground type known for its unaware ability ignoring stat boosts, reliable recovery, and ability to absorb status and electric moves.\"\n}\n```"
+}

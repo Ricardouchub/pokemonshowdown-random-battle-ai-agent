@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"dewgong\",\n    \"types\": [\"water\", \"ice\"],\n    \"roles\": [\"bulky water\", \"special wall\", \"hail setter\"],\n    \"notable_moves\": [\"surf\", \"ice beam\", \"toxic\", \"protect\", \"encore\"],\n    \"abilities\": [\"thick fat\", \"hydration\", \"ice body\"],\n    \"common_items\": [\"leftovers\", \"damp rock\", \"heavy-duty boots\"],\n    \"summary\": \"a bulky water-ice type known for its special defense and utility in hail teams, often using toxic and protect to stall opponents.\"\n}\n```"
+}

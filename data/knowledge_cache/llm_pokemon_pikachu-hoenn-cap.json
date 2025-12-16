@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"pikachu-hoenn-cap\",\n    \"types\": [\"electric\"],\n    \"roles\": [\"fast attacker\", \"voltage switch user\"],\n    \"notable_moves\": [\"voltage switch\", \"thunderbolt\", \"fake out\", \"encore\"],\n    \"abilities\": [\"static\", \"lightning rod\"],\n    \"common_items\": [\"light ball\", \"focus sash\"],\n    \"summary\": \"specialized pikachu variant with hoenn cap, excels as fast electric attacker with light ball-boosted offenses and utility moves.\"\n}\n```"
+}

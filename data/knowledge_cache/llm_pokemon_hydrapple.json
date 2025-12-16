@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"hydrapple\",\n    \"types\": [\"grass\", \"dragon\"],\n    \"roles\": [\"bulky setup\", \"tank\", \"stallbreaker\"],\n    \"notable_moves\": [\"fickle beam\", \"synthesis\", \"dragon pulse\", \"recover\", \"substitute\"],\n    \"abilities\": [\"supersweet syrup\", \"regenerator\", \"sticky hold\"],\n    \"common_items\": [\"leftovers\", \"rocky helmet\", \"heavy-duty boots\"],\n    \"summary\": \"a defensive evolution of dipplin with exceptional bulk, healing, and setup potential through its signature move fickle beam.\"\n}\n```"
+}

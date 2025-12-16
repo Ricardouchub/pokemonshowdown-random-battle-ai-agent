@@ -1,0 +1,8 @@
+{
+  "item": "Blue Flute",
+  "category": "Status Recovery",
+  "summary": "Cures sleep status condition when used from the bag in battle.",
+  "typical_users": [
+    "Pok\u00e9mon vulnerable to sleep-inducing moves, teams lacking Sleep Talk or reliable sleep immunity"
+  ]
+}

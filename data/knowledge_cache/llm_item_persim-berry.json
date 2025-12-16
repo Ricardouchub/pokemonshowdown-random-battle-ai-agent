@@ -1,0 +1,8 @@
+{
+  "item": "Persim Berry",
+  "category": "Berries",
+  "summary": "Cures confusion when the holder becomes confused.",
+  "typical_users": [
+    "Pok\u00e9mon vulnerable to confusion from moves like Outrage, Petal Dance, or Swagger, or those holding Choice items to mitigate confusion self-infliction."
+  ]
+}

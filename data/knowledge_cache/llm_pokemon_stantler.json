@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"stantler\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"physical attacker\", \"support\", \"trick room setter\"],\n    \"notable_moves\": [\"return\", \"earthquake\", \"hypnosis\", \"trick room\"],\n    \"abilities\": [\"intimidate\", \"frisk\", \"sap sipper\"],\n    \"common_items\": [\"choice band\", \"leftovers\", \"life orb\"],\n    \"summary\": \"a versatile normal-type with strong physical attacks and disruptive support options, often using intimidate to weaken opponents.\"\n}\n```"
+}

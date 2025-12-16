@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"illumise\",\n    \"types\": [\"bug\"],\n    \"roles\": [\"support\", \"weather-setter\", \"pivot\"],\n    \"notable_moves\": [\"tailwind\", \"encore\", \"wish\", \"baton-pass\", \"rain-dance\"],\n    \"abilities\": [\"oblivious\", \"tinted-lens\", \"prankster\"],\n    \"common_items\": [\"leftovers\", \"damp-rock\", \"focus-sash\"],\n    \"summary\": \"a support pok\u00e9mon known for prankster utility moves, weather setting, and momentum with baton pass.\"\n}\n```"
+}

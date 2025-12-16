@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"abra\",\n    \"types\": [\"psychic\"],\n    \"roles\": [\"fast-special-attacker\", \"setup-sweeper\"],\n    \"notable_moves\": [\"psychic\", \"psyshock\", \"shadow-ball\", \"calm-mind\"],\n    \"abilities\": [\"synchronize\", \"inner-focus\", \"magic-guard\"],\n    \"common_items\": [\"focus-sash\", \"life-orb\", \"choice-scarf\"],\n    \"summary\": \"fragile psychic with immense speed and special attack, often used as a lead or late-game sweeper.\"\n}\n```"
+}

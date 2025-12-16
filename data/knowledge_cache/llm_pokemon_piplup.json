@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"piplup\",\n    \"types\": [\"water\"],\n    \"roles\": [\"special attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"hydro pump\", \"ice beam\", \"agility\", \"grass knot\"],\n    \"abilities\": [\"torrent\", \"defiant\"],\n    \"common_items\": [\"eviolite\", \"life orb\"],\n    \"summary\": \"a defensive water-type starter that evolves into empoleon, often using eviolite in lower tiers to boost its bulk while setting up with agility.\"\n}\n```"
+}

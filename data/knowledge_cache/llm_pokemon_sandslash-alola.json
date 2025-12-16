@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"sandslash-alola\",\n    \"types\": [\"ice\", \"steel\"],\n    \"roles\": [\"hazard setter\", \"physical wall\", \"sweeper\"],\n    \"notable_moves\": [\"icicle crash\", \"iron head\", \"swords dance\", \"earthquake\"],\n    \"abilities\": [\"snow cloak\", \"slush rush\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"life orb\"],\n    \"summary\": \"alolan variant with ice/steel typing, excels in hail teams as a slush rush sweeper or defensive hazard setter.\"\n}\n```"
+}

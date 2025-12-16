@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"scraggy\",\n    \"types\": [\"dark\", \"fighting\"],\n    \"roles\": [\"bulky set-up sweeper\", \"defensive pivot\"],\n    \"notable_moves\": [\"dragon dance\", \"drain punch\", \"knock off\", \"ice punch\", \"rest\"],\n    \"abilities\": [\"shed skin\", \"moxie\", \"intimidate\"],\n    \"common_items\": [\"eviolite\", \"leftovers\", \"berry juice\"],\n    \"summary\": \"a defensive dark/fighting type that uses eviolite to boost its bulk, often setting up with dragon dance or using shed skin + rest for recovery.\"\n}\n```"
+}

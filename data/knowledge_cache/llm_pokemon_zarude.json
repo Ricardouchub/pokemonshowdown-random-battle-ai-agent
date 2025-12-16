@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"zarude\",\n    \"types\": [\"dark\", \"grass\"],\n    \"roles\": [\"offensive pivot\", \"bulky attacker\", \"setup sweeper\"],\n    \"notable_moves\": [\"power whip\", \"close combat\", \"jungle healing\", \"uturn\", \"darkest lariat\"],\n    \"abilities\": [\"leaf guard\"],\n    \"common_items\": [\"heavy-duty boots\", \"leftovers\", \"assault vest\"],\n    \"summary\": \"a versatile dark/grass mythical with strong offensive stats, recovery via jungle healing, and pivot utility.\"\n}\n```"
+}

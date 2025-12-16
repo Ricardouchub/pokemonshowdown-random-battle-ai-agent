@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"ursaring\",\n    \"types\": [\"normal\"],\n    \"roles\": [\"physical sweeper\", \"wallbreaker\"],\n    \"notable_moves\": [\"facade\", \"close combat\", \"swords dance\", \"crunch\"],\n    \"abilities\": [\"guts\", \"quick feet\", \"unnerve\"],\n    \"common_items\": [\"flame orb\", \"toxic orb\", \"choice band\"],\n    \"summary\": \"a powerful physical attacker that uses status orbs to activate guts for massive damage.\"\n}\n```"
+}

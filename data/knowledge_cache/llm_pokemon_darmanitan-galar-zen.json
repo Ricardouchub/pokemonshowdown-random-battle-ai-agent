@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"darmanitan-galar-zen\",\n    \"types\": [\"ice\", \"fire\"],\n    \"roles\": [\"wallbreaker\", \"sweeper\"],\n    \"notable_moves\": [\"icicle crash\", \"flare blitz\", \"uturn\", \"earthquake\"],\n    \"abilities\": [\"gorilla tactics\"],\n    \"common_items\": [\"choice-scarf\", \"choice-band\"],\n    \"summary\": \"zen mode transforms it into a powerful ice/fire attacker with massive attack and speed, but requires careful hp management.\"\n}\n```"
+}

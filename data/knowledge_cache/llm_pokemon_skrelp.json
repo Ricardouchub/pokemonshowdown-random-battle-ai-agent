@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"species\": \"skrelp\",\n    \"types\": [\"poison\", \"water\"],\n    \"roles\": [\"special wall\", \"toxic staller\"],\n    \"notable_moves\": [\"scald\", \"sludge bomb\", \"toxic\", \"protect\"],\n    \"abilities\": [\"poison point\", \"poison touch\", \"adaptability\"],\n    \"common_items\": [\"black sludge\", \"rocky helmet\"],\n    \"summary\": \"slow, bulky poison/water type that excels at stalling with toxic and poison abilities. often used defensively in lower tiers.\"\n}\n```"
+}

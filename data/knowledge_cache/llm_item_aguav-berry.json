@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Aguav Berry\",\n    \"category\": \"Recovery\",\n    \"summary\": \"Restores 50% HP when holder's HP drops below 25%, but confuses Pok\u00e9mon that dislike bitter flavors.\",\n    \"typical_users\": [\"Bulky Pok\u00e9mon with neutral or positive nature towards bitterness (e.g., Snorlax, Goodra)\", \"Trick Room setters\", \"Pok\u00e9mon utilizing Recycle strategies\"]\n}\n```"
+}
