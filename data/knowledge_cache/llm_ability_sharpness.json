@@ -1,0 +1,10 @@
+{
+  "ability": "Sharpness",
+  "effect": "Increases the power of slicing moves (e.g., Slash, Air Slash, X-Scissor) by 50%.",
+  "synergies": [
+    "Swords Dance",
+    "Choice Band",
+    "Pok\u00e9mon with high Attack/Special Attack and access to multiple slicing moves"
+  ],
+  "notes": "Affects moves flagged as slicing in game data; common on Pok\u00e9mon like Gallade, Kleavor, and Hisuian Samurott."
+}

@@ -1,0 +1,11 @@
+{
+  "ability": "Stance Change",
+  "effect": "Changes Aegislash's form between Blade Forme (high Attack/Sp. Atk) and Shield Forme (high Defense/Sp. Def) based on the move used: offensive moves switch to Blade Forme, King's Shield switches to Shield Forme.",
+  "synergies": [
+    "King's Shield",
+    "Swords Dance",
+    "Shadow Sneak",
+    "Sacred Sword"
+  ],
+  "notes": "Form change occurs before the move executes; stat changes are retained between formes. Critical for Aegislash's strategy, allowing it to pivot between offense and defense."
+}

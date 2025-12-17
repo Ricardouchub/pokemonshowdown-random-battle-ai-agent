@@ -1,0 +1,11 @@
+{
+  "ability": "Mirror Armor",
+  "effect": "Reflects any stat-lowering effects from the opponent's moves or abilities back at the user.",
+  "synergies": [
+    "Corviknight",
+    "Defensive builds",
+    "Intimidate users",
+    "Stat-reducing moves like Scary Face or Charm"
+  ],
+  "notes": "Does not reflect effects from the user's own moves (e.g., Superpower) or entry hazards. Only affects direct stat reductions targeting the Pok\u00e9mon."
+}

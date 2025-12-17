@@ -1,0 +1,12 @@
+{
+  "ability": "Magic Guard",
+  "effect": "Prevents indirect damage from status conditions, weather, entry hazards, Leech Seed, and recoil, but not from direct attacks.",
+  "synergies": [
+    "Life Orb",
+    "Toxic Orb",
+    "Flame Orb",
+    "status moves",
+    "recoil moves"
+  ],
+  "notes": "Allows safe use of damaging items and status-inducing orbs without health loss, making it excellent for offensive or stall strategies."
+}

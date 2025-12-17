@@ -1,0 +1,10 @@
+{
+  "ability": "Fairy Aura",
+  "effect": "Powers up Fairy-type moves for all Pok\u00e9mon in battle.",
+  "synergies": [
+    "Fairy-type Pok\u00e9mon",
+    "Mega Evolution (Mega Gardevoir)",
+    "Xerneas (signature ability)"
+  ],
+  "notes": "Only affects damage, not accuracy or secondary effects. Weakened by Dark Aura and extinguished by Aura Break."
+}

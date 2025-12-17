@@ -1,0 +1,9 @@
+{
+  "ability": "Mountaineer",
+  "effect": "Prevents damage from Rock-type moves and entry hazards like Stealth Rock.",
+  "synergies": [
+    "Rock-weak Pok\u00e9mon",
+    "Teams reliant on hazard control"
+  ],
+  "notes": "Primarily found on Pok\u00e9mon from the Reborn fangame; not in official games."
+}

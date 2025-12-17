@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Receiver\",\n    \"effect\": \"Copies the Ability of a fainted ally.\",\n    \"synergies\": [\"Doubles/Triples formats\", \"Ability-dependent strategies\", \"Pok\u00e9mon with low-HP allies\"],\n    \"notes\": \"Only activates when an adjacent ally faints; copied Ability is permanent for the rest of the battle.\"\n}\n```"
+}

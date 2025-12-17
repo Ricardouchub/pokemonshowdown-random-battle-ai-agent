@@ -1,0 +1,10 @@
+{
+  "ability": "Tangling Hair",
+  "effect": "When hit by a contact move, lowers the attacker's Speed by one stage.",
+  "synergies": [
+    "Stealth Rock",
+    "Sticky Web",
+    "Pok\u00e9mon with trapping moves like Block or Mean Look"
+  ],
+  "notes": "Useful for disrupting physical attackers and enabling slower teammates to act first."
+}

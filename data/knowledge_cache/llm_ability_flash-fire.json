@@ -1,0 +1,10 @@
+{
+  "ability": "Flash Fire",
+  "effect": "Powers up Fire-type moves by 50% if hit by one, and grants immunity to Fire-type damage.",
+  "synergies": [
+    "Fire-type attackers",
+    "Pok\u00e9mon weak to Fire",
+    "Sun teams"
+  ],
+  "notes": "Activation requires being hit by a Fire move first; does not stack with other damage boosts like Choice items."
+}

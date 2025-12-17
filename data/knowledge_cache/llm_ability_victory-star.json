@@ -1,0 +1,10 @@
+{
+  "ability": "Victory Star",
+  "effect": "Raises the accuracy of all Pok\u00e9mon on the user's side by 10% in battle.",
+  "synergies": [
+    "Moves with low accuracy (e.g., Hypnosis, Focus Blast)",
+    "Multi-target moves in Double/Triple Battles",
+    "Partners using high-risk, high-reward strategies"
+  ],
+  "notes": "Exclusive to Victini; effect stacks if multiple Pok\u00e9mon have the ability."
+}

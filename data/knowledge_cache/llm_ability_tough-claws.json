@@ -1,0 +1,10 @@
+{
+  "ability": "Tough Claws",
+  "effect": "Powers up moves that make physical contact by 30%.",
+  "synergies": [
+    "Moves like Dragon Claw, Crunch, and Ice Punch",
+    "Pok\u00e9mon with high Attack stats",
+    "Mega Evolutions like Mega Charizard X and Mega Metagross"
+  ],
+  "notes": "A straightforward and powerful ability for physical attackers. It does not boost moves like Earthquake or Rock Slide that do not make contact."
+}

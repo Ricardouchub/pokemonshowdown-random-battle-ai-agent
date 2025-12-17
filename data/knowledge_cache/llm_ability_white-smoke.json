@@ -1,0 +1,10 @@
+{
+  "ability": "White Smoke",
+  "effect": "Prevents the Pok\u00e9mon's stats from being lowered by other Pok\u00e9mon's moves or abilities.",
+  "synergies": [
+    "Works well with Pok\u00e9mon that rely on maintaining high stats, such as setup sweepers or tanks.",
+    "Pairs effectively with moves like Curse or Bulk Up to boost stats without fear of stat drops.",
+    "Counters abilities like Intimidate and moves like Scary Face or Charm."
+  ],
+  "notes": "Does not protect against self-inflicted stat drops (e.g., Overheat, Close Combat) or stat drops from items (e.g., Lagging Tail). Common on Pok\u00e9mon like Torkoal and Heatmor."
+}

@@ -1,0 +1,8 @@
+{
+  "ability": "Insomnia",
+  "effect": "Prevents the Pok\u00e9mon from falling asleep.",
+  "synergies": [
+    "Works well with moves like Rest to avoid sleep, or against sleep-inducing moves from opponents."
+  ],
+  "notes": "Useful for countering sleep-based strategies; does not prevent other status conditions like paralysis or freeze."
+}

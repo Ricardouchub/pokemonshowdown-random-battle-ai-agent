@@ -1,0 +1,10 @@
+{
+  "ability": "Ice Body",
+  "effect": "Restores 1/16 of the Pok\u00e9mon's maximum HP each turn during hail or snow.",
+  "synergies": [
+    "Hail/Snow setters (e.g., Abomasnow, Alolan Ninetales)",
+    "Stall strategies with Leftovers",
+    "Ice-type Pok\u00e9mon with natural bulk"
+  ],
+  "notes": "Becomes less effective if weather is changed or removed. In Generation 9, works in snow but not in hail (which was replaced)."
+}

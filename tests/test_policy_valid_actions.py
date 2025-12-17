@@ -17,6 +17,8 @@ def test_baseline_policy_returns_legal_action():
     )
     legal = ["move1", "switch1"]
     policy = BaselinePolicy()
-    action, candidates = policy.choose_action(state, legal)
+    action, candidates, insights = policy.choose_action(state, legal)
     assert action in legal
     assert set(candidates) == set(legal)
+    assert insights
+    assert insights[0].action in legal

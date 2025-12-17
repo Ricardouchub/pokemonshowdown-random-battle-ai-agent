@@ -1,0 +1,11 @@
+{
+  "ability": "Wave-Rider",
+  "effect": "Boosts the user's Speed stat by 50% in rain.",
+  "synergies": [
+    "Rain Dance",
+    "Drizzle",
+    "Swift Swim",
+    "Water-type moves"
+  ],
+  "notes": "Similar to Swift Swim but exclusive to certain Pok\u00e9mon; often paired with rain setters for team-wide speed control."
+}

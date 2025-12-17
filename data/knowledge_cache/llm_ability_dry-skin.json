@@ -1,0 +1,10 @@
+{
+  "ability": "Dry Skin",
+  "effect": "Restores HP in rain or when hit by Water-type moves, but takes damage in harsh sunlight and increases Fire-type damage taken.",
+  "synergies": [
+    "Rain teams",
+    "Water-type attackers",
+    "Healing-focused strategies"
+  ],
+  "notes": "Useful for switching into Water moves, but risky against sun teams or Fire-types."
+}

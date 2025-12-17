@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Moody\",\n    \"effect\": \"Raises one random stat by two stages and lowers another random stat by one stage at the end of each turn.\",\n    \"synergies\": [\"Protect\", \"Substitute\", \"Baton Pass\", \"Stat-boosting moves\"],\n    \"notes\": \"Banned in most competitive formats due to its extreme randomness and potential for snowballing.\"\n}\n```"
+}

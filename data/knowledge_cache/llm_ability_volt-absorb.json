@@ -1,0 +1,10 @@
+{
+  "ability": "Volt Absorb",
+  "effect": "Restores HP instead of taking damage from Electric-type moves.",
+  "synergies": [
+    "Electric Terrain",
+    "Volt Switch",
+    "Paralysis immunity"
+  ],
+  "notes": "Provides a safe switch into predicted Electric attacks."
+}

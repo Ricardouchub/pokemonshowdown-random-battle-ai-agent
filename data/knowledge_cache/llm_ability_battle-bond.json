@@ -1,0 +1,10 @@
+{
+  "ability": "Battle Bond",
+  "effect": "When this Pok\u00e9mon knocks out another Pok\u00e9mon, it transforms into Ash-Greninja, raising all its stats.",
+  "synergies": [
+    "Water Shuriken",
+    "high-speed sweepers",
+    "momentum-based teams"
+  ],
+  "notes": "Exclusive to Ash's Greninja; transformation is permanent for the battle."
+}

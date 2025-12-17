@@ -1,0 +1,10 @@
+{
+  "item": "TM80",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Rock Slide, a 75-power, 90-accuracy Rock-type move with a 30% flinch chance.",
+  "typical_users": [
+    "Rock-type attackers",
+    "Pok\u00e9mon needing coverage against Flying, Bug, Fire, or Ice types",
+    "Pok\u00e9mon in Doubles/VGC for spread damage and flinch chance"
+  ]
+}

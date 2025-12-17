@@ -1,0 +1,11 @@
+{
+  "ability": "Regenerator",
+  "effect": "Restores 1/3 of the Pok\u00e9mon's maximum HP when it switches out of battle.",
+  "synergies": [
+    "Pivot strategies",
+    "Status absorption",
+    "Stall teams",
+    "Wish support"
+  ],
+  "notes": "Highly valued in competitive play for sustaining momentum and reducing passive damage from hazards or status."
+}

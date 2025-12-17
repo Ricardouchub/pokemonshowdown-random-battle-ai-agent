@@ -1,0 +1,10 @@
+{
+  "ability": "serene-grace",
+  "effect": "Doubles the chance of a move's secondary effects occurring (e.g., flinching, status conditions, stat drops).",
+  "synergies": [
+    "moves with high secondary effect rates (e.g., Air Slash, Iron Head, Thunder Wave)",
+    "Pok\u00e9mon with flinch-inducing moves",
+    "status-spreading strategies"
+  ],
+  "notes": "Does not affect moves with guaranteed secondary effects (e.g., Will-O-Wisp). Common on Pok\u00e9mon like Togekiss and Jirachi."
+}

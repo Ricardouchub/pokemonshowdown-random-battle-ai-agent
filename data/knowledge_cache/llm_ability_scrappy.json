@@ -1,0 +1,10 @@
+{
+  "ability": "Scrappy",
+  "effect": "Allows the Pok\u00e9mon's Normal- and Fighting-type moves to hit Ghost-type Pok\u00e9mon.",
+  "synergies": [
+    "Normal-type attackers",
+    "Fighting-type attackers",
+    "Moves like Fake Out and Close Combat"
+  ],
+  "notes": "Useful for bypassing Ghost-type immunities, especially in competitive formats where Ghost-types are common."
+}

@@ -1,0 +1,8 @@
+{
+  "item": "Super Rod",
+  "category": "Recovery",
+  "summary": "Restores a fainted Pok\u00e9mon to 50% HP and 50% PP for all moves, but confuses the user.",
+  "typical_users": [
+    "Bulky attackers or setup sweepers needing mid-game recovery, e.g., Gyarados, Dragonite, Tyranitar"
+  ]
+}

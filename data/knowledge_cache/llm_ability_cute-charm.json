@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Cute Charm\",\n    \"effect\": \"When a Pok\u00e9mon makes contact with this Pok\u00e9mon, there is a 30% chance the attacker becomes infatuated if it is the opposite gender.\",\n    \"synergies\": [\"Attract-based strategies\", \"Physical wall Pok\u00e9mon\", \"Gender-dependent moves\"],\n    \"notes\": \"Most effective against physical attackers; useless against genderless Pok\u00e9mon or same-gender opponents.\"\n}\n```"
+}

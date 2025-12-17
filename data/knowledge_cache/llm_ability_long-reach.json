@@ -1,0 +1,9 @@
+{
+  "ability": "Long Reach",
+  "effect": "The Pok\u00e9mon's moves make contact without actually touching the target, preventing effects triggered by contact (e.g., Static, Rough Skin, Iron Barbs).",
+  "synergies": [
+    "Moves like Close Combat or U-turn benefit from avoiding recoil or secondary effects from the target's Ability or items.",
+    "Effective with Pok\u00e9mon weak to entry hazards or status from contact, like Grass-types against Effect Spore."
+  ],
+  "notes": "Does not protect against moves that cause recoil to the user (e.g., Brave Bird) or self-inflicted status from the move itself. Primarily found on Rowlet, Dartrix, and Decidueye."
+}

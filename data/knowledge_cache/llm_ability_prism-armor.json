@@ -1,0 +1,10 @@
+{
+  "ability": "Prism Armor",
+  "effect": "Reduces damage taken from super-effective moves by 25%.",
+  "synergies": [
+    "Pok\u00e9mon weak to multiple types",
+    "Bulky or defensive sets",
+    "Stall or tank strategies"
+  ],
+  "notes": "Signature ability of Necrozma. Functions similarly to Solid Rock or Filter, but is exclusive to Necrozma and its forms."
+}

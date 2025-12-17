@@ -1,0 +1,10 @@
+{
+  "ability": "Lingering Aroma",
+  "effect": "When this Pok\u00e9mon is hit by a contact move, the attacker's Ability changes to Lingering Aroma.",
+  "synergies": [
+    "Moves that force contact (e.g., U-turn, Body Press)",
+    "Teams that disrupt opponent's Ability-reliant strategies",
+    "Entry hazards to punish switches after Ability change"
+  ],
+  "notes": "Introduced in Generation IX. Can neutralize powerful Abilities like Intimidate or Speed Boost, but also risks giving opponents beneficial effects like Levitate. Best used on bulky Pok\u00e9mon that can survive multiple hits."
+}

@@ -1,0 +1,13 @@
+{
+  "ability": "Dancer",
+  "effect": "Allows the Pok\u00e9mon to immediately copy any dance move used by any Pok\u00e9mon on the field, using it as its own action that turn.",
+  "synergies": [
+    "Swords Dance",
+    "Quiver Dance",
+    "Dragon Dance",
+    "Fiery Dance",
+    "Teeter Dance",
+    "Petal Dance"
+  ],
+  "notes": "Unique to Oricorio and its forms. The copied move targets the user (for stat boosts) or a random opponent (for damaging/status moves). Does not trigger if the user is already committed to a move (e.g., from Choice item)."
+}

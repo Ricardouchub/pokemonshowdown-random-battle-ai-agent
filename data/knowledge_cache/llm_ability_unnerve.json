@@ -1,0 +1,9 @@
+{
+  "ability": "Unnerve",
+  "effect": "Prevents opposing Pok\u00e9mon from eating their held Berries during battle.",
+  "synergies": [
+    "Pok\u00e9mon that rely on Berry disruption, such as those with Knock Off or Trick, to further limit recovery and stat boosts",
+    "Teams aiming to counter strategies centered around Sitrus Berry, Lum Berry, or Weakness Policy"
+  ],
+  "notes": "Particularly effective in formats where Berry usage is common, like VGC. Does not affect Berries consumed by abilities (e.g., Gluttony) or self-triggered items like the Eject Button."
+}

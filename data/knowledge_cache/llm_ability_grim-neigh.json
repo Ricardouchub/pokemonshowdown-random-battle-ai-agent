@@ -1,0 +1,10 @@
+{
+  "ability": "Grim Neigh",
+  "effect": "Boosts the user's Special Attack by one stage after knocking out an opponent.",
+  "synergies": [
+    "Special Attack sweepers",
+    "Pok\u00e9mon with high Speed or priority moves to secure KOs",
+    "Teams with entry hazards to weaken foes into KO range"
+  ],
+  "notes": "Exclusive to Spectrier and Shadow Rider Calyrex; functions similarly to Moxie but for Special Attack."
+}

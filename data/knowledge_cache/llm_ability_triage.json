@@ -1,0 +1,11 @@
+{
+  "ability": "Triage",
+  "effect": "Gives priority (+3) to all healing moves.",
+  "synergies": [
+    "Comfey",
+    "Sylveon",
+    "Clefable",
+    "Moves: Draining Kiss, Giga Drain, Leech Life, etc."
+  ],
+  "notes": "Priority bypasses slower opponents, making recovery safer. Does not affect non-healing moves like Rest or Pain Split."
+}

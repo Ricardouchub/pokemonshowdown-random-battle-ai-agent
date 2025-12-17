@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Rivalry\",\n    \"effect\": \"Powers up moves by 25% if the target is the same gender, but reduces move power by 25% if the target is the opposite gender. No effect on genderless targets.\",\n    \"synergies\": [\"Pok\u00e9mon with fixed or predictable genders\", \"Single-gender species\", \"Moves that check gender like Attract\"],\n    \"notes\": \"Inconsistent in competitive play due to gender variance; generally considered a niche or situational ability.\"\n}\n```"
+}

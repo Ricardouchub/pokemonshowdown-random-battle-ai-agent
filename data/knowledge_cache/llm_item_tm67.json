@@ -1,0 +1,10 @@
+{
+  "item": "TM67",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Retaliate, a 70-power Normal-type physical attack that doubles in power if an ally fainted on the previous turn.",
+  "typical_users": [
+    "Normal-type attackers",
+    "Pok\u00e9mon needing coverage or a strong, conditional Normal STAB move",
+    "Teams built around sacrifice or momentum strategies"
+  ]
+}

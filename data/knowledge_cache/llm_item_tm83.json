@@ -1,0 +1,10 @@
+{
+  "item": "TM83",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Hyper Drill, a Normal-type attack that ignores protection moves like Protect and Detect.",
+  "typical_users": [
+    "Normal-type attackers (e.g., Ursaluna, Porygon-Z)",
+    "Pok\u00e9mon needing to bypass Protect (e.g., Choice Scarf users)",
+    "Wallbreakers seeking reliable high-power STAB"
+  ]
+}

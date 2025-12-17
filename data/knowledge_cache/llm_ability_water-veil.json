@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Water Veil\",\n    \"effect\": \"Prevents the Pok\u00e9mon from being burned.\",\n    \"synergies\": [\"Fire-type moves\", \"Physical attackers\", \"Contact move users\"],\n    \"notes\": \"Useful for Pok\u00e9mon weak to Fire or reliant on physical attacks, as burn reduces Attack.\"\n}\n```"
+}

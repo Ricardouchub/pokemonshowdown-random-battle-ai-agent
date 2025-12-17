@@ -1,0 +1,8 @@
+{
+  "ability": "Mummy",
+  "effect": "When this Pok\u00e9mon is hit by a contact move, the attacker's Ability changes to Mummy.",
+  "synergies": [
+    "Works well with Pok\u00e9mon that have high physical bulk to trigger the effect repeatedly, disrupting opponents reliant on their Abilities like Guts, Intimidate, or Speed Boost."
+  ],
+  "notes": "Does not affect Pok\u00e9mon with Abilities that cannot be changed (e.g., Multitype, Stance Change). Useful for neutralizing opponent's setup or synergy."
+}

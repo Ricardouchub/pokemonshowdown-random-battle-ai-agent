@@ -1,0 +1,10 @@
+{
+  "ability": "Storm Drain",
+  "effect": "Draws in all Water-type moves, making the user immune to them and raising its Special Attack by one stage when hit.",
+  "synergies": [
+    "Water Absorb",
+    "Electric Terrain",
+    "Pok\u00e9mon weak to Water (e.g., Rock, Ground, Fire types)"
+  ],
+  "notes": "Useful for redirecting single-target Water moves in double/triple battles to protect allies."
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"No Guard\",\n    \"effect\": \"All moves used by and against the Pok\u00e9mon with this ability will never miss.\",\n    \"synergies\": [\"High-power, low-accuracy moves (e.g., Dynamic Punch, Zap Cannon)\", \"Pok\u00e9mon with low Speed that benefit from guaranteed hits\", \"Moves with secondary effects that activate on hit\"],\n    \"notes\": \"This ability is a double-edged sword, as it also makes the user vulnerable to all incoming attacks, including low-accuracy moves like Guillotine or Sheer Cold.\"\n}\n```"
+}

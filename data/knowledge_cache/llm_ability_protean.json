@@ -1,0 +1,10 @@
+{
+  "ability": "Protean",
+  "effect": "Changes the user's type to match the type of the move it is about to use.",
+  "synergies": [
+    "Fast attackers",
+    "High-coverage movepools",
+    "STAB adaptability"
+  ],
+  "notes": "Prior to Gen 9, it changed type before using the move; now it changes after the move hits, reducing its defensive utility."
+}

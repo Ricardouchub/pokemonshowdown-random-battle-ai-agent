@@ -1,0 +1,10 @@
+{
+  "ability": "Symbiosis",
+  "effect": "Passes the holder's held item to an ally when the ally uses or loses its own item.",
+  "synergies": [
+    "Pok\u00e9mon with consumable items (e.g., Berries)",
+    "Doubles/Triples formats",
+    "Allies using items like Weakness Policy or Red Card"
+  ],
+  "notes": "Only works in double or triple battles; the passed item cannot be passed again. Common on Florges and Oranguru."
+}

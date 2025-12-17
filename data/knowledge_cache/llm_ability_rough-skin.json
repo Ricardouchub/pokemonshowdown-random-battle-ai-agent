@@ -1,0 +1,12 @@
+{
+  "ability": "Rough Skin",
+  "effect": "Damages the attacker by 1/8 of their max HP when they make contact with this Pok\u00e9mon.",
+  "synergies": [
+    "Rocky Helmet",
+    "Iron Barbs",
+    "Spiky Shield",
+    "Toxic Spikes",
+    "Entry hazard setters"
+  ],
+  "notes": "Most effective on physically defensive Pok\u00e9mon to punish physical attackers; stacks with Rocky Helmet for additional chip damage."
+}

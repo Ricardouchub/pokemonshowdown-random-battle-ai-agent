@@ -1,0 +1,10 @@
+{
+  "ability": "Clear Body",
+  "effect": "Prevents other Pok\u00e9mon from lowering this Pok\u00e9mon's stats.",
+  "synergies": [
+    "Stat-boosting moves",
+    "Held items like Choice Band",
+    "Pok\u00e9mon with high base stats"
+  ],
+  "notes": "Common on Pok\u00e9mon like Metagross and Regice; nullifies moves like Intimidate and stat-lowering abilities."
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Shell Armor",
+  "effect": "Prevents the Pok\u00e9mon from receiving critical hits.",
+  "synergies": [
+    "Defensive Pok\u00e9mon",
+    "Stall strategies",
+    "Trick Room teams"
+  ],
+  "notes": "Useful for increasing survivability against high-damage opponents, especially in formats where critical hits are common."
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Propeller Tail",
+  "effect": "Ignores moves and abilities that draw in moves, such as Follow Me and Storm Drain, allowing the user's moves to hit their intended target.",
+  "synergies": [
+    "Strong single-target moves like Fishious Rend or Bolt Beak",
+    "Choice Band or Choice Specs for immediate power",
+    "Fast or priority users to bypass redirection"
+  ],
+  "notes": "Exclusive to Arctovish and Arctozolt. Particularly valuable in double battles to counter common redirection strategies."
+}

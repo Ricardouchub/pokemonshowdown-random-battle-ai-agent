@@ -1,0 +1,10 @@
+{
+  "ability": "Big Pecks",
+  "effect": "Prevents the Pok\u00e9mon's Defense stat from being lowered by other Pok\u00e9mon's moves or abilities.",
+  "synergies": [
+    "Defensive Pok\u00e9mon",
+    "Moves like Roost or Iron Defense",
+    "Teams with Intimidate counterplay"
+  ],
+  "notes": "Does not protect against self-inflicted Defense drops (e.g., from Close Combat) or stat resets (e.g., Haze)."
+}

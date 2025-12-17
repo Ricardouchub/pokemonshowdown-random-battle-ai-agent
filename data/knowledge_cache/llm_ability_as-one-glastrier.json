@@ -1,0 +1,12 @@
+{
+  "ability": "As One (Glastrier)",
+  "effect": "Combines the effects of Unnerve and Chilling Neigh. Prevents opposing Pok\u00e9mon from eating Berries, and boosts the user's Attack by one stage after knocking out an opponent.",
+  "synergies": [
+    "Swords Dance",
+    "Choice Band",
+    "Trick Room",
+    "Avalanche",
+    "Heavy Slam"
+  ],
+  "notes": "Exclusive to Calyrex when fused with Glastrier. The Attack boost from Chilling Neigh stacks with other stat changes, making it potent in sweeping."
+}

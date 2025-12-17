@@ -1,0 +1,11 @@
+{
+  "ability": "Parental Bond",
+  "effect": "Allows the Pok\u00e9mon's single-target damaging moves to hit twice on the same target, with the second strike dealing 25% of the original damage.",
+  "synergies": [
+    "Multi-hit moves (e.g., Power-Up Punch, Rock Blast)",
+    "Status-inflicting moves (e.g., Thunder Wave, Toxic)",
+    "Moves with secondary effects (e.g., Iron Tail, Zen Headbutt)",
+    "Mega Kangaskhan"
+  ],
+  "notes": "Exclusive to Kangaskhan (Mega form only). The second hit can break substitutes and trigger additional effects. Banned in many competitive formats due to overwhelming power."
+}

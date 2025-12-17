@@ -1,0 +1,10 @@
+{
+  "ability": "Opportunist",
+  "effect": "When an opponent's stat is raised, the Pok\u00e9mon copies that stat increase for itself.",
+  "synergies": [
+    "Stat-boosting opponents",
+    "Baton Pass chains",
+    "Intimidate users"
+  ],
+  "notes": "Only copies positive stat changes; does not trigger on self-inflicted stat drops or opponent's stat drops."
+}

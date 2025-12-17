@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Blaze\",\n    \"effect\": \"Boosts the power of Fire-type moves by 50% when the Pok\u00e9mon's HP is at 1/3 or below.\",\n    \"synergies\": [\"Fire-type STAB moves\", \"Low HP strategies\", \"Focus Sash\", \"Endure + Reversal sets\"],\n    \"notes\": \"Common starter Pok\u00e9mon ability. The boost applies to all Fire moves, not just damaging ones. Often outclassed by hidden abilities in competitive play.\"\n}\n```"
+}

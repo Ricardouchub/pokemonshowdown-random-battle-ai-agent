@@ -1,0 +1,11 @@
+{
+  "ability": "Electric Surge",
+  "effect": "Activates Electric Terrain when the Pok\u00e9mon enters the battle.",
+  "synergies": [
+    "Electric-type Pok\u00e9mon",
+    "Pok\u00e9mon with Rising Voltage",
+    "Pok\u00e9mon with Terrain Pulse (Electric)",
+    "Pok\u00e9mon with abilities like Surge Surfer"
+  ],
+  "notes": "Prevents sleep for grounded Pok\u00e9mon; boosts Electric-type moves by 30% for grounded targets."
+}

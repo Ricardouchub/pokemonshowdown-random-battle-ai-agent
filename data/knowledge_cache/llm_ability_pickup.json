@@ -1,0 +1,9 @@
+{
+  "ability": "Pickup",
+  "effect": "May find a held item after battle if the Pok\u00e9mon is not already holding one.",
+  "synergies": [
+    "Pok\u00e9mon with high speed or evasion to survive battles",
+    "Useful on support Pok\u00e9mon in early-game or item-scarce runs"
+  ],
+  "notes": "Item chance and pool vary by game; often includes valuable items like Rare Candies or evolution stones in later generations."
+}

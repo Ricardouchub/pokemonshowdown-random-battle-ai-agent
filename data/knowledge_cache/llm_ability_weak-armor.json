@@ -1,0 +1,10 @@
+{
+  "ability": "Weak Armor",
+  "effect": "When hit by a physical move, the user's Defense is lowered by one stage, but its Speed is raised by two stages.",
+  "synergies": [
+    "Sticky Web",
+    "Focus Sash",
+    "Rock-type moves that lower Defense further"
+  ],
+  "notes": "High-risk, high-reward ability; best on fast sweepers or Pok\u00e9mon that can mitigate Defense drops."
+}

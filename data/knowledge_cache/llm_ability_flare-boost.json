@@ -1,0 +1,11 @@
+{
+  "ability": "Flare Boost",
+  "effect": "Powers up special attacks by 50% when the Pok\u00e9mon is burned.",
+  "synergies": [
+    "Burn status",
+    "Special attackers",
+    "Guts (for physical alternative)",
+    "Facade (if burned but using physical moves)"
+  ],
+  "notes": "Only activates if burned; does not prevent burn damage. Common on Drifblim."
+}

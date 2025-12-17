@@ -1,0 +1,11 @@
+{
+  "ability": "Swarm",
+  "effect": "Boosts the power of Bug-type moves by 50% when the Pok\u00e9mon's HP is at 1/3 or below.",
+  "synergies": [
+    "Bug-type Pok\u00e9mon",
+    "Moves like U-turn, Megahorn, X-Scissor",
+    "Focus Sash or Sturdy to survive hits",
+    "Priority moves like First Impression"
+  ],
+  "notes": "Common on early-route Bug-types; useful for late-game sweeps or revenge killing when activated."
+}

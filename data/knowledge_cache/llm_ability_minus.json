@@ -1,0 +1,10 @@
+{
+  "ability": "Minus",
+  "effect": "Boosts the user's Special Attack by 50% if an ally in battle has the Plus ability.",
+  "synergies": [
+    "Plus",
+    "Electric-type Pok\u00e9mon",
+    "Doubles/Triples formats"
+  ],
+  "notes": "Has no effect in single battles unless the opponent has Plus. Often paired with Plus on Pok\u00e9mon like Minun and Plusle."
+}

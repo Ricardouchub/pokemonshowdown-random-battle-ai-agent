@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Skater\",\n    \"effect\": \"Increases Speed by 1 stage when entering terrain that reduces movement (e.g., Ice, Snow, or slippery surfaces).\",\n    \"synergies\": [\"Ice-type Pok\u00e9mon\", \"Hail/Snow teams\", \"Pok\u00e9mon with low base Speed\"],\n    \"notes\": \"Similar to abilities like Surge Surfer but for icy terrain. Can be used to gain a surprise speed advantage on specific maps or against weather teams.\"\n}\n```"
+}

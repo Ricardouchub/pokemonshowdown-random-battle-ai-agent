@@ -1,0 +1,9 @@
+{
+  "ability": "Cotton Down",
+  "effect": "When hit by an attack, scatters cotton that lowers the Speed of all other Pok\u00e9mon by one stage.",
+  "synergies": [
+    "Pok\u00e9mon with low Speed that benefit from slowing opponents",
+    "Teams using entry hazards or speed control strategies"
+  ],
+  "notes": "Triggers even if the holder faints from the attack; affects all Pok\u00e9mon except the attacker."
+}

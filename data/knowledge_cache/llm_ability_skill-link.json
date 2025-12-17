@@ -1,0 +1,10 @@
+{
+  "ability": "Skill Link",
+  "effect": "Multi-strike moves (e.g., Icicle Spear, Bullet Seed) always hit the maximum number of times.",
+  "synergies": [
+    "Multi-strike moves (e.g., Tail Slap, Rock Blast)",
+    "Held items like King's Rock or Razor Claw for flinch chance per hit",
+    "Pok\u00e9mon with high Attack stat (e.g., Cloyster, Cinccino)"
+  ],
+  "notes": "Maximizes damage output and consistency of moves with variable hits; particularly powerful with Cloyster's Shell Smash sets."
+}

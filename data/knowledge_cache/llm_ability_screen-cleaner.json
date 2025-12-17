@@ -1,0 +1,10 @@
+{
+  "ability": "Screen Cleaner",
+  "effect": "Removes Light Screen, Reflect, and Aurora Veil from both sides of the field upon entering battle.",
+  "synergies": [
+    "Hyper Offense teams",
+    "Pok\u00e9mon that benefit from removing opponent's defensive screens",
+    "Partners that set their own screens after entry"
+  ],
+  "notes": "Useful for countering screen-reliant strategies; does not affect Mist, Safeguard, or terrain effects."
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Mold Breaker\",\n    \"effect\": \"Ignores the opponent's ability if it could hinder the user's moves or effects.\",\n    \"synergies\": [\"Moves that are normally blocked by abilities (e.g., Earthquake vs. Levitate)\", \"Stat-lowering moves against abilities like Clear Body\", \"Entry hazards against Magic Bounce\"],\n    \"notes\": \"Does not negate all abilities\u2014only those that would directly interfere with the user's actions. Popular on Pok\u00e9mon like Excadrill and Haxorus.\"\n}\n```"
+}

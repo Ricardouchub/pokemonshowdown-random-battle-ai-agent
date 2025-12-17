@@ -1,0 +1,10 @@
+{
+  "ability": "Wonder Skin",
+  "effect": "Makes status moves used against this Pok\u00e9mon have 50% accuracy.",
+  "synergies": [
+    "Pok\u00e9mon with low Speed or defensive stats to mitigate status conditions",
+    "Teams weak to sleep or paralysis",
+    "Items like Leftovers for sustained survivability"
+  ],
+  "notes": "Does not affect moves that always hit (e.g., Aromatherapy, Yawn) or moves that are not status moves (e.g., attacks, weather moves)."
+}

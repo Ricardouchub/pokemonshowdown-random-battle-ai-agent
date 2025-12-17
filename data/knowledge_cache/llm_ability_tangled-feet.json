@@ -1,0 +1,9 @@
+{
+  "ability": "tangled-feet",
+  "effect": "Raises evasion by 50% when confused.",
+  "synergies": [
+    "confusion-inducing moves",
+    "items like Persim Berry"
+  ],
+  "notes": "Most effective on Pok\u00e9mon that can self-inflict confusion or resist confusion damage."
+}

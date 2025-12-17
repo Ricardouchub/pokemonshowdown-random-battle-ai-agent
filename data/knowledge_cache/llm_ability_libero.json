@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Libero\",\n    \"effect\": \"Changes the user's type to match the move it's about to use, before the move is executed.\",\n    \"synergies\": [\"High Speed Pok\u00e9mon\", \"Versatile movepools\", \"Choice items\", \"STAB on every attack\"],\n    \"notes\": \"Only works once per switch-in; identical to Protean in effect.\"\n}\n```"
+}

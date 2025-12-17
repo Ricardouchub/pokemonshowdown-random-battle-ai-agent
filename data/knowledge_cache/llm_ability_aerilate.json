@@ -1,0 +1,10 @@
+{
+  "ability": "aerilate",
+  "effect": "Changes Normal-type moves to Flying-type and boosts their power by 20%.",
+  "synergies": [
+    "Mega Pinsir",
+    "Mega Salamence",
+    "Normal-type coverage moves like Return or Hyper Voice"
+  ],
+  "notes": "Exclusive to Mega Evolutions; does not affect moves that already have a secondary type."
+}

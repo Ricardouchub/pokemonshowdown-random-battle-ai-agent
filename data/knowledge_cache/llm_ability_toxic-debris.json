@@ -1,0 +1,11 @@
+{
+  "ability": "Toxic Debris",
+  "effect": "When the Pok\u00e9mon is hit by a physical move, it scatters Toxic Spikes on the opponent's side of the field.",
+  "synergies": [
+    "Poison-type Pok\u00e9mon",
+    "Stall/defensive strategies",
+    "Hazard stack teams",
+    "Pok\u00e9mon with Rapid Spin or Defog removal to reset"
+  ],
+  "notes": "Introduced in Generation IX. Only triggers once per switch-in unless the ability is reactivated. Does not stack with existing Toxic Spikes; adds one layer (max two)."
+}

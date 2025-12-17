@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Mimicry\",\n    \"effect\": \"Changes the Pok\u00e9mon's type to match the terrain in effect.\",\n    \"synergies\": [\"Terrain-based moves\", \"Terrain-setting abilities\", \"Type-specific items/abilities\"],\n    \"notes\": \"Provides defensive and offensive type adaptation; nullified if no terrain is active.\"\n}\n```"
+}

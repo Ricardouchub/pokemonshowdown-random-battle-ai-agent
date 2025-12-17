@@ -1,0 +1,10 @@
+{
+  "ability": "Shed Skin",
+  "effect": "Has a 33% chance to heal any non-volatile status condition at the end of each turn.",
+  "synergies": [
+    "Pok\u00e9mon with high HP or defensive stats",
+    "Rest for reliable recovery",
+    "Toxic Orb users to negate poison damage"
+  ],
+  "notes": "Common on serpentine or reptilian Pok\u00e9mon like Arbok, Seviper, and Dratini line. Less reliable than abilities like Natural Cure."
+}

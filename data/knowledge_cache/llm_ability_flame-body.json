@@ -1,0 +1,10 @@
+{
+  "ability": "Flame Body",
+  "effect": "Has a 30% chance to burn any attacker that makes contact with the user.",
+  "synergies": [
+    "Egg hatching (halves steps required when in party)",
+    "Physical attackers (discourages contact moves)",
+    "Status spreading"
+  ],
+  "notes": "Also works with moves like U-turn. Does not affect Pok\u00e9mon with immunity to burns."
+}

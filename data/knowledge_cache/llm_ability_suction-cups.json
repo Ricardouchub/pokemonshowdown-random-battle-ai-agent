@@ -1,0 +1,10 @@
+{
+  "ability": "suction-cups",
+  "effect": "Prevents the Pok\u00e9mon from being forced to switch out by moves or effects like Roar or Whirlwind.",
+  "synergies": [
+    "Baton Pass strategies",
+    "setup moves like Swords Dance or Calm Mind",
+    "entry hazard stacking teams"
+  ],
+  "notes": "Useful for maintaining field position against phazing moves; does not protect against pivoting moves like U-turn or switching caused by the user."
+}

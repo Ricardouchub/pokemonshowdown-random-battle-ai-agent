@@ -1,0 +1,10 @@
+{
+  "ability": "Sand Stream",
+  "effect": "Summons a sandstorm for 5 turns upon entering battle.",
+  "synergies": [
+    "Rock-type Pok\u00e9mon (Sp. Def boost)",
+    "Ground/Steel/Rock types (sandstorm immunity)",
+    "Sand Rush/Sand Force abilities"
+  ],
+  "notes": "Triggers automatically; useful for chip damage and enabling weather-dependent strategies."
+}

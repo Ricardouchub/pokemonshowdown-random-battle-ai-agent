@@ -1,0 +1,10 @@
+{
+  "ability": "Cheek Pouch",
+  "effect": "Restores 1/3 of the user's maximum HP when it consumes a Berry, in addition to the Berry's usual effect.",
+  "synergies": [
+    "Pickup",
+    "Recycle",
+    "Berry-focused items like Sitrus Berry or Figy Berry"
+  ],
+  "notes": "Works even if the Pok\u00e9mon is holding the Berry via Fling or Bug Bite. Does not activate if the Berry is removed by Knock Off or Incinerate before consumption."
+}

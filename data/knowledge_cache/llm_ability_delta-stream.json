@@ -1,0 +1,10 @@
+{
+  "ability": "Delta Stream",
+  "effect": "Activates Primal Weather, negating all Flying-type weaknesses and reducing super-effective damage from other types by 50%.",
+  "synergies": [
+    "Flying-type Pok\u00e9mon",
+    "Mega Rayquaza (exclusive user)",
+    "Teams reliant on Flying-type coverage"
+  ],
+  "notes": "Only available to Mega Rayquaza; overrides other weather conditions and cannot be replaced while active."
+}

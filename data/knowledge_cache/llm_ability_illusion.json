@@ -1,0 +1,10 @@
+{
+  "ability": "Illusion",
+  "effect": "The Pok\u00e9mon appears as the last unfainted party member in battle, hiding its true identity until it takes damage or uses a status move.",
+  "synergies": [
+    "Zoroark line",
+    "Pok\u00e9mon with high-risk moves like Destiny Bond or Explosion",
+    "Teams with frail sweepers to disguise as"
+  ],
+  "notes": "Useful for mind games and baiting attacks; the illusion breaks if the Pok\u00e9mon is damaged by weather, status conditions, or entry hazards."
+}

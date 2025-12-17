@@ -1,0 +1,10 @@
+{
+  "ability": "Ice Scales",
+  "effect": "Halves damage taken from special moves.",
+  "synergies": [
+    "Pok\u00e9mon with high HP or low Special Defense",
+    "Defensive or stalling strategies",
+    "Resistance to common special attacking types like Fire, Water, or Electric"
+  ],
+  "notes": "Exclusive to Frosmoth. Does not reduce damage from physical moves or status moves."
+}

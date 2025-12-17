@@ -1,0 +1,10 @@
+{
+  "ability": "Magician",
+  "effect": "Steals the target's held item when the Pok\u00e9mon hits with a damaging move (if the user is not already holding an item).",
+  "synergies": [
+    "Fast or multi-hit Pok\u00e9mon (e.g., Delphox, Hoopa)",
+    "Moves that make contact or have multiple hits",
+    "Teams focused on item disruption"
+  ],
+  "notes": "Only works if the user has no held item prior to the attack. Does not activate if the target has no item or the move is non-damaging."
+}

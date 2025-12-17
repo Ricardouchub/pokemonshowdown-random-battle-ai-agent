@@ -1,0 +1,12 @@
+{
+  "ability": "Mycelium Might",
+  "effect": "The user's status moves ignore the target's ability and go last in their priority bracket.",
+  "synergies": [
+    "Toedscruel",
+    "Spore",
+    "Toxic",
+    "Stun Spore",
+    "Leech Seed"
+  ],
+  "notes": "Useful for bypassing abilities like Magic Bounce or Overcoat, but the negative priority can leave the user vulnerable."
+}

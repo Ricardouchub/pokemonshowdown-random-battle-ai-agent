@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Solid Rock\",\n    \"effect\": \"Reduces damage taken from super-effective moves by 25%.\",\n    \"synergies\": [\"Pok\u00e9mon with high HP and/or Defense stats\", \"Pok\u00e9mon with multiple common weaknesses (e.g., Rock/Ground types)\", \"Teams with defensive or stall strategies\"],\n    \"notes\": \"Commonly found on Pok\u00e9mon like Rhyperior and Carracosta. Does not stack with other damage-reducing effects like the Assault Vest. The ability only affects damage calculation, not type effectiveness for other purposes.\"\n}\n```"
+}

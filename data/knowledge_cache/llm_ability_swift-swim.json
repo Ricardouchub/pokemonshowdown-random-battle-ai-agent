@@ -1,0 +1,11 @@
+{
+  "ability": "Swift Swim",
+  "effect": "Doubles the Pok\u00e9mon's Speed stat in rain.",
+  "synergies": [
+    "Rain Dance",
+    "Drizzle",
+    "Water-type moves",
+    "Weather-setting moves"
+  ],
+  "notes": "Common on Water-type Pok\u00e9mon; enables sweeping in rain teams."
+}

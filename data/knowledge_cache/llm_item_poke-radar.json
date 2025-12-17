@@ -1,0 +1,9 @@
+{
+  "item": "Poke Radar",
+  "category": "Battle Item",
+  "summary": "Increases the chance of encountering a Shiny Pokemon after a chain of consecutive encounters in the wild.",
+  "typical_users": [
+    "Shiny hunters",
+    "Completionists"
+  ]
+}

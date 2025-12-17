@@ -1,0 +1,9 @@
+{
+  "ability": "Pickpocket",
+  "effect": "Steals the item of any attacker that makes direct contact.",
+  "synergies": [
+    "Pok\u00e9mon with low defenses or Focus Sash to ensure contact hits trigger the ability",
+    "Moves like Substitute or switching to avoid losing your own item first"
+  ],
+  "notes": "Useful for item disruption; stolen items are not returned if the Pok\u00e9mon switches out. Does not activate if the Pok\u00e9mon already holds an item."
+}

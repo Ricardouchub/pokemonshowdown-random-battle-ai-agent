@@ -1,0 +1,10 @@
+{
+  "ability": "Competitive",
+  "effect": "Boosts the user's Special Attack by two stages whenever one of its stats is lowered by an opponent's move or ability.",
+  "synergies": [
+    "Pok\u00e9mon with low Defense or that attract stat-lowering moves (e.g., Intimidate users)",
+    "Moves like Icy Wind or Snarl on the opponent's side",
+    "Items like White Herb to counteract the initial stat drop"
+  ],
+  "notes": "Common on Pok\u00e9mon like Milotic and Gothitelle. Particularly effective in Doubles formats where moves like Snarl and Intimidate are prevalent."
+}

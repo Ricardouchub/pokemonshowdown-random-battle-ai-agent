@@ -1,0 +1,9 @@
+{
+  "ability": "Motor Drive",
+  "effect": "Raises Speed by one stage when hit by an Electric-type move. Grants immunity to Electric-type damage.",
+  "synergies": [
+    "Electric-type teammates for safe switch-ins",
+    "Pok\u00e9mon weak to Electric (e.g., Water, Flying types) to absorb attacks"
+  ],
+  "notes": "Often used to gain a free Speed boost while neutralizing a common offensive type."
+}

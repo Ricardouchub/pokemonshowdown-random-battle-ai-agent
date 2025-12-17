@@ -1,0 +1,8 @@
+{
+  "item": "Rule Book",
+  "category": "Held Item",
+  "summary": "Boosts the power of the holder's moves that have additional effects by 20%.",
+  "typical_users": [
+    "Pok\u00e9mon relying on moves like Air Slash, Iron Head, or Dark Pulse for flinch or secondary effect chance"
+  ]
+}

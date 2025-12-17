@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Well-Baked Body\",\n    \"effect\": \"Boosts the Pok\u00e9mon's Defense stat sharply when hit by a Fire-type move. The Pok\u00e9mon also takes no damage from Fire-type moves.\",\n    \"synergies\": [\"Fire-type attackers on opponent's team\", \"Defensive wall strategies\", \"Pok\u00e9mon with recovery moves\"],\n    \"notes\": \"Introduced in Generation IX. Turns a common offensive type into a defensive opportunity, allowing safe switch-ins against predicted Fire attacks.\"\n}\n```"
+}

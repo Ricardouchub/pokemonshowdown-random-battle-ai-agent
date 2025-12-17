@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"sand-veil\",\n    \"effect\": \"Raises the Pok\u00e9mon's evasion by 20% during a sandstorm.\",\n    \"synergies\": [\"sand-stream\", \"sand-rush\", \"sand-force\", \"rock/ground/steel types immune to sandstorm damage\"],\n    \"notes\": \"Most effective on Pok\u00e9mon that can set up sandstorm themselves or on teams built around sandstorm. Evasion boost can be unreliable due to accuracy RNG.\"\n}\n```"
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Hydration",
+  "effect": "Heals status conditions in rain.",
+  "synergies": [
+    "Rain Dance",
+    "Drizzle",
+    "Water-type moves"
+  ],
+  "notes": "Useful for defensive sets in rain teams to avoid sleep, paralysis, etc."
+}

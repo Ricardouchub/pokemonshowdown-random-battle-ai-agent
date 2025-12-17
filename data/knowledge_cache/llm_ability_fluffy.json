@@ -1,0 +1,10 @@
+{
+  "ability": "Fluffy",
+  "effect": "Halves damage taken from contact moves, but doubles damage taken from Fire-type moves.",
+  "synergies": [
+    "Resistance Berries",
+    "Will-O-Wisp users",
+    "Pok\u00e9mon with Intimidate or burn support"
+  ],
+  "notes": "Common on Bewear; makes it vulnerable to Fire-type coverage moves even from non-Fire attackers."
+}

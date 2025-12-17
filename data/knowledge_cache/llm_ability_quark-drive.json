@@ -1,0 +1,10 @@
+{
+  "ability": "Quark Drive",
+  "effect": "Boosts the Pok\u00e9mon's highest stat (except HP) by 30% when Electric Terrain is active or if holding Booster Energy.",
+  "synergies": [
+    "Electric Terrain setters (e.g., Pincurchin, Tapu Koko)",
+    "Pok\u00e9mon with high Attack, Special Attack, or Speed stats",
+    "Booster Energy held item"
+  ],
+  "notes": "Introduced in Generation IX; the stat boost is determined at the start of battle or when the ability activates, and does not change dynamically if stats are altered mid-battle."
+}

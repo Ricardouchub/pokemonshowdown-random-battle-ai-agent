@@ -1,0 +1,10 @@
+{
+  "ability": "Analytic",
+  "effect": "Boosts the power of the user's moves by 30% if it moves last in the turn (i.e., the target has already moved).",
+  "synergies": [
+    "Slow Pok\u00e9mon (e.g., Porygon-Z, Magnezone)",
+    "Trick Room teams",
+    "Priority move users to manipulate turn order"
+  ],
+  "notes": "Effect activates even if the target switches out. Does not boost moves if the user moves first or if the turn order is determined by a speed tie."
+}

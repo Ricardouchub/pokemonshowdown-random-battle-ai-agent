@@ -1,0 +1,10 @@
+{
+  "ability": "Zero to Hero",
+  "effect": "When the Pok\u00e9mon switches out from battle, it transforms into its Hero Form (if applicable).",
+  "synergies": [
+    "Pivot moves (e.g., U-turn, Flip Turn)",
+    "Slow pivoting",
+    "Defensive switching"
+  ],
+  "notes": "Exclusive to Palafin; triggers only when switching out, not when fainting."
+}

@@ -1,0 +1,9 @@
+{
+  "item": "TM47",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Low Sweep, a Fighting-type physical attack (65 power, 100% accuracy) that lowers the target's Speed stat.",
+  "typical_users": [
+    "Physical attackers needing coverage against Rock, Steel, Normal, Dark, or Ice types",
+    "Pok\u00e9mon benefiting from Speed control to enable slower teammates or secure subsequent hits"
+  ]
+}

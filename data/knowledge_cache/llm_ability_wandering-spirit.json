@@ -1,0 +1,9 @@
+{
+  "ability": "Wandering Spirit",
+  "effect": "When hit by a contact move, the user swaps abilities with the attacker.",
+  "synergies": [
+    "Pok\u00e9mon with low base stats or undesirable abilities can disrupt opponents by swapping into powerful abilities like Intimidate or Speed Boost.",
+    "Useful on defensive Pok\u00e9mon that frequently take contact hits, such as Dusclops or Runerigus."
+  ],
+  "notes": "Does not activate if the user faints from the contact move. Can backfire if the opponent has a detrimental ability like Defeatist or Slow Start."
+}

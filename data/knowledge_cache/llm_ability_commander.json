@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Commander\",\n    \"effect\": \"When the Pok\u00e9mon enters battle, if an ally has Tatsugiri, Tatsugiri jumps into the ally's mouth and this Pok\u00e9mon's Attack, Special Attack, and Speed stats are boosted.\",\n    \"synergies\": [\"Tatsugiri\", \"Dondozo\"],\n    \"notes\": \"Exclusive to Dondozo. Tatsugiri must be an active ally on the field when Dondozo is sent out to trigger. Tatsugiri remains in Dondozo's mouth until Dondozo faints or switches out.\"\n}\n```"
+}

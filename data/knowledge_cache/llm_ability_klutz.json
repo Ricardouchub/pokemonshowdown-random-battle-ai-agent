@@ -1,0 +1,11 @@
+{
+  "ability": "Klutz",
+  "effect": "The Pok\u00e9mon cannot use held items that have a direct effect in battle (e.g., berries, choice items). It can still hold items for other purposes (e.g., evolution items, mail).",
+  "synergies": [
+    "Trick",
+    "Switcheroo",
+    "Fling",
+    "Items that cause negative effects when held (e.g., Flame Orb, Toxic Orb)"
+  ],
+  "notes": "Often used to disrupt opponents by passing detrimental items via Trick. Does not prevent the use of Mega Stones or Z-Crystals."
+}

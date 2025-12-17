@@ -1,0 +1,10 @@
+{
+  "item": "TM79",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Dark Pulse, a special Dark-type attack with 80 power, 100% accuracy, and a 20% chance to make the target flinch.",
+  "typical_users": [
+    "Special-attacking Dark-types (e.g., Hydreigon, Greninja)",
+    "Pok\u00e9mon needing coverage against Psychic and Ghost types (e.g., Gengar, Volcarona)",
+    "Pok\u00e9mon utilizing flinch chance with Serene Grace (e.g., Togekiss)"
+  ]
+}

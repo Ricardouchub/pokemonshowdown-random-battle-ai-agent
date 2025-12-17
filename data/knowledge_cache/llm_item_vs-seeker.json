@@ -1,0 +1,10 @@
+{
+  "item": "VS Seeker",
+  "category": "Battle Item",
+  "summary": "Allows the user to re-challenge previously defeated trainers for rematches, primarily used for grinding experience and money outside of competitive battles.",
+  "typical_users": [
+    "In-game trainers for level grinding",
+    "Players farming for resources",
+    "Not used in standard competitive play"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "ability": "Corrosion",
+  "effect": "Allows the Pok\u00e9mon to poison any target, including Steel and Poison types, with poison-inducing moves.",
+  "synergies": [
+    "Toxic",
+    "Poison-type moves",
+    "Stall strategies",
+    "Status-focused teams"
+  ],
+  "notes": "Unique ability that bypasses typical immunities, making it highly disruptive against defensive Steel types."
+}

@@ -1,0 +1,9 @@
+{
+  "ability": "Early Bird",
+  "effect": "Halves the duration of sleep effects on the Pok\u00e9mon.",
+  "synergies": [
+    "Pok\u00e9mon vulnerable to sleep-inducing moves",
+    "Strategies relying on consistent action turns"
+  ],
+  "notes": "Useful against opponents with sleep moves like Spore or Hypnosis, but less impactful in formats where sleep is rare."
+}

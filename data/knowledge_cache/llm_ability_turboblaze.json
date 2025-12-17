@@ -1,0 +1,10 @@
+{
+  "ability": "Turboblaze",
+  "effect": "The Pok\u00e9mon's moves ignore the target's ability if it could hinder the attack or its effects.",
+  "synergies": [
+    "Reshiram",
+    "Fire-type and Dragon-type moves",
+    "Moves with secondary effects or stat changes"
+  ],
+  "notes": "Similar to Mold Breaker; allows moves to hit through abilities like Levitate, Flash Fire, or Multiscale."
+}

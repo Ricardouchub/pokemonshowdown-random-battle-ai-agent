@@ -1,0 +1,10 @@
+{
+  "item": "Coupon-1",
+  "category": "Battle Item",
+  "summary": "A one-time use item that reduces the cost of a move's PP to 0 for one turn, enabling powerful attacks without PP consumption.",
+  "typical_users": [
+    "Sweepers using high-PP cost moves like Hyper Beam",
+    "Stallbreakers aiming to break through defensive cores",
+    "Pok\u00e9mon in specific gimmick or surprise strategies"
+  ]
+}

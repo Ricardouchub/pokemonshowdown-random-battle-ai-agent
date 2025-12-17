@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Simple\",\n    \"effect\": \"Doubles the stat changes of the Pok\u00e9mon.\",\n    \"synergies\": [\"Stat-boosting moves\", \"Baton Pass\", \"Contrary users\", \"Moves with self-stat penalties\"],\n    \"notes\": \"Makes both positive and negative stat changes twice as effective. Can be risky if the Pok\u00e9mon receives stat drops.\"\n}\n```"
+}

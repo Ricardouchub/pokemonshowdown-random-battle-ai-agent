@@ -1,0 +1,12 @@
+{
+  "ability": "Guts",
+  "effect": "If the Pok\u00e9mon is afflicted by a status condition (burn, poison, paralysis, sleep, freeze), its Attack is increased by 50% and the negative Attack reduction from burn is ignored.",
+  "synergies": [
+    "Flame Orb",
+    "Toxic Orb",
+    "Facade",
+    "Status-absorbing moves like Rest",
+    "Pok\u00e9mon with high base Attack like Ursaluna or Conkeldurr"
+  ],
+  "notes": "A premier offensive ability that turns status conditions into an advantage. Often paired with Orb items to self-inflict status safely. Burn's passive damage is still taken, so longevity can be an issue."
+}

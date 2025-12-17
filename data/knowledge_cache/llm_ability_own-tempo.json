@@ -1,0 +1,8 @@
+{
+  "ability": "Own Tempo",
+  "effect": "Prevents the Pok\u00e9mon from becoming confused.",
+  "synergies": [
+    "Prevents self-inflicted damage from confusion, pairs well with moves like Thrash or Outrage that cause confusion."
+  ],
+  "notes": "Useful against opponents that rely on confusion-inducing moves like Swagger or Confuse Ray."
+}

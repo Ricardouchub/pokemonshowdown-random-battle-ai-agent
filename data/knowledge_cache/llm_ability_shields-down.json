@@ -1,0 +1,11 @@
+{
+  "ability": "Shields Down",
+  "effect": "When HP is 50% or above, the Pok\u00e9mon is in Meteor Form and is immune to status conditions. When HP drops below 50%, it changes to Core Form, loses its immunity, and its Defense and Special Defense are halved.",
+  "synergies": [
+    "Rock-type moves",
+    "Stealth Rock",
+    "Recovery moves",
+    "Focus Sash"
+  ],
+  "notes": "Exclusive to Minior. Form change affects stats and typing (Meteor Form is Rock/Flying, Core Form is Rock only)."
+}

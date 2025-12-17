@@ -1,0 +1,10 @@
+{
+  "ability": "Refrigerate",
+  "effect": "Changes the user's Normal-type moves to Ice-type and boosts their power by 30%.",
+  "synergies": [
+    "Normal-type Pok\u00e9mon with wide movepools",
+    "Moves like Hyper Beam, Return, or Quick Attack",
+    "Pok\u00e9mon that benefit from Ice-type coverage"
+  ],
+  "notes": "Allows for unexpected super-effective hits against Dragon, Flying, Grass, and Ground types; does not affect moves that already have a type (e.g., Fighting)."
+}

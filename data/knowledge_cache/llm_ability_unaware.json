@@ -1,0 +1,10 @@
+{
+  "ability": "Unaware",
+  "effect": "Ignores the opponent's stat changes when dealing or receiving damage.",
+  "synergies": [
+    "Pok\u00e9mon with high base stats",
+    "Stall or defensive strategies",
+    "Set-up sweepers as counters"
+  ],
+  "notes": "Effective against opponents that rely on boosting moves like Swords Dance or Calm Mind, but does not ignore accuracy or evasion changes."
+}

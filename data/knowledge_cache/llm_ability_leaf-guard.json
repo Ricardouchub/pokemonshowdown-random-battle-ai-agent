@@ -1,0 +1,10 @@
+{
+  "ability": "Leaf Guard",
+  "effect": "Prevents status conditions in harsh sunlight.",
+  "synergies": [
+    "Sun teams",
+    "Chlorophyll users",
+    "Solar Beam users"
+  ],
+  "notes": "Useful for maintaining offensive pressure in sun, but situational outside of it."
+}

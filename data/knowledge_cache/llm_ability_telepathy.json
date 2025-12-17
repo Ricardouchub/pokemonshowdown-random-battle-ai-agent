@@ -1,0 +1,10 @@
+{
+  "ability": "Telepathy",
+  "effect": "Prevents damage from allies' moves during double/triple battles.",
+  "synergies": [
+    "Spread moves (e.g., Earthquake, Surf)",
+    "Allies with self-damaging abilities (e.g., Aftermath)",
+    "Trick Room or weather setters"
+  ],
+  "notes": "Useful in multi-battle formats; useless in single battles."
+}

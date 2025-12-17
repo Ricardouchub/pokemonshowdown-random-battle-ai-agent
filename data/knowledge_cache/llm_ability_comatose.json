@@ -1,0 +1,11 @@
+{
+  "ability": "Comatose",
+  "effect": "The Pok\u00e9mon is always considered asleep, but can still attack normally. It cannot be afflicted by other status conditions.",
+  "synergies": [
+    "Facade",
+    "Sleep Talk",
+    "Snore",
+    "Moves unaffected by sleep"
+  ],
+  "notes": "Makes the Pok\u00e9mon immune to all status conditions except sleep, which it is permanently considered to have. Does not prevent switching or using moves."
+}

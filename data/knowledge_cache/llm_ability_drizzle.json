@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Drizzle\",\n    \"effect\": \"Summons rain for 5 turns (8 with Damp Rock) upon entering battle.\",\n    \"synergies\": [\"Water-type moves\", \"Swift Swim\", \"Thunder\", \"Hurricane\", \"Hydration\"],\n    \"notes\": \"Weather-setting abilities activate before other entry effects. Can be countered by other weather abilities.\"\n}\n```"
+}

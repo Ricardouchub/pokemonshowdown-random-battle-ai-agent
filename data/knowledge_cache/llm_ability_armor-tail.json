@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Armor Tail\",\n    \"effect\": \"Prevents opponents from using priority moves against the Pok\u00e9mon with this ability.\",\n    \"synergies\": [\"Slow Pok\u00e9mon\", \"Setup sweepers\", \"Teams vulnerable to priority attacks\"],\n    \"notes\": \"Introduced in Generation IX; particularly useful for protecting fragile or setup-focused Pok\u00e9mon from common priority moves like Sucker Punch, Ice Shard, or Quick Attack.\"\n}\n```"
+}

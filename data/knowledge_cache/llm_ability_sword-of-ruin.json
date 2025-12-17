@@ -1,0 +1,10 @@
+{
+  "ability": "Sword of Ruin",
+  "effect": "Lowers the Defense stat of all other Pok\u00e9mon on the field by 25%.",
+  "synergies": [
+    "Physical attackers on the user's team",
+    "Pok\u00e9mon with moves that bypass or benefit from lowered Defense (e.g., Fissure, False Swipe for catching)",
+    "Entry hazards like Stealth Rock to capitalize on weakened defenses"
+  ],
+  "notes": "One of the 'Ruination' abilities introduced in Generation IX. It affects all Pok\u00e9mon except the ability holder, including allies. Does not stack with identical abilities."
+}

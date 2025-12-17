@@ -1,0 +1,10 @@
+{
+  "ability": "Cud Chew",
+  "effect": "When the Pok\u00e9mon eats a Berry, it will consume it again at the end of the next turn.",
+  "synergies": [
+    "Berries with healing or stat-boosting effects",
+    "Items like Sitrus Berry or Lum Berry",
+    "Strategies involving repeated Berry consumption"
+  ],
+  "notes": "Introduced in Generation IX. Particularly effective on Pok\u00e9mon that can hold Berries for sustained recovery or status removal across multiple turns."
+}

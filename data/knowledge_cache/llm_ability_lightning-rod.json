@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"lightning-rod\",\n    \"effect\": \"Draws in all Electric-type moves. The user is immune to Electric-type moves and gains a Special Attack boost when hit by one.\",\n    \"synergies\": [\"ground-type pokemon\", \"special attackers\", \"doubles/triples format for ally protection\"],\n    \"notes\": \"In Generation 3, it only drew in moves and provided immunity without the stat boost. Also redirects all single-target Electric moves in double/triple battles.\"\n}\n```"
+}

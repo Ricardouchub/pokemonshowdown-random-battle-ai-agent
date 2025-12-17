@@ -1,0 +1,10 @@
+{
+  "ability": "Merciless",
+  "effect": "Attacks always result in a critical hit if the target is poisoned.",
+  "synergies": [
+    "Poison-type moves",
+    "Pok\u00e9mon with Toxic or Poison Powder",
+    "Venom Drench for stat drops"
+  ],
+  "notes": "Ignores the target's stat changes, making it effective against boosted opponents. Does not work on Steel or Poison-type Pok\u00e9mon unless they are poisoned (e.g., via Corrosion ability)."
+}

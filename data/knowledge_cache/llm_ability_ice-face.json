@@ -1,0 +1,10 @@
+{
+  "ability": "Ice Face",
+  "effect": "The Pok\u00e9mon's Ice Head can take physical damage for it, preventing damage and changing form. The Ice Head is restored in hail or when the Pok\u00e9mon uses Ice Punch.",
+  "synergies": [
+    "Hail/Snow teams",
+    "Physical attackers",
+    "Moves like Ice Punch"
+  ],
+  "notes": "Exclusive to Eiscue. Ice Head only blocks physical moves; special moves hit directly and do not trigger form change."
+}

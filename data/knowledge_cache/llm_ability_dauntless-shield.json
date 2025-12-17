@@ -1,0 +1,10 @@
+{
+  "ability": "Dauntless Shield",
+  "effect": "Boosts the Pok\u00e9mon's Defense stat when the battle begins.",
+  "synergies": [
+    "Defensive strategies",
+    "Stalling tactics",
+    "Baton Pass teams"
+  ],
+  "notes": "Exclusive to Zamazenta (Hero of Many Battles form). Activates once per battle upon entry."
+}

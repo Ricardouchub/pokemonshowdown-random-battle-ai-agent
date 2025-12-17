@@ -1,0 +1,10 @@
+{
+  "ability": "Transistor",
+  "effect": "Powers up Electric-type moves by 30%.",
+  "synergies": [
+    "Electric-type Pok\u00e9mon",
+    "High Special Attack stats",
+    "Moves like Thunderbolt, Volt Switch, Thunder"
+  ],
+  "notes": "Exclusive to Regieleki; significantly boosts its already high Speed and Electric-type offense."
+}

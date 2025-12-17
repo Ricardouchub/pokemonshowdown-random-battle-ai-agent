@@ -1,0 +1,10 @@
+{
+  "ability": "Punk Rock",
+  "effect": "Powers up sound-based moves by 50% and halves damage taken from sound-based moves.",
+  "synergies": [
+    "Sound-based moves (e.g., Boomburst, Overdrive)",
+    "Pok\u00e9mon with high Special Attack",
+    "Teams weak to sound moves"
+  ],
+  "notes": "Exclusive to Toxtricity; makes it a potent special attacker and sound-move tank."
+}

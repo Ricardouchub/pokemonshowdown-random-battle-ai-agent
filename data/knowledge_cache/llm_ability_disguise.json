@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Disguise\",\n    \"effect\": \"Prevents damage from one damaging move, then breaks. While active, the Pok\u00e9mon appears as Mimikyu's disguised form.\",\n    \"synergies\": [\"Focus Sash\", \"Status moves\", \"Swords Dance\", \"Shadow Sneak\"],\n    \"notes\": \"Exclusive to Mimikyu. Breaking triggers 'Busted' form. Does not block status moves or indirect damage. Resets upon switching out.\"\n}\n```"
+}

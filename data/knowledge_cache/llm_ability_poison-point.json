@@ -1,0 +1,10 @@
+{
+  "ability": "Poison Point",
+  "effect": "When a Pok\u00e9mon with this ability is hit by a contact move, there is a 30% chance the attacker becomes poisoned.",
+  "synergies": [
+    "Toxic Spikes",
+    "Venoshock",
+    "Pok\u00e9mon with high physical defense or contact-deterring moves like Iron Barbs"
+  ],
+  "notes": "Useful for punishing physical attackers; less effective against special attackers or Pok\u00e9mon with immunity to poison."
+}

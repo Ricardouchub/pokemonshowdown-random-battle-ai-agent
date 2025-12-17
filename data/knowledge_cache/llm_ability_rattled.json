@@ -1,0 +1,10 @@
+{
+  "ability": "Rattled",
+  "effect": "Raises Speed by one stage when hit by a Bug, Dark, or Ghost-type move.",
+  "synergies": [
+    "Weakness Policy",
+    "Pok\u00e9mon with low Speed stats",
+    "Switch-in strategies"
+  ],
+  "notes": "Often used to trigger stat boosts or activate items when switching into super-effective moves."
+}

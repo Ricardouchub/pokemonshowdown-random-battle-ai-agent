@@ -1,0 +1,11 @@
+{
+  "ability": "Moxie",
+  "effect": "Raises the user's Attack by one stage each time it knocks out an opponent.",
+  "synergies": [
+    "Choice Scarf",
+    "Sweeper sets",
+    "Priority moves",
+    "Sticky Web support"
+  ],
+  "notes": "Excels in late-game cleaning; vulnerable to Intimidate and status conditions."
+}

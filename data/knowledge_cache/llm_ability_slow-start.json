@@ -1,0 +1,10 @@
+{
+  "ability": "Slow Start",
+  "effect": "Halves the user's Attack and Speed stats for the first five turns after entering battle.",
+  "synergies": [
+    "Stall tactics",
+    "Defensive pivoting",
+    "Trick Room teams"
+  ],
+  "notes": "Primarily associated with Regigigas. Timer resets if the user switches out. Considered one of the most debilitating abilities competitively."
+}

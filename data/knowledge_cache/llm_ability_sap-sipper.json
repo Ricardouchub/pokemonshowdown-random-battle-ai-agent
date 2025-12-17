@@ -1,0 +1,10 @@
+{
+  "ability": "Sap Sipper",
+  "effect": "Boosts Attack by one stage when hit by a Grass-type move, and grants immunity to Grass-type moves.",
+  "synergies": [
+    "Works well with Pok\u00e9mon weak to Grass, like Water or Ground types.",
+    "Pairs with moves like Swords Dance to further boost Attack.",
+    "Can absorb status moves like Spore or Sleep Powder."
+  ],
+  "notes": "Does not protect against Grass-type status moves that don't deal damage, such as Leech Seed or Stun Spore."
+}

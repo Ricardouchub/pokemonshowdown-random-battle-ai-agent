@@ -1,0 +1,8 @@
+{
+  "ability": "Curious Medicine",
+  "effect": "When the Pok\u00e9mon enters battle, it removes all stat changes from its allies.",
+  "synergies": [
+    "Good with allies that rely on their own stat boosts or are hindered by enemy Intimidate or stat drops."
+  ],
+  "notes": "Exclusive to Galarian Slowbro. Effect triggers only on switch-in, not continuously."
+}

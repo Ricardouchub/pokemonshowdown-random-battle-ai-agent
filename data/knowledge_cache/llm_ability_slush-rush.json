@@ -1,0 +1,11 @@
+{
+  "ability": "Slush Rush",
+  "effect": "Doubles the Pok\u00e9mon's Speed stat during hail.",
+  "synergies": [
+    "Hail",
+    "Ice-type Pok\u00e9mon",
+    "Weather-setting moves (e.g., Snowscape)",
+    "Priority moves to offset low Speed outside hail"
+  ],
+  "notes": "Becomes inactive if hail ends or is replaced by another weather condition. Also works with snow (from Snowscape in Generation IX)."
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"toxic-chain\",\n    \"effect\": \"When this Pok\u00e9mon poisons a target, the poison spreads to adjacent opposing Pok\u00e9mon in double/triple battles.\",\n    \"synergies\": [\"Poison-type moves\", \"Venoshock\", \"Merciless\", \"Corrosion\"],\n    \"notes\": \"Only affects adjacent opponents in multi-battles; does not stack with existing status conditions.\"\n}\n```"
+}

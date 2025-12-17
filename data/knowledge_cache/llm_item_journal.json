@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"item\": \"Journal\",\n    \"category\": \"Held Item\",\n    \"summary\": \"Records the Pok\u00e9mon that fainted last in battle. When held, if the holder causes an opponent to faint, its highest stat (except HP) is boosted by one stage.\",\n    \"typical_users\": [\"Sweepers needing stat boosts after KOs\", \"Pok\u00e9mon with high offensive stats like Attack or Special Attack\", \"Wallbreakers looking to snowball\"]\n}\n```"
+}

@@ -1,0 +1,9 @@
+{
+  "ability": "Ball Fetch",
+  "effect": "If the Pok\u00e9mon is not holding an item, it will retrieve the first Pok\u00e9 Ball that fails to catch a wild Pok\u00e9mon in battle.",
+  "synergies": [
+    "Pok\u00e9mon that frequently switch in and out",
+    "Teams using many single-use balls like Quick Balls or Dusk Balls"
+  ],
+  "notes": "Only works once per battle; exclusive to Yamper and Boltund; retrieved ball goes to the Pok\u00e9mon's held item slot."
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Rocky Payload",
+  "effect": "Powers up Rock-type moves.",
+  "synergies": [
+    "Rock-type Pok\u00e9mon",
+    "Moves like Stone Edge and Rock Slide",
+    "Items that boost Rock-type damage"
+  ],
+  "notes": "Similar to abilities like Steelworker or Punk Rock, but for Rock-type attacks."
+}

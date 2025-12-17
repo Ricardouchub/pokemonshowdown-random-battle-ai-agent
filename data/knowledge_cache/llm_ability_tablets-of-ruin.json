@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Tablets of Ruin\",\n    \"effect\": \"Lowers the Attack stat of all Pok\u00e9mon except those with Tablets of Ruin by 25%.\",\n    \"synergies\": [\"Physical attackers on user's team\", \"Defensive Pok\u00e9mon that benefit from reduced opponent damage\", \"Other 'Ruin' abilities for stacking stat reduction\"],\n    \"notes\": \"One of the four 'Ruin' abilities introduced in Generation IX. The effect is active immediately upon entry into battle and persists while the Pok\u00e9mon is on the field.\"\n}\n```"
+}

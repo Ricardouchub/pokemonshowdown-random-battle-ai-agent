@@ -1,0 +1,10 @@
+{
+  "ability": "Oblivious",
+  "effect": "Prevents infatuation and protects from moves like Taunt.",
+  "synergies": [
+    "Physical attackers",
+    "Setup sweepers",
+    "Pok\u00e9mon weak to Taunt"
+  ],
+  "notes": "Useful for maintaining momentum against disruptive opponents, but does not block other status conditions."
+}

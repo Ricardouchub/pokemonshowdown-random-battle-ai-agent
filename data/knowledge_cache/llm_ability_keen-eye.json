@@ -1,0 +1,9 @@
+{
+  "ability": "Keen Eye",
+  "effect": "Prevents the Pok\u00e9mon's accuracy from being lowered and ignores the target's evasion stat increases.",
+  "synergies": [
+    "Pok\u00e9mon with low accuracy moves",
+    "Teams vulnerable to accuracy-lowering strategies"
+  ],
+  "notes": "Useful for countering moves like Sand Attack or Double Team, but generally considered a niche ability."
+}

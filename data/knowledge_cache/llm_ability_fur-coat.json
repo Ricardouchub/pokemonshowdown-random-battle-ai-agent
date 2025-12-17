@@ -1,0 +1,10 @@
+{
+  "ability": "Fur Coat",
+  "effect": "Halves damage from physical moves.",
+  "synergies": [
+    "High HP Pok\u00e9mon",
+    "Defensive sets",
+    "Stall strategies"
+  ],
+  "notes": "Does not reduce damage from special moves or status conditions."
+}

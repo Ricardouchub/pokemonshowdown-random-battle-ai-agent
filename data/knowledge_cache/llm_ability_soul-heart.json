@@ -1,0 +1,10 @@
+{
+  "ability": "Soul-Heart",
+  "effect": "Raises the user's Special Attack by one stage whenever another Pok\u00e9mon faints.",
+  "synergies": [
+    "Magearna",
+    "Multi-battle formats",
+    "Entry hazard strategies"
+  ],
+  "notes": "Works on ally and opponent faints; stacks with each KO."
+}

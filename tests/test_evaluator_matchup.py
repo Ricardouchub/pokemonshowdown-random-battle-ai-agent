@@ -30,6 +30,7 @@ def test_evaluator_prefers_supereffective_move(tmp_path):
         turn=1,
         timestamp="",
     )
-    chosen, ordered = policy.choose_action(state)
+    chosen, ordered, insights = policy.choose_action(state)
     assert chosen.startswith("move:ember")
     assert ordered[0].startswith("move:ember")
+    assert insights[0].action.startswith("move:ember")

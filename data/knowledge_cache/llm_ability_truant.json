@@ -1,0 +1,10 @@
+{
+  "ability": "Truant",
+  "effect": "The Pok\u00e9mon can only act every other turn.",
+  "synergies": [
+    "Slaking",
+    "Entrainment",
+    "Skill Swap"
+  ],
+  "notes": "Severely limits offensive pressure; often used for stalling or gimmick strategies."
+}

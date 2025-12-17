@@ -1,0 +1,10 @@
+{
+  "ability": "Misty Surge",
+  "effect": "On switch-in, sets Misty Terrain for 5 turns. Grounded Pok\u00e9mon are protected from status conditions and take 50% damage from Dragon-type moves.",
+  "synergies": [
+    "Fairy-type Pok\u00e9mon",
+    "Dragon-weak Pok\u00e9mon",
+    "Bulky setup sweepers"
+  ],
+  "notes": "Prevents sleep, paralysis, etc. on grounded allies; does not affect airborne Pok\u00e9mon or existing status."
+}

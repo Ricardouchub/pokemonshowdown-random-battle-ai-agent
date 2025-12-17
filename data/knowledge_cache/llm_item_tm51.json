@@ -1,0 +1,9 @@
+{
+  "item": "TM51",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Steel Wing, a Steel-type physical attack with 70 power, 90% accuracy, and a 10% chance to raise the user's Defense.",
+  "typical_users": [
+    "Physical attackers needing Steel-type coverage (e.g., Skarmory, Corviknight, Dragonite)",
+    "Pok\u00e9mon benefiting from the potential Defense boost"
+  ]
+}

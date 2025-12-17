@@ -1,0 +1,10 @@
+{
+  "ability": "Sheer Force",
+  "effect": "Increases the power of moves with secondary effects by 30%, but removes those secondary effects.",
+  "synergies": [
+    "Life Orb",
+    "Pok\u00e9mon with high Attack/Special Attack stats",
+    "Moves like Rock Slide, Iron Head, or Flamethrower"
+  ],
+  "notes": "Does not boost moves without secondary effects. Life Orb recoil is negated when using boosted moves."
+}

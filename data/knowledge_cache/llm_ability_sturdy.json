@@ -1,0 +1,11 @@
+{
+  "ability": "Sturdy",
+  "effect": "Prevents the Pok\u00e9mon from being knocked out by a single hit when at full HP, leaving it with 1 HP instead.",
+  "synergies": [
+    "Focus Sash",
+    "Custap Berry",
+    "Stealth Rock",
+    "Counter/Mirror Coat strategies"
+  ],
+  "notes": "Useful for guaranteeing a move or setup opportunity; negated by Mold Breaker, Teravolt, and Turboblaze."
+}

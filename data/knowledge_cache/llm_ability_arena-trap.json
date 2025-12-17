@@ -1,0 +1,11 @@
+{
+  "ability": "Arena Trap",
+  "effect": "Prevents opposing grounded Pok\u00e9mon from switching out or fleeing, except by using specific moves like U-turn or Baton Pass.",
+  "synergies": [
+    "Ground-type Pok\u00e9mon",
+    "Entry hazard setters",
+    "Trappers like Dugtrio",
+    "Pok\u00e9mon with high Speed and Attack"
+  ],
+  "notes": "Does not affect Flying-type, Levitate users, or Ghost-type Pok\u00e9mon. Banned in many competitive formats due to its trapping potential."
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Desolate Land",
+  "effect": "Summons intense sunlight that cannot be replaced and nullifies Water-type moves and abilities.",
+  "synergies": [
+    "Fire-type attackers",
+    "Solar Beam users",
+    "Pok\u00e9mon weak to Water"
+  ],
+  "notes": "Exclusive to Primal Groudon; overrides other weather conditions."
+}

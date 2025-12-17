@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Filter\",\n    \"effect\": \"Reduces damage from super-effective moves by 25%.\",\n    \"synergies\": [\"Steel-type Pok\u00e9mon\", \"Rock-type Pok\u00e9mon\", \"Pok\u00e9mon with multiple type weaknesses\"],\n    \"notes\": \"Common on Pok\u00e9mon like Probopass and Magneton. Does not stack with other damage-reducing abilities or items.\"\n}\n```"
+}

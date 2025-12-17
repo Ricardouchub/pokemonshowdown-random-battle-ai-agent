@@ -1,0 +1,10 @@
+{
+  "ability": "Justified",
+  "effect": "Raises the Pok\u00e9mon's Attack by one stage when hit by a Dark-type move.",
+  "synergies": [
+    "Dark-type teammates (to bait Dark moves)",
+    "Pok\u00e9mon with high Attack stats",
+    "Bulky Pok\u00e9mon that can survive a hit"
+  ],
+  "notes": "Commonly used in competitive play to punish opponents for using common Dark-type coverage moves like Knock Off or Sucker Punch."
+}

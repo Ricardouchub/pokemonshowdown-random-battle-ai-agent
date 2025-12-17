@@ -1,0 +1,10 @@
+{
+  "item": "Sprayduck",
+  "category": "Held Item",
+  "summary": "A one-use item that sharply lowers the target's Defense by two stages when the holder is hit by a physical move.",
+  "typical_users": [
+    "Physical attackers on predicted switches",
+    "Pok\u00e9mon with low Speed to punish contact moves",
+    "Teams utilizing entry hazard stacking for wallbreaking"
+  ]
+}

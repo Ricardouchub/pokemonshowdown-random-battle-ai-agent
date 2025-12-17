@@ -1,0 +1,11 @@
+{
+  "ability": "Download",
+  "effect": "Upon entering battle, the Pok\u00e9mon's Attack or Special Attack is raised by one stage based on whether the opposing Pok\u00e9mon has a lower Defense or Special Defense stat.",
+  "synergies": [
+    "Porygon line",
+    "Mixed attackers",
+    "Scout leads",
+    "Choice item users"
+  ],
+  "notes": "Often used to gain an immediate offensive advantage; stat checked before any entry hazards or weather effects apply."
+}

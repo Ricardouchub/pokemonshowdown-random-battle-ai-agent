@@ -1,0 +1,11 @@
+{
+  "ability": "Immunity",
+  "effect": "Prevents the Pok\u00e9mon from being poisoned.",
+  "synergies": [
+    "Toxic Orb",
+    "Poison-type moves",
+    "Stall strategies",
+    "Status-absorbing roles"
+  ],
+  "notes": "Useful for countering Toxic and Toxic Spikes; nullified by Mold Breaker and similar abilities."
+}

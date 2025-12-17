@@ -1,0 +1,11 @@
+{
+  "ability": "Forecast",
+  "effect": "Changes Castform's form and type based on the weather: Sunny (Fire), Rainy (Water), Snow (Ice). Returns to Normal type in no weather.",
+  "synergies": [
+    "Drizzle",
+    "Drought",
+    "Snow Warning",
+    "Weather Ball"
+  ],
+  "notes": "Exclusive to Castform. Form changes are automatic and affect stats and move type (e.g., Weather Ball)."
+}

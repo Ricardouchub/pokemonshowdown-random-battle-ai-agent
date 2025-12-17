@@ -1,0 +1,13 @@
+{
+  "ability": "Speed Boost",
+  "effect": "The Pok\u00e9mon's Speed stat is raised by one stage at the end of each turn.",
+  "synergies": [
+    "Swords Dance",
+    "Protect",
+    "Baton Pass",
+    "Focus Sash",
+    "Blaziken",
+    "Ninjask"
+  ],
+  "notes": "Enables sweeping or Baton Pass strategies; common on Blaziken (especially Mega) and Ninjask."
+}

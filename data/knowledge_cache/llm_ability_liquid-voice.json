@@ -1,0 +1,11 @@
+{
+  "ability": "Liquid Voice",
+  "effect": "All sound-based moves become Water-type.",
+  "synergies": [
+    "Primarina (signature user)",
+    "Hyper Voice",
+    "Sparkling Aria",
+    "Boomburst"
+  ],
+  "notes": "Does not change the damage category (special/physical) of moves, only their type. Useful for bypassing resistances or exploiting STAB with Water-type boosting items/abilities."
+}

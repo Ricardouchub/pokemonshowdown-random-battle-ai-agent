@@ -1,0 +1,11 @@
+{
+  "ability": "Mega Launcher",
+  "effect": "Boosts the power of pulse and aura moves (e.g., Dark Pulse, Water Pulse, Aura Sphere) by 50%.",
+  "synergies": [
+    "Clawitzer",
+    "Blastoise (Mega)",
+    "Goodra (Hisuian)",
+    "Moves: Dark Pulse, Water Pulse, Aura Sphere, Dragon Pulse, Origin Pulse"
+  ],
+  "notes": "Exclusive to a few Pok\u00e9mon, often paired with strong special attackers; does not boost Heal Pulse's healing."
+}

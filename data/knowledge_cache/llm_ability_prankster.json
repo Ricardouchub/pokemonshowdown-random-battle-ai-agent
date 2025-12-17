@@ -1,0 +1,12 @@
+{
+  "ability": "Prankster",
+  "effect": "Increases the priority of status moves by +1.",
+  "synergies": [
+    "Taunt",
+    "Thunder Wave",
+    "Will-O-Wisp",
+    "Substitute",
+    "Encore"
+  ],
+  "notes": "Does not affect Dark-type Pok\u00e9mon; priority moves like Fake Out still go first."
+}

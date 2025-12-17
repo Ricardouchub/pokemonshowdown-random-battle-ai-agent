@@ -1,0 +1,10 @@
+{
+  "ability": "Surge Surfer",
+  "effect": "Doubles the Pok\u00e9mon's Speed stat when Electric Terrain is active.",
+  "synergies": [
+    "Electric Terrain setters (e.g., Tapu Koko, Pincurchin)",
+    "Electric-type moves",
+    "Fast sweepers in Electric Terrain teams"
+  ],
+  "notes": "Exclusive to Alolan Raichu. Does not stack with other Speed modifiers like Choice Scarf."
+}

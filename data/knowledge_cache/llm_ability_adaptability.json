@@ -1,0 +1,10 @@
+{
+  "ability": "Adaptability",
+  "effect": "Increases the power of moves that match the user's type from the usual STAB multiplier of 1.5x to 2x.",
+  "synergies": [
+    "High base power moves of the user's type",
+    "Pok\u00e9mon with dual-typing to exploit multiple STAB types",
+    "Choice items to maximize damage output"
+  ],
+  "notes": "Particularly effective on Pok\u00e9mon like Mega Lucario or Crawdaunt, turning their STAB moves into devastating attacks."
+}

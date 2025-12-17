@@ -1,0 +1,10 @@
+{
+  "ability": "Steely Spirit",
+  "effect": "Powers up the Steel-type moves of the Pok\u00e9mon and its allies.",
+  "synergies": [
+    "Steel-type attackers",
+    "Doubles/Triples formats",
+    "Pok\u00e9mon with Steel-type coverage moves"
+  ],
+  "notes": "Introduced in Generation VIII. Doubles the power of Steel-type moves (similar to a STAB boost) for the user and adjacent allies. Does not stack with actual STAB."
+}

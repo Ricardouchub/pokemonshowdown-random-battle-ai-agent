@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Neutralizing Gas\",\n    \"effect\": \"While this Pok\u00e9mon is on the field, all other Pok\u00e9mon's Abilities are suppressed or nullified.\",\n    \"synergies\": [\"Weezing\", \"Koffing\", \"Galarian Weezing\", \"Pok\u00e9mon with detrimental Abilities like Slaking's Truant\"],\n    \"notes\": \"Does not affect Mold Breaker, Teravolt, or Turboblaze. Suppresses its own effect if another Neutralizing Gas Pok\u00e9mon enters the field.\"\n}\n```"
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Hyper Cutter",
+  "effect": "Prevents the Pok\u00e9mon's Attack stat from being lowered by opposing Pok\u00e9mon's moves or abilities.",
+  "synergies": [
+    "Physical attackers",
+    "Pok\u00e9mon weak to Intimidate (e.g., Gliscor, Kingler)",
+    "Swords Dance users"
+  ],
+  "notes": "Does not protect against self-inflicted Attack drops (e.g., from Superpower) or stat reductions from burns."
+}

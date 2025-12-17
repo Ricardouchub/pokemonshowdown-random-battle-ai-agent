@@ -1,0 +1,10 @@
+{
+  "ability": "Steadfast",
+  "effect": "Raises Speed by one stage each time the Pok\u00e9mon flinches.",
+  "synergies": [
+    "Flinch-inducing moves (e.g., Fake Out, Iron Head)",
+    "Focus Sash to survive and trigger",
+    "Priority moves to act after flinching"
+  ],
+  "notes": "Useful on fast Pok\u00e9mon or those weak to flinch moves; situational as flinching is not guaranteed."
+}

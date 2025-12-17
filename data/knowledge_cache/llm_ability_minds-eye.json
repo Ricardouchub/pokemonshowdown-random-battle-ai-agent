@@ -1,0 +1,10 @@
+{
+  "ability": "Mind's Eye",
+  "effect": "Allows the Pok\u00e9mon to hit Ghost-type Pok\u00e9mon with Normal and Fighting-type moves, and ignores changes to the target's evasiveness.",
+  "synergies": [
+    "Normal-type attackers",
+    "Fighting-type attackers",
+    "Pok\u00e9mon with moves like Foresight or Odor Sleuth"
+  ],
+  "notes": "Primarily found on Hisuian Decidueye; negates the immunity of Ghost-types to Normal and Fighting moves, making it a powerful counter."
+}

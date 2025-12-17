@@ -1,0 +1,10 @@
+{
+  "ability": "Tera Shift",
+  "effect": "Changes the Pok\u00e9mon's type to match its Tera Type when it enters battle.",
+  "synergies": [
+    "Tera Blast",
+    "type-specific held items",
+    "weather or terrain moves that benefit from the new type"
+  ],
+  "notes": "Only activates once per battle upon switching in; the original typing is completely replaced."
+}

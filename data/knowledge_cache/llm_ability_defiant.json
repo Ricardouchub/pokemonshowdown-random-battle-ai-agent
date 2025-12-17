@@ -1,0 +1,10 @@
+{
+  "ability": "Defiant",
+  "effect": "Boosts the Pok\u00e9mon's Attack by two stages whenever one of its stats is lowered by an opponent.",
+  "synergies": [
+    "Physical attackers",
+    "Pok\u00e9mon with moves like Close Combat or Superpower that lower user stats",
+    "Teams with Intimidate-deterring strategies"
+  ],
+  "notes": "Does not activate if the Pok\u00e9mon lowers its own stats (e.g., via self-inflicted stat drops from moves)."
+}

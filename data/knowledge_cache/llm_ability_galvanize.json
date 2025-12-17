@@ -1,0 +1,10 @@
+{
+  "ability": "Galvanize",
+  "effect": "Normal-type moves become Electric-type and deal 1.2x damage.",
+  "synergies": [
+    "Electric Terrain",
+    "Volt Absorb",
+    "Moves like Explosion or Hyper Beam"
+  ],
+  "notes": "Exclusive to Geodude, Graveler, and Golem in Alolan forms. Boosts STAB on Electric moves from converted Normal attacks."
+}

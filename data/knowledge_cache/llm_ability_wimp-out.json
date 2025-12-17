@@ -1,0 +1,11 @@
+{
+  "ability": "Wimp Out",
+  "effect": "When the Pok\u00e9mon's HP drops to half or below, it switches out for another Pok\u00e9mon in the party.",
+  "synergies": [
+    "Focus Sash",
+    "Sturdy ability",
+    "U-turn/Volt Switch users",
+    "Hazard setters for chip damage"
+  ],
+  "notes": "Exclusive to Wimpod and Golisopod. Often used to safely bring in a teammate, but can be predictable. In Golisopod, it activates Emergency Exit, which functions identically."
+}

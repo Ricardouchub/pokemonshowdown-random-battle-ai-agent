@@ -1,0 +1,9 @@
+{
+  "ability": "Air Lock",
+  "effect": "Eliminates all weather effects on the field while the Pok\u00e9mon is active.",
+  "synergies": [
+    "Pok\u00e9mon weak to weather-based damage (e.g., Rock, Fire, Ice, Water types)",
+    "Teams that rely on consistent move accuracy unaffected by weather"
+  ],
+  "notes": "Does not prevent the activation of weather; merely nullifies its effects. Also negates the effects of Delta Stream, Primordial Sea, and Desolate Land."
+}

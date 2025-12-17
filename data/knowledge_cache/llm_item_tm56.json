@@ -1,0 +1,8 @@
+{
+  "item": "TM56",
+  "category": "Technical Machine (Move)",
+  "summary": "Teaches the move Fling, a Dark-type attack that throws the user's held item at the target, with power and effect varying based on the flung item.",
+  "typical_users": [
+    "Pok\u00e9mon needing coverage or utility, often with low-Base Power moves like Trick Room setters (e.g., Bronzong), or those holding specific items like Iron Ball for flinch chance or status berries."
+  ]
+}

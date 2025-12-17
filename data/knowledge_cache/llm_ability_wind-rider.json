@@ -1,0 +1,9 @@
+{
+  "ability": "Wind Rider",
+  "effect": "Boosts the Pok\u00e9mon's Attack stat when hit by a wind move or when Tailwind is in effect. Also grants immunity to wind moves.",
+  "synergies": [
+    "Tailwind",
+    "Moves like Icy Wind, Bleakwind Storm, Hurricane"
+  ],
+  "notes": "Common on Pok\u00e9mon like Brambleghast. The Attack boost is +1 stage and does not stack with itself."
+}

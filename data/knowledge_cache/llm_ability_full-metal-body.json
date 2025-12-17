@@ -1,0 +1,10 @@
+{
+  "ability": "Full Metal Body",
+  "effect": "Prevents the Pok\u00e9mon's stats from being lowered by the effects of other Pok\u00e9mon's moves or abilities.",
+  "synergies": [
+    "Steel-type Pok\u00e9mon",
+    "Stat-boosting moves",
+    "Held items like Weakness Policy"
+  ],
+  "notes": "Signature ability of Solgaleo; does not protect against self-inflicted stat drops (e.g., from moves like Superpower)."
+}

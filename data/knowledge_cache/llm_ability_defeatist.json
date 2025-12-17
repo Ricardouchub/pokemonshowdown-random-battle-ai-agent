@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Defeatist\",\n    \"effect\": \"Halves the user's Attack and Special Attack stats when its HP drops to half or below.\",\n    \"synergies\": [\"Focus Sash\", \"Sturdy ability\", \"Recovery moves\", \"Baton Pass\"],\n    \"notes\": \"Considered a detrimental ability; often avoided in competitive play due to severe stat reduction at low HP.\"\n}\n```"
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "tinted-lens",
+  "effect": "Powers up moves that are not very effective, doubling their damage.",
+  "synergies": [
+    "Bug-type attackers",
+    "Pok\u00e9mon with diverse coverage moves",
+    "Choice Specs/Choice Band"
+  ],
+  "notes": "Effectively neutralizes resistances, making resisted moves deal normal damage. Highly valuable on Pok\u00e9mon like Yanmega and Noctowl."
+}

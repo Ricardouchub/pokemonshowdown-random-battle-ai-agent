@@ -1,0 +1,10 @@
+{
+  "ability": "Natural Cure",
+  "effect": "Heals all status conditions upon switching out.",
+  "synergies": [
+    "Pok\u00e9mon with high Speed or defensive pivots",
+    "Entry hazard setters for safe switches",
+    "Healing Wish or Lunar Dance support"
+  ],
+  "notes": "Excellent for scouting and absorbing status moves like Thunder Wave or Will-O-Wisp without lasting penalty."
+}

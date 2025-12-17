@@ -1,0 +1,9 @@
+{
+  "ability": "Stalwart",
+  "effect": "Ignores the effects of opposing Pok\u00e9mon's abilities and moves that draw in moves, such as Follow Me or Rage Powder.",
+  "synergies": [
+    "Pok\u00e9mon with spread moves to bypass redirection",
+    "Wallbreakers that target specific threats"
+  ],
+  "notes": "Useful in double battles to ensure attacks hit the intended target, unaffected by abilities like Storm Drain or Lightning Rod."
+}

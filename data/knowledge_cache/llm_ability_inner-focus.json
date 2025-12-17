@@ -1,0 +1,10 @@
+{
+  "ability": "Inner Focus",
+  "effect": "Prevents the Pok\u00e9mon from flinching.",
+  "synergies": [
+    "Moves that have a high flinch chance (e.g., Fake Out, Air Slash)",
+    "Priority moves to act before opponents",
+    "Pok\u00e9mon with low Speed to avoid flinch disruption"
+  ],
+  "notes": "Also prevents Intimidate from lowering Attack in Generation V onward. Common on Pok\u00e9mon like Lucario and Dragonite."
+}

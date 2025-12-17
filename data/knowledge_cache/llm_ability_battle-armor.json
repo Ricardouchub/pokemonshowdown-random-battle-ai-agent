@@ -1,0 +1,9 @@
+{
+  "ability": "Battle Armor",
+  "effect": "Prevents critical hits from landing on the Pok\u00e9mon.",
+  "synergies": [
+    "Pok\u00e9mon with high Defense or HP stats",
+    "Strategies focused on longevity and reducing variance"
+  ],
+  "notes": "Useful for tanky Pok\u00e9mon to avoid unexpected high damage, but does not protect against moves that always land critical hits (e.g., Frost Breath, Storm Throw)."
+}

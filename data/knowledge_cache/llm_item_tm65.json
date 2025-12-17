@@ -1,0 +1,10 @@
+{
+  "item": "TM65",
+  "category": "Technical Machine (Move)",
+  "summary": "Teaches the move Shadow Claw, a 70-power Ghost-type physical attack with a high critical-hit ratio.",
+  "typical_users": [
+    "Physical Ghost-type attackers (e.g., Gengar, Chandelure, Mimikyu)",
+    "Pok\u00e9mon needing Ghost-type coverage (e.g., Garchomp, Dragonite)",
+    "Pok\u00e9mon benefiting from high critical-hit chance"
+  ]
+}

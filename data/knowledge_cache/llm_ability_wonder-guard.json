@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"wonder-guard\",\n    \"effect\": \"Only super-effective moves, indirect damage, and status conditions can damage the Pok\u00e9mon.\",\n    \"synergies\": [\"Shedinja\", \"Focus Sash\", \"Safety Goggles\", \"Electric Terrain\", \"Misty Terrain\"],\n    \"notes\": \"Makes Shedinza extremely frail but hard to hit; vulnerable to weather, entry hazards, status, and all indirect damage.\"\n}\n```"
+}

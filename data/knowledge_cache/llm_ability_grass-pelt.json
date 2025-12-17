@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"grass-pelt\",\n    \"effect\": \"Boosts the Pok\u00e9mon's Defense stat in Grassy Terrain.\",\n    \"synergies\": [\"grassy-terrain\", \"defensive-stats\", \"terrain-based-abilities\"],\n    \"notes\": \"Exclusive to Skiddo and Gogoat; doubles Defense in Grassy Terrain.\"\n}\n```"
+}

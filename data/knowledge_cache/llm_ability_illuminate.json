@@ -1,0 +1,9 @@
+{
+  "ability": "Illuminate",
+  "effect": "Increases the chance of encountering wild Pok\u00e9mon by 100% when the Pok\u00e9mon with this ability is in the lead of the party (outside of battle).",
+  "synergies": [
+    "Pok\u00e9mon used for shiny hunting or grinding encounters",
+    "Teams focused on completing the Pok\u00e9dex"
+  ],
+  "notes": "Primarily a utility ability with no combat effect; often considered one of the weakest abilities competitively."
+}

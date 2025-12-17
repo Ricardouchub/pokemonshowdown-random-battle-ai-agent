@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Infiltrator\",\n    \"effect\": \"Ignores the opponent's protective moves (e.g., Reflect, Light Screen, Safeguard) and substitutes when attacking.\",\n    \"synergies\": [\"Fast or special attackers (e.g., Crobat, Noivern, Dragapult)\", \"Moves that bypass accuracy checks (e.g., Swift, Aura Sphere)\", \"Status-inflicting moves against Safeguard\"],\n    \"notes\": \"Particularly useful against stall teams relying on screens and substitutes. Does not ignore abilities like Multiscale or Wonder Guard.\"\n}\n```"
+}

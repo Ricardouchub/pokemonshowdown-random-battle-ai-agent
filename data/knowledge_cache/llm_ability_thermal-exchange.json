@@ -1,0 +1,10 @@
+{
+  "ability": "Thermal Exchange",
+  "effect": "Boosts the Pok\u00e9mon's Attack stat when hit by a Fire-type move. The Pok\u00e9mon also cannot be burned.",
+  "synergies": [
+    "Fire-type attackers",
+    "Teams weak to Fire moves",
+    "Physical attackers like Baxcalibur"
+  ],
+  "notes": "Useful for switching into predicted Fire attacks to gain an offensive boost while ignoring burn status."
+}

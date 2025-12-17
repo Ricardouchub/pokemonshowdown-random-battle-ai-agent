@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Snow Cloak\",\n    \"effect\": \"Raises evasion by 20% during hail/snow. Immune to hail damage.\",\n    \"synergies\": [\"Ice-type Pok\u00e9mon\", \"Hail teams\", \"Weather setters like Abomasnow/Alolan Ninetales\"],\n    \"notes\": \"Most useful in hail-centric strategies; less reliable outside of weather.\"\n}\n```"
+}

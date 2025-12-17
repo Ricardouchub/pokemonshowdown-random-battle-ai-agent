@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Pressure\",\n    \"effect\": \"When this Pok\u00e9mon is targeted by a move, that move loses one extra PP. This affects all moves used by opponents, including status moves.\",\n    \"synergies\": [\"Defensive Pok\u00e9mon\", \"Stall strategies\", \"Legendary Pok\u00e9mon\", \"High HP/Defense stats\"],\n    \"notes\": \"Particularly effective in longer battles to drain opponent's PP, forcing them to struggle sooner. Common on many legendary Pok\u00e9mon like Lugia, Mewtwo, and Giratina.\"\n}\n```"
+}

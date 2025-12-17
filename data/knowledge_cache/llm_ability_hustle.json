@@ -1,0 +1,10 @@
+{
+  "ability": "Hustle",
+  "effect": "Increases the power of physical moves by 50%, but lowers their accuracy to 80% of normal.",
+  "synergies": [
+    "Pok\u00e9mon with high Attack stats",
+    "Moves with high base power or that never miss",
+    "Abilities or items that mitigate accuracy loss (e.g., No Guard, Wide Lens)"
+  ],
+  "notes": "Does not affect special moves. The accuracy penalty applies after all other accuracy/evasion calculations."
+}

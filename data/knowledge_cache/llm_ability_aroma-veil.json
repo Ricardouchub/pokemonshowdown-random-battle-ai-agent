@@ -1,0 +1,9 @@
+{
+  "ability": "Aroma Veil",
+  "effect": "Protects the user and its allies from moves that restrict their move choices, such as Attract, Disable, Encore, Heal Block, Taunt, and Torment.",
+  "synergies": [
+    "Works well with support Pok\u00e9mon in double battles to protect allies from status-inflicting moves.",
+    "Pairs effectively with moves like Heal Pulse or Aromatherapy to maintain team support without interruption."
+  ],
+  "notes": "Does not protect against confusion or infatuation from moves like Swagger or Captivate, only the listed effects. Introduced in Generation VI."
+}

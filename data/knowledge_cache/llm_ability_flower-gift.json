@@ -1,0 +1,11 @@
+{
+  "ability": "flower-gift",
+  "effect": "Boosts the Attack and Special Defense of the user and allies by 50% in harsh sunlight.",
+  "synergies": [
+    "sunny-day",
+    "drought",
+    "chlorophyll",
+    "solar-power"
+  ],
+  "notes": "Exclusive to Cherrim; activates its Sunshine Form in sun."
+}

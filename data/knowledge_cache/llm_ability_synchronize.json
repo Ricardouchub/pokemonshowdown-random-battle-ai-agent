@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Synchronize\",\n    \"effect\": \"If the Pok\u00e9mon is burned, paralyzed, or poisoned by another Pok\u00e9mon, that Pok\u00e9mon will be inflicted with the same status condition.\",\n    \"synergies\": [\"Pok\u00e9mon with status-inflicting moves\", \"Defensive Pok\u00e9mon that can absorb status conditions\", \"Teams using Toxic or Will-O-Wisp strategies\"],\n    \"notes\": \"Does not affect sleep, freeze, or confusion. Particularly useful for spreading paralysis or poison in competitive play.\"\n}\n```"
+}

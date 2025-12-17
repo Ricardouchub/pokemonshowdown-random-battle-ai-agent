@@ -1,0 +1,10 @@
+{
+  "ability": "Normalize",
+  "effect": "All moves used by the Pok\u00e9mon become Normal-type and receive a 20% power boost.",
+  "synergies": [
+    "STAB on all moves",
+    "benefits from Normal-type boosting items like Silk Scarf",
+    "ignores opponent's type resistances/immunities to original move types"
+  ],
+  "notes": "Makes the Pok\u00e9mon weak to Fighting-type moves regardless of original typing. Overrides type-changing effects like Soak. Most effective on Pok\u00e9mon with diverse movepools lacking STAB."
+}

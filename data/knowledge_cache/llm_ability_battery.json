@@ -1,0 +1,9 @@
+{
+  "ability": "Battery",
+  "effect": "Increases the power of allies' special moves by 30% in double battles.",
+  "synergies": [
+    "Special attackers like Charizard or Alakazam",
+    "Electric-type Pok\u00e9mon for thematic pairing"
+  ],
+  "notes": "Only affects allies, not the user. Does not stack with multiple Battery users."
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Costar\",\n    \"effect\": \"When the Pok\u00e9mon enters battle, it copies the stat changes of its ally.\",\n    \"synergies\": [\"Stat-boosting allies\", \"Baton Pass strategies\", \"Doubles/VGC formats\"],\n    \"notes\": \"Only copies stat changes (e.g., Swords Dance, Nasty Plot boosts), not Ability or type changes. Particularly powerful with a setup ally.\"\n}\n```"
+}

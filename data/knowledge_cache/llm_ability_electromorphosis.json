@@ -1,0 +1,10 @@
+{
+  "ability": "Electromorphosis",
+  "effect": "When the Pok\u00e9mon is hit by a move, it becomes Charged. The next Electric-type move it uses will have its power doubled.",
+  "synergies": [
+    "Electric Terrain",
+    "Volt Switch",
+    "Moves with high base power like Thunderbolt or Wild Charge"
+  ],
+  "notes": "Exclusive to Bellibolt. The Charged state is lost if the Pok\u00e9mon switches out or faints before using an Electric move."
+}

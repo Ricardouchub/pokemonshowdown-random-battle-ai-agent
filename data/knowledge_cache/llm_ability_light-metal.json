@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Light Metal\",\n    \"effect\": \"Halves the Pok\u00e9mon's weight.\",\n    \"synergies\": [\"Low Kick\", \"Grass Knot\", \"Heavy Slam\", \"Heat Crash\"],\n    \"notes\": \"Primarily reduces damage from weight-based moves; useful for Pok\u00e9mon that would otherwise be heavy targets for Low Kick/Grass Knot.\"\n}\n```"
+}

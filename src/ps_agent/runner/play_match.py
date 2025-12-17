@@ -46,12 +46,18 @@ def play_match(
     for turn in range(1, max_turns + 1):
         state = state.with_turn(turn)
         legal_actions = enumerate_legal_actions(state)
-        action_self, ranked_self = policy_self.choose_action(state, legal_actions)
-        action_opp, ranked_opp = policy_opp.choose_action(state, legal_actions)
+        action_self, ranked_self, insights_self = policy_self.choose_action(state, legal_actions)
+        action_opp, ranked_opp, _ = policy_opp.choose_action(state, legal_actions)
+        top_actions_payload = [
+            {"action": insight.action, "score": insight.score, "breakdown": insight.breakdown}
+            for insight in insights_self
+        ]
         logger.log_turn(
             state,
             chosen_action=action_self,
             legal_actions=legal_actions,
+            reasons=top_actions_payload[0]["breakdown"] if top_actions_payload else {},
+            top_actions=top_actions_payload,
             extras={
                 "opponent_action": action_opp,
                 "ranked_self": ranked_self,

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Gulp Missile\",\n    \"effect\": \"When the Pok\u00e9mon uses Surf or Dive, it catches a prey. When hit by a move, it spits the prey at the attacker, dealing damage and potentially causing a status effect.\",\n    \"synergies\": [\"Cramorant's signature ability\", \"Surf/Dive moves\", \"Defensive pivoting\"],\n    \"notes\": \"The prey caught is either an Arrokuda (lowers target's Defense by 1 stage) or a Pikachu (paralyzes target), depending on Cramorant's HP when using Surf/Dive.\"\n}\n```"
+}

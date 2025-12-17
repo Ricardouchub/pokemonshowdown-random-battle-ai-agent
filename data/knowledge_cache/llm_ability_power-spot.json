@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Power Spot\",\n    \"effect\": \"Powers up moves of allies by 30% when the Pok\u00e9mon with this ability is on the field.\",\n    \"synergies\": [\"Multi-battles (Doubles/Triples)\", \"Support-oriented Pok\u00e9mon\", \"High-damage allies\"],\n    \"notes\": \"Only affects allies, not the user. Effect stacks with other damage modifiers.\"\n}\n```"
+}

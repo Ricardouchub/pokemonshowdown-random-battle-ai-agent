@@ -1,0 +1,10 @@
+{
+  "ability": "pastel-veil",
+  "effect": "Prevents the Pok\u00e9mon and its allies from being poisoned, and cures poison upon switching in.",
+  "synergies": [
+    "poison-type teammates",
+    "stall strategies",
+    "status-weak allies"
+  ],
+  "notes": "Useful in doubles to protect partners; nullifies Toxic and Toxic Spikes."
+}

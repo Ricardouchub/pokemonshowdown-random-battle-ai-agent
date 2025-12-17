@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Compound Eyes\",\n    \"effect\": \"Increases the accuracy of the Pok\u00e9mon's moves by 30%.\",\n    \"synergies\": [\"Pok\u00e9mon with low-accuracy moves\", \"Status-inflicting moves\", \"Moves with secondary effects\"],\n    \"notes\": \"Particularly useful for moves like Hypnosis, Thunder, or Blizzard. Does not affect moves that bypass accuracy checks.\"\n}\n```"
+}

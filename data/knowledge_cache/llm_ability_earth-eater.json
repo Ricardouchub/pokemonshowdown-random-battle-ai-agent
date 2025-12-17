@@ -1,0 +1,11 @@
+{
+  "ability": "Earth Eater",
+  "effect": "Restores HP by 1/4 of the user's maximum HP when hit by a Ground-type move instead of taking damage.",
+  "synergies": [
+    "Electric-type Pok\u00e9mon",
+    "Steel-type Pok\u00e9mon",
+    "Rock-type Pok\u00e9mon",
+    "Pok\u00e9mon weak to Ground"
+  ],
+  "notes": "Nullifies Ground-type damage entirely, making it a powerful defensive ability against common coverage moves like Earthquake."
+}

@@ -1,0 +1,11 @@
+{
+  "ability": "Shadow Tag",
+  "effect": "Prevents opposing Pok\u00e9mon from switching out or fleeing, except by using specific moves like U-turn or Baton Pass.",
+  "synergies": [
+    "Trap strategies",
+    "Entry hazard setters",
+    "Setup sweepers",
+    "Gothitelle and Wobbuffet's signature ability"
+  ],
+  "notes": "Banned in many competitive formats due to its trapping potential; does not affect Ghost-type Pok\u00e9mon or those with the abilities Shadow Tag, Arena Trap, or Magnet Pull."
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Multiscale",
+  "effect": "Reduces damage taken from attacks by half when the Pok\u00e9mon is at full HP.",
+  "synergies": [
+    "Recovery moves (e.g., Roost, Recover)",
+    "Leftovers or other healing items",
+    "Defensive or bulky Pok\u00e9mon sets"
+  ],
+  "notes": "Particularly effective on Dragonite and Lugia to enhance their natural bulk; vulnerable to entry hazards, status, and multi-hit moves."
+}

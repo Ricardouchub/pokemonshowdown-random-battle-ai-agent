@@ -1,0 +1,10 @@
+{
+  "ability": "Sticky Hold",
+  "effect": "Prevents the holder's held item from being removed or stolen by moves like Knock Off or Thief.",
+  "synergies": [
+    "Trick",
+    "Switcheroo",
+    "Item-dependent strategies"
+  ],
+  "notes": "Useful for Pok\u00e9mon that rely heavily on their held item, such as Choice item users or those with Berries. Does not protect against moves like Fling or Incinerate that consume or destroy items."
+}

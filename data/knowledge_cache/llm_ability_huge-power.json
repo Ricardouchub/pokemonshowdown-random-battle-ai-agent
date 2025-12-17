@@ -1,0 +1,11 @@
+{
+  "ability": "Huge Power",
+  "effect": "Doubles the Pok\u00e9mon's Attack stat.",
+  "synergies": [
+    "Swords Dance",
+    "Priority moves",
+    "Choice Band",
+    "Belly Drum"
+  ],
+  "notes": "Makes physical attackers extremely powerful; common on Azumarill and Medicham."
+}

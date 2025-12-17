@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Anticipation\",\n    \"effect\": \"Warns the Pok\u00e9mon of opposing Pok\u00e9mon's super-effective moves, OHKO moves, and certain status moves.\",\n    \"synergies\": [\"Pok\u00e9mon with low defensive stats\", \"Scouting teams\", \"Counter-picking strategies\"],\n    \"notes\": \"Does not reveal which specific move is detected. Useful for predicting opponent's coverage and protecting fragile Pok\u00e9mon.\"\n}\n```"
+}

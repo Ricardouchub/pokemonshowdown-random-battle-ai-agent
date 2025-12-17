@@ -1,0 +1,9 @@
+{
+  "ability": "Neuroforce",
+  "effect": "Powers up super-effective moves by 25%.",
+  "synergies": [
+    "Pok\u00e9mon with wide super-effective coverage (e.g., Necrozma-Dusk-Mane, Necrozma-Dawn-Wings)",
+    "Moves like Photon Geyser, Sunsteel Strike, Moongeist Beam"
+  ],
+  "notes": "Exclusive to Necrozma forms. Does not boost moves that are not super-effective."
+}

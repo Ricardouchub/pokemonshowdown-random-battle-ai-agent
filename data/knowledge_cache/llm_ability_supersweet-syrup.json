@@ -1,0 +1,10 @@
+{
+  "ability": "Supersweet Syrup",
+  "effect": "Lowers the evasion of all opposing Pok\u00e9mon by 1 stage when the Pok\u00e9mon enters the battle.",
+  "synergies": [
+    "Moves with low accuracy",
+    "Pok\u00e9mon that benefit from hitting opponents more reliably",
+    "Teams focusing on offensive pressure"
+  ],
+  "notes": "Unique to the Dipplin evolutionary line; the evasion drop occurs even if the opponent has a substitute, but does not affect Pok\u00e9mon with the abilities Clear Body, White Smoke, or protected by Mist."
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Stakeout",
+  "effect": "Doubles the damage dealt to targets that switch in during the turn.",
+  "synergies": [
+    "Trapping moves (e.g., Block, Mean Look)",
+    "Pivot moves (U-turn, Volt Switch)",
+    "Entry hazards to force switches"
+  ],
+  "notes": "Most effective on fast or bulky Pok\u00e9mon to capitalize on forced switches. Common users include Gumshoos and Alolan Raticate."
+}

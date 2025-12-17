@@ -1,0 +1,10 @@
+{
+  "item": "TM61",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Will-O-Wisp, a non-damaging Fire-type move that inflicts a burn on the target, halving its Attack stat and dealing residual damage.",
+  "typical_users": [
+    "Physical walls and support Pok\u00e9mon (e.g., Rotom-Wash, Toxapex, Porygon2)",
+    "Bulky Fire-types (e.g., Arcanine, Volcarona)",
+    "Utility Pok\u00e9mon seeking to cripple physical attackers"
+  ]
+}

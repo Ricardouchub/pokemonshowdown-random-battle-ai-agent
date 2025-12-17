@@ -1,0 +1,13 @@
+{
+  "ability": "Poison Heal",
+  "effect": "Restores HP instead of taking damage from poison. If the Pok\u00e9mon is poisoned, it recovers 1/8 of its maximum HP each turn.",
+  "synergies": [
+    "Toxic Orb",
+    "Gliscor",
+    "Breloom",
+    "Facade",
+    "Protect",
+    "Substitute"
+  ],
+  "notes": "Negates the damage and status condition of regular poison and bad poison. Does not activate if the Pok\u00e9mon is already poisoned by other means (e.g., Toxic Spikes) before the Ability takes effect in battle."
+}

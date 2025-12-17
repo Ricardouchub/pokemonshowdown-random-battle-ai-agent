@@ -26,17 +26,21 @@ class EventLogger:
         chosen_action: str,
         legal_actions: Iterable[str],
         reasons: Optional[Dict[str, float]] = None,
+        top_actions: Optional[Iterable[Dict[str, object]]] = None,
         extras: Optional[Dict[str, object]] = None,
     ) -> None:
+        legal_list = list(legal_actions)
         payload: Dict[str, object] = {
             "schema_version": self.schema_version,
             "timestamp": datetime.utcnow().isoformat(),
             "turn": state.turn,
             "battle_id": state.battle_id,
             "state_summary": state.summary(),
-            "legal_actions_count": len(list(legal_actions)),
+            "legal_actions_count": len(legal_list),
+            "legal_actions": legal_list,
             "chosen_action": chosen_action,
             "reasons": reasons or {},
+            "top_actions": list(top_actions or []),
         }
         payload.update(extras or {})
         with self.log_path.open("a", encoding="utf-8") as f:

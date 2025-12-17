@@ -1,0 +1,10 @@
+{
+  "ability": "Bad Dreams",
+  "effect": "Damages sleeping opposing Pok\u00e9mon by 1/8 of their maximum HP at the end of each turn.",
+  "synergies": [
+    "Darkrai",
+    "Moves that induce sleep (e.g., Dark Void, Hypnosis, Spore)",
+    "Pok\u00e9mon with trapping moves (e.g., Mean Look, Block)"
+  ],
+  "notes": "Exclusive to Darkrai. Does not affect Pok\u00e9mon with Insomnia, Vital Spirit, or Comatose. Passive damage stacks with other residual effects like poison."
+}

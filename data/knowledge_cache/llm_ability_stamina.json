@@ -1,0 +1,12 @@
+{
+  "ability": "Stamina",
+  "effect": "Boosts the Pok\u00e9mon's Defense by one stage each time it is hit by an attack.",
+  "synergies": [
+    "Rocky Helmet",
+    "Iron Defense",
+    "Body Press",
+    "Wish support",
+    "Toxic stall"
+  ],
+  "notes": "Excellent on bulky physical walls like Mudsdale; pairs well with recovery moves to maximize durability."
+}

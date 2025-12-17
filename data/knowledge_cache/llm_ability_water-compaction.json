@@ -1,0 +1,10 @@
+{
+  "ability": "Water Compaction",
+  "effect": "Raises Defense by two stages when hit by a Water-type move.",
+  "synergies": [
+    "Sandstorm teams",
+    "Rock/Ground-type Pok\u00e9mon",
+    "Items like Leftovers or Rocky Helmet"
+  ],
+  "notes": "Situational; requires prediction or opponent's Water moves to activate. Often seen on Palossand."
+}

@@ -1,0 +1,10 @@
+{
+  "item": "TM58",
+  "category": "Technical Machine",
+  "summary": "Teaches the move Brick Break, a Fighting-type physical attack (75 power, 100% accuracy) that breaks Reflect, Light Screen, and Aurora Veil.",
+  "typical_users": [
+    "Physical attackers needing coverage against Normal, Rock, Steel, Ice, and Dark types",
+    "Pok\u00e9mon with high Attack stats like Lucario, Infernape, or Blaziken",
+    "Teams requiring a reliable way to remove opposing protective screens"
+  ]
+}

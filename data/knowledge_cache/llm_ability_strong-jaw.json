@@ -1,0 +1,10 @@
+{
+  "ability": "Strong Jaw",
+  "effect": "Increases the power of biting moves (e.g., Crunch, Ice Fang) by 50%.",
+  "synergies": [
+    "Moves: Crunch, Ice Fang, Fire Fang, Thunder Fang, Poison Fang, Psychic Fangs",
+    "Pok\u00e9mon with high Attack stats",
+    "Items: Choice Band, Life Orb for further damage boosts"
+  ],
+  "notes": "Exclusive to certain Pok\u00e9mon like Tyrantrum and Drednaw. Does not affect non-biting moves like Hyper Beam or Earthquake."
+}

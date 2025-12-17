@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Emergency Exit\",\n    \"effect\": \"Switches the Pok\u00e9mon out when its HP drops below half.\",\n    \"synergies\": [\"U-turn\", \"Volt Switch\", \"Regenerator\", \"Pivot strategies\"],\n    \"notes\": \"Triggers at the end of the turn; can be used for safe pivoting.\"\n}\n```"
+}

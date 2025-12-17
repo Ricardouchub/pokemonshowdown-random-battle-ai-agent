@@ -1,0 +1,10 @@
+{
+  "ability": "Protosynthesis",
+  "effect": "Boosts the Pok\u00e9mon's highest stat (except HP) in harsh sunlight or if holding Booster Energy.",
+  "synergies": [
+    "Sun teams",
+    "Booster Energy",
+    "Pok\u00e9mon with high base stats in Attack, Special Attack, or Speed"
+  ],
+  "notes": "Exclusive to certain Paradox Pok\u00e9mon. The boost is 30% (or +1 stage for Speed)."
+}

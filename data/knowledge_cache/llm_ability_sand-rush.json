@@ -1,0 +1,11 @@
+{
+  "ability": "Sand Rush",
+  "effect": "Doubles the Pok\u00e9mon's Speed stat during a sandstorm.",
+  "synergies": [
+    "Sand Stream",
+    "Sand Spit",
+    "Rock-type Pok\u00e9mon",
+    "Ground-type Pok\u00e9mon"
+  ],
+  "notes": "Common on fast physical attackers like Excadrill and Lycanroc. Allows them to outspeed most opponents in sand, but requires sandstorm support to activate."
+}

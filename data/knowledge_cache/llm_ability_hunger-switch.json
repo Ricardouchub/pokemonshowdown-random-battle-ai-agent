@@ -1,0 +1,10 @@
+{
+  "ability": "Hunger Switch",
+  "effect": "Changes Morpeko's form between Full Belly Mode and Hangry Mode at the end of each turn, altering its signature move Aura Wheel's type (Electric in Full Belly, Dark in Hangry).",
+  "synergies": [
+    "Morpeko",
+    "Aura Wheel",
+    "Type coverage switching"
+  ],
+  "notes": "Unique to Morpeko; form change is automatic and affects stats and move typing."
+}

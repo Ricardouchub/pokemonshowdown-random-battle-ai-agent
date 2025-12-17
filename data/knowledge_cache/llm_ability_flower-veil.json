@@ -1,0 +1,10 @@
+{
+  "ability": "Flower Veil",
+  "effect": "Prevents lowering of ally Grass-type Pok\u00e9mon's stats and protects them from status conditions.",
+  "synergies": [
+    "Grass-type teams",
+    "Stat-boosting strategies",
+    "Supportive setups"
+  ],
+  "notes": "Only affects Grass-type allies on the field; useful in double/triple battles."
+}

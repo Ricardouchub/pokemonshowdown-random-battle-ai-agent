@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Snow Warning\",\n    \"effect\": \"Summons a hailstorm for 5 turns upon entering battle.\",\n    \"synergies\": [\"Ice-type Pok\u00e9mon\", \"Blizzard (100% accuracy in hail)\", \"Slush Rush (doubles Speed in hail)\", \"Ice Body (heals in hail)\", \"Snow Cloak (evasion boost in hail)\"],\n    \"notes\": \"Hail was replaced by snow in Generation IX; this ability now summons snow instead, which boosts Ice-type Defense.\"\n}\n```"
+}

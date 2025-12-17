@@ -1,0 +1,10 @@
+{
+  "ability": "Healer",
+  "effect": "Has a 30% chance to cure an adjacent ally of a status condition at the end of each turn.",
+  "synergies": [
+    "Double Battles",
+    "Support Pok\u00e9mon",
+    "Status-heavy teams"
+  ],
+  "notes": "Most effective in Double or Triple Battles; unreliable in Singles."
+}

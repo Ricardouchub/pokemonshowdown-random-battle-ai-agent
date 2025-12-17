@@ -1,0 +1,11 @@
+{
+  "ability": "Quick Feet",
+  "effect": "Boosts Speed by 50% when the Pok\u00e9mon is afflicted with a status condition (burn, poison, paralysis, freeze, or sleep), but prevents the Speed boost from Burn's usual Attack reduction.",
+  "synergies": [
+    "Flame Orb",
+    "Toxic Orb",
+    "Facade",
+    "Guts"
+  ],
+  "notes": "Often paired with status-inducing held items to activate reliably; does not prevent other negative effects of status (e.g., paralysis's full immobilization chance, poison damage)."
+}

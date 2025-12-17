@@ -1,0 +1,10 @@
+{
+  "ability": "Overcoat",
+  "effect": "Protects the Pok\u00e9mon from damage from weather conditions (sandstorm, hail) and powder moves (e.g., Sleep Powder, Spore).",
+  "synergies": [
+    "Grass-type Pok\u00e9mon (immune to powder moves)",
+    "Teams utilizing sandstorm or hail for chip damage",
+    "Pok\u00e9mon weak to Spore/Sleep Powder"
+  ],
+  "notes": "Does not protect against weather damage from an ally's ability (e.g., Sand Stream), only the direct weather effect. Also blocks damage from Rage Powder."
+}

@@ -1,0 +1,11 @@
+{
+  "ability": "Water Absorb",
+  "effect": "Restores HP by 1/4 of max HP when hit by a Water-type move instead of taking damage.",
+  "synergies": [
+    "Electric Terrain",
+    "Volt Absorb",
+    "Storm Drain",
+    "Pok\u00e9mon weak to Water"
+  ],
+  "notes": "Provides immunity to Water moves; useful for switching into predicted Water attacks."
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"gluttony\",\n    \"effect\": \"Allows the Pok\u00e9mon to consume its held Berry when its HP drops to 50% or below, instead of the usual 25% or below.\",\n    \"synergies\": [\"Berries that restore HP (e.g., Sitrus Berry, Figy Berry)\", \"Berries that activate at low HP (e.g., Liechi Berry, Salac Berry)\", \"Strategies involving pinch Berries or recovery\"],\n    \"notes\": \"Common on Snorlax, Greedent, and other Pok\u00e9mon with high HP stats. Enables earlier Berry activation for recovery or stat boosts, improving survivability and offensive potential.\"\n}\n```"
+}

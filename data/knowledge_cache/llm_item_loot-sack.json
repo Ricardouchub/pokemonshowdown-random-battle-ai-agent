@@ -1,0 +1,8 @@
+{
+  "item": "Loot Sack",
+  "category": "Held Item",
+  "summary": "Consumable item that restores 25% of the holder's max HP when it knocks out a target, but is consumed after use.",
+  "typical_users": [
+    "Pok\u00e9mon with high offensive pressure and frailty, such as Weavile, Greninja, or Dragapult, to sustain during sweeps"
+  ]
+}

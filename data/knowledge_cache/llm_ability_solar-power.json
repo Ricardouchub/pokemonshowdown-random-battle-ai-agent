@@ -1,0 +1,11 @@
+{
+  "ability": "Solar Power",
+  "effect": "Boosts the Pok\u00e9mon's Special Attack by 50% in harsh sunlight, but it loses 1/8 of its max HP at the end of each turn.",
+  "synergies": [
+    "Sun-setting moves (e.g., Sunny Day)",
+    "Fire-type Pok\u00e9mon",
+    "Chlorophyll users",
+    "Solar Beam users"
+  ],
+  "notes": "High-risk, high-reward ability; often used on fast, offensive Pok\u00e9mon to secure KOs before HP drain becomes critical."
+}

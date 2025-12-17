@@ -1,0 +1,12 @@
+{
+  "ability": "gale-wings",
+  "effect": "Gives priority to Flying-type moves when the user's HP is full.",
+  "synergies": [
+    "Talonflame",
+    "Brave Bird",
+    "Acrobatics",
+    "Swords Dance",
+    "Choice Band"
+  ],
+  "notes": "Nerfed in Gen 7 to only work at full HP; previously gave priority regardless of HP."
+}

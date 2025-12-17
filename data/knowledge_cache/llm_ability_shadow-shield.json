@@ -1,0 +1,10 @@
+{
+  "ability": "Shadow Shield",
+  "effect": "Reduces damage taken from attacks by 50% when the Pok\u00e9mon is at full HP.",
+  "synergies": [
+    "High HP Pok\u00e9mon",
+    "Healing moves like Roost or Recover",
+    "Hazard control to maintain full HP"
+  ],
+  "notes": "Signature ability of Lunala. Similar to Multiscale. Vulnerable to status and entry hazards breaking the effect."
+}

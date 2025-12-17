@@ -1,0 +1,19 @@
+{
+  "ability": "Iron Fist",
+  "effect": "Increases the power of punching moves by 20%.",
+  "synergies": [
+    "Mach Punch",
+    "Bullet Punch",
+    "Drain Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Fire Punch",
+    "Shadow Punch",
+    "Mega Punch",
+    "Dynamic Punch",
+    "Focus Punch",
+    "Power-Up Punch",
+    "Sucker Punch"
+  ],
+  "notes": "Affects moves with 'Punch' in their name. Does not boost moves like 'Close Combat' or 'Hammer Arm'."
+}

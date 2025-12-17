@@ -1,0 +1,10 @@
+{
+  "item": "TM52",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Focus Blast, a high-risk, high-reward Fighting-type special attack with 120 power, 70% accuracy, and a 10% chance to lower the target's Special Defense.",
+  "typical_users": [
+    "Special Attackers needing Fighting coverage (e.g., Alakazam, Gengar)",
+    "Pok\u00e9mon with poor physical movepools (e.g., Porygon-Z)",
+    "Wallbreakers aiming to hit Steel, Rock, Dark, Normal, and Ice types super effectively"
+  ]
+}

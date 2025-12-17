@@ -1,0 +1,13 @@
+{
+  "ability": "Orichalcum Pulse",
+  "effect": "On switch-in, summons harsh sunlight for 5 turns. Boosts the user's Attack stat by 33% in harsh sunlight.",
+  "synergies": [
+    "Fire-type moves",
+    "Solar Beam",
+    "Chlorophyll",
+    "Growth",
+    "Morning Sun",
+    "Weather Ball"
+  ],
+  "notes": "Signature ability of Koraidon. Functions like a combination of Drought and a sun-boosted Attack stat."
+}

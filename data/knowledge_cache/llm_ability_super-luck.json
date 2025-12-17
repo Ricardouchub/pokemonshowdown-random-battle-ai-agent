@@ -1,0 +1,10 @@
+{
+  "ability": "Super Luck",
+  "effect": "Increases the critical-hit ratio of the Pok\u00e9mon's moves.",
+  "synergies": [
+    "High-crit moves (e.g., Night Slash, Cross Poison)",
+    "Scope Lens item",
+    "Dire Hit or Focus Energy"
+  ],
+  "notes": "Effectively doubles the chance of landing a critical hit, which ignores the target's stat boosts and defensive screens."
+}

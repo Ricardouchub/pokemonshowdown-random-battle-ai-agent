@@ -1,0 +1,10 @@
+{
+  "ability": "Levitate",
+  "effect": "Grants immunity to Ground-type moves, Spikes, Toxic Spikes, and Arena Trap.",
+  "synergies": [
+    "Electric-type Pok\u00e9mon",
+    "Pok\u00e9mon weak to Ground",
+    "Entry hazard control"
+  ],
+  "notes": "Does not protect against Mold Breaker, Teravolt, or Turboblaze abilities, or moves like Smack Down or Gravity."
+}

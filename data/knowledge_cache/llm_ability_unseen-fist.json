@@ -1,0 +1,10 @@
+{
+  "ability": "unseen-fist",
+  "effect": "Moves that make contact ignore the target's protection moves (e.g., Protect, Detect).",
+  "synergies": [
+    "Urshifu (Single Strike and Rapid Strike forms)",
+    "High Attack stat",
+    "Multi-hit contact moves"
+  ],
+  "notes": "Exclusive to Urshifu; does not bypass Max Guard, Spiky Shield, King's Shield, or other effects like Obstruct."
+}

@@ -1,0 +1,11 @@
+{
+  "ability": "Imposter",
+  "effect": "Transforms into the opposing Pok\u00e9mon upon entering battle, copying its species, stats (except HP), moves, and stat changes.",
+  "synergies": [
+    "Ditto",
+    "Choice Scarf",
+    "Scout opposing teams",
+    "Counter setup sweepers"
+  ],
+  "notes": "Does not copy the opponent's ability. Fails against Pok\u00e9mon with the ability 'Transform' or 'Illusion'."
+}

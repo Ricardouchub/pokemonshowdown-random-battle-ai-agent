@@ -1,0 +1,10 @@
+{
+  "ability": "Toxic Boost",
+  "effect": "Increases the user's Attack stat by 50% when poisoned.",
+  "synergies": [
+    "Poison Heal",
+    "Facade",
+    "Guts"
+  ],
+  "notes": "Does not activate if the user is badly poisoned. Common on Zangoose."
+}

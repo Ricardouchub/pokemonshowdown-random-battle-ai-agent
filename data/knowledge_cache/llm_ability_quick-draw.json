@@ -1,0 +1,11 @@
+{
+  "ability": "Quick Draw",
+  "effect": "Has a 30% chance to allow the Pok\u00e9mon to move first in its priority bracket when using an attack move.",
+  "synergies": [
+    "Slow Pok\u00e9mon",
+    "Choice Scarf",
+    "Priority moves",
+    "Trick Room counterplay"
+  ],
+  "notes": "Does not guarantee first move; chance activates per turn. Works with any attack move, not just priority moves."
+}

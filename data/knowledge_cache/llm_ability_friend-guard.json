@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Friend Guard\",\n    \"effect\": \"Reduces damage taken by allies by 25% in double and triple battles.\",\n    \"synergies\": [\"Support Pok\u00e9mon\", \"Frail sweepers\", \"Trick Room teams\"],\n    \"notes\": \"Only works on allies, not the user. Common on Pok\u00e9mon like Clefairy and Togepi.\"\n}\n```"
+}

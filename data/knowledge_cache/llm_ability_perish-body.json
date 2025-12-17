@@ -1,0 +1,10 @@
+{
+  "ability": "Perish Body",
+  "effect": "When hit by a contact move, both the user and the attacker are afflicted with the Perish Song effect, causing them to faint in 3 turns unless switched out.",
+  "synergies": [
+    "Cursola (Galarian Corsola evolution) as its signature ability",
+    "Stall strategies with trapping moves like Block or Spirit Shackle",
+    "Focus Sash or Sturdy to guarantee activation"
+  ],
+  "notes": "Only activates on contact moves; does not affect Pok\u00e9mon with Soundproof or those already under Perish Song. High-risk ability that can force switches or trade favorably against physical attackers."
+}

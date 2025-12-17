@@ -1,0 +1,12 @@
+{
+  "ability": "Supreme Overlord",
+  "effect": "Boosts the user's Attack and Special Attack by 10% for each fainted ally in the party, up to a maximum of 50%.",
+  "synergies": [
+    "Kingambit",
+    "Swords Dance",
+    "Choice Band",
+    "Suicide leads",
+    "Hyper offense teams"
+  ],
+  "notes": "Most effective in late-game scenarios; benefits from teammates that can be sacrificed early to set up hazards or weaken opponents."
+}

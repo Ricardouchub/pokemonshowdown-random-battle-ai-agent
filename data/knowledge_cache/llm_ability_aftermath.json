@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Aftermath\",\n    \"effect\": \"Damages the attacker for 1/4 of its max HP when this Pok\u00e9mon is knocked out by a contact move.\",\n    \"synergies\": [\"Focus Sash\", \"Rocky Helmet\", \"Entry hazards\", \"Status conditions\"],\n    \"notes\": \"Only works against direct contact moves; ineffective against indirect damage like status, weather, or entry hazards.\"\n}\n```"
+}

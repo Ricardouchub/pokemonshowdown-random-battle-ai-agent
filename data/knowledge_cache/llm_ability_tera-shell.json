@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Tera Shell\",\n    \"effect\": \"When the Pok\u00e9mon has full HP, the types of moves it is hit by are always not very effective.\",\n    \"synergies\": [\"Sturdy Pok\u00e9mon\", \"Healing items/moves\", \"Defensive stat investment\"],\n    \"notes\": \"Signature ability of Terapagos. Effect is similar to Multiscale but provides a universal defensive typing bonus instead of halving damage.\"\n}\n```"
+}

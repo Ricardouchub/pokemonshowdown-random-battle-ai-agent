@@ -1,0 +1,10 @@
+{
+  "ability": "Harvest",
+  "effect": "May restore a used Berry at the end of the turn if the weather is sunny, with a higher chance of success.",
+  "synergies": [
+    "Sun-based teams",
+    "Berries like Sitrus or Lum for recovery",
+    "Trick Room setters for longevity"
+  ],
+  "notes": "Best on bulky Pok\u00e9mon; unreliable outside of sun. Key on Exeggutor and Trevenant."
+}

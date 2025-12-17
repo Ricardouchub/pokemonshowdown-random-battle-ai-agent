@@ -1,0 +1,10 @@
+{
+  "ability": "Dark Aura",
+  "effect": "Powers up Dark-type moves of all Pok\u00e9mon on the field by 33% (1.33x multiplier).",
+  "synergies": [
+    "Dark-type attackers",
+    "Mega Evolution (Mega Gengar's Shadow Tag)",
+    "Aura Break (negates opposing Fairy Aura)"
+  ],
+  "notes": "Only possessed by Yveltal; stacks multiplicatively with other damage boosts like STAB and items."
+}

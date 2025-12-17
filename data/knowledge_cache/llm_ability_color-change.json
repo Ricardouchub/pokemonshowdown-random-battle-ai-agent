@@ -1,0 +1,10 @@
+{
+  "ability": "Color Change",
+  "effect": "Changes the Pok\u00e9mon's type to match the type of the last move that hit it.",
+  "synergies": [
+    "Moves with varied coverage to exploit type advantages",
+    "Held items like Leftovers for survivability",
+    "Status moves to stall and force opponents to attack"
+  ],
+  "notes": "Mostly seen on Kecleon; can be unpredictable but leaves the user vulnerable to super-effective hits if the opponent predicts the type change."
+}

@@ -1,0 +1,11 @@
+{
+  "ability": "Steam Engine",
+  "effect": "Doubles the Pok\u00e9mon's Speed stat when hit by a Fire- or Water-type move.",
+  "synergies": [
+    "Fire-type moves",
+    "Water-type moves",
+    "Speed-boosting strategies",
+    "Volt Switch/U-turn for positioning"
+  ],
+  "notes": "Often used defensively on Rock-, Ground-, or Steel-types to turn a weakness into a setup opportunity. Common on Coalossal for competitive use."
+}

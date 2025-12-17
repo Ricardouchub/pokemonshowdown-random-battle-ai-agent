@@ -1,0 +1,10 @@
+{
+  "item": "TM63",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Thunder Punch, a reliable 75-power Electric-type physical attack with a 10% chance to paralyze the target.",
+  "typical_users": [
+    "Physical attackers needing Electric coverage (e.g., Iron Hands, Rillaboom, Dragonite)",
+    "Pok\u00e9mon with Punching moves benefiting from Iron Fist ability (e.g., Annihilape, Conkeldurr)",
+    "Teams requiring paralysis support without sacrificing a moveslot for Thunder Wave"
+  ]
+}

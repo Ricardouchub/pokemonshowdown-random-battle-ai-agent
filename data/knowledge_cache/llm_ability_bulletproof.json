@@ -1,0 +1,9 @@
+{
+  "ability": "bulletproof",
+  "effect": "Protects the Pok\u00e9mon from certain ball and bomb moves, such as Shadow Ball, Sludge Bomb, and Focus Blast.",
+  "synergies": [
+    "Works well with Pok\u00e9mon that have high defensive stats to maximize survivability against special attacks.",
+    "Pairs effectively with moves like Substitute or Protect to further mitigate damage from affected moves."
+  ],
+  "notes": "Does not protect against all projectile moves; for example, it does not block Aura Sphere or moves that are not classified as 'ball' or 'bomb' in the game code."
+}

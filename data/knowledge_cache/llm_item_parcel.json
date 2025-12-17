@@ -1,0 +1,10 @@
+{
+  "item": "Parcel",
+  "category": "Held Item",
+  "summary": "A one-time-use item that, when held by a Pok\u00e9mon, is delivered to the opponent upon being hit by a contact move, dealing damage equal to 1/6 of the user's maximum HP.",
+  "typical_users": [
+    "Bulky Pok\u00e9mon with high HP (e.g., Blissey, Snorlax)",
+    "Support Pok\u00e9mon aiming to punish physical attackers",
+    "Teams utilizing chip damage strategies"
+  ]
+}

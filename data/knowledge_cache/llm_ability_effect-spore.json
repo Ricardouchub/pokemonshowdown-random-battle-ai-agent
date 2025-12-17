@@ -1,0 +1,11 @@
+{
+  "ability": "Effect Spore",
+  "effect": "When hit by a contact move, 30% chance to inflict poison, paralysis, or sleep on the attacker.",
+  "synergies": [
+    "Poison Heal",
+    "Guts",
+    "Quick Feet",
+    "Rest"
+  ],
+  "notes": "Status condition is randomly chosen; ineffective against Grass-types, Poison-types, and Pok\u00e9mon with Immunity or Overcoat."
+}

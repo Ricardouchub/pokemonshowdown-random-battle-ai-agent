@@ -1,0 +1,9 @@
+{
+  "ability": "Power of Alchemy",
+  "effect": "When an adjacent ally faints, this Pok\u00e9mon copies that ally's Ability.",
+  "synergies": [
+    "Doubles/Triples Battles",
+    "Abilities like Intimidate, Speed Boost, or Water Absorb"
+  ],
+  "notes": "Only works in double/triple battles; copied Ability replaces Power of Alchemy permanently."
+}

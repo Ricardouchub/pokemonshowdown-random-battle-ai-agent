@@ -1,0 +1,9 @@
+{
+  "ability": "Steelworker",
+  "effect": "Powers up Steel-type moves by 50%.",
+  "synergies": [
+    "Steel-type Pok\u00e9mon",
+    "Moves like Anchor Shot, Bullet Punch, Iron Head"
+  ],
+  "notes": "Exclusive to Dhelmise; does not change the user's type, only boosts damage."
+}

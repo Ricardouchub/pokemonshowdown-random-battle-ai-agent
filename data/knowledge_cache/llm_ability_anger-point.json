@@ -1,0 +1,10 @@
+{
+  "ability": "Anger Point",
+  "effect": "When struck by a critical hit, the Pok\u00e9mon's Attack stat is raised to the maximum stage (+6).",
+  "synergies": [
+    "Focus Sash",
+    "Pok\u00e9mon with low Defense to bait critical hits",
+    "Moves like Frost Breath or Storm Throw that always land critical hits"
+  ],
+  "notes": "Most effective in doubles when an ally can trigger it reliably. Rarely seen in competitive singles due to inconsistency."
+}

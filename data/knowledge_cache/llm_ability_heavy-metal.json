@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Heavy Metal\",\n    \"effect\": \"Doubles the Pok\u00e9mon's weight.\",\n    \"synergies\": [\"Moves that deal damage based on weight (e.g., Heat Crash, Heavy Slam)\", \"Moves that lower Speed (e.g., Gyro Ball)\"],\n    \"notes\": \"Primarily found on Steel-type Pok\u00e9mon. The weight increase can make the user more vulnerable to moves like Low Kick and Grass Knot.\"\n}\n```"
+}

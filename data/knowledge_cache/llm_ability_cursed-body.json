@@ -1,0 +1,10 @@
+{
+  "ability": "Cursed Body",
+  "effect": "When this Pok\u00e9mon is hit by a move, there is a 30% chance that move becomes disabled for the opponent.",
+  "synergies": [
+    "Pok\u00e9mon with high defenses or recovery to survive hits",
+    "Status-inflicting moves to increase disruption",
+    "Entry hazards to punish switches"
+  ],
+  "notes": "Most effective on bulky Pok\u00e9mon that force opponents to use the same move repeatedly; can cripple choice-locked attackers."
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "teraform-zero",
+  "effect": "Sets the terrain to a neutral state (no terrain) upon entering battle, overriding existing terrains and preventing new ones from being set while the Pok\u00e9mon is active.",
+  "synergies": [
+    "Pok\u00e9mon that benefit from no terrain, such as those with abilities like Mold Breaker or Neutralizing Gas",
+    "Teams that rely on weather or other field effects instead of terrain",
+    "Pok\u00e9mon with moves that are hindered by specific terrains"
+  ],
+  "notes": "Introduced in Generation IX; particularly useful for countering terrain-dependent strategies, such as those centered on Electric, Grassy, Psychic, or Misty Terrain."
+}

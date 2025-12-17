@@ -1,0 +1,12 @@
+{
+  "ability": "Seed Sower",
+  "effect": "When the Pok\u00e9mon is hit by an attack, it sets up Grassy Terrain.",
+  "synergies": [
+    "Grassy Glide",
+    "Grassy Seed",
+    "Grassy Pelt",
+    "Grass-type moves",
+    "Healing moves"
+  ],
+  "notes": "Provides passive terrain control and team support, especially beneficial for Grass-type allies."
+}

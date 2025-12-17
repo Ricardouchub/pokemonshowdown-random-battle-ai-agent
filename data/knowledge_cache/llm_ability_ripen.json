@@ -1,0 +1,11 @@
+{
+  "ability": "Ripen",
+  "effect": "Doubles the effect of berries consumed by the Pok\u00e9mon.",
+  "synergies": [
+    "Berries (e.g., Sitrus Berry, Lum Berry)",
+    "Harvest ability",
+    "Recycle move",
+    "Fling move"
+  ],
+  "notes": "Exclusive to Applin line (Appletun, Flapple). Doubles healing, stat boosts, or other effects from berries; does not affect berries used via Fling unless held by the user."
+}

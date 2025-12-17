@@ -1,0 +1,10 @@
+{
+  "ability": "Guard Dog",
+  "effect": "Prevents the Pok\u00e9mon from being forced to switch out by moves or Abilities like Roar or Whirlwind, and boosts Attack when intimidated.",
+  "synergies": [
+    "Intimidate users",
+    "Entry hazard setters",
+    "Bulky physical attackers"
+  ],
+  "notes": "Useful for maintaining field position and punishing Intimidate attempts, common on Pok\u00e9mon like Maschiff and Mabosstiff."
+}

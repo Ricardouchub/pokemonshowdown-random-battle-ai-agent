@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Technician\",\n    \"effect\": \"Increases the power of moves with 60 base power or less by 50%.\",\n    \"synergies\": [\"Multi-hit moves\", \"Low base power moves with secondary effects\", \"Priority moves\", \"Moves boosted by items or STAB\"],\n    \"notes\": \"Common on Pok\u00e9mon like Scizor and Breloom to boost moves like Bullet Punch and Mach Punch. The power calculation occurs before other multipliers.\"\n}\n```"
+}

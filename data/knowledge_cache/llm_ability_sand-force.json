@@ -1,0 +1,10 @@
+{
+  "ability": "Sand Force",
+  "effect": "Boosts the power of Rock, Ground, and Steel-type moves by 30% in a sandstorm. The user is immune to sandstorm damage.",
+  "synergies": [
+    "Sand Stream",
+    "Rock/Ground/Steel-type attackers",
+    "Sand Rush"
+  ],
+  "notes": "Common on Pok\u00e9mon like Excadrill, Landorus-Therian, and Hippowdon. Maximizes offensive pressure in sand teams."
+}

@@ -1,0 +1,10 @@
+{
+  "ability": "Liquid Ooze",
+  "effect": "Damages opponents using HP-draining moves (like Leech Seed, Giga Drain) instead of healing them.",
+  "synergies": [
+    "Poison-type Pok\u00e9mon",
+    "Stall strategies",
+    "Moves that force HP-draining moves (e.g., Ingrain)"
+  ],
+  "notes": "Counters common recovery tactics; often found on Tentacruel and Swalot."
+}

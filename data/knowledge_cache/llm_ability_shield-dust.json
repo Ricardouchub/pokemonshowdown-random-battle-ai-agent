@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Shield Dust\",\n    \"effect\": \"Prevents additional effects of moves used against this Pok\u00e9mon.\",\n    \"synergies\": [\"Status-heavy Pok\u00e9mon\", \"Defensive builds\", \"Multi-hit move users\"],\n    \"notes\": \"Useful for blocking secondary effects like flinching, stat drops, or status conditions from attacks.\"\n}\n```"
+}

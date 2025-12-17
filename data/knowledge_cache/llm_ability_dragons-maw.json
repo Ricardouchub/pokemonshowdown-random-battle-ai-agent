@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Dragon's Maw\",\n    \"effect\": \"Powers up Dragon-type moves.\",\n    \"synergies\": [\"Dragon-type Pok\u00e9mon\", \"Dragon-type moves\", \"Items that boost damage (e.g., Choice Band)\"],\n    \"notes\": \"Effectively increases the power of Dragon-type moves by 50% (similar to STAB). Exclusive to certain Dragon-type Pok\u00e9mon like Dragapult and its pre-evolutions.\"\n}\n```"
+}

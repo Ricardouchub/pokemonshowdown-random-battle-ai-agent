@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Plus\",\n    \"effect\": \"Boosts the user's Special Attack by 50% if an ally has the Minus ability or the Plus ability.\",\n    \"synergies\": [\"Minus\", \"Electric-type moves\", \"Special Attack-focused allies\"],\n    \"notes\": \"Has no effect in single battles unless the ally also has Plus. Often paired with Minus on dedicated duo teams.\"\n}\n```"
+}

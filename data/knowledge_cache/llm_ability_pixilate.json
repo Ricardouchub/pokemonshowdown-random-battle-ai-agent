@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"pixilate\",\n    \"effect\": \"Turns the user's Normal-type moves into Fairy-type moves and boosts their power by 20%.\",\n    \"synergies\": [\"Normal-type Pok\u00e9mon with strong Normal moves (e.g., Hyper Voice, Return)\", \"Mega Evolutions (Mega Gardevoir, Mega Altaria)\", \"Sound-based moves (e.g., Hyper Voice, Boomburst)\", \"Pok\u00e9mon with high Special Attack\"],\n    \"notes\": \"Primarily found on Fairy-type Pok\u00e9mon. The type change occurs before damage calculation, allowing Fairy-type STAB and effectiveness against Dragon, Dark, and Fighting types. Does not affect status moves.\"\n}\n```"
+}

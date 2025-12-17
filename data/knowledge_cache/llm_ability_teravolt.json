@@ -1,0 +1,10 @@
+{
+  "ability": "Teravolt",
+  "effect": "Ignores the target's Ability if it could hinder the user's moves or effects.",
+  "synergies": [
+    "Zekrom",
+    "Kyurem-Black",
+    "Moves with secondary effects or stat-lowering potential"
+  ],
+  "notes": "Similar to Mold Breaker; allows moves to bypass abilities like Levitate, Sturdy, or Multiscale."
+}

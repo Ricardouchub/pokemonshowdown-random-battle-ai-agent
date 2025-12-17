@@ -1,0 +1,12 @@
+{
+  "ability": "Drought",
+  "effect": "Summons intense sunlight for 5 turns upon entering battle.",
+  "synergies": [
+    "Fire-type moves",
+    "Solar Beam",
+    "Morning Sun",
+    "Chlorophyll",
+    "Growth"
+  ],
+  "notes": "Activates immediately; overrides other weather conditions. Weakens Water-type moves."
+}

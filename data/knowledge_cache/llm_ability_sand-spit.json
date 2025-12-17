@@ -1,0 +1,12 @@
+{
+  "ability": "Sand Spit",
+  "effect": "When hit by a damaging move, the Pok\u00e9mon creates a sandstorm. If the user is hit by a multi-strike move, sandstorm is created after the last hit.",
+  "synergies": [
+    "Sand Rush",
+    "Sand Veil",
+    "Rock-type Pok\u00e9mon",
+    "Steel-type Pok\u00e9mon",
+    "Ground-type Pok\u00e9mon"
+  ],
+  "notes": "Useful for setting sandstorm without using a move slot; benefits from sandstorm damage and evasion boosts. Common on Pok\u00e9mon like Sandaconda."
+}

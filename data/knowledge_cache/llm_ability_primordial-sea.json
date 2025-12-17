@@ -1,0 +1,10 @@
+{
+  "ability": "Primordial Sea",
+  "effect": "Creates heavy rain that nullifies Fire-type moves and prevents Pok\u00e9mon from being burned.",
+  "synergies": [
+    "Water-type attackers",
+    "Swift Swim users",
+    "Pok\u00e9mon weak to Fire"
+  ],
+  "notes": "Introduced in Generation VI; exclusive to Kyogre in its Primal Reversion form."
+}

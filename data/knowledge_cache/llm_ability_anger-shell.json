@@ -1,0 +1,11 @@
+{
+  "ability": "Anger Shell",
+  "effect": "When the Pok\u00e9mon's HP drops below half, its Attack, Special Attack, and Speed are raised by one stage each, but its Defense and Special Defense are lowered by one stage each.",
+  "synergies": [
+    "Focus Sash",
+    "Weakness Policy",
+    "Berries that activate at low HP",
+    "Pok\u00e9mon with high base HP to survive the threshold"
+  ],
+  "notes": "Exclusive to Clodsire and its pre-evolution. High-risk, high-reward ability that favors offensive sweeps but leaves the user more vulnerable."
+}

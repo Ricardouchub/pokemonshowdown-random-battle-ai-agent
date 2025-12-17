@@ -1,0 +1,11 @@
+{
+  "ability": "Intrepid Sword",
+  "effect": "Raises the user's Attack stat by one stage when it enters the battle.",
+  "synergies": [
+    "Zacian (Crowned Sword Form)",
+    "Swords Dance",
+    "Choice Band",
+    "Priority moves"
+  ],
+  "notes": "Exclusive to Zacian in its Crowned Sword Form; activates only once per battle per Pok\u00e9mon."
+}

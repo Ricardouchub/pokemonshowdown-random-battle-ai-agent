@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Sniper\",\n    \"effect\": \"Increases the critical hit damage multiplier from 1.5x to 2.25x.\",\n    \"synergies\": [\"High critical hit ratio moves\", \"Focus Energy\", \"Scope Lens\", \"Razor Claw\", \"Super Luck ability\"],\n    \"notes\": \"Does not increase the chance of landing a critical hit, only the damage when one occurs. Particularly effective on Pok\u00e9mon with naturally high critical hit ratios or access to moves like Night Slash, Cross Poison, or Stone Edge.\"\n}\n```"
+}

@@ -1,0 +1,11 @@
+{
+  "ability": "Pure Power",
+  "effect": "Doubles the user's Attack stat.",
+  "synergies": [
+    "High base Attack Pok\u00e9mon",
+    "Priority moves like Fake Out",
+    "Swords Dance for further boosting",
+    "Choice Band for extreme power"
+  ],
+  "notes": "Exclusive to Meditite and Medicham; makes Medicham a potent wallbreaker despite average base stats."
+}

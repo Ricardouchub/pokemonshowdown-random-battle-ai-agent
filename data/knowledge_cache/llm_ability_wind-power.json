@@ -1,0 +1,11 @@
+{
+  "ability": "Wind Power",
+  "effect": "The Pok\u00e9mon gains the Charged status when hit by a wind move or when Tailwind is active on its side.",
+  "synergies": [
+    "Electric-type moves (e.g., Thunderbolt)",
+    "Moves that benefit from Charged (e.g., Rising Voltage)",
+    "Tailwind setters (e.g., Tornadus)",
+    "Wind move users (e.g., Hurricane)"
+  ],
+  "notes": "Introduced in Generation IX. Charged doubles the power of the next Electric-type move used. Can be self-activated with moves like Tailwind."
+}

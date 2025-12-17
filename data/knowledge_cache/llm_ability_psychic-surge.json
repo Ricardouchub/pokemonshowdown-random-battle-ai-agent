@@ -1,0 +1,10 @@
+{
+  "ability": "Psychic Surge",
+  "effect": "Sets Psychic Terrain on switch-in, lasting 5 turns. Boosts Psychic-type moves by 30% and prevents priority moves from affecting grounded Pok\u00e9mon.",
+  "synergies": [
+    "Fast Psychic-type attackers (e.g., Tapu Lele, Alakazam)",
+    "Pok\u00e9mon with Expanding Force for spread damage in terrain",
+    "Teams that counter priority-reliant opponents"
+  ],
+  "notes": "Terrain overrides other terrains. Does not affect airborne Pok\u00e9mon or Pok\u00e9mon with Mold Breaker/Teravolt/Turboblaze."
+}

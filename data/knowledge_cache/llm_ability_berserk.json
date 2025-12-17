@@ -1,0 +1,11 @@
+{
+  "ability": "Berserk",
+  "effect": "When the Pok\u00e9mon's HP drops below half, its Special Attack stat is increased by one stage.",
+  "synergies": [
+    "Drampa",
+    "Dynamax",
+    "Weakness Policy",
+    "Recovery moves"
+  ],
+  "notes": "Activates only once per switch-in unless HP is restored above half and then drops again."
+}

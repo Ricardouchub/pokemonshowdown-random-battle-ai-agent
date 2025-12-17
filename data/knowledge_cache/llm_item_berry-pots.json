@@ -1,0 +1,10 @@
+{
+  "item": "Berry Pots",
+  "category": "Held Item",
+  "summary": "A consumable item that, when held, restores 1/8 of the user's max HP at the end of each turn if its HP is at 50% or below.",
+  "typical_users": [
+    "Bulky setup sweepers (e.g., Garchomp, Dragonite)",
+    "Stall-oriented Pok\u00e9mon (e.g., Toxapex, Blissey)",
+    "Pok\u00e9mon with recovery moves to enhance longevity"
+  ]
+}

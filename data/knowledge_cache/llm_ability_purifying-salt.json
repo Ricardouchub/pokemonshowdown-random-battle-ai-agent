@@ -1,0 +1,10 @@
+{
+  "ability": "Purifying Salt",
+  "effect": "Protects the Pok\u00e9mon from status conditions and halves damage from Ghost-type moves.",
+  "synergies": [
+    "Ghost-type Pok\u00e9mon",
+    "Defensive builds",
+    "Status-immune strategies"
+  ],
+  "notes": "Found on Garganacl and its evolutionary line; does not protect against non-volatile status like freeze or sleep from moves like Spore."
+}

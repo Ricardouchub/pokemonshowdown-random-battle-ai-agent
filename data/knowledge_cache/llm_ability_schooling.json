@@ -1,0 +1,10 @@
+{
+  "ability": "Schooling",
+  "effect": "When Wishiwashi is level 20 or higher and has more than 25% HP, it changes to School Form. In School Form, its stats are boosted. If its HP drops to 25% or below, it reverts to Solo Form.",
+  "synergies": [
+    "Wishiwashi",
+    "HP-restoring moves/items",
+    "Protect/Substitute to maintain form"
+  ],
+  "notes": "Only affects Wishiwashi. School Form has much higher base stats (620 total vs. 175 in Solo Form). Form change happens at the end of each turn based on HP threshold."
+}

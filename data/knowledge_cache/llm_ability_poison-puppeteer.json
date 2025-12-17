@@ -1,0 +1,12 @@
+{
+  "ability": "poison-puppeteer",
+  "effect": "When this Pok\u00e9mon poisons a target, it also confuses the target.",
+  "synergies": [
+    "toxic-spikes",
+    "venoshock",
+    "hex",
+    "teeter-dance",
+    "toxic"
+  ],
+  "notes": "Combines status conditions for disruption; especially potent with moves that have high poison chance or multi-hit attacks."
+}

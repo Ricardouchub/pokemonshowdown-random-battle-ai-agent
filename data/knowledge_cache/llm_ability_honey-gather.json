@@ -1,0 +1,10 @@
+{
+  "ability": "Honey Gather",
+  "effect": "The Pok\u00e9mon may pick up Honey after battle.",
+  "synergies": [
+    "Pok\u00e9mon with Pickup ability",
+    "Items that boost item-finding",
+    "Early-game resource gathering"
+  ],
+  "notes": "Mostly useful for in-game convenience; rarely competitive due to low reliability and battle irrelevance."
+}

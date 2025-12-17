@@ -1,0 +1,10 @@
+{
+  "ability": "Water Bubble",
+  "effect": "Halves damage from Fire-type moves, prevents burns, and doubles the power of Water-type moves used by the Pok\u00e9mon.",
+  "synergies": [
+    "Water-type Pok\u00e9mon",
+    "Physical attackers",
+    "Strategies utilizing Scald or Liquidation"
+  ],
+  "notes": "Exclusive to Araquanid; the Fire damage reduction and burn immunity apply even if the ability is suppressed (e.g., by Mold Breaker)."
+}

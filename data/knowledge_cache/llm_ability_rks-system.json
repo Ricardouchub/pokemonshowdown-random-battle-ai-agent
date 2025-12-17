@@ -1,0 +1,10 @@
+{
+  "ability": "RKS System",
+  "effect": "Changes the Pok\u00e9mon's type to match the held memory item (e.g., Psychic Memory makes it Psychic-type).",
+  "synergies": [
+    "Memory items (e.g., Fire Memory, Water Memory)",
+    "Type-specific moves and items",
+    "Adaptability to opponent weaknesses"
+  ],
+  "notes": "Exclusive to Silvally. Type change occurs upon entering battle and persists until the memory is removed or changed."
+}

@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Gooey\",\n    \"effect\": \"Lowers the Speed stat of any attacker that makes direct contact.\",\n    \"synergies\": [\"Goodra\", \"Sliggoo\", \"Physical walls\", \"Sticky Hold\"],\n    \"notes\": \"Useful for punishing physical attackers; pairs well with moves that force contact like Dragon Tail.\"\n}\n```"
+}

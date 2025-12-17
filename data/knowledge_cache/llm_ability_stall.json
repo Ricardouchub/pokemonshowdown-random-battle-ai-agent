@@ -1,0 +1,11 @@
+{
+  "ability": "Stall",
+  "effect": "The Pok\u00e9mon moves last within its priority bracket, regardless of Speed.",
+  "synergies": [
+    "Trick Room",
+    "Slow Pok\u00e9mon",
+    "Abilities like Prankster",
+    "Moves with negative priority"
+  ],
+  "notes": "Often used to control turn order for strategic switches, delayed attacks, or to guarantee certain move effects last."
+}

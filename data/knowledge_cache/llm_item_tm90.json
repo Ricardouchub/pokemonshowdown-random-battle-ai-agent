@@ -1,0 +1,11 @@
+{
+  "item": "TM90",
+  "category": "Technical Machine (Move)",
+  "summary": "Teaches the move Substitute, which creates a decoy that takes hits for the user at the cost of 25% of its max HP.",
+  "typical_users": [
+    "Baton Pass chains",
+    "Setup sweepers (e.g., Calm Mind users)",
+    "Pok\u00e9mon with Leftovers or recovery to offset HP cost",
+    "Stall or defensive teams for scouting"
+  ]
+}

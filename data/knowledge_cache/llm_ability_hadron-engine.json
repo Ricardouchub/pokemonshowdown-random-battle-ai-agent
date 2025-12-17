@@ -1,0 +1,10 @@
+{
+  "ability": "Hadron Engine",
+  "effect": "On switch-in, sets Electric Terrain. Boosts the user's Special Attack by 30% while Electric Terrain is active.",
+  "synergies": [
+    "Electric-type attackers",
+    "Pok\u00e9mon with Quark Drive",
+    "Special attackers in Electric Terrain"
+  ],
+  "notes": "Signature ability of Miraidon. The terrain boost stacks with other Special Attack modifiers."
+}

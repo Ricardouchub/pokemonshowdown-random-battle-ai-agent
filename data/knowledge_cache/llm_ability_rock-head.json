@@ -1,0 +1,11 @@
+{
+  "ability": "Rock Head",
+  "effect": "Prevents recoil damage from moves like Double-Edge, Head Smash, and Brave Bird.",
+  "synergies": [
+    "High Attack Pok\u00e9mon",
+    "Recoil moves",
+    "Choice Band",
+    "Life Orb (recoil unaffected)"
+  ],
+  "notes": "Does not protect against crash damage (e.g., Jump Kick) or self-inflicted damage (e.g., Substitute)."
+}

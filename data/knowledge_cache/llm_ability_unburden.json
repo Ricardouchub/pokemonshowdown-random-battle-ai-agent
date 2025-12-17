@@ -1,0 +1,12 @@
+{
+  "ability": "Unburden",
+  "effect": "Doubles the Pok\u00e9mon's Speed stat if it loses its held item.",
+  "synergies": [
+    "Consumable items (e.g., Berries, Gems)",
+    "Fling",
+    "Natural Gift",
+    "Pickup (to regain items)",
+    "Acrobatics (if item is lost)"
+  ],
+  "notes": "Activated by using up an item (e.g., Berry consumption, Gem use), Fling, Knock Off, or Trick. Speed boost is lost if the Pok\u00e9mon gains another item during battle."
+}

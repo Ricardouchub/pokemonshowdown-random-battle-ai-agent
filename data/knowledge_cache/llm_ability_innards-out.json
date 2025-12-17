@@ -1,0 +1,11 @@
+{
+  "ability": "Innards Out",
+  "effect": "When the Pok\u00e9mon faints from an opponent's move, it deals damage to that opponent equal to the HP it had remaining before the hit.",
+  "synergies": [
+    "Focus Sash",
+    "Sturdy ability",
+    "High HP stat",
+    "Moves that force switches or cause self-KO"
+  ],
+  "notes": "Most effective on Pok\u00e9mon with high HP to maximize counter-damage; can surprise and eliminate weakened attackers. Damage is based on HP before the final hit, not max HP."
+}

@@ -1,0 +1,9 @@
+{
+  "ability": "Reckless",
+  "effect": "Powers up moves that have recoil or crash damage by 20%.",
+  "synergies": [
+    "High Attack stat Pok\u00e9mon",
+    "Moves like Double-Edge, Brave Bird, Head Smash, Wild Charge"
+  ],
+  "notes": "Does not increase the recoil damage taken. Common on Pok\u00e9mon like Staraptor, Rhyperior, and Hitmonlee."
+}

@@ -1,0 +1,9 @@
+{
+  "ability": "Frisk",
+  "effect": "Reveals the opponent's held item upon entering battle.",
+  "synergies": [
+    "Pok\u00e9mon with moves like Trick, Thief, or Knock Off",
+    "Scout roles on teams to gather information"
+  ],
+  "notes": "Useful for scouting items like Choice items, Berries, or Life Orb early in a match."
+}

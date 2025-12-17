@@ -1,0 +1,10 @@
+{
+  "item": "TM55",
+  "category": "Technical Machine (Move Tutor)",
+  "summary": "Teaches the move Scald, a Water-type special attack with 80 power, 100% accuracy, and a 30% chance to burn the target.",
+  "typical_users": [
+    "Bulky Water-types (e.g., Toxapex, Slowbro, Suicune)",
+    "Special attackers needing coverage or burn chance (e.g., Volcanion, Keldeo)",
+    "Defensive Pok\u00e9mon utilizing status spread"
+  ]
+}

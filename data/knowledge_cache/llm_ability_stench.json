@@ -1,0 +1,10 @@
+{
+  "ability": "Stench",
+  "effect": "May cause the target to flinch when the user hits with a move that makes contact.",
+  "synergies": [
+    "Moves with high flinch chance (e.g., Bite, Iron Head)",
+    "Pok\u00e9mon with high Speed to exploit flinches",
+    "Held items like King's Rock to stack flinch chance"
+  ],
+  "notes": "Low activation chance (around 10%). Mostly outclassed by other abilities, but can be situationally useful in early-game or casual play."
+}

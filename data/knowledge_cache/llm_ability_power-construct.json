@@ -1,0 +1,3 @@
+{
+  "raw": "```json\n{\n    \"ability\": \"Power Construct\",\n    \"effect\": \"When the Pok\u00e9mon's HP drops below half, it changes into its Complete Forme, gaining a significant stat boost.\",\n    \"synergies\": [\"Zygarde's cells and cores\", \"Dragon/Ground typing\", \"Dragon Dance setup\"],\n    \"notes\": \"Exclusive to Zygarde. The transformation is permanent for the battle and boosts HP, Attack, Defense, Special Attack, and Special Defense.\"\n}\n```"
+}
