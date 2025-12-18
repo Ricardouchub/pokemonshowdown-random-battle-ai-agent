@@ -75,14 +75,41 @@ class BattleState:
         return json.dumps(self.to_dict(), separators=(",", ":"), sort_keys=True)
 
     def summary(self) -> Dict[str, object]:
+        self_active = self.player_self.active_pokemon()
+        opp_active = self.player_opponent.active_pokemon()
+        
         return {
             "turn": self.turn,
-            "self_active": self.player_self.active_pokemon().species,
-            "opp_active": self.player_opponent.active_pokemon().species,
-            "weather": self.field.weather,
-            "terrain": self.field.terrain,
+            "my_active": self._describe_pokemon(self_active),
+            "opponent_active": self._describe_pokemon(opp_active),
+            "my_team": {
+                "remaining": len([p for p in self.player_self.team if not p.is_fainted]),
+                "pokemon": [p.species for p in self.player_self.team if not p.is_fainted]
+            },
+            "opponent_team": {
+                "remaining": len([p for p in self.player_opponent.team if not p.is_fainted]),
+            },
+            "field": {
+                "weather": self.field.weather,
+                "terrain": self.field.terrain,
+            },
             "recent_history": self.history[-5:],
         }
+    
+    @staticmethod
+    def _describe_pokemon(mon: PokemonState) -> Dict[str, object]:
+        info = {
+            "species": mon.species,
+            "hp_percent": int(mon.hp_fraction * 100),
+            "status": mon.status,
+            "boosts": {k: v for k, v in mon.boosts.items() if v != 0}
+        }
+        if mon.volatiles:
+            vols = []
+            if mon.volatiles.substitute: vols.append("substitute")
+            if mon.volatiles.confusion: vols.append("confusion")
+            if vols: info["volatiles"] = vols
+        return info
 
     def with_turn(self, turn: int, timestamp: Optional[str] = None) -> "BattleState":
         new_ts = timestamp or datetime.now(timezone.utc).isoformat()
