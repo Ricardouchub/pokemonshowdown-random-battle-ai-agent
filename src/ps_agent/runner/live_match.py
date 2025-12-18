@@ -384,7 +384,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--policy",
         default="baseline",
-        help="Policy to use for decision making (baseline or llm).",
+        help="Policy to use for decision making (baseline, llm, or lookahead).",
     )
     return parser.parse_args()
 
