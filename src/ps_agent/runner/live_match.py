@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
+from datetime import datetime
 from dataclasses import dataclass, replace
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -72,9 +73,11 @@ def parse_request_actions(request_data: Dict[str, object]) -> List[ActionOption]
         if "fnt" in condition:
             continue
         ident = mon.get("ident", f"slot-{idx}")
-        label = f"switch:{ident.split(':')[-1].strip() or idx}"
-        command = f"/choose switch {idx}"
-        actions.append(ActionOption(label=label, command=command, meta={"slot": idx}))
+        # Use name for switch command as it is more robust on some servers
+        name = ident.split(':')[-1].strip()
+        label = f"switch:{name or idx}"
+        command = f"/choose switch {name}"
+        actions.append(ActionOption(label=label, command=command, meta={"slot": idx, "name": name}))
 
     return actions
 
@@ -154,15 +157,23 @@ class LiveMatchRunner:
         policy = create_policy(policy_name)
         self.policy = policy
 
+    async def _log_traffic(self, direction: str, content: str) -> None:
+        timestamp = datetime.now().isoformat()
+        log_entry = f"[{timestamp}] [{direction}] {content}\n"
+        with open("artifacts/logs/live/traffic.log", "a", encoding="utf-8") as f:
+            f.write(log_entry)
+
     async def run(self) -> None:
         async with ShowdownClient(self.config) as client:
             self.client = client
             async for message in client.messages():
+                await self._log_traffic("IN", message)
                 await self._handle_raw_message(message)
 
     async def _handle_raw_message(self, message: str) -> None:
         current_battle: Optional[str] = None
         for line in message.split("\n"):
+            line = line.strip()
             if not line:
                 continue
             if line.startswith("|challstr|"):
@@ -195,13 +206,21 @@ class LiveMatchRunner:
         except Exception as exc:
             logger.error("assertion_failed", error=str(exc))
             return
-        await self.client.send(f"|/trn {self.config.username},0,{assertion}")
+        
+        msg = f"|/trn {self.config.username},0,{assertion}"
+        await self._log_traffic("OUT", msg)
+        await self.client.send(msg)
 
     async def _handle_battle_line(self, battle_id: str, content: str) -> None:
         context = self.contexts.get(battle_id)
         if context is None:
             context = self._create_context(battle_id)
             self.contexts[battle_id] = context
+
+        if content.startswith("|init|"):
+            join_cmd = f"|/join {battle_id}"
+            await self._log_traffic("OUT", join_cmd)
+            await self.client.send(join_cmd)
 
         if content.startswith("|request|"):
             request_payload = content.split("|request|", 1)[1]
@@ -213,6 +232,15 @@ class LiveMatchRunner:
         context.state = context.parser.apply(events, context.state)
 
     async def _handle_request(self, context: BattleContext, battle_id: str, payload: str) -> None:
+        # Ensure we are joined to the room to avoid "must be used in a chat room" error
+        if self.client:
+            join_cmd = f"|/join {battle_id}"
+            await self._log_traffic("OUT", join_cmd)
+            await self.client.send(join_cmd)
+            # Short safety delay
+            await asyncio.sleep(0.1)
+
+
         try:
             request_data = json.loads(payload)
         except json.JSONDecodeError:
@@ -254,13 +282,14 @@ class LiveMatchRunner:
         line = command
         if rqid is not None:
             line = f"{line}|{rqid}"
-        payload = f">{battle_id}|{line}"
+        payload = f"{battle_id}|{line}"
         logger.debug("sending_battle_command", battle_id=battle_id, command=line)
 
-        # DEBUG: Write sent payload
+        # DEBUG: Write sent payload (Legacy debug file)
         with open("artifacts/logs/live/debug_payloads.log", "a", encoding="utf-8") as f:
             f.write(f"SENT: {payload}\n")
 
+        await self._log_traffic("OUT", payload)
         await self.client.send(payload)
 
     def _create_context(self, battle_id: str) -> BattleContext:
@@ -281,7 +310,10 @@ class LiveMatchRunner:
             policy=self.policy,
             parser=parser,
         )
-
+        # Wait, the return statement line 256 in original file was simple. I should be careful not to introduce syntax errors.
+        # Let's re-read the _create_context in original to match args.
+        # Original: return BattleContext(battle_id=battle_id, state=state, logger=EventLogger..., policy=self.policy, parser=parser)
+        
     def _fetch_assertion(self, challstr: str) -> str:
         userid = "".join(ch.lower() for ch in self.config.username if ch.isalnum())
         url = f"{self.http_base}/action.php"
@@ -316,6 +348,7 @@ class LiveMatchRunner:
             return
         for room in self.rooms:
             join_cmd = f"|/join {room}"
+            await self._log_traffic("OUT", join_cmd)
             await self.client.send(join_cmd)
             logger.info("room_join_sent", room=room)
 
@@ -331,7 +364,9 @@ class LiveMatchRunner:
         if message.startswith("/challenge"):
             logger.info("challenge_received", challenger=sender, payload=message)
             if self.client:
-                await self.client.send(f"|/accept {sender}")
+                accept_cmd = f"|/accept {sender}"
+                await self._log_traffic("OUT", accept_cmd)
+                await self.client.send(accept_cmd)
                 logger.info("challenge_accepted", challenger=sender)
 
 def parse_args() -> argparse.Namespace:
