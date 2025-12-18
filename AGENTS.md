@@ -24,7 +24,10 @@ Construir un **agente de IA** que juegue **Pokémon Showdown** en formato **Rand
 -  Politica LLM (Deepseek) y monitor en vivo (`ps_agent.tools.live_monitor`).
 -  Live runner con login autom?tico, autojoin y aceptaci?n de retos.
 -  Live runner funcional: login, autojoin (global), aceptación de retos y envío de comandos corregido (protocolo `ROOMID|CMD`).
--  Estado: Operativo. Se pueden jugar partidas completas contra bots o humanos en servidor local/privado.
+-  Live runner funcional: login, autojoin (global), aceptación de retos y envío de comandos corregido (protocolo `ROOMID|CMD`).
+-  **Lookahead**: Implementado (1-ply minimax con heurística de STAB para rivales desconocidos).
+-  **Memoria**: Historial de batalla integrado en el estado y prompt del LLM.
+-  Estado: Operativo y Táctico. Se pueden jugar partidas completas contra bots o humanos.
 
 ---
 
