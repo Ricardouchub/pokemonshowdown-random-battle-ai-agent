@@ -93,7 +93,8 @@ class ProtocolParser:
         team[slot_idx] = pokemon
         team = self._mark_active(team, slot_idx)
         player_updated = replace(player, active_slot=slot_idx, team=team)
-        return self._replace_player(state, side_id, player_updated)
+        state = self._replace_player(state, side_id, player_updated)
+        return self._append_history(state, f"Switch: {side_id} sent out {species}")
 
     def _apply_move(self, args: List[str], state: BattleState) -> BattleState:
         slot_id_raw, move_name = args[0], args[1]
@@ -108,7 +109,8 @@ class ProtocolParser:
         team[slot_idx] = mon
         player_updated = replace(player, team=team)
         field = replace(state.field, last_actions={**state.field.last_actions, side_id: move_name})
-        return self._replace_player(state, side_id, player_updated, field=field)
+        state = self._replace_player(state, side_id, player_updated, field=field)
+        return self._append_history(state, f"Move: {side_id} used {move_name}")
 
     def _apply_hp(self, args: List[str], state: BattleState) -> BattleState:
         slot_id_raw = args[0]
@@ -256,6 +258,13 @@ class ProtocolParser:
         if side_id == "p1":
             return replace(state, player_self=player, field=field or state.field)
         return replace(state, player_opponent=player, field=field or state.field)
+
+    def _append_history(self, state: BattleState, event_str: str) -> BattleState:
+        new_history = list(state.history) + [event_str]
+        # Keep only last 20 events to avoid unlimited growth
+        if len(new_history) > 20:
+            new_history = new_history[-20:]
+        return replace(state, history=new_history)
 
     @staticmethod
     def bootstrap(
