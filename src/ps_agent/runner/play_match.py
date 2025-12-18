@@ -2,10 +2,12 @@ from __future__ import annotations
 
 import random
 from pathlib import Path
+import argparse
 from typing import Dict
 
 from ps_agent.logging.event_log import EventLogger
 from ps_agent.policy.baseline_rules import BaselinePolicy
+from ps_agent.policy.factory import create_policy
 from ps_agent.policy.legal_actions import enumerate_legal_actions
 from ps_agent.state.battle_state import BattleState, PlayerState
 from ps_agent.state.pokemon_state import PokemonState
@@ -71,3 +73,33 @@ def play_match(
         "result": "mock",
         "mode": mode,
     }
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Run a mock Random Battle match with configurable policy.")
+    parser.add_argument("--seed", type=int, default=1, help="Random seed for deterministic behavior.")
+    parser.add_argument("--max-turns", type=int, default=3, help="Number of turns to simulate.")
+    parser.add_argument("--log-path", type=str, default="artifacts/logs/mock.log", help="Path to JSONL log.")
+    parser.add_argument(
+        "--policy",
+        default="baseline",
+        help="Policy to use (baseline or llm). Opponent always uses baseline for now.",
+    )
+    return parser.parse_args()
+
+
+def main() -> None:
+    args = parse_args()
+    policy = create_policy(args.policy)
+    result = play_match(
+        seed=args.seed,
+        max_turns=args.max_turns,
+        log_path=args.log_path,
+        policy_self=policy,
+        policy_opp=BaselinePolicy(),
+    )
+    print(result)
+
+
+if __name__ == "__main__":
+    main()
