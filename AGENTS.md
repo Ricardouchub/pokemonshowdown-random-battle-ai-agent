@@ -23,7 +23,8 @@ Construir un **agente de IA** que juegue **Pokémon Showdown** en formato **Rand
 -  Pipelines de knowledge (PokeAPI + Deepseek), KnowledgeBase y feedback JSONL.
 -  Politica LLM (Deepseek) y monitor en vivo (`ps_agent.tools.live_monitor`).
 -  Live runner con login autom?tico, autojoin y aceptaci?n de retos.
-- Problema actual: el servidor local recibe `/choose ?|rqid` pero la UI queda en ?Waiting for opponent?? y termina con `|expire|`. Falta depurar la respuesta del backend o migrar a un motor como Poke-Env (ver `agents.py`).
+-  Live runner funcional: login, autojoin (global), aceptación de retos y envío de comandos corregido (protocolo `ROOMID|CMD`).
+-  Estado: Operativo. Se pueden jugar partidas completas contra bots o humanos en servidor local/privado.
 
 ---
 
