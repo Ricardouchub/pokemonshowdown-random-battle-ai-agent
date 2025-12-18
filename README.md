@@ -8,7 +8,11 @@ Agente modular para Pokemon Showdown (Random Battle) alineado con lo definido en
 - ✅ LLM en tiempo real: `LLMPolicy` usa Deepseek para razonar turno a turno; `knowledge_feedback.jsonl` registra sugerencias de mejora.
 - ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) y dashboard `ps_agent.tools.live_monitor`.
 - ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) funciona correctamente. El bug de "Waiting for opponent" fue resuelto (protocolo corregido + sanitización).
-- 🚀 Próximo paso: refinar la política LLM y mejorar el manejo de errores de red.
+- ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) funciona correctamente. El bug de "Waiting for opponent" fue resuelto (protocolo corregido + sanitización).
+- ✅ Lookahead Policy: Estrategia de anticipación (Minimax 1-ply) que calcula riesgos considerando la respuesta del rival (asume STAB si los ataques son desconocidos).
+- ✅ Memoria a Corto Plazo: `BattleState` ahora tiene historial de eventos, permitiendo al LLM recordar fallos o patrones recientes.
+- ✅ Fusión de Políticas: `LLMPolicy` ahora integra `Lookahead` como consejero interno, proveyendo al LLM de cálculos de riesgo precisos en su prompt.
+- 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
 ## Requisitos
 - Python 3.11+
