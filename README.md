@@ -7,7 +7,8 @@ Agente modular para Pokemon Showdown (Random Battle) alineado con lo definido en
 - ✅ Knowledge: scripts para poblar cache desde PokeAPI/Deepseek (`fetch_cache`, `cache_agent`, `deepseek_agent`, `deepseek_cache_agent`) y manifest de features.
 - ✅ LLM en tiempo real: `LLMPolicy` usa Deepseek para razonar turno a turno; `knowledge_feedback.jsonl` registra sugerencias de mejora.
 - ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) y dashboard `ps_agent.tools.live_monitor`.
-- 🚧 Bloqueo actual: en batalla real el servidor local acepta el `/choose …|rqid` pero la UI queda en “Waiting for opponent…”. Los logs muestran que el bot envía y registra la jugada; falta depurar por qué el servidor no avanza (posible rechazo silencioso o que el oponente no responde). Hasta resolverlo, las pruebas en vivo requieren revisar la consola del servidor para capturar `CMDFAIL` o migrar a un motor como Poke-Env.
+- ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) funciona correctamente. El bug de "Waiting for opponent" fue resuelto (protocolo corregido + sanitización).
+- 🚀 Próximo paso: refinar la política LLM y mejorar el manejo de errores de red.
 
 ## Requisitos
 - Python 3.11+
