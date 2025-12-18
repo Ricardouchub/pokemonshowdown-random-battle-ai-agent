@@ -75,7 +75,7 @@ class Evaluator:
             return -0.05  # Slight penalty for losing a turn
         if action.startswith("move:"):
             move_name = action.split(":", 1)[1]
-            damage = self._damage_proxy(self_poke, opp_poke, move_name)
+            damage = self.estimate_damage(self_poke, opp_poke, move_name)
             return damage
         return 0.0
 
@@ -99,7 +99,10 @@ class Evaluator:
             return 0.1
         return 0.0
 
-    def _damage_proxy(self, attacker: PokemonState, defender: PokemonState, move_name: str) -> float:
+        return 0.0
+
+    def estimate_damage(self, attacker: PokemonState, defender: PokemonState, move_name: str) -> float:
+        """Estimate damage percentage (0.0 to 1.0+) of a move against a defender."""
         move = self.knowledge.moves.get(move_name.lower()) or self.knowledge.moves.get(move_name)
         if move is None:
             return 0.0
