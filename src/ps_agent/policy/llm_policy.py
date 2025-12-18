@@ -24,7 +24,12 @@ class LLMPolicy:
         feedback_store: KnowledgeFeedbackStore | None = None,
     ) -> None:
         self.llm = llm or DeepseekClient()
-        self.baseline = baseline or BaselinePolicy()
+        # Use LookaheadPolicy as the default internal advisor if no baseline provided
+        if baseline is None:
+            from ps_agent.policy.lookahead import LookaheadPolicy
+            self.baseline = LookaheadPolicy()
+        else:
+            self.baseline = baseline
         self.feedback_store = feedback_store or KnowledgeFeedbackStore()
 
     def choose_action(
@@ -84,9 +89,14 @@ class LLMPolicy:
         self, state: BattleState, legal_actions: List[str], baseline_insights: List[ActionInsight]
     ) -> dict | None:
         summary = state.summary()
-        baseline_text = [
-            f"{insight.action}:{round(insight.score, 3)}" for insight in baseline_insights[:3]
-        ]
+        # Include risk/lookahead info in the prompt
+        baseline_text = []
+        for insight in baseline_insights[:4]:
+             risk_info = ""
+             if "lookahead_risk" in insight.breakdown:
+                 risk_info = f" (Risk: -{round(insight.breakdown['lookahead_risk'], 2)})"
+             baseline_text.append(f"{insight.action}:{round(insight.score, 3)}{risk_info}")
+
         prompt = (
             "You control a Pokemon Showdown Random Battle agent. "
             "You must choose an action from the provided legal actions. "
