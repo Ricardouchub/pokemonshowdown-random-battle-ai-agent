@@ -72,7 +72,7 @@ class Evaluator:
         self_poke = state.player_self.active_pokemon()
         opp_poke = state.player_opponent.active_pokemon()
         if action.startswith("switch:"):
-            return 0.1  # small neutral value for switching
+            return -0.05  # Slight penalty for losing a turn
         if action.startswith("move:"):
             move_name = action.split(":", 1)[1]
             damage = self._damage_proxy(self_poke, opp_poke, move_name)
@@ -91,8 +91,7 @@ class Evaluator:
         # Simple proxy: avoid staying in low HP
         self_poke = state.player_self.active_pokemon()
         risk = 1.0 - self_poke.hp_fraction
-        if action.startswith("switch:"):
-            risk *= 0.5
+        # Removed the half-risk bonus for switching to avoid panic swapping
         return risk
 
     def _wincon_progress_score(self, state: BattleState, action: str) -> float:
