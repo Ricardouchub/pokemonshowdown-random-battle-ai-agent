@@ -86,6 +86,5 @@ DEEPSEEK_API_KEY=sk-...
 El loader usa esta clave cuando se ejecutan los agentes Deepseek.
 
 ## Siguientes pasos recomendados
-1. **Resolver bloqueo “Waiting for opponent…”**: inspeccionar consola del servidor (`npm run start`) para detectar `CMDFAIL`/`error` y ajustar el formato del `/choose` o la sesión observada. Alternativa: integrar Poke-Env (como el `agents.py` de referencia) para aislar la política del frontend Showdown.
-2. Ajustar el parser contra logs reales (hazards, boosts, status, side conditions) y enriquecer el evaluador con heurísticas de daño/hazards.
-3. Automatizar benchmarks en `runner/tournament.py`, generar reportes en `artifacts/reports/` y extender inference/belief state.
+1. Ajustar el parser contra logs reales (hazards, boosts, status, side conditions) y enriquecer el evaluador con heurísticas de daño/hazards.
+2. Automatizar benchmarks en `runner/tournament.py`, generar reportes en `artifacts/reports/` y extender inference/belief state.
