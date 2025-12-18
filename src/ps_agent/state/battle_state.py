@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import json
-from dataclasses import asdict, dataclass, field, replace
+from dataclasses import asdict, dataclass, field as data_field, replace
 from datetime import datetime, timezone
 from typing import Dict, List, Optional
 
@@ -17,7 +17,7 @@ class PlayerState:
     name: str
     rating: Optional[float] = None
     active_slot: int = 0
-    team: List[PokemonState] = field(default_factory=PokemonState.empty_team)
+    team: List[PokemonState] = data_field(default_factory=PokemonState.empty_team)
 
     def active_pokemon(self) -> PokemonState:
         if self.team and 0 <= self.active_slot < len(self.team):
@@ -53,7 +53,8 @@ class BattleState:
     timestamp: str
     player_self: PlayerState
     player_opponent: PlayerState
-    field: FieldState = field(default_factory=FieldState)
+    field: FieldState = data_field(default_factory=FieldState)
+    history: List[str] = data_field(default_factory=list)
     schema_version: str = SCHEMA_VERSION
 
     def to_dict(self) -> Dict[str, object]:
@@ -66,6 +67,7 @@ class BattleState:
             "player_self": self.player_self.to_dict(),
             "player_opponent": self.player_opponent.to_dict(),
             "field": self.field.to_dict(),
+            "history": self.history,
             "schema_version": self.schema_version,
         }
 
@@ -79,6 +81,7 @@ class BattleState:
             "opp_active": self.player_opponent.active_pokemon().species,
             "weather": self.field.weather,
             "terrain": self.field.terrain,
+            "recent_history": self.history[-5:],
         }
 
     def with_turn(self, turn: int, timestamp: Optional[str] = None) -> "BattleState":
@@ -105,6 +108,7 @@ class BattleState:
             timestamp=ts,
             player_self=player_self,
             player_opponent=player_opponent,
+            history=[],
         )
 
     @classmethod
@@ -118,5 +122,6 @@ class BattleState:
             player_self=PlayerState.from_dict(data["player_self"]),
             player_opponent=PlayerState.from_dict(data["player_opponent"]),
             field=FieldState.from_dict(data.get("field", {})),
+            history=list(data.get("history", [])),
             schema_version=data.get("schema_version", SCHEMA_VERSION),
         )
