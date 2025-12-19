@@ -12,6 +12,9 @@ Agente modular para Pokemon Showdown (Random Battle) alineado con lo definido en
 - ✅ Lookahead Policy: Estrategia de anticipación (Minimax 1-ply) que calcula riesgos considerando la respuesta del rival (asume STAB si los ataques son desconocidos).
 - ✅ Memoria a Corto Plazo: `BattleState` ahora tiene historial de eventos, permitiendo al LLM recordar fallos o patrones recientes.
 - ✅ Fusión de Políticas: `LLMPolicy` ahora integra `Lookahead` como consejero interno, proveyendo al LLM de cálculos de riesgo precisos en su prompt.
+- ✅ Safety Guardrails: Penalizaciones heurísticas y reglas estrictas en el prompt para evitar spam de estados y setups suicidas.
+- ✅ Context Awareness: El LLM ahora recibe telemetría completa (HP%, Status, Boosts) para tomar decisiones informadas.
+- ✅ Inmunidades Robustas: Corrección de fallo en tabla de tipos para garantizar conocimiento de inmunidades básicas (Tierra vs Volador, etc.).
 - 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
 ## Requisitos
