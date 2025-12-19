@@ -48,6 +48,7 @@ class LLMPolicy:
 
         chosen = llm_response.get("action")
         reason = llm_response.get("reason", "")
+        chain_of_thought = llm_response.get("chain_of_thought", "")
         knowledge_updates = llm_response.get("knowledge_updates", [])
         if not chosen or chosen not in legal:
             logger.warning(
@@ -69,6 +70,7 @@ class LLMPolicy:
                     "risk": llm_response.get("risk", 0.0),
                     "wincon_progress": llm_response.get("wincon_progress", 0.0),
                     "llm_reason": reason,
+                    "chain_of_thought": chain_of_thought,
                 },
             )
         ] + insights_baseline
@@ -101,8 +103,9 @@ class LLMPolicy:
             "You control a Pokemon Showdown Random Battle agent. "
             "You must choose an action from the provided legal actions. "
             "Return a strict JSON object with fields: "
+            "`chain_of_thought` (string): A step-by-step analysis. First, analyze the opponent's threats and your current position. Second, evaluate the risk of switching vs attacking. Third, decide on the best course of action. "
             "`action` (one of the legal actions), "
-            "`reason` (short string), "
+            "`reason` (short summary string), "
             "`confidence` (0..1), "
             "`knowledge_updates` (list of {\"type\": str, \"data\": object} entries or empty). "
             "You may also provide optional numeric fields: `material`, `position`, "
@@ -131,7 +134,15 @@ class LLMPolicy:
             logger.error("llm_request_failed", error=str(exc))
             return None
         try:
-            parsed = json.loads(response)
+            cleaned = response.strip()
+            if cleaned.startswith("```json"):
+                cleaned = cleaned[7:]
+            if cleaned.startswith("```"):
+                cleaned = cleaned[3:]
+            if cleaned.endswith("```"):
+                cleaned = cleaned[:-3]
+            cleaned = cleaned.strip()
+            parsed = json.loads(cleaned)
             return parsed
         except json.JSONDecodeError:
             logger.warning("llm_invalid_json", response_preview=response[:200])
