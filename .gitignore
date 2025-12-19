@@ -182,3 +182,4 @@ cython_debug/
 uv.lock
 /.agent
 AGENTS.md
+AGENTS.md
