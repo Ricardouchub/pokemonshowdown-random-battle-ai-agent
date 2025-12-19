@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,6 +15,7 @@
             --danger: #ff4757;
             --info: #1e90ff;
         }
+
         body {
             background-color: var(--bg-color);
             color: var(--text-main);
@@ -25,6 +27,7 @@
             height: 100vh;
             box-sizing: border-box;
         }
+
         header {
             display: flex;
             justify-content: space-between;
@@ -33,13 +36,22 @@
             padding-bottom: 10px;
             margin-bottom: 20px;
         }
-        h1 { margin: 0; font-size: 1.5rem; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
+
+        h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
         .grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 20px;
             flex: 1;
         }
+
         .panel {
             background: var(--panel-bg);
             border: 1px solid #333;
@@ -48,10 +60,16 @@
             display: flex;
             flex-direction: column;
         }
+
         .mon-card {
             margin-bottom: 20px;
         }
-        .mon-name { font-size: 1.5rem; font-weight: bold; }
+
+        .mon-name {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
         .hp-bar-container {
             width: 100%;
             height: 10px;
@@ -60,18 +78,32 @@
             border-radius: 5px;
             overflow: hidden;
         }
+
         .hp-bar {
             height: 100%;
             background: var(--accent);
             width: 50%;
             transition: width 0.5s ease;
         }
-        .hp-bar.low { background: var(--danger); }
-        .hp-text { font-size: 0.9rem; color: var(--text-dim); }
+
+        .hp-bar.low {
+            background: var(--danger);
+        }
+
+        .hp-text {
+            font-size: 0.9rem;
+            color: var(--text-dim);
+        }
+
         .status-badge {
-            background: #444; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 0.8rem;
+            background: #444;
+            color: #fff;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.8rem;
             margin-left: 10px;
         }
+
         .reasoning-box {
             background: #1a1a1a;
             border-left: 4px solid var(--info);
@@ -80,6 +112,7 @@
             margin-top: 20px;
             white-space: pre-wrap;
         }
+
         .action-row {
             display: flex;
             justify-content: space-between;
@@ -87,18 +120,32 @@
             padding: 10px;
             border-bottom: 1px solid #222;
         }
-        .action-row:first-child { background: #1a2a1a; border-left: 4px solid var(--accent); }
-        
+
+        .action-row:first-child {
+            background: #1a2a1a;
+            border-left: 4px solid var(--accent);
+        }
+
         /* Loading overlay */
         #connection-status {
-            position: fixed; top: 10px; right: 10px;
-            padding: 5px 10px; border-radius: 4px; font-size: 0.8rem;
-            background: var(--danger); color: white;
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            background: var(--danger);
+            color: white;
             display: none;
         }
-        #connection-status.connected { background: var(--accent); color: black; }
+
+        #connection-status.connected {
+            background: var(--accent);
+            color: black;
+        }
     </style>
 </head>
+
 <body>
     <div id="connection-status">Disconnected</div>
     <header>
@@ -122,7 +169,7 @@
             <div id="decision-info">
                 Loading...
             </div>
-            
+
             <h3>Considered Actions</h3>
             <div id="alternatives">
                 <!-- Javascript will render here -->
@@ -132,7 +179,7 @@
 
     <script>
         const statusEl = document.getElementById('connection-status');
-        
+
         function renderHP(percent) {
             const colorClass = percent < 25 ? 'low' : 'normal';
             return `
@@ -146,8 +193,8 @@
         function renderMon(active, label) {
             if (!active) return '';
             const statusHtml = active.status ? `<span class="status-badge">${active.status}</span>` : '';
-            const boostsHtml = active.boosts ? Object.entries(active.boosts).map(([k,v]) => 
-                `<span class="status-badge" style="background:#555">${k} ${v>0?'+':''}${v}</span>`
+            const boostsHtml = active.boosts ? Object.entries(active.boosts).map(([k, v]) =>
+                `<span class="status-badge" style="background:#555">${k} ${v > 0 ? '+' : ''}${v}</span>`
             ).join('') : '';
 
             return `
@@ -163,7 +210,7 @@
             try {
                 const res = await fetch('/api/state');
                 const data = await res.json();
-                
+
                 statusEl.style.display = 'block';
                 statusEl.textContent = 'Live';
                 statusEl.classList.add('connected');
@@ -179,7 +226,7 @@
                 const summary = data.state_summary || {};
                 const myActive = summary.my_active || summary.self_active;
                 const oppActive = summary.opponent_active || summary.opp_active;
-                
+
                 document.getElementById('active-mons').innerHTML = `
                     ${renderMon(myActive, "🤖 YOUR ACTIVE")}
                     <hr style="border:0; border-top:1px solid #333; margin:20px 0">
@@ -190,10 +237,18 @@
                 const reasons = data.reasons || {};
                 const chosen = data.chosen_action;
                 const breakdown = data.top_actions?.[0]?.breakdown || {};
-                
+
                 document.getElementById('decision-info').innerHTML = `
                     <div style="font-size:1.2rem; color:var(--accent)">👉 ${chosen}</div>
+                    
+                    ${breakdown.chain_of_thought ?
+                        `<div style="margin-top:10px; color:#aaa; font-size:0.9rem; font-style:italic">Chain of Thought:</div>
+                         <div class="reasoning-box" style="border-left-color:#a29bfe; margin-top:5px; color:#dcdde1">${breakdown.chain_of_thought}</div>`
+                        : ''}
+
+                    <div style="margin-top:10px; color:#aaa; font-size:0.9rem">Final Decision:</div>
                     <div class="reasoning-box">${reasons.llm_reason || "No reasoning provided."}</div>
+                    
                     <div style="margin-top:10px; font-size:0.9rem">
                          Score: <b>${round(reasons.score)}</b> | 
                          Risk: <b>${round(breakdown.risk || breakdown.lookahead_risk)}</b>
@@ -205,7 +260,7 @@
                 document.getElementById('alternatives').innerHTML = tops.map((act, i) => `
                     <div class="action-row">
                         <div>
-                            ${i===0 ? '★ ' : ''} <b>${act.action}</b>
+                            ${i === 0 ? '★ ' : ''} <b>${act.action}</b>
                         </div>
                         <div style="font-family:monospace">
                             ${round(act.score)}
@@ -228,4 +283,5 @@
         update();
     </script>
 </body>
+
 </html>
