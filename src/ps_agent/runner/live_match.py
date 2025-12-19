@@ -3,6 +3,8 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
+import subprocess
+import sys
 from datetime import datetime
 from dataclasses import dataclass, replace
 from pathlib import Path
@@ -126,6 +128,26 @@ def apply_request_to_state(state: BattleState, request_data: Dict[str, object]) 
     if not team:
         team = state.player_self.team
 
+    # ENRICHMENT: The 'active' field in request has the most up-to-date move info for the active mon
+    # 'side' might only report what's been revealed or has inconsistent format for moves
+    active_data = request_data.get("active")
+    if active_data and 0 <= active_slot < len(team):
+        # We assume active_data corresponds to the pokemon at active_slot
+        # (Single battles only for now)
+        rich_moves = active_data[0].get("moves", [])
+        # moves in 'active' are objects: [{"move": "Body Slam", "id": "bodyslam", ...}]
+        move_ids = []
+        for m in rich_moves:
+            if isinstance(m, dict):
+                move_ids.append(m.get("id") or m.get("move"))
+            elif isinstance(m, str):
+                move_ids.append(m)
+        
+        if move_ids:
+            # Overwrite the active mon's moves with this rich list
+            current_mon = team[active_slot]
+            team[active_slot] = replace(current_mon, moves_known=tuple(move_ids))
+
     player_self = replace(
         state.player_self,
         name=side.get("name", state.player_self.name),
@@ -226,6 +248,15 @@ class LiveMatchRunner:
             request_payload = content.split("|request|", 1)[1]
             await self._handle_request(context, battle_id, request_payload)
             return
+
+        if content.startswith("|win|") or content.startswith("|tie|"):
+            logger.info("battle_ended", battle_id=battle_id, result=content)
+            # Trigger offline learning in background
+            try:
+                subprocess.Popen([sys.executable, "-m", "ps_agent.learning.learner"])
+                logger.info("learner_triggered_background")
+            except Exception as e:
+                logger.error("learner_trigger_failed", error=str(e))
 
         logger.debug("battle_event", battle_id=battle_id, content=content[:200])
         events = context.parser.parse_events([content])
