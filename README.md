@@ -53,6 +53,10 @@ uv sync --all-extras
   ```
 - `src/ps_agent/knowledge/loader.py`: construye un `KnowledgeBase` desde `data/knowledge_cache/` para el evaluador/policy.
 - `artifacts/knowledge_feedback.jsonl`: log donde el LLM deja sugerencias de knowledge (acciones exitosas/fallidas).
+- **Offline Learning (Feedback Loop)**: Procesa el historial de batallas para enriquecer el knowledge automaticamente.
+  ```bash
+  uv run python -m ps_agent.learning.learner
+  ```
 
 ## Live match runner
 `src/ps_agent/runner/live_match.py` conecta el agente a un servidor Showdown via WebSocket. Maneja `challstr`, obtiene el assertion (vía `--http-base`), parsea `|request|` JSON, actualiza `BattleState`, arma el set de acciones legales y envia `/choose ...` usando la politica seleccionada (`baseline` o `llm`). La comunicación funciona (ver `sending_battle_command` en consola), pero la respuesta del servidor queda bloqueada (ver sección de problemas).
