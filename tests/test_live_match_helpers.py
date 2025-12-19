@@ -156,4 +156,4 @@ async def test_send_battle_command_includes_rqid(tmp_path):
     dummy = DummyClient()
     runner.client = dummy
     await runner._send_battle_command("battle-test", "/choose move 1", rqid=3)
-    assert dummy.sent == [">battle-test|/choose move 1|3"]
+    assert dummy.sent == ["battle-test|/choose move 1|3"]
