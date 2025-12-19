@@ -18,8 +18,8 @@ async def get_state() -> Dict[str, object]:
     if not LOG_DIR.exists():
         return {"error": "Log directory not found", "dir": str(LOG_DIR)}
     
-    # Find most recently modified .log file
-    log_files = list(LOG_DIR.glob("*.log"))
+    # Find most recently modified battle log file
+    log_files = list(LOG_DIR.glob("battle-*.log"))
     if not log_files:
         return {"error": "No active battle logs found", "waiting": True}
     
