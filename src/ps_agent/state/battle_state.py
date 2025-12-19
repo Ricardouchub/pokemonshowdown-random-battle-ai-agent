@@ -55,6 +55,8 @@ class BattleState:
     player_opponent: PlayerState
     field: FieldState = data_field(default_factory=FieldState)
     history: List[str] = data_field(default_factory=list)
+    my_side: Optional[str] = None
+    observed_effectiveness: Dict[str, Dict[str, float]] = data_field(default_factory=dict)
     schema_version: str = SCHEMA_VERSION
 
     def to_dict(self) -> Dict[str, object]:
@@ -68,6 +70,8 @@ class BattleState:
             "player_opponent": self.player_opponent.to_dict(),
             "field": self.field.to_dict(),
             "history": self.history,
+            "my_side": self.my_side,
+            "observed_effectiveness": self.observed_effectiveness,
             "schema_version": self.schema_version,
         }
 
@@ -80,6 +84,7 @@ class BattleState:
         
         return {
             "turn": self.turn,
+            "my_side": self.my_side,
             "my_active": self._describe_pokemon(self_active),
             "opponent_active": self._describe_pokemon(opp_active),
             "my_team": {
@@ -125,6 +130,7 @@ class BattleState:
         player_opponent: PlayerState,
         turn: int = 0,
         timestamp: Optional[str] = None,
+        my_side: Optional[str] = None,
     ) -> "BattleState":
         ts = timestamp or datetime.now(timezone.utc).isoformat()
         return cls(
@@ -136,6 +142,8 @@ class BattleState:
             player_self=player_self,
             player_opponent=player_opponent,
             history=[],
+            my_side=my_side,
+            observed_effectiveness={},
         )
 
     @classmethod
@@ -150,5 +158,7 @@ class BattleState:
             player_opponent=PlayerState.from_dict(data["player_opponent"]),
             field=FieldState.from_dict(data.get("field", {})),
             history=list(data.get("history", [])),
+            my_side=data.get("my_side"),
+            observed_effectiveness=data.get("observed_effectiveness", {}),
             schema_version=data.get("schema_version", SCHEMA_VERSION),
         )
