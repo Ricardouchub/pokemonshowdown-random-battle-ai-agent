@@ -86,7 +86,7 @@ class LookaheadPolicy(BaselinePolicy):
         # 1. Check Known Moves
         known_moves = attacker.moves_known
         for move_name in known_moves:
-            dmg = self.evaluator.estimate_damage(attacker, defender, move_name)
+            dmg = self.evaluator.estimate_damage(state, attacker, defender, move_name)
             if dmg > max_damage:
                 max_damage = dmg
 
