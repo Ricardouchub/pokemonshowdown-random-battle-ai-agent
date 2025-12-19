@@ -27,7 +27,8 @@ Construir un **agente de IA** que juegue **Pokémon Showdown** en formato **Rand
 -  Live runner funcional: login, autojoin (global), aceptación de retos y envío de comandos corregido (protocolo `ROOMID|CMD`).
 -  **Lookahead**: Implementado (1-ply minimax con heurística de STAB para rivales desconocidos).
 -  **Memoria**: Historial de batalla integrado en el estado y prompt del LLM.
--  Estado: Operativo y Táctico. Se pueden jugar partidas completas contra bots o humanos.
+-  **Seguridad**: Guardrails implementados contra Status Spam y Setup Suicida (Heurística en Evaluator + Prompt Engineering).
+-  **Estado**: Táctico y Seguro. El agente ya no comete errores básicos de inmunidad o repetición de estados.
 
 ---
 
