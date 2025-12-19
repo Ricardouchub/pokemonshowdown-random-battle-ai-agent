@@ -58,5 +58,15 @@ def _fallback_chart() -> Dict[str, Dict[str, float]]:
     chart["grass"]["fire"] = 0.5
     chart["water"]["fire"] = 2.0
     chart["electric"]["water"] = 2.0
-    chart["ground"]["electric"] = 2.0
+    
+    # Standard Immunities
+    chart["ground"]["flying"] = 0.0
+    chart["electric"]["ground"] = 0.0
+    chart["normal"]["ghost"] = 0.0
+    chart["fighting"]["ghost"] = 0.0
+    chart["ghost"]["normal"] = 0.0
+    chart["psychic"]["dark"] = 0.0
+    chart["dragon"]["fairy"] = 0.0
+    chart["poison"]["steel"] = 0.0
+    
     return chart
