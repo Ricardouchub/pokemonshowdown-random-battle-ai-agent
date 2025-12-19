@@ -73,7 +73,7 @@ class Evaluator:
         self_poke = state.player_self.active_pokemon()
         opp_poke = state.player_opponent.active_pokemon()
         if action.startswith("switch:"):
-            return -0.05  # Slight penalty for losing a turn
+            return -0.3  # Moderate penalty to prevent loop switching
         if action.startswith("move:"):
             move_name = action.split(":", 1)[1]
             # Heuristic: Penalize status moves if opponent already has a status
