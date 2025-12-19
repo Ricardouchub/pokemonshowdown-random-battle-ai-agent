@@ -17,6 +17,13 @@ Agente modular para Pokemon Showdown (Random Battle) alineado con lo definido en
 - ✅ Inmunidades Robustas: Corrección de fallo en tabla de tipos para garantizar conocimiento de inmunidades básicas (Tierra vs Volador, etc.).
 - 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
+## Custom Framework Architecture
+Este proyecto implementa una arquitectura **100% Custom Python** diseñada específicamente para batallas en tiempo real, evitando el overhead de frameworks genéricos como LangChain o AutoGen.
+- **Low Latency Core**: Pipeline de decisión optimizado que opera en milisegundos.
+- **Direct LLM Integration**: Cliente `DeepseekClient` propio sin capas intermedias de abstracción.
+- **Hybrid Intelligence**: Fusión determinista (Minimax/Heurísticas) + Probabilística (LLM) con control total sobre el flujo.
+
+
 ## Requisitos
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv)
@@ -32,9 +39,10 @@ uv sync --all-extras
 - Lint/format: `uv run ruff check` y `uv run ruff format`
 - Tests: `uv run pytest`
 - Partida simulada stub: `uv run python -m ps_agent.runner.play_match --seed 42 --max-turns 5`
-- Live runner (servidor local): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby`
+- Live runner (servidor local): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy llm`
 - Politica LLM (Deepseek): `uv run python -m ps_agent.runner.play_match --policy llm --seed 101`
-- Dashboard live de reasoning: `uv run python -m ps_agent.tools.live_monitor --log-dir artifacts/logs/live`
+- Dashboard live de reasoning (CLI): `uv run python -m ps_agent.tools.live_monitor --log-dir artifacts/logs/live`
+- **Dashboard Web App**: `uv run python -m ps_agent.tools.web_dashboard` (http://localhost:3000)
 
 ## Knowledge y cache
 - `src/ps_agent/knowledge/online_agent.py`: usa PokeAPI para moves/items/abilities/type chart.
