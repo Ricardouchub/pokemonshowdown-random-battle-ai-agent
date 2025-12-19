@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PS Agent Command Center</title>
+    <style>
+        :root {
+            --bg-color: #0a0a0a;
+            --panel-bg: #111;
+            --text-main: #e0e0e0;
+            --text-dim: #777;
+            --accent: #00ff9d;
+            --danger: #ff4757;
+            --info: #1e90ff;
+        }
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Segoe UI', Roboto, monospace;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #333;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h1 { margin: 0; font-size: 1.5rem; color: var(--accent); text-transform: uppercase; letter-spacing: 2px; }
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            flex: 1;
+        }
+        .panel {
+            background: var(--panel-bg);
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        .mon-card {
+            margin-bottom: 20px;
+        }
+        .mon-name { font-size: 1.5rem; font-weight: bold; }
+        .hp-bar-container {
+            width: 100%;
+            height: 10px;
+            background: #333;
+            margin: 5px 0;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        .hp-bar {
+            height: 100%;
+            background: var(--accent);
+            width: 50%;
+            transition: width 0.5s ease;
+        }
+        .hp-bar.low { background: var(--danger); }
+        .hp-text { font-size: 0.9rem; color: var(--text-dim); }
+        .status-badge {
+            background: #444; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 0.8rem;
+            margin-left: 10px;
+        }
+        .reasoning-box {
+            background: #1a1a1a;
+            border-left: 4px solid var(--info);
+            padding: 15px;
+            font-family: monospace;
+            margin-top: 20px;
+            white-space: pre-wrap;
+        }
+        .action-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #222;
+        }
+        .action-row:first-child { background: #1a2a1a; border-left: 4px solid var(--accent); }
+        
+        /* Loading overlay */
+        #connection-status {
+            position: fixed; top: 10px; right: 10px;
+            padding: 5px 10px; border-radius: 4px; font-size: 0.8rem;
+            background: var(--danger); color: white;
+            display: none;
+        }
+        #connection-status.connected { background: var(--accent); color: black; }
+    </style>
+</head>
+<body>
+    <div id="connection-status">Disconnected</div>
+    <header>
+        <h1>Agent Command Center</h1>
+        <div id="battle-id">Waiting for battle...</div>
+    </header>
+
+    <div class="grid">
+        <!-- LEFT: State -->
+        <div class="panel">
+            <h2 style="color:var(--info)">Battle State</h2>
+            <div id="active-mons">
+                <!-- Javascript will render here -->
+                <div class="mon-card">Loading...</div>
+            </div>
+        </div>
+
+        <!-- RIGHT: Decision -->
+        <div class="panel">
+            <h2 style="color:var(--accent)">Reasoning Engine</h2>
+            <div id="decision-info">
+                Loading...
+            </div>
+            
+            <h3>Considered Actions</h3>
+            <div id="alternatives">
+                <!-- Javascript will render here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const statusEl = document.getElementById('connection-status');
+        
+        function renderHP(percent) {
+            const colorClass = percent < 25 ? 'low' : 'normal';
+            return `
+                <div class="hp-bar-container">
+                    <div class="hp-bar ${colorClass}" style="width: ${percent}%"></div>
+                </div>
+                <div class="hp-text">${percent}% HP</div>
+            `;
+        }
+
+        function renderMon(active, label) {
+            if (!active) return '';
+            const statusHtml = active.status ? `<span class="status-badge">${active.status}</span>` : '';
+            const boostsHtml = active.boosts ? Object.entries(active.boosts).map(([k,v]) => 
+                `<span class="status-badge" style="background:#555">${k} ${v>0?'+':''}${v}</span>`
+            ).join('') : '';
+
+            return `
+                <div class="mon-card">
+                    <div style="margin-bottom:4px; font-size:0.9rem; color:#777">${label}</div>
+                    <div class="mon-name">${active.species} ${statusHtml} ${boostsHtml}</div>
+                    ${renderHP(active.hp_percent || 100)}
+                </div>
+            `;
+        }
+
+        async function update() {
+            try {
+                const res = await fetch('/api/state');
+                const data = await res.json();
+                
+                statusEl.style.display = 'block';
+                statusEl.textContent = 'Live';
+                statusEl.classList.add('connected');
+
+                if (data.error || data.waiting) {
+                    document.getElementById('battle-id').textContent = data.error || "Waiting for battle...";
+                    return;
+                }
+
+                document.getElementById('battle-id').textContent = `Battle: ${data.battle_id} | Turn: ${data.turn}`;
+
+                // State
+                const summary = data.state_summary || {};
+                const myActive = summary.my_active || summary.self_active;
+                const oppActive = summary.opponent_active || summary.opp_active;
+                
+                document.getElementById('active-mons').innerHTML = `
+                    ${renderMon(myActive, "🤖 YOUR ACTIVE")}
+                    <hr style="border:0; border-top:1px solid #333; margin:20px 0">
+                    ${renderMon(oppActive, "👤 OPPONENT ACTIVE")}
+                `;
+
+                // Decision
+                const reasons = data.reasons || {};
+                const chosen = data.chosen_action;
+                const breakdown = data.top_actions?.[0]?.breakdown || {};
+                
+                document.getElementById('decision-info').innerHTML = `
+                    <div style="font-size:1.2rem; color:var(--accent)">👉 ${chosen}</div>
+                    <div class="reasoning-box">${reasons.llm_reason || "No reasoning provided."}</div>
+                    <div style="margin-top:10px; font-size:0.9rem">
+                         Score: <b>${round(reasons.score)}</b> | 
+                         Risk: <b>${round(breakdown.risk || breakdown.lookahead_risk)}</b>
+                    </div>
+                `;
+
+                // Alternatives
+                const tops = data.top_actions || [];
+                document.getElementById('alternatives').innerHTML = tops.map((act, i) => `
+                    <div class="action-row">
+                        <div>
+                            ${i===0 ? '★ ' : ''} <b>${act.action}</b>
+                        </div>
+                        <div style="font-family:monospace">
+                            ${round(act.score)}
+                        </div>
+                    </div>
+                `).join('');
+
+            } catch (e) {
+                statusEl.textContent = 'Disconnected';
+                statusEl.classList.remove('connected');
+                console.error(e);
+            }
+        }
+
+        function round(num) {
+            return num ? Math.round(num * 1000) / 1000 : '0.0';
+        }
+
+        setInterval(update, 1000);
+        update();
+    </script>
+</body>
+</html>
