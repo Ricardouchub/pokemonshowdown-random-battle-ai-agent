@@ -6,6 +6,7 @@ from typing import Dict
 from ps_agent.knowledge.loader import KnowledgeBase, load_all_knowledge
 from ps_agent.state.battle_state import BattleState
 from ps_agent.state.pokemon_state import PokemonState
+from ps_agent.utils.format import to_id
 
 
 @dataclass
@@ -80,7 +81,7 @@ class Evaluator:
             if move and move.is_status and opp_poke.status:
                 return -0.5  # Strong penalty for redundant status
             
-            damage = self.estimate_damage(self_poke, opp_poke, move_name)
+            damage = self.estimate_damage(state, self_poke, opp_poke, move_name)
             return damage
         return 0.0
 
@@ -104,17 +105,30 @@ class Evaluator:
             return 0.1
         return 0.0
 
-        return 0.0
-
-    def estimate_damage(self, attacker: PokemonState, defender: PokemonState, move_name: str) -> float:
+    def estimate_damage(self, state: BattleState, attacker: PokemonState, defender: PokemonState, move_name: str) -> float:
         """Estimate damage percentage (0.0 to 1.0+) of a move against a defender."""
-        move = self.knowledge.moves.get(move_name.lower()) or self.knowledge.moves.get(move_name)
+        move_id = to_id(move_name)
+        move = self.knowledge.moves.get(move_id) or self.knowledge.moves.get(move_name)
         if move is None:
             return 0.0
+        
+        # Check observed effectiveness overrides
+        obs = state.observed_effectiveness.get(defender.species, {})
+        observed_mult = obs.get(move_id)
+        if observed_mult is not None:
+            # Override effectiveness calculation, but keep STAB/Power logic?
+            # Usually users just want "don't use if ineffective".
+            # If observed is 0.5 or 0.0, we just use that multiplier.
+            # But we must apply it to Base Power.
+            base_msg = " [OBSERVED]"
+            effectiveness = observed_mult
+        else:
+            base_msg = ""
+            effectiveness = 1.0
+            for def_type in defender.types:
+                effectiveness *= self.knowledge.type_chart.get(move.move_type, {}).get(def_type, 1.0)
+
         base_power = move.power or 0
         stab = 1.5 if move.move_type in attacker.types else 1.0
-        effectiveness = 1.0
-        for def_type in defender.types:
-            effectiveness *= self.knowledge.type_chart.get(move.move_type, {}).get(def_type, 1.0)
         damage = base_power * stab * effectiveness / 100.0
         return damage
