@@ -15,6 +15,8 @@ Agente modular para Pokemon Showdown (Random Battle) alineado con lo definido en
 - ✅ Safety Guardrails: Penalizaciones heurísticas y reglas estrictas en el prompt para evitar spam de estados y setups suicidas.
 - ✅ Context Awareness: El LLM ahora recibe telemetría completa (HP%, Status, Boosts) para tomar decisiones informadas.
 - ✅ Inmunidades Robustas: Corrección de fallo en tabla de tipos para garantizar conocimiento de inmunidades básicas (Tierra vs Volador, etc.).
+- **Custom Framework Architecture**: Diseño "low-latency" propio sin frameworks pesados.
+- **Chain of Thought (CoT)**: Razonamiento paso a paso integrado en el prompt para decisiones más profundas.
 - 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
 ## Custom Framework Architecture
