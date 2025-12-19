@@ -106,7 +106,12 @@ class LLMPolicy:
             "`confidence` (0..1), "
             "`knowledge_updates` (list of {\"type\": str, \"data\": object} entries or empty). "
             "You may also provide optional numeric fields: `material`, `position`, "
-            "`field_control`, `risk`, `wincon_progress`. "
+            "field_control`, `risk`, `wincon_progress`. "
+            "CRITICAL: Do not use status moves (like Toxic, Thunder Wave, Will-O-Wisp, etc.) "
+            "if the opponent already has a status condition (par, brn, psn, tox, slp, frz). "
+            "CRITICAL: Do not use setup moves (like Swords Dance, Calm Mind, Nasty Plot, Shell Smash) "
+            "if you have low HP (<60%) or if you are already boosted (+2 or more). "
+            "It is a wasted turn or too risky. "
             "Be deterministic and avoid randomness."
         )
         user_content = json.dumps(
