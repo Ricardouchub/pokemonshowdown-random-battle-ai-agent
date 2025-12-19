@@ -6,6 +6,7 @@ from typing import Dict, Iterable, List, Tuple
 from ps_agent.state.battle_state import BattleState, PlayerState
 from ps_agent.state.field_state import FieldState, ScreensState, SideHazards
 from ps_agent.state.pokemon_state import PokemonState, PokemonVolatile
+from ps_agent.utils.format import to_id
 
 Slot = Tuple[str, int]  # (side_id, slot_index)
 
@@ -59,10 +60,26 @@ class ProtocolParser:
             return self._apply_status(args, state, cure=True)
         if kind == "-faint" and args:
             return self._apply_faint(args, state)
+        if kind in {"-supereffective", "-resisted", "-immune"}:
+            return self._apply_effectiveness_log(kind, args, state)
+
         if kind == "-sidestart" and len(args) >= 2:
             return self._apply_side_condition(args, state, add=True)
         if kind == "-sideend" and len(args) >= 2:
             return self._apply_side_condition(args, state, add=False)
+        if kind == "player" and len(args) >= 2:
+            return self._apply_player(args, state)
+        return state
+
+    def _apply_player(self, args: List[str], state: BattleState) -> BattleState:
+        # args: [side_id, name, avatar, rating]
+        side_id = args[0]
+        name = args[1]
+        
+        # If this checks out as our name, mark our side
+        # Note: names might be sanitized differently, simple check for now
+        if name.lower() == state.player_self.name.lower():
+            return replace(state, my_side=side_id)
         return state
 
     def _apply_switch(self, args: List[str], state: BattleState) -> BattleState:
@@ -99,6 +116,10 @@ class ProtocolParser:
     def _apply_move(self, args: List[str], state: BattleState) -> BattleState:
         slot_id_raw, move_name = args[0], args[1]
         side_id, slot_idx = self._parse_slot(slot_id_raw)
+        
+        # Track for effectiveness logic (normalized to ID)
+        self._last_move = (side_id, to_id(move_name))
+        
         player = self._get_player(state, side_id)
         team = list(player.team)
         mon = team[slot_idx]
@@ -111,6 +132,48 @@ class ProtocolParser:
         field = replace(state.field, last_actions={**state.field.last_actions, side_id: move_name})
         state = self._replace_player(state, side_id, player_updated, field=field)
         return self._append_history(state, f"Move: {side_id} used {move_name}")
+
+    def _apply_effectiveness_log(self, kind: str, args: List[str], state: BattleState) -> BattleState:
+        # kind: -supereffective, -resisted, -immune
+        # args: [slot_id] (for immune: [slot_id])
+        if not hasattr(self, "_last_move") or not self._last_move:
+            return state
+        
+        attacker_side, move_name = self._last_move
+        defender_slot = args[0]
+        defender_side, defender_idx = self._parse_slot(defender_slot)
+        
+        # Ensure it's the target of the last move (approximate check: different sides)
+        if attacker_side == defender_side:
+            # Self-hit or confusion? Ignore for now to be safe
+            return state
+            
+        multiplier = 1.0
+        if kind == "-supereffective":
+            multiplier = 2.0
+        elif kind == "-resisted":
+            multiplier = 0.5
+        elif kind == "-immune":
+            multiplier = 0.0
+            
+        # Identify defender species
+        defender_player = self._get_player(state, defender_side)
+        if defender_idx < len(defender_player.team):
+            species = defender_player.team[defender_idx].species
+            
+            # Update observation
+            obs = dict(state.observed_effectiveness)
+            if species not in obs:
+                obs[species] = {}
+            
+            # We clone the inner dict to keep it immutable-ish
+            species_obs = dict(obs[species])
+            species_obs[move_name] = multiplier
+            obs[species] = species_obs
+            
+            return replace(state, observed_effectiveness=obs)
+            
+        return state
 
     def _apply_hp(self, args: List[str], state: BattleState) -> BattleState:
         slot_id_raw = args[0]
@@ -250,11 +313,23 @@ class ProtocolParser:
         return updated
 
     def _get_player(self, state: BattleState, side_id: str) -> PlayerState:
+        # If my_side is known, use it. Else fall back to assuming p1 is self (legacy behavior)
+        if state.my_side:
+            is_self = (side_id == state.my_side)
+            return state.player_self if is_self else state.player_opponent
         return state.player_self if side_id == "p1" else state.player_opponent
 
     def _replace_player(
         self, state: BattleState, side_id: str, player: PlayerState, field: FieldState | None = None
     ) -> BattleState:
+        if state.my_side:
+            is_self = (side_id == state.my_side)
+            if is_self:
+                return replace(state, player_self=player, field=field or state.field)
+            else:
+                return replace(state, player_opponent=player, field=field or state.field)
+        
+        # Legacy fallback
         if side_id == "p1":
             return replace(state, player_self=player, field=field or state.field)
         return replace(state, player_opponent=player, field=field or state.field)
