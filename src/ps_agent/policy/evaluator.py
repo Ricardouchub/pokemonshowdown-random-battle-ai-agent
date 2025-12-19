@@ -75,6 +75,11 @@ class Evaluator:
             return -0.05  # Slight penalty for losing a turn
         if action.startswith("move:"):
             move_name = action.split(":", 1)[1]
+            # Heuristic: Penalize status moves if opponent already has a status
+            move = self.knowledge.moves.get(move_name.lower()) or self.knowledge.moves.get(move_name)
+            if move and move.is_status and opp_poke.status:
+                return -0.5  # Strong penalty for redundant status
+            
             damage = self.estimate_damage(self_poke, opp_poke, move_name)
             return damage
         return 0.0
