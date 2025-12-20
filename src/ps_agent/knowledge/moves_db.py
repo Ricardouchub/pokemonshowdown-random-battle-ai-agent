@@ -25,9 +25,11 @@ def load_moves(cache_dir: str | Path = "data/knowledge_cache") -> Dict[str, Move
             try:
                 data = json.loads(move_file.read_text())
                 name = data.get("name") or move_file.stem.replace("move_", "")
+                t = data.get("type", "normal")
+                move_type_str = t.get("name", "normal") if isinstance(t, dict) else t
                 moves[name] = Move(
                     name=name,
-                    move_type=data.get("type", "normal"),
+                    move_type=move_type_str,
                     category=data.get("damage_class", {}).get("name", data.get("category", "status")),
                     power=data.get("power"),
                     accuracy=data.get("accuracy"),
