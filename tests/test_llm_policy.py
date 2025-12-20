@@ -1,40 +1,66 @@
+
 import json
-
+from unittest.mock import MagicMock
 from ps_agent.policy.llm_policy import LLMPolicy
-from ps_agent.policy.baseline_rules import BaselinePolicy
-from ps_agent.state.battle_state import BattleState, PlayerState
-from ps_agent.state.pokemon_state import PokemonState
+from ps_agent.state.battle_state import BattleState
+from ps_agent.policy.baseline_rules import ActionInsight
 
-
-class DummyLLM:
-    def __init__(self, response: dict):
-        self.response = response
-
-    def chat(self, messages):
-        return json.dumps(self.response)
-
-
-def build_state():
-    team_self = [PokemonState(species="charizard", moves_known=("flamethrower",))] + [
-        PokemonState(species=f"s-{i}") for i in range(5)
-    ]
-    team_opp = [PokemonState(species="venusaur")] + [PokemonState(species=f"o-{i}") for i in range(5)]
-    return BattleState.new(
-        battle_id="battle-llm",
-        gen=9,
-        format="randombattle",
-        player_self=PlayerState(name="self", team=team_self, active_slot=0),
-        player_opponent=PlayerState(name="opp", team=team_opp, active_slot=0),
-        turn=1,
-        timestamp="",
+def test_llm_policy_chain_of_thought():
+    # Mock dependencies
+    mock_llm = MagicMock()
+    mock_llm.chat.return_value = json.dumps({
+        "chain_of_thought": "1. Analyze threats... 2. Decision made.",
+        "action": "move:ember",
+        "reason": "Best move",
+        "confidence": 0.9,
+        "knowledge_updates": []
+    })
+    
+    # Mock state
+    mock_state = MagicMock(spec=BattleState)
+    mock_state.summary.return_value = {"turn": 1}
+    
+    # Init policy with baseline mock
+    mock_baseline = MagicMock()
+    # Return dummy baseline result: (action, ordered_list, insights)
+    mock_baseline.choose_action.return_value = (
+        "move:tackle", 
+        ["move:tackle", "move:ember"], 
+        [ActionInsight(action="move:tackle", score=0.5, breakdown={})]
     )
 
+    policy = LLMPolicy(llm=mock_llm, baseline=mock_baseline)
+    
+    # Execute
+    action, _, insights = policy.choose_action(mock_state, legal_actions=["move:ember", "move:tackle"])
 
-def test_llm_policy_uses_llm_action(tmp_path):
-    llm = DummyLLM({"action": "move:flamethrower", "reason": "Fire beats grass", "confidence": 0.9})
-    policy = LLMPolicy(llm=llm, baseline=BaselinePolicy())
-    state = build_state()
-    action, ordered, insights = policy.choose_action(state, ["move:flamethrower", "switch:bench"])
-    assert action == "move:flamethrower"
-    assert ordered[0] == "move:flamethrower"
-    assert insights[0].action == "move:flamethrower"
+    # Verify
+    assert action == "move:ember"
+    assert insights[0].breakdown["chain_of_thought"] == "1. Analyze threats... 2. Decision made."
+    assert insights[0].breakdown["llm_reason"] == "Best move"
+
+def test_llm_policy_markdown_stripping():
+    # Mock LLM returning markdown code block
+    mock_llm = MagicMock()
+    response_content = {
+        "chain_of_thought": "Thinking...",
+        "action": "move:ember",
+        "reason": "Markdown test",
+        "confidence": 0.8
+    }
+    mock_llm.chat.return_value = f"```json\n{json.dumps(response_content)}\n```"
+    
+    mock_state = MagicMock(spec=BattleState)
+    mock_state.summary.return_value = {}
+    
+    mock_baseline = MagicMock()
+    mock_baseline.choose_action.return_value = (
+        "move:tackle", ["move:tackle"], [ActionInsight(action="move:tackle", score=0.5, breakdown={})]
+    )
+
+    policy = LLMPolicy(llm=mock_llm, baseline=mock_baseline)
+    
+    action, _, insights = policy.choose_action(mock_state, legal_actions=["move:ember", "move:tackle"])
+    
+    assert action == "move:ember"
+    assert insights[0].breakdown["chain_of_thought"] == "Thinking..."
