@@ -1,22 +1,29 @@
 # Pokemon Showdown Random Battle AI Agent
 
-Agente modular para Pokemon Showdown (Random Battle) alineado con lo definido en `AGENTS.md`. Incluye conectores, estado centralizado, politicas deterministas y pipelines de knowledge alimentados por PokeAPI y Deepseek.
+Este es un **agente autónomo avanzado** diseñado para competir en **Pokemon Showdown (Random Battles)**. Su arquitectura híbrida combina la velocidad de algoritmos clásicos con el razonamiento profundo de Modelos de Lenguaje (LLMs).
+
+### 🧠 Arquitectura Híbrida
+El agente opera bajo un sistema de **"Doble Sistema Cognitivo"**:
+1.  **Fast System (Baseline)**: Un motor determinista basado en **Minimax (Lookahead 1-ply)** y heurísticas de evaluación de daño/riesgo. Garantiza decisiones seguras y legales en milisegundos.
+2.  **Slow System (LLM Policy)**: Un modelo **Deepseek** en el loop que analiza el estado complejo del tablero, infiere sets del oponente y sugiere estrategias de alto nivel (Chain of Thought).
+
+### ⚡ Características Clave
+*   **Conectividad Real-Time**: Cliente WebSocket asíncrono que juega partidas en vivo contra humanos.
+*   **Aprendizaje Continuo**: Sistema de "Observed Effectiveness" que aprende de resistencias/inmunidades en tiempo real y pipelines offline para mejorar su base de conocimiento.
+*   **Observabilidad**: Dashboard web completo para visualizar el "proceso de pensamiento" del agente turno a turno.
+*   **Modular**: Diseño desacoplado (Connector ↔ State ↔ Policy) que facilita la experimentación con nuevos modelos o reglas.
 
 ## Estado actual / problemas conocidos
 - ✅ MVP offline: estructuras (`BattleState`, extractor de features), baseline policy, evaluator, runners y logging determinista.
 - ✅ Knowledge: scripts para poblar cache desde PokeAPI/Deepseek (`fetch_cache`, `cache_agent`, `deepseek_agent`, `deepseek_cache_agent`) y manifest de features.
 - ✅ LLM en tiempo real: `LLMPolicy` usa Deepseek para razonar turno a turno; `knowledge_feedback.jsonl` registra sugerencias de mejora.
 - ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) y dashboard `ps_agent.tools.live_monitor`.
-- ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) funciona correctamente. El bug de "Waiting for opponent" fue resuelto (protocolo corregido + sanitización).
-- ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) funciona correctamente. El bug de "Waiting for opponent" fue resuelto (protocolo corregido + sanitización).
 - ✅ Lookahead Policy: Estrategia de anticipación (Minimax 1-ply) que calcula riesgos considerando la respuesta del rival (asume STAB si los ataques son desconocidos).
 - ✅ Memoria a Corto Plazo: `BattleState` ahora tiene historial de eventos, permitiendo al LLM recordar fallos o patrones recientes.
-- ✅ Fusión de Políticas: `LLMPolicy` ahora integra `Lookahead` como consejero interno, proveyendo al LLM de cálculos de riesgo precisos en su prompt.
 - ✅ Safety Guardrails: Penalizaciones heurísticas y reglas estrictas en el prompt para evitar spam de estados y setups suicidas.
 - ✅ Context Awareness: El LLM ahora recibe telemetría completa (HP%, Status, Boosts) para tomar decisiones informadas.
 - ✅ Inmunidades Robustas: Corrección de fallo en tabla de tipos para garantizar conocimiento de inmunidades básicas (Tierra vs Volador, etc.).
-- **Custom Framework Architecture**: Diseño "low-latency" propio sin frameworks pesados.
-- **Chain of Thought (CoT)**: Razonamiento paso a paso integrado en el prompt para decisiones más profundas.
+- ✅ Chain of Thought (CoT): Razonamiento paso a paso integrado en el prompt para decisiones más profundas.
 - 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
 ## Custom Framework Architecture
@@ -40,11 +47,10 @@ uv sync --all-extras
 ## Comandos utiles
 - Lint/format: `uv run ruff check` y `uv run ruff format`
 - Tests: `uv run pytest`
-- Partida simulada stub: `uv run python -m ps_agent.runner.play_match --seed 42 --max-turns 5`
 - Live runner (servidor local): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy llm`
-- Politica LLM (Deepseek): `uv run python -m ps_agent.runner.play_match --policy llm --seed 101`
-- Dashboard live de reasoning (CLI): `uv run python -m ps_agent.tools.live_monitor --log-dir artifacts/logs/live`
-- **Dashboard Web App**: `uv run python -m ps_agent.tools.web_dashboard` (http://localhost:3000)
+- Live runner (Baseline): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy baseline`
+- Dashboard Web App: `uv run python -m ps_agent.tools.web_dashboard`
+
 
 ## Knowledge y cache
 - `src/ps_agent/knowledge/online_agent.py`: usa PokeAPI para moves/items/abilities/type chart.
