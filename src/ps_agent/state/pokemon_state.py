@@ -46,6 +46,9 @@ class PokemonState:
     moves_known: Tuple[str, ...] = field(default_factory=tuple)
     last_move: Optional[str] = None
     active: bool = False
+    # New fields for stat awareness
+    base_stats: Dict[str, int] = field(default_factory=dict)
+    stats: Dict[str, int] = field(default_factory=dict) # Estimated actual stats
 
     def moves_known_count(self) -> int:
         return len(self.moves_known)
@@ -78,6 +81,8 @@ class PokemonState:
             moves_known=tuple(data.get("moves_known", ())),
             last_move=data.get("last_move"),
             active=bool(data.get("active", False)),
+            base_stats=data.get("base_stats", {}),
+            stats=data.get("stats", {}),
         )
 
     @staticmethod
