@@ -101,13 +101,14 @@ class LLMPolicy:
 
         prompt = (
             "You control a Pokemon Showdown Random Battle agent. "
-            "You must choose an action from the provided legal actions. "
-            "Return a strict JSON object with fields: "
-            "`chain_of_thought` (string): A step-by-step analysis. First, analyze the opponent's threats and your current position. Second, evaluate the risk of switching vs attacking. Third, decide on the best course of action. "
-            "`action` (one of the legal actions), "
-            "`reason` (short summary string), "
-            "`confidence` (0..1), "
-            "`knowledge_updates` (list of {\"type\": str, \"data\": object} entries or empty). "
+            "CRITCAL STRATEGIC RULES:\n"
+            "1. AVOID SWITCH SPAM: Do NOT switch if you just switched, unless facing guaranteed KO. Penalties are active.\n"
+            "2. CHECK TEAM MOVES: Look at 'my_team' to see what your benched Pokemon can do. Do not switch blindly.\n"
+            "3. PRIORITIZE ATTACKING: Trading damage is better than losing turns. If in doubt, ATTACK.\n"
+            "4. CHECK SPEED: Look at 'speed' and 'base_stats'. Attack if you are faster and can KO. Switch if you are slower and will be KO'd.\n\n"
+            "JSON Response Format:\n"
+            "{ \"chain_of_thought\": \"1. Analyze matchup. 2. Compare switch vs attack. 3. Decide.\", \"action\": \"...\", \"reason\": \"...\", \"confidence\": 0.9, \"knowledge_updates\": [] }"
+        )
             "You may also provide optional numeric fields: `material`, `position`, "
             "field_control`, `risk`, `wincon_progress`. "
             "CRITICAL: Do not use status moves (like Toxic, Thunder Wave, Will-O-Wisp, etc.) "
