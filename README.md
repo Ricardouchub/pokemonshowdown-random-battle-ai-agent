@@ -47,8 +47,8 @@ uv sync --all-extras
 ## Comandos utiles
 - Lint/format: `uv run ruff check` y `uv run ruff format`
 - Tests: `uv run pytest`
-- Live runner (servidor local): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy llm`
-- Live runner (Baseline): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy baseline`
+- Live runner (LLM Policy): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy llm`
+- Live runner (Baseline Policy): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy baseline`
 - Dashboard Web App: `uv run python -m ps_agent.tools.web_dashboard`
 
 
