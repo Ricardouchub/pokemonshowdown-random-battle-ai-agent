@@ -7,6 +7,7 @@ from typing import Dict
 from ps_agent.knowledge.abilities_db import Ability, load_abilities
 from ps_agent.knowledge.items_db import Item, load_items
 from ps_agent.knowledge.moves_db import Move, load_moves
+from ps_agent.knowledge.type_chart import load_type_chart
 from ps_agent.knowledge.pokedex_db import PokemonSpecies, load_pokedex
 
 @dataclass(frozen=True)
