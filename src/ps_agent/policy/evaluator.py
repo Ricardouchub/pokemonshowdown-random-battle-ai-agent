@@ -12,10 +12,10 @@ from ps_agent.utils.format import to_id
 @dataclass
 class EvalWeights:
     material: float = 1.0
-    position: float = 1.0
+    position: float = 1.2  # Increased to prioritize damage/advantage
     field_control: float = 0.5
-    risk: float = 0.5
-    wincon_progress: float = 0.5
+    risk: float = 0.3      # Reduced to encourage trading damage over fleeing
+    wincon_progress: float = 0.8 # Increased to favor progress
 
 
 class Evaluator:
