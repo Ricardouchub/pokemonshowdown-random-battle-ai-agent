@@ -24,6 +24,9 @@ El agente opera bajo un sistema de **"Doble Sistema Cognitivo"**:
 - ✅ Context Awareness: El LLM ahora recibe telemetría completa (HP%, Status, Boosts) para tomar decisiones informadas.
 - ✅ Inmunidades Robustas: Corrección de fallo en tabla de tipos para garantizar conocimiento de inmunidades básicas (Tierra vs Volador, etc.).
 - ✅ Chain of Thought (CoT): Razonamiento paso a paso integrado en el prompt para decisiones más profundas.
+- ✅ Stat Awareness: Base de datos (`pokedex_db`) con stats reales. El agente conoce **Speed Tiers** y estima velocidad para decidir atacar/cambiar.
+- ✅ Smart Pokedex Populator: Script (`populate_pokedex.py`) que usa IA para descubrir amenazas o descarga masiva (`--all`) desde PokeAPI, con tolerancia a fallos.
+- ✅ Anti-Switch-Looping: Lógica heurística que detecta y penaliza fuertemente los bucles de cambios inútiles.
 - 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
 ## Custom Framework Architecture
@@ -58,6 +61,13 @@ uv sync --all-extras
   uv run python -m ps_agent.knowledge.online_agent --move ember --item leftovers --ability levitate --type-chart
   ```
 - `src/ps_agent/knowledge/fetch_cache.py`: CLI para cargar lotes desde listas/archivos.
+- `src/ps_agent/knowledge/populate_pokedex.py`: Descarga stats de PokeAPI.
+  ```bash
+  # Descarga masiva (recomendado)
+  uv run python -m ps_agent.knowledge.populate_pokedex --all
+  # Descarga sugerida por IA
+  uv run python -m ps_agent.knowledge.populate_pokedex --count 50
+  ```
 - `src/ps_agent/runner/cache_agent.py`: rellena el cache con un set curado de recursos PokeAPI.
 - `src/ps_agent/knowledge/deepseek_agent.py`: genera perfiles JSON (pokemon/items/abilities) con Deepseek.
   ```bash
