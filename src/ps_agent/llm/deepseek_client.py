@@ -40,7 +40,7 @@ class DeepseekClient:
             "temperature": self.config.temperature,
         }
         headers = {"Authorization": f"Bearer {self.config.api_key}"}
-        response = requests.post(DEEPSEEK_API_URL, headers=headers, json=payload, timeout=40)
+        response = requests.post(DEEPSEEK_API_URL, headers=headers, json=payload, timeout=120)
         response.raise_for_status()
         content = response.json()["choices"][0]["message"]["content"]
         logger.debug("deepseek_response", content_preview=content[:200])
