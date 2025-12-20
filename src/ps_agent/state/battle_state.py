@@ -89,7 +89,7 @@ class BattleState:
             "opponent_active": self._describe_pokemon(opp_active),
             "my_team": {
                 "remaining": len([p for p in self.player_self.team if not p.is_fainted]),
-                "pokemon": [p.species for p in self.player_self.team if not p.is_fainted]
+                "pokemon": [self._describe_pokemon(p) for p in self.player_self.team if not p.is_fainted]
             },
             "opponent_team": {
                 "remaining": len([p for p in self.player_opponent.team if not p.is_fainted]),
@@ -107,6 +107,9 @@ class BattleState:
             "species": mon.species,
             "hp_percent": int(mon.hp_fraction * 100),
             "status": mon.status,
+            "moves": list(mon.moves_known),
+            "base_stats": mon.base_stats,
+            "speed": mon.stats.get("spe", 0),
             "boosts": {k: v for k, v in mon.boosts.items() if v != 0}
         }
         if mon.volatiles:
