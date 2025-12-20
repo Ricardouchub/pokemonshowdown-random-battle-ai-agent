@@ -2,6 +2,9 @@
 
 Este es un **agente autónomo avanzado** diseñado para competir en **Pokemon Showdown (Random Battles)**. Su arquitectura híbrida combina la velocidad de algoritmos clásicos con el razonamiento profundo de Modelos de Lenguaje (LLMs).
 
+> [!WARNING]
+> **Aviso Importante**: Este agente está diseñado estrictamente para su uso en **servidores locales privados** o en entornos controlados donde se permitan bots. Su uso en el servidor oficial de Pokemon Showdown (play.pokemonshowdown.com) puede violar los Términos de Servicio y resultar en un ban.
+
 ### 🧠 Arquitectura Híbrida
 El agente opera bajo un sistema de **"Doble Sistema Cognitivo"**:
 1.  **Fast System (Baseline)**: Un motor determinista basado en **Minimax (Lookahead 1-ply)** y heurísticas de evaluación de daño/riesgo. Garantiza decisiones seguras y legales en milisegundos.
