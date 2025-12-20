@@ -18,8 +18,14 @@ class ProtocolEvent:
     args: List[str]
 
 
+from ps_agent.knowledge.loader import KnowledgeBase, load_all_knowledge
+from ps_agent.knowledge.pokedex_db import PokemonSpecies
+
 class ProtocolParser:
     """Parser for the Showdown battle protocol with minimal updates to BattleState."""
+    
+    def __init__(self, knowledge: KnowledgeBase | None = None) -> None:
+        self.knowledge = knowledge or load_all_knowledge()
 
     def parse_events(self, messages: Iterable[str]) -> List[ProtocolEvent]:
         events: List[ProtocolEvent] = []
@@ -90,10 +96,27 @@ class ProtocolParser:
         player = self._get_player(state, side_id)
         team = list(player.team)
         base_mon = player.team[slot_idx] if slot_idx < len(player.team) else PokemonState(species=species)
+        # Lookup Stats in Pokedex
+        pokedex_entry = self.knowledge.pokedex.get(to_id(species))
+        base_stats = pokedex_entry.base_stats if pokedex_entry else {}
+        
+        # Estimate actual stats (simplify: assume level 100, neutral nature, 85 AVs for randbats)
+        # Random Battles usually have 85 EVs (or 84 in newer gens) in all stats?
+        # Actually Gen 9 Random Battle sets are standardized. Let's just use Base Stats for relative comparison.
+        # Speed needs to be somewhat accurate for sorting.
+        stats = {}
+        if base_stats:
+            for k, v in base_stats.items():
+                if k == "hp":
+                    val = ((2 * v + 31 + 21) * 100 / 100) + 100 + 10
+                else:
+                    val = ((2 * v + 31 + 21) * 100 / 100) + 5
+                stats[k] = int(val)
+
         pokemon = PokemonState(
             species=species,
             level=base_mon.level,
-            types=base_mon.types,
+            types=pokedex_entry.types if pokedex_entry else base_mon.types,
             hp_fraction=hp_fraction,
             status=None,
             is_fainted=False,
@@ -104,6 +127,8 @@ class ProtocolParser:
             moves_known=base_mon.moves_known,
             last_move=None,
             active=True,
+            base_stats=base_stats,
+            stats=stats,
         )
         if slot_idx >= len(team):
             team.extend(PokemonState.empty_team()[len(team) : slot_idx + 1])
