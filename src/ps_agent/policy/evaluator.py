@@ -73,7 +73,10 @@ class Evaluator:
         self_poke = state.player_self.active_pokemon()
         opp_poke = state.player_opponent.active_pokemon()
         if action.startswith("switch:"):
-            return -0.3  # Moderate penalty to prevent loop switching
+            # Penalize switching if we just switched and opponent didn't (loop avoidance)
+            if self._just_switched_and_opp_stayed(state):
+                return -0.8  # Strong penalty to break loop
+            return -0.3  # Moderate penalty to benefit attacking
         if action.startswith("move:"):
             move_name = action.split(":", 1)[1]
             # Heuristic: Penalize status moves if opponent already has a status
@@ -132,3 +135,33 @@ class Evaluator:
         stab = 1.5 if move.move_type in attacker.types else 1.0
         damage = base_power * stab * effectiveness / 100.0
         return damage
+
+    def _just_switched_and_opp_stayed(self, state: BattleState) -> bool:
+        """Heuristic to detect if we switched last turn but opponent didn't."""
+        if not state.history:
+            return False
+            
+        my_side = state.my_side or "p1"
+        opp_side = "p2" if my_side == "p1" else "p1"
+        
+        # Analyze last few events (approx 1 turn)
+        last_events = state.history[-10:]
+        
+        my_switched = False
+        opp_switched = False
+        
+        for evt in reversed(last_events):
+            if "|switch|" in evt:
+                parts = evt.split("|")
+                # parts[2] is usually "p1a: Name"
+                if len(parts) > 2:
+                    actor = parts[2].split(":")[0].strip()
+                    if actor.startswith(my_side):
+                        my_switched = True
+                    elif actor.startswith(opp_side):
+                        opp_switched = True
+            
+            # Stop if we hit start of turn or another major event if needed
+            # For now, just scanning recent history is enough proxy
+            
+        return my_switched and not opp_switched
