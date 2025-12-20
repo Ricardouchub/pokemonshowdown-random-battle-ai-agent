@@ -107,8 +107,7 @@ class LLMPolicy:
             "3. PRIORITIZE ATTACKING: Trading damage is better than losing turns. If in doubt, ATTACK.\n"
             "4. CHECK SPEED: Look at 'speed' and 'base_stats'. Attack if you are faster and can KO. Switch if you are slower and will be KO'd.\n\n"
             "JSON Response Format:\n"
-            "{ \"chain_of_thought\": \"1. Analyze matchup. 2. Compare switch vs attack. 3. Decide.\", \"action\": \"...\", \"reason\": \"...\", \"confidence\": 0.9, \"knowledge_updates\": [] }"
-        )
+            "{ \"chain_of_thought\": \"1. Analyze matchup. 2. Compare switch vs attack. 3. Decide.\", \"action\": \"...\", \"reason\": \"...\", \"confidence\": 0.9, \"knowledge_updates\": [] }\n"
             "You may also provide optional numeric fields: `material`, `position`, "
             "field_control`, `risk`, `wincon_progress`. "
             "CRITICAL: Do not use status moves (like Toxic, Thunder Wave, Will-O-Wisp, etc.) "
