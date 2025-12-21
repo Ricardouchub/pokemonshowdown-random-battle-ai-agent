@@ -102,12 +102,25 @@ uv run python -m ps_agent.runner.live_match \
 Luego desafia a `CodexBot` desde el cliente web. Cada batalla genera un log JSONL en `artifacts/logs/live/<battle-id>.log` con `legal_actions`, `top_actions` y el breakdown del evaluador.
 
 ## Componentes principales
-- `src/ps_agent/state`: `BattleState`, `PokemonState`, `FieldState`, extractor de features y encoding.
-- `src/ps_agent/connector`: `ShowdownClient` (websocket) y `ProtocolParser` (convierte eventos del protocolo en snapshots).
-- `src/ps_agent/policy`: `BaselinePolicy`, `Evaluator`, `Lookahead` y enumeracion de acciones legales. `LLMPolicy` delega el razonamiento al LLM (Deepseek) y registra sugerencias de knowledge; si no hay respuesta valida, cae en el baseline determinista.
-- `src/ps_agent/runner`: `play_match`, `tournament`, agentes de cache (PokeAPI/Deepseek) y el live runner.
-- `src/ps_agent/logging/event_log.py`: escribe JSONL con `legal_actions`, `chosen_action`, `top_actions` y metadatos del turno.
-- `src/ps_agent/inference`: scaffolding para belief state e inferencia de sets.
+- `src/ps_agent/state`: `BattleState`, `PokemonState` (con soporte de stats), `FieldState` y extractores de features. Es la "memoria" del agente.
+- `src/ps_agent/knowledge`:
+    - `pokedex_db.py`: Base de datos de especies con base stats y tipos.
+    - `populate_pokedex.py`: Script híbrido (LLM + PokeAPI) para poblar la BD.
+    - `moves_db.py`, `items_db.py`, `abilities_db.py`: Bases de datos estáticas/cacheadas.
+    - `type_chart.py`: Tabla de efectividades e inmunidades.
+- `src/ps_agent/policy`:
+    - `Evaluator`: Corazón del Fast System. Calcula daños, riesgos y heurísticas (anti-looping).
+    - `Lookahead`: Implementación Minimax 1-ply.
+    - `LLMPolicy`: Interfaz con Deepseek. Construye el prompt estratégico (CoT + Stats) y parsea la respuesta JSON.
+- `src/ps_agent/llm`: `DeepseekClient`. Cliente directo HTTP optimizado para baja latencia.
+- `src/ps_agent/connector`: `ShowdownClient` (WebSocket) y `ProtocolParser`. Traduce el stream de texto de Showdown a actualizaciones de estado atómicas.
+- `src/ps_agent/runner`:
+    - `live_match.py`: Orquestador para jugar en el servidor real.
+    - `cache_agent.py` / `deepseek_agent.py`: Tools offline para generar conocimiento.
+- `src/ps_agent/tools`:
+    - `web_dashboard.py`: Backend FastAPI que sirve el estado en tiempo real.
+    - `static/index.html`: Dashboard visual que muestra HP, Stats y el **Chain of Thought** del agente.
+- `src/ps_agent/logging`: `EventLogger`. Sistema de logs estructurados (JSONL) para auditoría y aprendizaje post-partida.
 
 ## Logging y metricas
 `EventLogger` coloca entradas en `artifacts/logs/*.log` con:
