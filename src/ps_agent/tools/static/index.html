@@ -243,7 +243,7 @@
                     
                     ${breakdown.chain_of_thought ?
                         `<div style="margin-top:10px; color:#aaa; font-size:0.9rem; font-style:italic">Chain of Thought:</div>
-                         <div class="reasoning-box" style="border-left-color:#a29bfe; margin-top:5px; color:#dcdde1">${breakdown.chain_of_thought}</div>`
+                         <div class="reasoning-box" style="border-left-color:#a29bfe; margin-top:5px; color:#dcdde1">${formatCoT(breakdown.chain_of_thought)}</div>`
                         : ''}
 
                     <div style="margin-top:10px; color:#aaa; font-size:0.9rem">Final Decision:</div>
@@ -277,6 +277,14 @@
 
         function round(num) {
             return num ? Math.round(num * 1000) / 1000 : '0.0';
+        }
+
+        function formatCoT(text) {
+            if (!text) return '';
+            // Match numbered items like "1.", "1-", "1)", "2.", etc.
+            // Replace with <br> + matched item
+            // We use a regex that looks for newline OR start of string, followed by number and separator
+            return text.replace(/(\d+[\.\-\)])/g, '<br><b>$1</b>');
         }
 
         setInterval(update, 1000);
