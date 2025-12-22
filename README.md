@@ -5,18 +5,18 @@ Este es un **agente autónomo avanzado** diseñado para competir en **Pokemon Sh
 > [!WARNING]
 > **Aviso Importante**: Este agente está diseñado estrictamente para su uso en **servidores locales privados** o en entornos controlados donde se permitan bots. Su uso en el servidor oficial de Pokemon Showdown (play.pokemonshowdown.com) puede violar los Términos de Servicio y resultar en un ban.
 
-### 🧠 Arquitectura Híbrida
+### Arquitectura Híbrida
 El agente opera bajo un sistema de **"Doble Sistema Cognitivo"**:
 1.  **Fast System (Baseline)**: Un motor determinista basado en **Minimax (Lookahead 1-ply)** y heurísticas de evaluación de daño/riesgo. Garantiza decisiones seguras y legales en milisegundos.
-2.  **Slow System (LLM Policy)**: Un modelo **Deepseek** en el loop que analiza el estado complejo del tablero, infiere sets del oponente y sugiere estrategias de alto nivel (Chain of Thought).
+2.  **Slow System (LLM Policy)**: Un modelo en el loop que analiza el estado complejo del tablero, infiere sets del oponente y sugiere estrategias de alto nivel (Chain of Thought).
 
-### ⚡ Características Clave
+### Características
 *   **Conectividad Real-Time**: Cliente WebSocket asíncrono que juega partidas en vivo contra humanos.
 *   **Aprendizaje Continuo**: Sistema de "Observed Effectiveness" que aprende de resistencias/inmunidades en tiempo real y pipelines offline para mejorar su base de conocimiento.
 *   **Observabilidad**: Dashboard web completo para visualizar el "proceso de pensamiento" del agente turno a turno.
 *   **Modular**: Diseño desacoplado (Connector ↔ State ↔ Policy) que facilita la experimentación con nuevos modelos o reglas.
 
-## Estado actual / problemas conocidos
+## Estado actual y/o problemas conocidos
 - ✅ MVP offline: estructuras (`BattleState`, extractor de features), baseline policy, evaluator, runners y logging determinista.
 - ✅ Knowledge: scripts para poblar cache desde PokeAPI/Deepseek (`fetch_cache`, `cache_agent`, `deepseek_agent`, `deepseek_cache_agent`) y manifest de features.
 - ✅ LLM en tiempo real: `LLMPolicy` usa Deepseek para razonar turno a turno; `knowledge_feedback.jsonl` registra sugerencias de mejora.
@@ -42,7 +42,7 @@ Este proyecto implementa una arquitectura **100% Custom Python** diseñada espec
 ## Requisitos
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv)
-- Opcional: `DEEPSEEK_API_KEY` en `.env` para los agentes basados en Deepseek
+- Opcional: `DEEPSEEK_API_KEY` en `.env`, puedes cambiarlo por cualquier otro LLM.
 
 ## Setup rapido
 ```bash
@@ -51,14 +51,13 @@ uv sync --all-extras
 ```
 
 ## Comandos utiles
-- Lint/format: `uv run ruff check` y `uv run ruff format`
-- Tests: `uv run pytest`
 - Live runner (LLM Policy): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy llm`
 - Live runner (Baseline Policy): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy baseline`
 - Dashboard Web App: `uv run python -m ps_agent.tools.web_dashboard`
+- Lint/format: `uv run ruff check` y `uv run ruff format`
+- Tests: `uv run pytest`
 
-
-## Knowledge y cache
+## Knowledge y cache 
 - `src/ps_agent/knowledge/online_agent.py`: usa PokeAPI para moves/items/abilities/type chart.
   ```bash
   uv run python -m ps_agent.knowledge.online_agent --move ember --item leftovers --ability levitate --type-chart
@@ -66,7 +65,7 @@ uv sync --all-extras
 - `src/ps_agent/knowledge/fetch_cache.py`: CLI para cargar lotes desde listas/archivos.
 - `src/ps_agent/knowledge/populate_pokedex.py`: Descarga stats de PokeAPI.
   ```bash
-  # Descarga masiva (recomendado)
+  # Descarga masiva 
   uv run python -m ps_agent.knowledge.populate_pokedex --all
   # Descarga sugerida por IA
   uv run python -m ps_agent.knowledge.populate_pokedex --count 50
@@ -82,10 +81,7 @@ uv sync --all-extras
   ```
 - `src/ps_agent/knowledge/loader.py`: construye un `KnowledgeBase` desde `data/knowledge_cache/` para el evaluador/policy.
 - `artifacts/knowledge_feedback.jsonl`: log donde el LLM deja sugerencias de knowledge (acciones exitosas/fallidas).
-- **Offline Learning (Feedback Loop)**: Procesa el historial de batallas para enriquecer el knowledge automaticamente.
-  ```bash
-  uv run python -m ps_agent.learning.learner
-  ```
+
 
 ## Live match runner
 `src/ps_agent/runner/live_match.py` conecta el agente a un servidor Showdown via WebSocket. Maneja `challstr`, obtiene el assertion (vía `--http-base`), parsea `|request|` JSON, actualiza `BattleState`, arma el set de acciones legales y envia `/choose ...` usando la politica seleccionada (`baseline` o `llm`). La comunicación funciona (ver `sending_battle_command` en consola), pero la respuesta del servidor queda bloqueada (ver sección de problemas).
@@ -99,7 +95,7 @@ uv run python -m ps_agent.runner.live_match \
   --autojoin lobby \
   --policy llm
 ```
-Luego desafia a `CodexBot` desde el cliente web. Cada batalla genera un log JSONL en `artifacts/logs/live/<battle-id>.log` con `legal_actions`, `top_actions` y el breakdown del evaluador.
+Luego desafia al agente desde el cliente web. Cada batalla genera un log JSONL en `artifacts/logs/live/<battle-id>.log` con `legal_actions`, `top_actions` y el breakdown del evaluador.
 
 ## Componentes principales
 - `src/ps_agent/state`: `BattleState`, `PokemonState` (con soporte de stats), `FieldState` y extractores de features. Es la "memoria" del agente.
@@ -133,7 +129,3 @@ Luego desafia a `CodexBot` desde el cliente web. Cada batalla genera un log JSON
 DEEPSEEK_API_KEY=sk-...
 ```
 El loader usa esta clave cuando se ejecutan los agentes Deepseek.
-
-## Siguientes pasos recomendados
-1. Ajustar el parser contra logs reales (hazards, boosts, status, side conditions) y enriquecer el evaluador con heurísticas de daño/hazards.
-2. Automatizar benchmarks en `runner/tournament.py`, generar reportes en `artifacts/reports/` y extender inference/belief state.
