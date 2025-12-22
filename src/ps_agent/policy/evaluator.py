@@ -73,10 +73,23 @@ class Evaluator:
         self_poke = state.player_self.active_pokemon()
         opp_poke = state.player_opponent.active_pokemon()
         if action.startswith("switch:"):
-            # Penalize switching if we just switched and opponent didn't (loop avoidance)
-            if self._just_switched_and_opp_stayed(state):
-                return -0.8  # Strong penalty to break loop
-            return -0.3  # Moderate penalty to benefit attacking
+            # Anti-Switch-Loop Logic
+            switch_depth = self._detect_consecutive_switches(state)
+            opp_switched = self._opp_switched_last_turn(state)
+            
+            # Base penalty for switching (loss of tempo)
+            penalty = 0.3
+            
+            # Progressive penalty for consecutive switches
+            penalty += switch_depth * 2.0
+            
+            # CRITICAL: If we just switched and opponent stayed, FORBID switching again
+            # unless forced (which usually means current active is dead, but this evaluator
+            # runs for active choices).
+            if switch_depth >= 1 and not opp_switched:
+                penalty += 5.0
+                
+            return -penalty
         if action.startswith("move:"):
             move_name = action.split(":", 1)[1]
             # Heuristic: Penalize status moves if opponent already has a status
@@ -136,32 +149,67 @@ class Evaluator:
         damage = base_power * stab * effectiveness / 100.0
         return damage
 
-    def _just_switched_and_opp_stayed(self, state: BattleState) -> bool:
-        """Heuristic to detect if we switched last turn but opponent didn't."""
+    def _detect_consecutive_switches(self, state: BattleState) -> int:
+        """
+        Count how many times we have switched consecutively without using a move.
+        Returns the count (0, 1, 2...).
+        Also checks if opponent switched in the MOST RECENT turn (to allow matching switches).
+        """
+        if not state.history:
+            return 0
+            
+        my_side = state.my_side or "p1"
+        opp_side = "p2" if my_side == "p1" else "p1"
+        
+        consecutive_switches = 0
+        
+        # Iterate backwards through history events
+        # We need to disregard the *current* turn-start events and look at completed actions
+        # Protocol lines: |switch|p1a: Name|..., |move|p1a: Name|...
+        
+        for evt in reversed(state.history):
+            parts = evt.split("|")
+            if len(parts) < 3:
+                continue
+                
+            cmd = parts[1]
+            if cmd not in ("switch", "move"):
+                continue
+                
+            # Who did it?
+            actor_id = parts[2].split(":")[0].strip()
+            is_me = actor_id.startswith(my_side)
+            
+            if is_me:
+                if cmd == "switch":
+                    consecutive_switches += 1
+                elif cmd == "move":
+                    # I attacked, so the chain is broken
+                    break
+        
+        return consecutive_switches
+
+    def _opp_switched_last_turn(self, state: BattleState) -> bool:
+        """Check if opponent switched in the very last turn."""
         if not state.history:
             return False
             
         my_side = state.my_side or "p1"
         opp_side = "p2" if my_side == "p1" else "p1"
         
-        # Analyze last few events (approx 1 turn)
-        last_events = state.history[-10:]
+        # Scan only the last ~20 lines to cover the previous turn
+        # We look for |switch|p2a...
+        # But we must stop if we see |turn|N-1? history is linear log.
         
-        my_switched = False
-        opp_switched = False
-        
-        for evt in reversed(last_events):
+        # Simplified: Check last 15 events for an opponent switch
+        for evt in reversed(state.history[-15:]):
             if "|switch|" in evt:
                 parts = evt.split("|")
-                # parts[2] is usually "p1a: Name"
-                if len(parts) > 2:
-                    actor = parts[2].split(":")[0].strip()
-                    if actor.startswith(my_side):
-                        my_switched = True
-                    elif actor.startswith(opp_side):
-                        opp_switched = True
-            
-            # Stop if we hit start of turn or another major event if needed
-            # For now, just scanning recent history is enough proxy
-            
-        return my_switched and not opp_switched
+                if len(parts) > 2 and parts[2].startswith(opp_side):
+                    return True
+            if "|move|" in evt:
+                parts = evt.split("|")
+                if len(parts) > 2 and parts[2].startswith(opp_side):
+                    # Opponent moved, so they didn't switch (last action was move)
+                    return False
+        return False
