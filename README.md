@@ -1,5 +1,13 @@
 # Pokemon Showdown Random Battle AI Agent
 
+![Status](https://img.shields.io/badge/Status-Completed-2ECC71?logo=checkmarx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-LLM-8A2BE2?logo=deepnote&logoColor=white)
+![Pokemon Showdown](https://img.shields.io/badge/Pokemon%20Showdown-Server-3776AB?logo=pokemonshowdown&logoColor=white)
+![uv](https://img.shields.io/badge/uv-Tool-3776AB?logo=uv&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-Tool-3776AB?logo=ruff&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Tool-3776AB?logo=pytest&logoColor=white)
+
 Este es un **agente autónomo avanzado** diseñado para competir en **Pokemon Showdown (Random Battles)**. Su arquitectura híbrida combina la velocidad de algoritmos clásicos con el razonamiento profundo de Modelos de Lenguaje (LLMs).
 
 > [!WARNING]
@@ -42,7 +50,7 @@ Este proyecto implementa una arquitectura **100% Custom Python** diseñada espec
 ## Requisitos
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv)
-- Opcional: `DEEPSEEK_API_KEY` en `.env`, puedes cambiarlo por cualquier otro LLM.
+- Opcional: `DEEPSEEK_API_KEY` en `.env`, o cambiarlo por cualquier otro LLM.
 
 ## Setup rapido
 ```bash
@@ -56,6 +64,7 @@ uv sync --all-extras
 - Dashboard Web App: `uv run python -m ps_agent.tools.web_dashboard`
 - Lint/format: `uv run ruff check` y `uv run ruff format`
 - Tests: `uv run pytest`
+
 
 ## Knowledge y cache 
 - `src/ps_agent/knowledge/online_agent.py`: usa PokeAPI para moves/items/abilities/type chart.
@@ -97,6 +106,41 @@ uv run python -m ps_agent.runner.live_match \
 ```
 Luego desafia al agente desde el cliente web. Cada batalla genera un log JSONL en `artifacts/logs/live/<battle-id>.log` con `legal_actions`, `top_actions` y el breakdown del evaluador.
 
+
+## Estructura del Proyecto
+
+```text
+pokemonshowdown-random-battle-ai-agent/
+├── src/ps_agent/
+│   ├── connector/          # Capa de conexión
+│   │   ├── client.py           # Cliente WebSocket (ShowdownClient)
+│   │   └── protocol_parser.py  # Traductor de mensajes brutos a estado
+│   ├── knowledge/          # Base de Conocimiento
+│   │   ├── pokedex_db.py       # DB de especies y Stats
+│   │   ├── populate_pokedex.py # Script híbrido (LLM+API) para poblar DB
+│   │   ├── type_chart.py       # Tabla de efectividades
+│   │   └── moves_db.py         # DB de movimientos
+│   ├── policy/             # Cerebro Híbrido
+│   │   ├── llm_policy.py       # Slow System: Razonamiento vía Deepseek
+│   │   ├── evaluator.py        # Fast System: Heurísticas y cálculo de daño
+│   │   └── lookahead.py        # Minimax 1-ply (Baseline)
+│   ├── state/              # Memoria del Agente
+│   │   ├── battle_state.py     # Snapshot inmutable del turno actual
+│   │   └── pokemon_state.py    # Representación de mons (HP, Status, Stats)
+│   ├── llm/                # Integración IA
+│   │   └── deepseek_client.py  # Cliente HTTP optimizado para LLMs
+│   ├── runner/             # Ejecutables
+│   │   └── live_match.py       # Loop principal para jugar en servidor real
+│   └── tools/              # Herramientas de Observabilidad
+│       ├── web_dashboard.py    # Backend del Dashboard (FastAPI)
+│       └── static/index.html   # Frontend: Visualiza CoT y estado
+├── data/knowledge_cache/   # Cache persistente (JSON) de PokeAPI
+├── artifacts/logs/         # Logs detallados (JSONL) de cada partida
+├── tests/                  # Tests unitarios (pytest)
+├── WORKFLOW.md             # Diagrama de arquitectura y flujo de datos
+└── README.md               # Documentación general
+```
+
 ## Componentes principales
 - `src/ps_agent/state`: `BattleState`, `PokemonState` (con soporte de stats), `FieldState` y extractores de features. Es la "memoria" del agente.
 - `src/ps_agent/knowledge`:
@@ -118,14 +162,15 @@ Luego desafia al agente desde el cliente web. Cada batalla genera un log JSONL e
     - `static/index.html`: Dashboard visual que muestra HP, Stats y el **Chain of Thought** del agente.
 - `src/ps_agent/logging`: `EventLogger`. Sistema de logs estructurados (JSONL) para auditoría y aprendizaje post-partida.
 
+
 ## Logging y metricas
 `EventLogger` coloca entradas en `artifacts/logs/*.log` con:
 - `state_summary` por turno
 - Acciones legales y top-k (score + breakdown)
 - Razones del evaluador y campos extra (ranking, accion rival)
 
-## Archivo `.env`
-```
-DEEPSEEK_API_KEY=sk-...
-```
-El loader usa esta clave cuando se ejecutan los agentes Deepseek.
+
+## Author
+**Ricardo Urdaneta**
+
+[LinkedIn](https://www.linkedin.com/in/ricardourdanetacastro/) | [GitHub](https://github.com/Ricardouchub)
