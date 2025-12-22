@@ -8,77 +8,83 @@
 ![Ruff](https://img.shields.io/badge/Ruff-Tool-3776AB?logo=ruff&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-Tool-3776AB?logo=pytest&logoColor=white)
 
-Este es un **agente autónomo avanzado** diseñado para competir en **Pokemon Showdown (Random Battles)**. Su arquitectura híbrida combina la velocidad de algoritmos clásicos con el razonamiento profundo de Modelos de Lenguaje (LLMs).
+<p align="right">
+  <a href="https://github.com/Ricardouchub/pokemonshowdown-random-battle-ai-agent/blob/main/README-spanish.md">
+    README Spanish
+  </a>
+</p>
 
-Además, el agente posee capacidades de **auto-aprendizaje**: es capaz de adaptar su estrategia a medida que se desarrollan las batallas mediante el sistema de *Observed Effectiveness* (aprendiendo inmunidades/resistencias en tiempo real) y refinar su base de conocimiento a largo plazo a través de bucles de retroalimentación (*Knowledge Feedback Loop*).
+This is an **advanced autonomous agent** designed to compete in **Pokemon Showdown (Random Battles)**. Its hybrid architecture combines the speed of classical algorithms with the deep reasoning of Large Language Models (LLMs).
+
+Additionally, the agent possesses **self-learning** capabilities: it is able to adapt its strategy as battles unfold through the *Observed Effectiveness* system (learning immunities/resistances in real-time) and refine its long-term knowledge base via *Knowledge Feedback Loops*.
 
 > [!WARNING]
-> **Aviso Importante**: Este agente está diseñado estrictamente para su uso en **servidores locales privados** o en entornos controlados donde se permitan bots. Su uso en el servidor oficial de Pokemon Showdown (play.pokemonshowdown.com) puede violar los Términos de Servicio y resultar en un ban.
+> **Important Notice**: This agent is strictly designed for use on **private local servers** or controlled environments where bots are permitted. Using it on the official Pokemon Showdown server (play.pokemonshowdown.com) may violate the Terms of Service and result in a ban.
 
-### Características
-*   **Conectividad en tiempo real**: Cliente WebSocket asíncrono que juega partidas en vivo contra humanos.
-*   **Aprendizaje Continuo**: Sistema de "Observed Effectiveness" que aprende de resistencias/inmunidades en tiempo real y pipelines offline para mejorar su base de conocimiento.
-*   **Observabilidad**: Dashboard web completo para visualizar el "proceso de pensamiento" del agente turno a turno.
-*   **Modular**: Diseño desacoplado (Connector ↔ State ↔ Policy) que facilita la experimentación con nuevos modelos o reglas.
+### Features
+*   **Real-time Connectivity**: Asynchronous WebSocket client that plays live matches against humans.
+*   **Continuous Learning**: "Observed Effectiveness" system that learns from resistances/immunities in real-time and offline pipelines to improve its knowledge base.
+*   **Observability**: Full web dashboard to visualize the agent's "thought process" turn by turn.
+*   **Modular**: Decoupled design (Connector ↔ State ↔ Policy) that facilitates experimentation with new models or rules.
 
-### Arquitectura Híbrida
-El agente opera bajo un sistema de **"Doble Sistema Cognitivo"**:
-1.  **Fast System (Baseline)**: Un motor determinista basado en **Minimax (Lookahead 1-ply)** y heurísticas de evaluación de daño/riesgo. Garantiza decisiones seguras y legales en milisegundos.
-2.  **Slow System (LLM Policy)**: Un modelo en el loop que analiza el estado complejo del tablero, infiere sets del oponente y sugiere estrategias de alto nivel (Chain of Thought).
+### Hybrid Architecture
+The agent operates under a **"Dual Cognitive System"**:
+1.  **Fast System (Baseline)**: A deterministic engine based on **Minimax (Lookahead 1-ply)** and damage/risk evaluation heuristics. It ensures safe and legal decisions in milliseconds.
+2.  **Slow System (LLM Policy)**: A model in the loop that analyzes the complex board state, infers opponent sets, and suggests high-level strategies (Chain of Thought).
 
-### Chain of Thought (Razonamiento)
-El agente no solo elige movimientos, **piensa**. El prompt de sistema incluye reglas estratégicas críticas ("CRITICAL STRATEGIC RULES") como:
-1.  **Check Speed**: Antes de atacar, verifica si eres más rápido consultando la Pokedex.
-2.  **Avoid Switch Spam**: Penaliza cambios consecutivos si no son forzados.
-3.  **Analyze Matchup**: Evalúa tipos y estados antes de actuar.
+### Chain of Thought (Reasoning)
+The agent doesn't just choose moves, it **thinks**. The system prompt includes "CRITICAL STRATEGIC RULES" such as:
+1.  **Check Speed**: Before attacking, verify if you are faster by checking the Pokedex.
+2.  **Avoid Switch Spam**: Penalize consecutive switches if not forced.
+3.  **Analyze Matchup**: Evaluate types and status before acting.
 
-La respuesta del LLM es un JSON estructurado que incluye un campo `chain_of_thought` donde explica su lógica paso a paso (ej: *"Garchomp es más rápido que yo, debo cambiar a Skarmory para resistir el ataque Tierra"*). Esto permite auditar y depurar estrategias complejas.
+The LLM response is a structured JSON that includes a `chain_of_thought` field where it explains its logic step-by-step (e.g., *"Garchomp is faster than me, I must switch to Skarmory to resist the Ground attack"*). This allows for auditing and debugging continuous complex strategies.
 
-## Estado actual y/o problemas conocidos
-- ✅ MVP offline: estructuras (`BattleState`, extractor de features), baseline policy, evaluator, runners y logging determinista.
-- ✅ Knowledge: scripts para poblar cache desde PokeAPI/Deepseek (`fetch_cache`, `cache_agent`, `deepseek_agent`, `deepseek_cache_agent`) y manifest de features.
-- ✅ LLM en tiempo real: `LLMPolicy` usa Deepseek para razonar turno a turno; `knowledge_feedback.jsonl` registra sugerencias de mejora.
-- ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) y dashboard `ps_agent.tools.live_monitor`.
-- ✅ Lookahead Policy: Estrategia de anticipación (Minimax 1-ply) que calcula riesgos considerando la respuesta del rival (asume STAB si los ataques son desconocidos).
-- ✅ Memoria a Corto Plazo: `BattleState` ahora tiene historial de eventos, permitiendo al LLM recordar fallos o patrones recientes.
-- ✅ Safety Guardrails: Penalizaciones heurísticas y reglas estrictas en el prompt para evitar spam de estados y setups suicidas.
-- ✅ Context Awareness: El LLM ahora recibe telemetría completa (HP%, Status, Boosts) para tomar decisiones informadas.
-- ✅ Inmunidades Robustas: Corrección de fallo en tabla de tipos para garantizar conocimiento de inmunidades básicas (Tierra vs Volador, etc.).
-- ✅ Chain of Thought (CoT): Razonamiento paso a paso integrado en el prompt para decisiones más profundas.
-- ✅ Stat Awareness: Base de datos (`pokedex_db`) con stats reales. El agente conoce **Speed Tiers** y estima velocidad para decidir atacar/cambiar.
-- ✅ Smart Pokedex Populator: Script (`populate_pokedex.py`) que usa IA para descubrir amenazas o descarga masiva (`--all`) desde PokeAPI, con tolerancia a fallos.
-- ✅ Anti-Switch-Looping: Lógica heurística que detecta y penaliza fuertemente los bucles de cambios inútiles.
-- 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
+## Current State and/or Known Issues
+- ✅ MVP offline: structures (`BattleState`, feature extractor), baseline policy, evaluator, runners, and deterministic logging.
+- ✅ Knowledge: scripts to populate cache from PokeAPI/Deepseek (`fetch_cache`, `cache_agent`, `deepseek_agent`, `deepseek_cache_agent`) and feature manifest.
+- ✅ Real-time LLM: `LLMPolicy` uses Deepseek to reason turn-by-turn; `knowledge_feedback.jsonl` records improvement suggestions.
+- ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) and dashboard `ps_agent.tools.live_monitor`.
+- ✅ Lookahead Policy: Anticipation strategy (Minimax 1-ply) that calculates risks considering the rival's response (assumes STAB if attacks are unknown).
+- ✅ Short-Term Memory: `BattleState` now has an event history, allowing the LLM to recall recent failures or patterns.
+- ✅ Safety Guardrails: Heuristic penalties and strict rules in the prompt to avoid state spam and suicidal setups.
+- ✅ Context Awareness: The LLM now receives full telemetry (HP%, Status, Boosts) to make informed decisions.
+- ✅ Robust Immunities: Fix in type chart table to guarantee knowledge of basic immunities (Ground vs Flying, etc.).
+- ✅ Chain of Thought (CoT): Step-by-step reasoning integrated into the prompt for deeper decisions.
+- ✅ Stat Awareness: Database (`pokedex_db`) with real stats. The agent knows **Speed Tiers** and estimates speed to decide whether to attack/switch.
+- ✅ Smart Pokedex Populator: Script (`populate_pokedex.py`) that uses AI to discover threats or bulk download (`--all`) from PokeAPI, with fault tolerance.
+- ✅ Anti-Switch-Looping: Heuristic logic that detects and heavily penalizes useless switching loops.
+- 🚀 Next step: Expand set inference and improve network error handling.
 
-## Arquitectura personalizada
-Este proyecto implementa una arquitectura **100% Custom Python** diseñada específicamente para batallas en tiempo real, evitando el overhead de frameworks genéricos como LangChain o AutoGen.
-- **Low Latency Core**: Pipeline de decisión optimizado que opera en milisegundos.
-- **Direct LLM Integration**: Cliente `DeepseekClient` propio sin capas intermedias de abstracción.
-- **Hybrid Intelligence**: Fusión determinista (Minimax/Heurísticas) + Probabilística (LLM) con control total sobre el flujo.
+## Custom Architecture
+This project implements a **100% Custom Python** architecture designed specifically for real-time battles, avoiding the overhead of generic frameworks like LangChain or AutoGen.
+- **Low Latency Core**: Optimized decision pipeline operating in milliseconds.
+- **Direct LLM Integration**: Proprietary `DeepseekClient` without intermediate abstraction layers.
+- **Hybrid Intelligence**: Deterministic fusion (Minimax/Heuristics) + Probabilistic (LLM) with total control over the flow.
 
 
-## Requisitos
+## Requirements
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv)
-- Opcional: `DEEPSEEK_API_KEY` en `.env`, o cambiarlo por cualquier otro LLM.
+- Optional: `DEEPSEEK_API_KEY` in `.env`, or exchange it for any other LLM.
 
-## Setup rapido
+## Quick Setup
 ```bash
 uv venv
 uv sync --all-extras
 ```
 
-## Comandos 
+## Commands
 - Live runner (LLM Policy): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy llm`
 - Live runner (Baseline Policy): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy baseline`
 - Dashboard Web App: `uv run python -m ps_agent.tools.web_dashboard`
 - Tests: `uv run pytest`
 
 
-## Como funciona el Live match runner
-`src/ps_agent/runner/live_match.py` conecta el agente a un servidor Showdown via WebSocket. Maneja `challstr`, obtiene el assertion (vía `--http-base`), parsea `|request|` JSON, actualiza `BattleState`, arma el set de acciones legales y envia `/choose ...` usando la politica seleccionada (`baseline` o `llm`). La comunicación funciona (ver `sending_battle_command` en consola), pero la respuesta del servidor queda bloqueada (ver sección de problemas).
+## How the Live match runner works
+`src/ps_agent/runner/live_match.py` connects the agent to a Showdown server via WebSocket. It handles `challstr`, gets the assertion (via `--http-base`), parses `|request|` JSON, updates `BattleState`, assembles the legal action set, and sends `/choose ...` using the selected policy (`baseline` or `llm`). Communication works (see `sending_battle_command` in console), but the server response remains blocked (see issues section).
 
-Uso tipico (servidor local en `http://localhost:8000`):
+Typical usage (local server at `http://localhost:8000`):
 ```bash
 uv run python -m ps_agent.runner.live_match \
   --server-url ws://localhost:8000/showdown/websocket \
@@ -87,99 +93,99 @@ uv run python -m ps_agent.runner.live_match \
   --autojoin lobby \
   --policy llm
 ```
-Luego desafia al agente desde el cliente web. Cada batalla genera un log JSONL en `artifacts/logs/live/<battle-id>.log` con `legal_actions`, `top_actions` y el breakdown del evaluador.
+Then challenge the agent from the web client. Each battle generates a JSONL log in `artifacts/logs/live/<battle-id>.log` with `legal_actions`, `top_actions`, and the evaluator breakdown.
 
 
-## Como funciona el knowledge cache
-- `src/ps_agent/knowledge/online_agent.py`: usa PokeAPI para moves/items/abilities/type chart.
+## How the knowledge cache works
+- `src/ps_agent/knowledge/online_agent.py`: uses PokeAPI for moves/items/abilities/type chart.
   ```bash
   uv run python -m ps_agent.knowledge.online_agent --move ember --item leftovers --ability levitate --type-chart
   ```
-- `src/ps_agent/knowledge/fetch_cache.py`: CLI para cargar lotes desde listas/archivos.
-- `src/ps_agent/knowledge/populate_pokedex.py`: Descarga stats de PokeAPI.
+- `src/ps_agent/knowledge/fetch_cache.py`: CLI to load batches from lists/files.
+- `src/ps_agent/knowledge/populate_pokedex.py`: Downloads stats from PokeAPI.
   ```bash
-  # Descarga masiva 
+  # Bulk download
   uv run python -m ps_agent.knowledge.populate_pokedex --all
-  # Descarga sugerida por IA
+  # AI suggested download
   uv run python -m ps_agent.knowledge.populate_pokedex --count 50
   ```
-- `src/ps_agent/runner/cache_agent.py`: rellena el cache con un set curado de recursos PokeAPI.
-- `src/ps_agent/knowledge/deepseek_agent.py`: genera perfiles JSON (pokemon/items/abilities) con Deepseek.
+- `src/ps_agent/runner/cache_agent.py`: fills the cache with a curated set of PokeAPI resources.
+- `src/ps_agent/knowledge/deepseek_agent.py`: generates JSON profiles (pokemon/items/abilities) with Deepseek.
   ```bash
   uv run python -m ps_agent.knowledge.deepseek_agent --pokemon charizard --items life-orb --abilities levitate
   ```
-- `src/ps_agent/runner/deepseek_cache_agent.py`: consulta PokeAPI para obtener nombres y genera perfiles con Deepseek automaticamente.
+- `src/ps_agent/runner/deepseek_cache_agent.py`: queries PokeAPI for names and automatically generates profiles with Deepseek.
   ```bash
   uv run python -m ps_agent.runner.deepseek_cache_agent --pokemon-limit 100 --item-limit 80 --ability-limit 80
   ```
-- `src/ps_agent/knowledge/loader.py`: construye un `KnowledgeBase` desde `data/knowledge_cache/` para el evaluador/policy.
-- `artifacts/knowledge_feedback.jsonl`: log donde el LLM deja sugerencias de knowledge (acciones exitosas/fallidas).
+- `src/ps_agent/knowledge/loader.py`: builds a `KnowledgeBase` from `data/knowledge_cache/` for the evaluator/policy.
+- `artifacts/knowledge_feedback.jsonl`: log where the LLM leaves knowledge suggestions (successful/failed actions).
 
 
-## Como funciona el logging / metricas
-`EventLogger` coloca entradas en `artifacts/logs/*.log` con:
-- `state_summary` por turno
-- Acciones legales y top-k (score + breakdown)
-- Razones del evaluador y campos extra (ranking, accion rival)
+## How logging / metrics works
+`EventLogger` places entries in `artifacts/logs/*.log` with:
+- `state_summary` per turn
+- Legal actions and top-k (score + breakdown)
+- Evaluator reasons and extra fields (ranking, rival action)
 
 
-## Estructura del Proyecto
+## Project Structure
 
 ```text
 pokemonshowdown-random-battle-ai-agent/
 ├── src/ps_agent/
-│   ├── connector/          # Capa de conexión
-│   │   ├── client.py           # Cliente WebSocket (ShowdownClient)
-│   │   └── protocol_parser.py  # Traductor de mensajes brutos a estado
-│   ├── knowledge/          # Base de Conocimiento
-│   │   ├── pokedex_db.py       # DB de especies y Stats
-│   │   ├── populate_pokedex.py # Script híbrido (LLM+API) para poblar DB
-│   │   ├── type_chart.py       # Tabla de efectividades
-│   │   └── moves_db.py         # DB de movimientos
-│   ├── policy/             # Cerebro Híbrido
-│   │   ├── llm_policy.py       # Slow System: Razonamiento vía Deepseek
-│   │   ├── evaluator.py        # Fast System: Heurísticas y cálculo de daño
+│   ├── connector/          # Connection Layer
+│   │   ├── client.py           # WebSocket Client (ShowdownClient)
+│   │   └── protocol_parser.py  # Raw message to state translator
+│   ├── knowledge/          # Knowledge Base
+│   │   ├── pokedex_db.py       # Species DB and Stats
+│   │   ├── populate_pokedex.py # Hybrid Script (LLM+API) to populate DB
+│   │   ├── type_chart.py       # Effectiveness table
+│   │   └── moves_db.py         # Moves DB
+│   ├── policy/             # Hybrid Brain
+│   │   ├── llm_policy.py       # Slow System: Deepseek Reasoning
+│   │   ├── evaluator.py        # Fast System: Heuristics and damage calc
 │   │   └── lookahead.py        # Minimax 1-ply (Baseline)
-│   ├── state/              # Memoria del Agente
-│   │   ├── battle_state.py     # Snapshot inmutable del turno actual
-│   │   └── pokemon_state.py    # Representación de mons (HP, Status, Stats)
-│   ├── llm/                # Integración IA
-│   │   └── deepseek_client.py  # Cliente HTTP optimizado para LLMs
-│   ├── runner/             # Ejecutables
-│   │   └── live_match.py       # Loop principal para jugar en servidor real
-│   └── tools/              # Herramientas de Observabilidad
-│       ├── web_dashboard.py    # Backend del Dashboard (FastAPI)
-│       └── static/index.html   # Frontend: Visualiza CoT y estado
-├── data/knowledge_cache/   # Cache persistente (JSON) de PokeAPI
-├── artifacts/logs/         # Logs detallados (JSONL) de cada partida
-├── tests/                  # Tests unitarios (pytest)
-├── WORKFLOW.md             # Diagrama de arquitectura y flujo de datos
-└── README.md               # Documentación general
+│   ├── state/              # Agent Memory
+│   │   ├── battle_state.py     # Immutable snapshot of current turn
+│   │   └── pokemon_state.py    # Mon representation (HP, Status, Stats)
+│   ├── llm/                # AI Integration
+│   │   └── deepseek_client.py  # HTTP Client optimized for LLMs
+│   ├── runner/             # Executables
+│   │   └── live_match.py       # Main loop for playing on real server
+│   └── tools/              # Observability Tools
+│       ├── web_dashboard.py    # Dashboard Backend (FastAPI)
+│       └── static/index.html   # Frontend: Visualizes CoT and state
+├── data/knowledge_cache/   # Persistent Cache (JSON) from PokeAPI
+├── artifacts/logs/         # Detailed Logs (JSONL) of each match
+├── tests/                  # Unit Tests (pytest)
+├── WORKFLOW.md             # Architecture diagram and data flow
+└── README.md               # General Documentation
 ```
 
-## Componentes principales
-- `src/ps_agent/state`: `BattleState`, `PokemonState` (con soporte de stats), `FieldState` y extractores de features. Es la "memoria" del agente.
+## Main Components
+- `src/ps_agent/state`: `BattleState`, `PokemonState` (with stats support), `FieldState` and feature extractors. It is the agent's "memory".
 - `src/ps_agent/knowledge`:
-    - `pokedex_db.py`: Base de datos de especies con base stats y tipos.
-    - `populate_pokedex.py`: Script híbrido (LLM + PokeAPI) para poblar la BD.
-    - `moves_db.py`, `items_db.py`, `abilities_db.py`: Bases de datos estáticas/cacheadas.
-    - `type_chart.py`: Tabla de efectividades e inmunidades.
+    - `pokedex_db.py`: Species database with base stats and types.
+    - `populate_pokedex.py`: Hybrid script (LLM + PokeAPI) to populate the DB.
+    - `moves_db.py`, `items_db.py`, `abilities_db.py`: Static/cached databases.
+    - `type_chart.py`: Effectiveness and immunities table.
 - `src/ps_agent/policy`:
-    - `Evaluator`: Corazón del Fast System. Calcula daños, riesgos y heurísticas (anti-looping).
-    - `Lookahead`: Implementación Minimax 1-ply.
-    - `LLMPolicy`: Interfaz con Deepseek. Construye el prompt estratégico (CoT + Stats) y parsea la respuesta JSON.
-- `src/ps_agent/llm`: `DeepseekClient`. Cliente directo HTTP optimizado para baja latencia.
-- `src/ps_agent/connector`: `ShowdownClient` (WebSocket) y `ProtocolParser`. Traduce el stream de texto de Showdown a actualizaciones de estado atómicas.
+    - `Evaluator`: Heart of the Fast System. Calculates damage, risks, and heuristics (anti-looping).
+    - `Lookahead`: Minimax 1-ply implementation.
+    - `LLMPolicy`: Interface with Deepseek. Constructs the strategic prompt (CoT + Stats) and parses the JSON response.
+- `src/ps_agent/llm`: `DeepseekClient`. Direct HTTP client optimized for low latency.
+- `src/ps_agent/connector`: `ShowdownClient` (WebSocket) and `ProtocolParser`. Translates the Showdown text stream into atomic state updates.
 - `src/ps_agent/runner`:
-    - `live_match.py`: Orquestador para jugar en el servidor real.
-    - `cache_agent.py` / `deepseek_agent.py`: Tools offline para generar conocimiento.
+    - `live_match.py`: Orchestrator for playing on the real server.
+    - `cache_agent.py` / `deepseek_agent.py`: Offline tools to generate knowledge.
 - `src/ps_agent/tools`:
-    - `web_dashboard.py`: Backend FastAPI que sirve el estado en tiempo real.
-    - `static/index.html`: Dashboard visual que muestra HP, Stats y el **Chain of Thought** del agente.
-- `src/ps_agent/logging`: `EventLogger`. Sistema de logs estructurados (JSONL) para auditoría y aprendizaje post-partida.
+    - `web_dashboard.py`: FastAPI backend serving real-time state.
+    - `static/index.html`: Visual dashboard showing HP, Stats, and the agent's **Chain of Thought**.
+- `src/ps_agent/logging`: `EventLogger`. Structured log system (JSONL) for auditing and post-match learning.
 
 
-## Autor
+## Author
 **Ricardo Urdaneta**
 
 [LinkedIn](https://www.linkedin.com/in/ricardourdanetacastro/) | [GitHub](https://github.com/Ricardouchub)
