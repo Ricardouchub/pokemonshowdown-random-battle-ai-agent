@@ -45,6 +45,7 @@ Este proyecto implementa una arquitectura **100% Custom Python** diseñada espec
 ## Requisitos
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv)
+- Pokemon Showdown Servidor Local: [Guía de Instalación](https://github.com/smogon/pokemon-showdown/blob/master/server/README.md)
 - Opcional: `DEEPSEEK_API_KEY` en `.env`, o cambiarlo por cualquier otro LLM.
 
 ## Setup rapido
