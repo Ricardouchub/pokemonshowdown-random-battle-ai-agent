@@ -15,6 +15,12 @@ Además, el agente posee capacidades de **auto-aprendizaje**: es capaz de adapta
 > [!WARNING]
 > **Aviso Importante**: Este agente está diseñado estrictamente para su uso en **servidores locales privados** o en entornos controlados donde se permitan bots. Su uso en el servidor oficial de Pokemon Showdown (play.pokemonshowdown.com) puede violar los Términos de Servicio y resultar en un ban.
 
+<br>
+<p align="center">
+  <img src="images/Pokemon-Showdown.gif" alt="Pokemon Showdown Agent Demo">
+</p>
+<br>
+
 ### Características
 *   **Conectividad en tiempo real**: Cliente WebSocket asíncrono que juega partidas en vivo contra humanos.
 *   **Aprendizaje Continuo**: Sistema de "Observed Effectiveness" que aprende de resistencias/inmunidades en tiempo real y pipelines offline para mejorar su base de conocimiento.
