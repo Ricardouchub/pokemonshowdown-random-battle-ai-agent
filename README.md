@@ -47,17 +47,19 @@ The agent doesn't just choose moves, it **thinks**. The system prompt includes "
 
 The LLM response is a structured JSON that includes a `chain_of_thought` field where it explains its logic step-by-step (e.g., *"Garchomp is faster than me, I must switch to Skarmory to resist the Ground attack"*). This allows for auditing and debugging continuous complex strategies.
 
+<br>
+<p align="center">
+  <img src="images/Reasoning.png" alt="Reasoning Example">
+</p>
+<br>
+
+
 ## Custom Architecture
 This project implements a **100% Custom Python** architecture designed specifically for real-time battles, avoiding the overhead of generic frameworks like LangChain or AutoGen.
 - **Low Latency Core**: Optimized decision pipeline operating in milliseconds.
 - **Direct LLM Integration**: Proprietary `DeepseekClient` without intermediate abstraction layers.
 - **Hybrid Intelligence**: Deterministic fusion (Minimax/Heuristics) + Probabilistic (LLM) with total control over the flow.
 
-<br>
-<p align="center">
-  <img src="images/Reasoning.png" alt="Reasoning Example">
-</p>
-<br>
 
 ## Requirements
 - Python 3.11+
