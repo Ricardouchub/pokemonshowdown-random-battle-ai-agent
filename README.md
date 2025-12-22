@@ -10,19 +10,29 @@
 
 Este es un **agente autónomo avanzado** diseñado para competir en **Pokemon Showdown (Random Battles)**. Su arquitectura híbrida combina la velocidad de algoritmos clásicos con el razonamiento profundo de Modelos de Lenguaje (LLMs).
 
+Además, el agente posee capacidades de **auto-aprendizaje**: es capaz de adaptar su estrategia a medida que se desarrollan las batallas mediante el sistema de *Observed Effectiveness* (aprendiendo inmunidades/resistencias en tiempo real) y refinar su base de conocimiento a largo plazo a través de bucles de retroalimentación (*Knowledge Feedback Loop*).
+
 > [!WARNING]
 > **Aviso Importante**: Este agente está diseñado estrictamente para su uso en **servidores locales privados** o en entornos controlados donde se permitan bots. Su uso en el servidor oficial de Pokemon Showdown (play.pokemonshowdown.com) puede violar los Términos de Servicio y resultar en un ban.
+
+### Características
+*   **Conectividad en tiempo real**: Cliente WebSocket asíncrono que juega partidas en vivo contra humanos.
+*   **Aprendizaje Continuo**: Sistema de "Observed Effectiveness" que aprende de resistencias/inmunidades en tiempo real y pipelines offline para mejorar su base de conocimiento.
+*   **Observabilidad**: Dashboard web completo para visualizar el "proceso de pensamiento" del agente turno a turno.
+*   **Modular**: Diseño desacoplado (Connector ↔ State ↔ Policy) que facilita la experimentación con nuevos modelos o reglas.
 
 ### Arquitectura Híbrida
 El agente opera bajo un sistema de **"Doble Sistema Cognitivo"**:
 1.  **Fast System (Baseline)**: Un motor determinista basado en **Minimax (Lookahead 1-ply)** y heurísticas de evaluación de daño/riesgo. Garantiza decisiones seguras y legales en milisegundos.
 2.  **Slow System (LLM Policy)**: Un modelo en el loop que analiza el estado complejo del tablero, infiere sets del oponente y sugiere estrategias de alto nivel (Chain of Thought).
 
-### Características
-*   **Conectividad Real-Time**: Cliente WebSocket asíncrono que juega partidas en vivo contra humanos.
-*   **Aprendizaje Continuo**: Sistema de "Observed Effectiveness" que aprende de resistencias/inmunidades en tiempo real y pipelines offline para mejorar su base de conocimiento.
-*   **Observabilidad**: Dashboard web completo para visualizar el "proceso de pensamiento" del agente turno a turno.
-*   **Modular**: Diseño desacoplado (Connector ↔ State ↔ Policy) que facilita la experimentación con nuevos modelos o reglas.
+### Chain of Thought (Razonamiento)
+El agente no solo elige movimientos, **piensa**. El prompt de sistema incluye reglas estratégicas críticas ("CRITICAL STRATEGIC RULES") como:
+1.  **Check Speed**: Antes de atacar, verifica si eres más rápido consultando la Pokedex.
+2.  **Avoid Switch Spam**: Penaliza cambios consecutivos si no son forzados.
+3.  **Analyze Matchup**: Evalúa tipos y estados antes de actuar.
+
+La respuesta del LLM es un JSON estructurado que incluye un campo `chain_of_thought` donde explica su lógica paso a paso (ej: *"Garchomp es más rápido que yo, debo cambiar a Skarmory para resistir el ataque Tierra"*). Esto permite auditar y depurar estrategias complejas.
 
 ## Estado actual y/o problemas conocidos
 - ✅ MVP offline: estructuras (`BattleState`, extractor de features), baseline policy, evaluator, runners y logging determinista.
@@ -40,7 +50,7 @@ El agente opera bajo un sistema de **"Doble Sistema Cognitivo"**:
 - ✅ Anti-Switch-Looping: Lógica heurística que detecta y penaliza fuertemente los bucles de cambios inútiles.
 - 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
-## Custom Framework Architecture
+## Arquitectura personalizada
 Este proyecto implementa una arquitectura **100% Custom Python** diseñada específicamente para batallas en tiempo real, evitando el overhead de frameworks genéricos como LangChain o AutoGen.
 - **Low Latency Core**: Pipeline de decisión optimizado que opera en milisegundos.
 - **Direct LLM Integration**: Cliente `DeepseekClient` propio sin capas intermedias de abstracción.
@@ -58,15 +68,29 @@ uv venv
 uv sync --all-extras
 ```
 
-## Comandos utiles
+## Comandos 
 - Live runner (LLM Policy): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy llm`
 - Live runner (Baseline Policy): `uv run python -m ps_agent.runner.live_match --server-url ws://localhost:8000/showdown/websocket --http-base https://play.pokemonshowdown.com --username CodexBot --autojoin lobby --policy baseline`
 - Dashboard Web App: `uv run python -m ps_agent.tools.web_dashboard`
-- Lint/format: `uv run ruff check` y `uv run ruff format`
 - Tests: `uv run pytest`
 
 
-## Knowledge y cache 
+## Como funciona el Live match runner
+`src/ps_agent/runner/live_match.py` conecta el agente a un servidor Showdown via WebSocket. Maneja `challstr`, obtiene el assertion (vía `--http-base`), parsea `|request|` JSON, actualiza `BattleState`, arma el set de acciones legales y envia `/choose ...` usando la politica seleccionada (`baseline` o `llm`). La comunicación funciona (ver `sending_battle_command` en consola), pero la respuesta del servidor queda bloqueada (ver sección de problemas).
+
+Uso tipico (servidor local en `http://localhost:8000`):
+```bash
+uv run python -m ps_agent.runner.live_match \
+  --server-url ws://localhost:8000/showdown/websocket \
+  --http-base https://play.pokemonshowdown.com \
+  --username CodexBot \
+  --autojoin lobby \
+  --policy llm
+```
+Luego desafia al agente desde el cliente web. Cada batalla genera un log JSONL en `artifacts/logs/live/<battle-id>.log` con `legal_actions`, `top_actions` y el breakdown del evaluador.
+
+
+## Como funciona el knowledge cache
 - `src/ps_agent/knowledge/online_agent.py`: usa PokeAPI para moves/items/abilities/type chart.
   ```bash
   uv run python -m ps_agent.knowledge.online_agent --move ember --item leftovers --ability levitate --type-chart
@@ -92,19 +116,11 @@ uv sync --all-extras
 - `artifacts/knowledge_feedback.jsonl`: log donde el LLM deja sugerencias de knowledge (acciones exitosas/fallidas).
 
 
-## Live match runner
-`src/ps_agent/runner/live_match.py` conecta el agente a un servidor Showdown via WebSocket. Maneja `challstr`, obtiene el assertion (vía `--http-base`), parsea `|request|` JSON, actualiza `BattleState`, arma el set de acciones legales y envia `/choose ...` usando la politica seleccionada (`baseline` o `llm`). La comunicación funciona (ver `sending_battle_command` en consola), pero la respuesta del servidor queda bloqueada (ver sección de problemas).
-
-Uso tipico (servidor local en `http://localhost:8000`):
-```bash
-uv run python -m ps_agent.runner.live_match \
-  --server-url ws://localhost:8000/showdown/websocket \
-  --http-base https://play.pokemonshowdown.com \
-  --username CodexBot \
-  --autojoin lobby \
-  --policy llm
-```
-Luego desafia al agente desde el cliente web. Cada batalla genera un log JSONL en `artifacts/logs/live/<battle-id>.log` con `legal_actions`, `top_actions` y el breakdown del evaluador.
+## Como funciona el logging / metricas
+`EventLogger` coloca entradas en `artifacts/logs/*.log` con:
+- `state_summary` por turno
+- Acciones legales y top-k (score + breakdown)
+- Razones del evaluador y campos extra (ranking, accion rival)
 
 
 ## Estructura del Proyecto
@@ -163,14 +179,7 @@ pokemonshowdown-random-battle-ai-agent/
 - `src/ps_agent/logging`: `EventLogger`. Sistema de logs estructurados (JSONL) para auditoría y aprendizaje post-partida.
 
 
-## Logging y metricas
-`EventLogger` coloca entradas en `artifacts/logs/*.log` con:
-- `state_summary` por turno
-- Acciones legales y top-k (score + breakdown)
-- Razones del evaluador y campos extra (ranking, accion rival)
-
-
-## Author
+## Autor
 **Ricardo Urdaneta**
 
 [LinkedIn](https://www.linkedin.com/in/ricardourdanetacastro/) | [GitHub](https://github.com/Ricardouchub)
