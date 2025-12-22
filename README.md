@@ -21,6 +21,13 @@ Additionally, the agent possesses **self-learning** capabilities: it is able to 
 > [!WARNING]
 > **Important Notice**: This agent is strictly designed for use on **private local servers** or controlled environments where bots are permitted. Using it on the official Pokemon Showdown server (play.pokemonshowdown.com) may violate the Terms of Service and result in a ban.
 
+<br>
+<p align="center">
+  <img src="images/Pokemon-Showdown.gif" alt="Pokemon Showdown Agent Demo">
+</p>
+<br>
+
+
 ### Features
 *   **Real-time Connectivity**: Asynchronous WebSocket client that plays live matches against humans.
 *   **Continuous Learning**: "Observed Effectiveness" system that learns from resistances/immunities in real-time and offline pipelines to improve its knowledge base.
@@ -46,6 +53,11 @@ This project implements a **100% Custom Python** architecture designed specifica
 - **Direct LLM Integration**: Proprietary `DeepseekClient` without intermediate abstraction layers.
 - **Hybrid Intelligence**: Deterministic fusion (Minimax/Heuristics) + Probabilistic (LLM) with total control over the flow.
 
+<br>
+<p align="center">
+  <img src="images/Reasoning.png" alt="Reasoning Example">
+</p>
+<br>
 
 ## Requirements
 - Python 3.11+
