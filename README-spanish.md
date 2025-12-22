@@ -34,21 +34,6 @@ El agente no solo elige movimientos, **piensa**. El prompt de sistema incluye re
 
 La respuesta del LLM es un JSON estructurado que incluye un campo `chain_of_thought` donde explica su lógica paso a paso (ej: *"Garchomp es más rápido que yo, debo cambiar a Skarmory para resistir el ataque Tierra"*). Esto permite auditar y depurar estrategias complejas.
 
-## Estado actual y/o problemas conocidos
-- ✅ MVP offline: estructuras (`BattleState`, extractor de features), baseline policy, evaluator, runners y logging determinista.
-- ✅ Knowledge: scripts para poblar cache desde PokeAPI/Deepseek (`fetch_cache`, `cache_agent`, `deepseek_agent`, `deepseek_cache_agent`) y manifest de features.
-- ✅ LLM en tiempo real: `LLMPolicy` usa Deepseek para razonar turno a turno; `knowledge_feedback.jsonl` registra sugerencias de mejora.
-- ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) y dashboard `ps_agent.tools.live_monitor`.
-- ✅ Lookahead Policy: Estrategia de anticipación (Minimax 1-ply) que calcula riesgos considerando la respuesta del rival (asume STAB si los ataques son desconocidos).
-- ✅ Memoria a Corto Plazo: `BattleState` ahora tiene historial de eventos, permitiendo al LLM recordar fallos o patrones recientes.
-- ✅ Safety Guardrails: Penalizaciones heurísticas y reglas estrictas en el prompt para evitar spam de estados y setups suicidas.
-- ✅ Context Awareness: El LLM ahora recibe telemetría completa (HP%, Status, Boosts) para tomar decisiones informadas.
-- ✅ Inmunidades Robustas: Corrección de fallo en tabla de tipos para garantizar conocimiento de inmunidades básicas (Tierra vs Volador, etc.).
-- ✅ Chain of Thought (CoT): Razonamiento paso a paso integrado en el prompt para decisiones más profundas.
-- ✅ Stat Awareness: Base de datos (`pokedex_db`) con stats reales. El agente conoce **Speed Tiers** y estima velocidad para decidir atacar/cambiar.
-- ✅ Smart Pokedex Populator: Script (`populate_pokedex.py`) que usa IA para descubrir amenazas o descarga masiva (`--all`) desde PokeAPI, con tolerancia a fallos.
-- ✅ Anti-Switch-Looping: Lógica heurística que detecta y penaliza fuertemente los bucles de cambios inútiles.
-- 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
 ## Arquitectura personalizada
 Este proyecto implementa una arquitectura **100% Custom Python** diseñada específicamente para batallas en tiempo real, evitando el overhead de frameworks genéricos como LangChain o AutoGen.
@@ -177,6 +162,23 @@ pokemonshowdown-random-battle-ai-agent/
     - `web_dashboard.py`: Backend FastAPI que sirve el estado en tiempo real.
     - `static/index.html`: Dashboard visual que muestra HP, Stats y el **Chain of Thought** del agente.
 - `src/ps_agent/logging`: `EventLogger`. Sistema de logs estructurados (JSONL) para auditoría y aprendizaje post-partida.
+
+
+## Estado actual y/o problemas conocidos
+- ✅ MVP offline: estructuras (`BattleState`, extractor de features), baseline policy, evaluator, runners y logging determinista.
+- ✅ Knowledge: scripts para poblar cache desde PokeAPI/Deepseek (`fetch_cache`, `cache_agent`, `deepseek_agent`, `deepseek_cache_agent`) y manifest de features.
+- ✅ LLM en tiempo real: `LLMPolicy` usa Deepseek para razonar turno a turno; `knowledge_feedback.jsonl` registra sugerencias de mejora.
+- ✅ Live tooling: `runner/live_match.py` (WebSocket + auto login/autojoin/autochallenge) y dashboard `ps_agent.tools.live_monitor`.
+- ✅ Lookahead Policy: Estrategia de anticipación (Minimax 1-ply) que calcula riesgos considerando la respuesta del rival (asume STAB si los ataques son desconocidos).
+- ✅ Memoria a Corto Plazo: `BattleState` ahora tiene historial de eventos, permitiendo al LLM recordar fallos o patrones recientes.
+- ✅ Safety Guardrails: Penalizaciones heurísticas y reglas estrictas en el prompt para evitar spam de estados y setups suicidas.
+- ✅ Context Awareness: El LLM ahora recibe telemetría completa (HP%, Status, Boosts) para tomar decisiones informadas.
+- ✅ Inmunidades Robustas: Corrección de fallo en tabla de tipos para garantizar conocimiento de inmunidades básicas (Tierra vs Volador, etc.).
+- ✅ Chain of Thought (CoT): Razonamiento paso a paso integrado en el prompt para decisiones más profundas.
+- ✅ Stat Awareness: Base de datos (`pokedex_db`) con stats reales. El agente conoce **Speed Tiers** y estima velocidad para decidir atacar/cambiar.
+- ✅ Smart Pokedex Populator: Script (`populate_pokedex.py`) que usa IA para descubrir amenazas o descarga masiva (`--all`) desde PokeAPI, con tolerancia a fallos.
+- ✅ Anti-Switch-Looping: Lógica heurística que detecta y penaliza fuertemente los bucles de cambios inútiles.
+- 🚀 Próximo paso: Ampliar inferencia de sets y mejorar el manejo de errores de red.
 
 
 ## Autor
