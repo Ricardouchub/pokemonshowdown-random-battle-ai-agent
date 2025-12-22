@@ -40,6 +40,12 @@ El agente no solo elige movimientos, **piensa**. El prompt de sistema incluye re
 
 La respuesta del LLM es un JSON estructurado que incluye un campo `chain_of_thought` donde explica su lógica paso a paso (ej: *"Garchomp es más rápido que yo, debo cambiar a Skarmory para resistir el ataque Tierra"*). Esto permite auditar y depurar estrategias complejas.
 
+<br>
+<p align="center">
+  <img src="images/Reasoning.png" alt="Reasoning Example">
+</p>
+<br>
+
 
 ## Arquitectura personalizada
 Este proyecto implementa una arquitectura **100% Custom Python** diseñada específicamente para batallas en tiempo real, evitando el overhead de frameworks genéricos como LangChain o AutoGen.
