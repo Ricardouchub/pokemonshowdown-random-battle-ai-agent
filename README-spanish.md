@@ -27,10 +27,21 @@ Además, el agente posee capacidades de **auto-aprendizaje**: es capaz de adapta
 *   **Observabilidad**: Dashboard web completo para visualizar el "proceso de pensamiento" del agente turno a turno.
 *   **Modular**: Diseño desacoplado (Connector ↔ State ↔ Policy) que facilita la experimentación con nuevos modelos o reglas.
 
-### Arquitectura Híbrida
-El agente opera bajo un sistema de **"Doble Sistema Cognitivo"**:
-1.  **Fast System (Baseline)**: Un motor determinista basado en **Minimax (Lookahead 1-ply)** y heurísticas de evaluación de daño/riesgo. Garantiza decisiones seguras y legales en milisegundos.
-2.  **Slow System (LLM Policy)**: Un modelo en el loop que analiza el estado complejo del tablero, infiere sets del oponente y sugiere estrategias de alto nivel (Chain of Thought).
+### Arquitectura Híbrida y Algoritmo
+El agente opera bajo un **"Sistema Cognitivo Dual"**:
+
+1.  **Fast System (Minimax 1-Ply)**:
+    *   **El Motor**: Una `LookaheadPolicy` determinista que evalúa todos los movimientos legales.
+    *   **La Matemática**: Calcula `Puntuación = Beneficio - Riesgo`.
+        *   *Beneficio*: Daño inmediato infligido o ventaja de posición.
+        *   *Riesgo*: El daño máximo que el rival podría devolver en su turno.
+    *   **Incertidumbre**: Como los sets rivales son ocultos, *asume el peor caso*: calcula el riesgo asumiendo que el rival tiene un ataque fuerte de su mismo tipo (STAB) aunque no se haya revelado aún.
+
+2.  **Slow System (Estrategia LLM)**:
+    *   **El Cerebro**: Las mejores acciones del Minimax se envían al LLM.
+    *   **Contexto**: El LLM recibe el estado completo, historial y las sugerencias del Minimax.
+    *   **Razonamiento**: Aplica estrategia de alto nivel (win conditions, sacrificios, momentum) vía **Chain of Thought**.
+    *   **Veto de Seguridad**: Si el LLM propone una acción peligrosa (ej: un bucle infinito de cambios detectado por el `Evaluator`), el sistema ejecuta un **Veto Duro** y fuerza el movimiento más seguro del Minimax.
 
 ### Chain of Thought (Razonamiento)
 El agente no solo elige movimientos, **piensa**. El prompt de sistema incluye reglas estratégicas críticas ("CRITICAL STRATEGIC RULES") como:
