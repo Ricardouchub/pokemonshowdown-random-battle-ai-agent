@@ -77,17 +77,22 @@ class Evaluator:
             switch_depth = self._detect_consecutive_switches(state)
             opp_switched = self._opp_switched_last_turn(state)
             
-            # Base penalty for switching (loss of tempo)
+            # Base penalty for switching (loss of tempo is always a cost)
             penalty = 0.3
             
-            # Progressive penalty for consecutive switches
-            penalty += switch_depth * 2.0
-            
-            # CRITICAL: If we just switched and opponent stayed, FORBID switching again
-            # unless forced (which usually means current active is dead, but this evaluator
-            # runs for active choices).
-            if switch_depth >= 1 and not opp_switched:
-                penalty += 5.0
+            if opp_switched:
+                # If opponent switched, we are reacting to a new threat.
+                # Reset penalties. We allow multiple switches if they are reaction chains.
+                pass
+            else:
+                # Opponent stayed. We must justify switching.
+                # Progressive penalty for switching repeatedly against a static opponent.
+                penalty += switch_depth * 2.0
+                
+                # CRITICAL: If we switched and opponent stayed, FORBID switching again.
+                # This breaks the "I switch, you stay, I switch back" infinite loop.
+                if switch_depth >= 1:
+                    penalty += 5.0
                 
             return -penalty
         if action.startswith("move:"):

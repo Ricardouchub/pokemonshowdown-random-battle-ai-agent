@@ -50,6 +50,8 @@ class LLMPolicy:
         reason = llm_response.get("reason", "")
         chain_of_thought = llm_response.get("chain_of_thought", "")
         knowledge_updates = llm_response.get("knowledge_updates", [])
+        
+        # Validation Logic
         if not chosen or chosen not in legal:
             logger.warning(
                 "llm_invalid_action",
@@ -57,6 +59,30 @@ class LLMPolicy:
                 legal=legal,
             )
             chosen = ordered_baseline[0]
+        else:
+            # SAFETY CHECK: "Hard Veto" for actions deemed catastrophic by Evaluator
+            # (e.g., Infinite Switching Loops with score -5.0)
+            # Find the score of the chosen action in baseline insights
+            chosen_score = -999.0
+            for insight in insights_baseline:
+                if insight.action == chosen:
+                    chosen_score = insight.score
+                    break
+            
+            # Threshold: -4.0 is the "Guillotine" threshold set in Evaluator for loops
+            if chosen_score < -4.0:
+                logger.warning(
+                    "llm_action_vetoed",
+                    action=chosen,
+                    score=chosen_score,
+                    reason="Action vetoed by Hard Guardrail (Anti-Loop/Suicide)",
+                    fallback=ordered_baseline[0]
+                )
+                # Override with the best safe action
+                chosen = ordered_baseline[0]
+                # Update reasoning to reflect the override
+                reason = f"[VETOED] LLM wanted {llm_response.get('action')} but it was unsafe (Score {chosen_score}). Forced safest option."
+                chain_of_thought += f"\n\n[SYSTEM OVERRIDE] Proposed action '{llm_response.get('action')}' was vetoed due to Loop Detection (Score {chosen_score}). Executing fallback."
 
         insights: List[ActionInsight] = [
             ActionInsight(
