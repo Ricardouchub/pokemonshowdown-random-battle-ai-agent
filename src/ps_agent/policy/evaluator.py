@@ -97,10 +97,45 @@ class Evaluator:
             return -penalty
         if action.startswith("move:"):
             move_name = action.split(":", 1)[1]
-            # Heuristic: Penalize status moves if opponent already has a status
             move = self.knowledge.moves.get(move_name.lower()) or self.knowledge.moves.get(move_name)
-            if move and move.is_status and opp_poke.status:
-                return -0.5  # Strong penalty for redundant status
+            
+            if not move:
+                return 0.0
+
+            # 1. Status Move Spam Penalty
+            if move.category == "Status" and move.is_status and opp_poke.status:
+                return -0.8  # Strong penalty for redundant status (e.g. Will-O-Wisp on burned foe)
+
+            # 2. Setup Move Spam/Risk Penalty
+            # keywords: "boosts", "raise", "stages" in description, or check explicit boost table if available
+            # Simplified heuristic: check if move is known to be a setup move via name/category or hardcoded list
+            # We assume 'move.category' might be 'Status'. We can check move name against common setup moves.
+            setup_moves = {
+                "swordsdance", "dragondance", "calmmind", "nastyplot", "shellsmash", "quiverdance",
+                "bulkup", "coil", "curse", "honeclaws", "growth", "workup", "shiftgear"
+            }
+            if to_id(move_name) in setup_moves:
+                # Check current boosts
+                # We need to know which stat it boosts to be precise, but as a general heuristic:
+                # If ANY offensive stat is already high (+2 or more), penalize further boosting.
+                # Or if HP is low.
+                
+                # Check HP Safety
+                if self_poke.hp_fraction < 0.6:
+                    # Low HP setup is suicidal -> Catastrophic penalty to trigger Veto
+                    return -5.0  
+                
+                # Check existing boosts
+                current_boosts = self_poke.boosts
+                relevant_stats = ["atk", "spa", "spe"]
+                offensive_boosts = sum(current_boosts.get(s, 0) for s in relevant_stats)
+                
+                if offensive_boosts >= 2:
+                    # Greedy setup -> Catastrophic penalty to trigger Veto
+                    return -5.0 
+                
+                # Check if opponent is threatening lethal damage (Lookahead would handle this via risk, 
+                # but we can add a penalty here too if we want to be safe)
             
             damage = self.estimate_damage(state, self_poke, opp_poke, move_name)
             return damage
