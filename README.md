@@ -34,10 +34,21 @@ Additionally, the agent possesses **self-learning** capabilities: it is able to 
 *   **Observability**: Full web dashboard to visualize the agent's "thought process" turn by turn.
 *   **Modular**: Decoupled design (Connector ↔ State ↔ Policy) that facilitates experimentation with new models or rules.
 
-### Hybrid Architecture
+### Hybrid Architecture & Algorithm
 The agent operates under a **"Dual Cognitive System"**:
-1.  **Fast System (Baseline)**: A deterministic engine based on **Minimax (Lookahead 1-ply)** and damage/risk evaluation heuristics. It ensures safe and legal decisions in milliseconds.
-2.  **Slow System (LLM Policy)**: A model in the loop that analyzes the complex board state, infers opponent sets, and suggests high-level strategies (Chain of Thought).
+
+1.  **Fast System (Minimax 1-Ply)**:
+    *   **The Engine**: A deterministic `LookaheadPolicy` that evaluates all legal moves.
+    *   **The Math**: It calculates `Score = Benefit - Risk`.
+        *   *Benefit*: Immediate damage dealt or positional advantage.
+        *   *Risk*: The maximum damage the opponent could deal in return.
+    *   **Uncertainty Handling**: Since opponent sets are hidden, it *assumes the worst case*: it calculates risk assuming the opponent has a strong STAB move (Same Type Attack Bonus) implies they likely have a matching attack, even if not yet revealed.
+
+2.  **Slow System (LLM Strategy)**:
+    *   **The Brain**: The top actions from Minimax are fed into the LLM.
+    *   **Context**: The LLM receives the full battle state, history, and Minimax suggestions.
+    *   **Reasoning**: It applies high-level strategy (identifying win conditions, sacrifice plays, momentum) via the **Chain of Thought**.
+    *   **Safety Veto**: If the LLM proposes a dangerous action (e.g., an infinite switch loop detected by the heuristic `Evaluator`), the system performs a **Hard Veto** and forces the safest Minimax move.
 
 ### Chain of Thought (Reasoning)
 The agent doesn't just choose moves, it **thinks**. The system prompt includes "CRITICAL STRATEGIC RULES" such as:
