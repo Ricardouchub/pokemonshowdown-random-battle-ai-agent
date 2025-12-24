@@ -26,7 +26,10 @@ def test_llm_policy_chain_of_thought():
     mock_baseline.choose_action.return_value = (
         "move:tackle", 
         ["move:tackle", "move:ember"], 
-        [ActionInsight(action="move:tackle", score=0.5, breakdown={})]
+        [
+            ActionInsight(action="move:tackle", score=0.5, breakdown={}),
+            ActionInsight(action="move:ember", score=0.4, breakdown={})
+        ]
     )
 
     policy = LLMPolicy(llm=mock_llm, baseline=mock_baseline)
@@ -55,7 +58,11 @@ def test_llm_policy_markdown_stripping():
     
     mock_baseline = MagicMock()
     mock_baseline.choose_action.return_value = (
-        "move:tackle", ["move:tackle"], [ActionInsight(action="move:tackle", score=0.5, breakdown={})]
+        "move:tackle", ["move:tackle"], 
+        [
+            ActionInsight(action="move:tackle", score=0.5, breakdown={}),
+            ActionInsight(action="move:ember", score=0.4, breakdown={})
+        ]
     )
 
     policy = LLMPolicy(llm=mock_llm, baseline=mock_baseline)
