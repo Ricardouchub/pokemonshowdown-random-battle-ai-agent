@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 from typing import Iterable, List, Optional, Tuple
 
-from ps_agent.llm.deepseek_client import DeepseekClient
+from ps_agent.llm.llm_client import LLMClient
 from ps_agent.knowledge.feedback import KnowledgeFeedbackStore
 from ps_agent.policy.baseline_rules import ActionInsight, BaselinePolicy
 from ps_agent.policy.evaluator import Evaluator
@@ -15,15 +15,15 @@ logger = get_logger(__name__)
 
 
 class LLMPolicy:
-    """Policy that queries Deepseek in real time for reasoning and knowledge updates."""
+    """Policy that queries an LLM in real time for reasoning and knowledge updates."""
 
     def __init__(
         self,
-        llm: DeepseekClient | None = None,
+        llm: LLMClient | None = None,
         baseline: BaselinePolicy | None = None,
         feedback_store: KnowledgeFeedbackStore | None = None,
     ) -> None:
-        self.llm = llm or DeepseekClient()
+        self.llm = llm or LLMClient()
         # Use LookaheadPolicy as the default internal advisor if no baseline provided
         if baseline is None:
             from ps_agent.policy.lookahead import LookaheadPolicy

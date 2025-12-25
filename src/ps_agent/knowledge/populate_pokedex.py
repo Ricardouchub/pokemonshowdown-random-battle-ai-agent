@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import List, Dict
 
 import requests
-from ps_agent.llm.deepseek_client import DeepseekClient
+from ps_agent.llm.llm_client import LLMClient
 from ps_agent.utils.format import to_id
 from ps_agent.utils.logger import get_logger
 
@@ -61,7 +61,7 @@ def fetch_pokemon_data(species: str) -> Dict | None:
     return None
 
 def get_target_list_from_llm(count: int) -> List[str]:
-    client = DeepseekClient()
+    client = LLMClient()
     prompt = f"""
     List the top {count} most common or dangerous Pokemon in Gen 9 Random Battles.
     Return ONLY a JSON list of strings, e.g. ["Pikachu", "Charizard"].

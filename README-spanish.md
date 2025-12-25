@@ -69,7 +69,12 @@ Este proyecto implementa una arquitectura **100% Custom Python** diseñada espec
 - Python 3.11+
 - [uv](https://github.com/astral-sh/uv)
 - Pokemon Showdown Servidor Local: [Guía de Instalación](https://github.com/smogon/pokemon-showdown/blob/master/server/README.md)
-- Opcional: `DEEPSEEK_API_KEY` en `.env`, o cambiarlo por cualquier otro LLM.
+- **Configuración del LLM**: El agente es **Agnóstico al Modelo de LLM**.
+    - **Deepseek**: Configura `DEEPSEEK_API_KEY` o `LLM_API_KEY` en `.env`.
+    - **OpenAI / Local LLMs**:
+        - `LLM_API_KEY`: Tu clave API.
+        - `LLM_BASE_URL`: Endpoint (ej. `http://localhost:11434/v1/chat/completions` para Ollama).
+        - `LLM_MODEL`: Nombre del modelo (ej. `gpt-4o`, `llama3`).
 
 ## Setup rapido
 ```bash
